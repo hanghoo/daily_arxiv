@@ -9,8 +9,8 @@ on:
       - main
 env:
 
-  GITHUB_NAME: zhuwenxing
-  GITHUB_EMAIL: wenxing.zhu@qq.com
+  GITHUB_NAME: hanghoo
+  GITHUB_EMAIL: 442869088@qq.com
 
 
 jobs:
