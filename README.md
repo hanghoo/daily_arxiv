@@ -2,6 +2,7 @@
 |paper|code|
 |---|---|
 |[label-aware ranked loss for robust people counting using automotive in-cabin radar](https://arxiv.org/abs/2110.05876)|[labelawareranked-loss](https://github.com/2geeks2/labelawareranked-loss)|
+|[deepmtl pro: deep learning based multipletransmitter localization and power estimation](https://arxiv.org/abs/2112.13181)|[deeplearning-localization](https://github.com/caitaozhan/deeplearning-localization)|
 ## 2022-03-03
 |paper|code|
 |---|---|
@@ -26,6 +27,7 @@
 |[admm-dad net: a deep unfolding network for analysis compressed sensing](https://arxiv.org/abs/2110.06986)|[ADMM-DAD](https://github.com/vicky-k-19/ADMM-DAD)|
 |[sparsity-aware neural user behavior modeling in online interaction platforms](https://arxiv.org/abs/2202.13491)|[Inf-VAE](https://github.com/aravindsankar28/Inf-VAE)|
 |[kl divergence estimation with multi-group attribution](https://arxiv.org/abs/2202.13576)|[multigroup-kl](https://github.com/vatsalsharan/multigroup-kl)|
+|[monkey business: reinforcement learning meets neighborhood search for virtual network embedding](https://arxiv.org/abs/2202.13706)|[vne](https://github.com/melkael/vne)|
 ## 2022-02-28
 |paper|code|
 |---|---|
