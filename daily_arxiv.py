@@ -107,7 +107,7 @@ if __name__ == "__main__":
         day = str(DateToday + timedelta(-i))
         # you can add the categories in cats
         cats = {
-        "eess":["eess.SP"],
+        "eess":["eess.SP", "eess.SY"],
         "cs":["cs.IT", "cs.NI"]
     }
         data = get_daily_code(day,cats)
