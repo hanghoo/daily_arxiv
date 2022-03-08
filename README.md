@@ -1,21 +1,45 @@
+## 2022-03-07
+|paper|code|
+|---|---|
+|[relay-assisted cooperative federated learning](https://arxiv.org/abs/2107.09518)|[relay-fl](https://github.com/zhlinup/relay-fl)|
+|[two-dimensional structure functions to characterize convective rolls in the marine atmospheric boundary layer from sentinel-1 sar images](https://arxiv.org/abs/2202.08538)|[2d-structure-functions](https://github.com/cgranerob/2d-structure-functions)|
+|[beats: an open-source, high-precision, multi-channel eeg acquisition tool system](https://arxiv.org/abs/2203.02102)|[beats](https://github.com/bingzant/beats)|
+|[exploring scalable, distributed real-time anomaly detection for bridge health monitoring](https://arxiv.org/abs/2203.02380)|[real_time_bhm](https://github.com/miirho3ein/real_time_bhm)|
+|[towards optimally efficient search with deep learning for large-scale mimo systems](https://arxiv.org/abs/2101.02420)|[hats](https://github.com/skypitcher/hats)|
+|[a flow-based ids using machine learning in ebpf](https://arxiv.org/abs/2102.09980)|[machine-learning-in-ebpf](https://github.com/CN-TU/machine-learning-in-ebpf)|
+|[dynamic link network emulation: a model-based design](https://arxiv.org/abs/2107.07217)|[DLinkEm](https://github.com/ptrsen/DLinkEm)|
+|[a unified spatially coupled code design: threshold, cycles, and locality](https://arxiv.org/abs/2203.02052)|[unified_sc_ldpcl](https://github.com/hesfahanizadeh/unified_sc_ldpcl)|
+|[programmable optical data transmission through multimode fibres enabling confidentiality by physical layer security](https://arxiv.org/abs/2203.02064)|[mmf-physec](https://github.com/klb2/mmf-physec)|
 ## 2022-03-04
 |paper|code|
 |---|---|
+|[federated learning for internet of things: a federated learning framework for on-device anomaly data detection](https://arxiv.org/abs/2106.07976)|[FedIoT](https://github.com/FedML-AI/FedIoT)|
 |[label-aware ranked loss for robust people counting using automotive in-cabin radar](https://arxiv.org/abs/2110.05876)|[labelawareranked-loss](https://github.com/2geeks2/labelawareranked-loss)|
+|[detection of stealthy adversaries for networked unmanned aerial vehicles](https://arxiv.org/abs/2202.09661)|[telloswarm](https://github.com/saslabstevens/telloswarm)|
+|[graph-based multi-sensor fusion for consistent localization of autonomous construction robots](https://arxiv.org/abs/2203.01389)|[gmfcl](https://github.com/leggedrobotics/gmfcl)|
 |[deepmtl pro: deep learning based multipletransmitter localization and power estimation](https://arxiv.org/abs/2112.13181)|[deeplearning-localization](https://github.com/caitaozhan/deeplearning-localization)|
 ## 2022-03-03
 |paper|code|
 |---|---|
+|[back to the future: efficient, time-consistent solutions in reach-avoid games](https://arxiv.org/abs/2109.07673)|[reach-avoid-games](https://github.com/saferoboticslab/reach-avoid-games)|
 |[leveraging power grid topology in machine learning assisted optimal power flow](https://arxiv.org/abs/2110.00306)|[MLOPF.jl](https://github.com/tdfalc/MLOPF.jl)|
 |[a fast and scalable polyatomic frank-wolfe algorithm for the lasso](https://arxiv.org/abs/2112.02890)|[PolyatomicFW_SPL](https://github.com/AdriaJ/PolyatomicFW_SPL)|
-|[transformers in time series: a survey](https://arxiv.org/abs/2202.07125)|[time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)|
+|[concurrent training of a control policy and a state estimator for dynamic and robust legged locomotion](https://arxiv.org/abs/2202.05481)|[cheetah-software](https://github.com/karlji1021/cheetah-software)|
 |[signal decomposition using masked proximal operators](https://arxiv.org/abs/2202.09338)|[signal-decomposition](https://github.com/cvxgrp/signal-decomposition)|
+|[distributed and localized model predictive control. part ii: theoretical guarantees](https://arxiv.org/abs/2203.00780)|[dl-mpc-sls](https://github.com/unstable-zeros/dl-mpc-sls)|
+|[connecting gaits in energetically conservative legged systems](https://arxiv.org/abs/2203.00782)|[connectinggaitsinenergeticallyconservativeleggedsystems](https://github.com/raffmax/connectinggaitsinenergeticallyconservativeleggedsystems)|
 |[sketched rt3d: how to reconstruct billions of photons per second](https://arxiv.org/abs/2203.00952)|[real-time-sp-lidar](https://gitlab.com/tachella/real-time-sp-lidar)|
+|[unfreezing social navigation: dynamical systems based compliance for contact control in robot navigation](https://arxiv.org/abs/2203.01053)|[sliding-ds-control](https://github.com/epfl-lasa/sliding-ds-control)|
+|[andes_gym: a versatile environment for deep reinforcement learning in power systems](https://arxiv.org/abs/2203.01292)|[andes_gym](https://github.com/sensl/andes_gym)|
 ## 2022-03-02
 |paper|code|
 |---|---|
 |[two-dimensional multi-target detection: an autocorrelation analysis approach](https://arxiv.org/abs/2105.06765)|[MTD-2D](https://github.com/krshay/MTD-2D)|
+|[a framework for real-world multi-robot systems running decentralized gnn-based policies](https://arxiv.org/abs/2111.01777)|[ros2_multi_agent_passage](https://github.com/proroklab/ros2_multi_agent_passage)|
+|[proxying ros communications -- enabling containerized ros deployments in distributed multi-host environments](https://arxiv.org/abs/2201.01613)|[rosproxy](https://github.com/bitmeal/rosproxy)|
+|[online gradient descent for flexible power point tracking under a highly fluctuating weather and load](https://arxiv.org/abs/2203.00197)|[online_gradient_descent_fppt](https://github.com/muhi-zatar/online_gradient_descent_fppt)|
 |[phycom: a multi-layer parametric network for joint linear impairments compensation and symbol detection](https://arxiv.org/abs/2203.00266)|[PhyCOM](https://github.com/vincentchoqueuse/PhyCOM)|
+|[safe control with minimal regret](https://arxiv.org/abs/2203.00358)|[safeminregret](https://github.com/decodepfl/safeminregret)|
 |[tcmi: a non-parametric mutual-dependence estimator for multivariate continuous distributions](https://arxiv.org/abs/2001.11212)|[tcmi](https://github.com/BenjaminRegler/tcmi)|
 ## 2022-03-01
 |paper|code|
