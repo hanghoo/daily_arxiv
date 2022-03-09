@@ -1,3 +1,18 @@
+## 2022-03-08
+|paper|code|
+|---|---|
+|[biologically plausible single-layer networks for nonnegative independent component analysis](https://arxiv.org/abs/2010.12632)|[bio-nica](https://github.com/flatironinstitute/bio-nica)|
+|[improved rates for prediction and identification of partially observed linear dynamical systems](https://arxiv.org/abs/2011.10006)|[hankel-svd](https://github.com/holdenlee/hankel-svd)|
+|[decentralized beamforming for cell-free massive mimo with unsupervised learning](https://arxiv.org/abs/2106.16194)|[CF-mMIMO-HBF](https://github.com/HamedHojatian/CF-mMIMO-HBF)|
+|[safety-critical control and planning for obstacle avoidance between polytopes with control barrier functions](https://arxiv.org/abs/2109.12313)|[cbf](https://github.com/hybridrobotics/cbf)|
+|[predicting flat-fading channels via meta-learned closed-form linear filters and equilibrium propagation](https://arxiv.org/abs/2110.00414)|[scalar-channel-meta-prediction](https://github.com/kclip/scalar-channel-meta-prediction)|
+|[unrolling palm for sparse semi-blind source separation](https://arxiv.org/abs/2112.05694)|[lpalm](https://github.com/mfahes/lpalm)|
+|[early stopping for deep image prior](https://arxiv.org/abs/2112.06074)|[early_stopping_for_dip](https://github.com/sun-umn/early_stopping_for_dip)|
+|[transformers in time series: a survey](https://arxiv.org/abs/2202.07125)|[time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)|
+|[swarmus: an open hardware and software on-board platform for swarm robotics development](https://arxiv.org/abs/2203.02643)|[HiveMind](https://github.com/SwarmUS/HiveMind)|
+|[non-gaussian risk bounded trajectory optimization for stochastic nonlinear systems in uncertain environments](https://arxiv.org/abs/2203.03038)|[non-gaussian_risk-bounded_trajopt](https://github.com/jasour/non-gaussian_risk-bounded_trajopt)|
+|[hrtf measurement for accurate identification of binaural sound localization cues](https://arxiv.org/abs/2203.03166)|[hrtf-construction](https://github.com/hansaram80/hrtf-construction)|
+|[secure and authorized client-to-client communication for lwm2m](https://arxiv.org/abs/2203.03450)|[ipsn-2022-lwm2mc2c](https://github.com/inetrg/ipsn-2022-lwm2mc2c)|
 ## 2022-03-07
 |paper|code|
 |---|---|
