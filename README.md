@@ -1,3 +1,8 @@
+## 2022-03-10
+|paper|code|
+|---|---|
+|[on generative models as the basis for digital twins](https://arxiv.org/abs/2203.04384)|[cgans_dt](https://github.com/giorgtsial/cgans_dt)|
+|[the cross-evaluation of machine learning-based network intrusion detection systems](https://arxiv.org/abs/2203.04686)|[xenids](https://github.com/pajola/xenids)|
 ## 2022-03-09
 |paper|code|
 |---|---|
@@ -29,7 +34,6 @@
 |[relay-assisted cooperative federated learning](https://arxiv.org/abs/2107.09518)|[relay-fl](https://github.com/zhlinup/relay-fl)|
 |[two-dimensional structure functions to characterize convective rolls in the marine atmospheric boundary layer from sentinel-1 sar images](https://arxiv.org/abs/2202.08538)|[2d-structure-functions](https://github.com/cgranerob/2d-structure-functions)|
 |[beats: an open-source, high-precision, multi-channel eeg acquisition tool system](https://arxiv.org/abs/2203.02102)|[beats](https://github.com/bingzant/beats)|
-|[exploring scalable, distributed real-time anomaly detection for bridge health monitoring](https://arxiv.org/abs/2203.02380)|[real_time_bhm](https://github.com/miirho3ein/real_time_bhm)|
 |[towards optimally efficient search with deep learning for large-scale mimo systems](https://arxiv.org/abs/2101.02420)|[hats](https://github.com/skypitcher/hats)|
 |[a flow-based ids using machine learning in ebpf](https://arxiv.org/abs/2102.09980)|[machine-learning-in-ebpf](https://github.com/CN-TU/machine-learning-in-ebpf)|
 |[dynamic link network emulation: a model-based design](https://arxiv.org/abs/2107.07217)|[DLinkEm](https://github.com/ptrsen/DLinkEm)|
