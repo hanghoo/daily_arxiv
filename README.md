@@ -1,3 +1,10 @@
+## 2022-03-14
+|paper|code|
+|---|---|
+|[kalmannet: neural network aided kalman filtering for partially known dynamics](https://arxiv.org/abs/2107.10043)|[KalmanNet_TSP](https://github.com/KalmanNet/KalmanNet_TSP)|
+|[learning barrier certificates: towards safe reinforcement learning with zero training-time violations](https://arxiv.org/abs/2108.01846)|[crabs](https://github.com/roosephu/crabs)|
+|[cvar-based safety analysis in the infinite time horizon setting](https://arxiv.org/abs/2108.06776)|[RSSAVSA-Infinite-Horizon](https://github.com/mifauss/RSSAVSA-Infinite-Horizon)|
+|[nearest neighbor density functional estimation from inverse laplace transform](https://arxiv.org/abs/1805.08342)|[knn-functional-estimation](https://github.com/jongharyu/knn-functional-estimation)|
 ## 2022-03-11
 |paper|code|
 |---|---|
