@@ -1,3 +1,16 @@
+## 2022-03-15
+|paper|code|
+|---|---|
+|[self-supervised graph neural networks for improved electroencephalographic seizure analysis](https://arxiv.org/abs/2104.08336)|[eeg-gnn-ssl](https://github.com/tsy935/eeg-gnn-ssl)|
+|[efficient stochastic optimal control through approximate bayesian input inference](https://arxiv.org/abs/2105.07693)|[input-inference-for-control](https://github.com/JoeMWatson/input-inference-for-control)|
+|[neural architecture search for spiking neural networks](https://arxiv.org/abs/2201.10355)|[neural-architecture-search-for-spiking-neural-networks](https://github.com/intelligent-computing-lab-yale/neural-architecture-search-for-spiking-neural-networks)|
+|[temporal robustness of stochastic signals](https://arxiv.org/abs/2202.02583)|[temporal-robustness-risk](https://github.com/temporalrobrisk/temporal-robustness-risk)|
+|[learning from humans: combining imitation and deep reinforcement learning to accomplish human-level performance on a virtual foraging task](https://arxiv.org/abs/2203.06250)|[Learning-from-humans-combining-imitation-and-deep-on-policy-reinforcement-learning-to-accomplish-su](https://github.com/VittorioGiammarino/Learning-from-humans-combining-imitation-and-deep-on-policy-reinforcement-learning-to-accomplish-su)|
+|[socks: a stochastic optimal control and reachability toolbox using kernel methods](https://arxiv.org/abs/2203.06290)|[socks](https://github.com/ajthor/socks)|
+|[modelling non-smooth signals with complex spectral structure](https://arxiv.org/abs/2203.06997)|[gpcm](https://github.com/wesselb/gpcm)|
+|[a novel approach to the partial information decomposition](https://arxiv.org/abs/1908.08642)|[redundancy](https://github.com/artemyk/redundancy)|
+|[flextoe: flexible tcp offload with fine-grained parallelism](https://arxiv.org/abs/2110.10919)|[FlexTOE](https://github.com/tcp-acceleration-service/FlexTOE)|
+|[stateless or stateful faas? i'll take both!](https://arxiv.org/abs/2203.06385)|[serverlessonedge](https://github.com/ccicconetti/serverlessonedge)|
 ## 2022-03-14
 |paper|code|
 |---|---|
