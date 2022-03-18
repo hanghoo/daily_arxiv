@@ -1,3 +1,11 @@
+## 2022-03-17
+|paper|code|
+|---|---|
+|[neural identification for control](https://arxiv.org/abs/2009.11782)|[NI4C](https://github.com/sahapriyabrata/NI4C)|
+|[robust equivariant imaging: a fully unsupervised framework for learning to image from noisy and partial measurements](https://arxiv.org/abs/2111.12855)|[rei](https://github.com/edongdongchen/rei)|
+|[an error-state model predictive control on connected matrix lie groups for legged robot control](https://arxiv.org/abs/2203.08728)|[error-state-mpc](https://github.com/umich-curly/error-state-mpc)|
+|[large-scale intelligent microservices](https://arxiv.org/abs/2009.08044)|[mmlspark](https://github.com/Azure/mmlspark)|
+|[lossless compression with probabilistic circuits](https://arxiv.org/abs/2111.11632)|[pressedjuice.jl](https://github.com/juice-jl/pressedjuice.jl)|
 ## 2022-03-16
 |paper|code|
 |---|---|
@@ -18,7 +26,6 @@
 |[efficient stochastic optimal control through approximate bayesian input inference](https://arxiv.org/abs/2105.07693)|[input-inference-for-control](https://github.com/JoeMWatson/input-inference-for-control)|
 |[neural architecture search for spiking neural networks](https://arxiv.org/abs/2201.10355)|[neural-architecture-search-for-spiking-neural-networks](https://github.com/intelligent-computing-lab-yale/neural-architecture-search-for-spiking-neural-networks)|
 |[temporal robustness of stochastic signals](https://arxiv.org/abs/2202.02583)|[temporal-robustness-risk](https://github.com/temporalrobrisk/temporal-robustness-risk)|
-|[learning from humans: combining imitation and deep reinforcement learning to accomplish human-level performance on a virtual foraging task](https://arxiv.org/abs/2203.06250)|[Learning-from-humans-combining-imitation-and-deep-on-policy-reinforcement-learning-to-accomplish-su](https://github.com/VittorioGiammarino/Learning-from-humans-combining-imitation-and-deep-on-policy-reinforcement-learning-to-accomplish-su)|
 |[socks: a stochastic optimal control and reachability toolbox using kernel methods](https://arxiv.org/abs/2203.06290)|[socks](https://github.com/ajthor/socks)|
 |[modelling non-smooth signals with complex spectral structure](https://arxiv.org/abs/2203.06997)|[gpcm](https://github.com/wesselb/gpcm)|
 |[a novel approach to the partial information decomposition](https://arxiv.org/abs/1908.08642)|[redundancy](https://github.com/artemyk/redundancy)|
