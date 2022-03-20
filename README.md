@@ -5,6 +5,7 @@
 |[fast approximate dynamic programming for infinite-horizon markov decision processes](https://arxiv.org/abs/2102.08880)|[ConjVI](https://github.com/AminKolarijani/ConjVI)|
 |[enhancement of a state-of-the-art rl-based detection algorithm for massive mimo radars](https://arxiv.org/abs/2112.02628)|[improved_rl_algorithm_mmimo_radar](https://github.com/lisifra96/improved_rl_algorithm_mmimo_radar)|
 |[learning from humans: combining imitation and deep reinforcement learning to accomplish human-level performance on a virtual foraging task](https://arxiv.org/abs/2203.06250)|[Learning-from-humans-combining-imitation-and-deep-on-policy-reinforcement-learning-to-accomplish-su](https://github.com/VittorioGiammarino/Learning-from-humans-combining-imitation-and-deep-on-policy-reinforcement-learning-to-accomplish-su)|
+|[smartmbot: a ros2-based low-cost and open-source mobile robot platform](https://arxiv.org/abs/2203.08903)|[smartmbot](https://github.com/smartlab-purdue/smartmbot)|
 |[koopman-based differentiable predictive control for the dynamics-aware economic dispatch problem](https://arxiv.org/abs/2203.08984)|[neuromancer](https://github.com/pnnl/neuromancer)|
 |[false negative awareness in indicator-based caching systems](https://arxiv.org/abs/2203.09119)|[Access_strategies_with_staleness](https://github.com/ofanan/Access_strategies_with_staleness)|
 ## 2022-03-17
