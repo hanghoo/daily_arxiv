@@ -1,3 +1,14 @@
+## 2022-03-22
+|paper|code|
+|---|---|
+|[phase collapse in neural networks](https://arxiv.org/abs/2110.05283)|[phasecollapse](https://github.com/florentinguth/phasecollapse)|
+|[neural capacity estimators: how reliable are they?](https://arxiv.org/abs/2111.07401)|[nce_icc-2022](https://github.com/farhad-mrkm/nce_icc-2022)|
+|[linear variational state-space filtering](https://arxiv.org/abs/2201.01353)|[variational_state_space_models](https://github.com/pfrommerd/variational_state_space_models)|
+|[raregan: generating samples for rare classes](https://arxiv.org/abs/2203.10674)|[raregan](https://github.com/fjxmlzn/raregan)|
+|[graph neural networks for wireless communications: from theory to practice](https://arxiv.org/abs/2203.10800)|[gnn4com](https://github.com/yshenaw/gnn4com)|
+|[learning resilient radio resource management policies with graph neural networks](https://arxiv.org/abs/2203.11012)|[Resilient_RRM_GNN](https://github.com/navid-naderi/Resilient_RRM_GNN)|
+|[towards optimally efficient search with deep learning for large-scale mimo systems](https://arxiv.org/abs/2101.02420)|[hats](https://github.com/skypitcher/hats)|
+|[on the power of false negative awareness in indicator-based caching systems](https://arxiv.org/abs/2102.01724)|[Access_strategies_with_staleness](https://github.com/ofanan/Access_strategies_with_staleness)|
 ## 2022-03-21
 |paper|code|
 |---|---|
