@@ -1,10 +1,26 @@
+## 2022-03-23
+|paper|code|
+|---|---|
+|[signal2image modules in deep neural networks for eeg classification](https://arxiv.org/abs/1904.13216)|[signal2image-modules-in-deep-neural-networks-for-eeg-classification](https://github.com/pbizopoulos/signal2image-modules-in-deep-neural-networks-for-eeg-classification)|
+|[invertibility conditions for the admittance matrices of balanced power systems](https://arxiv.org/abs/2012.04087)|[ybus-inv-check](https://github.com/djturizo/ybus-inv-check)|
+|[robust model predictive control with polytopic model uncertainty through system level synthesis](https://arxiv.org/abs/2203.11375)|[lumped-uncertainty-sls-mpc](https://github.com/shaoruchen/lumped-uncertainty-sls-mpc)|
+|[rt-bench: an extensible benchmark framework for the analysis and management of real-time applications](https://arxiv.org/abs/2203.11423)|[rt-bench](https://gitlab.com/bastoni/rt-bench)|
+|[continuous optimization for control of hybrid systems with hysteresis via time-freezing](https://arxiv.org/abs/2203.11510)|[nosnoc](https://github.com/nurkanovic/nosnoc)|
+|[nos-noc: a software package for numerical optimal control of nonsmooth systems](https://arxiv.org/abs/2203.11516)|[nosnoc](https://github.com/nurkanovic/nosnoc)|
+|[neural system level synthesis: learning over all stabilizing policies for nonlinear systems](https://arxiv.org/abs/2203.11812)|[neursls](https://github.com/decodepfl/neursls)|
+|[deepmtl pro: deep learning based multipletransmitter localization and power estimation](https://arxiv.org/abs/2112.13181)|[deeplearning-localization](https://github.com/caitaozhan/deeplearning-localization)|
+|[sionna: an open-source library for next-generation physical layer research](https://arxiv.org/abs/2203.11854)|[sionna](https://github.com/nvlabs/sionna)|
 ## 2022-03-22
 |paper|code|
 |---|---|
 |[phase collapse in neural networks](https://arxiv.org/abs/2110.05283)|[phasecollapse](https://github.com/florentinguth/phasecollapse)|
 |[neural capacity estimators: how reliable are they?](https://arxiv.org/abs/2111.07401)|[nce_icc-2022](https://github.com/farhad-mrkm/nce_icc-2022)|
 |[linear variational state-space filtering](https://arxiv.org/abs/2201.01353)|[variational_state_space_models](https://github.com/pfrommerd/variational_state_space_models)|
+|[efficient doa estimation method for reconfigurable intelligent surfaces aided uav swarm](https://arxiv.org/abs/2203.10219)|[adpp](https://github.com/chenpengseu/adpp)|
+|[sdoanet: an efficient deep learning-based doa estimation network for imperfect array](https://arxiv.org/abs/2203.10231)|[sdoanet](https://github.com/chenpengseu/sdoanet)|
+|[deep-lcc: data-enabled predictive leading cruise control in mixed traffic flow](https://arxiv.org/abs/2203.10639)|[deep-lcc](https://github.com/soc-ucsd/deep-lcc)|
 |[raregan: generating samples for rare classes](https://arxiv.org/abs/2203.10674)|[raregan](https://github.com/fjxmlzn/raregan)|
+|[intelligent control of a single-link flexible manipulator using sliding modes and artificial neural networks](https://arxiv.org/abs/2203.10771)|[intelligent-control-flexible-manipulator](https://github.com/roboteamufrn/intelligent-control-flexible-manipulator)|
 |[graph neural networks for wireless communications: from theory to practice](https://arxiv.org/abs/2203.10800)|[gnn4com](https://github.com/yshenaw/gnn4com)|
 |[learning resilient radio resource management policies with graph neural networks](https://arxiv.org/abs/2203.11012)|[Resilient_RRM_GNN](https://github.com/navid-naderi/Resilient_RRM_GNN)|
 |[towards optimally efficient search with deep learning for large-scale mimo systems](https://arxiv.org/abs/2101.02420)|[hats](https://github.com/skypitcher/hats)|
@@ -12,6 +28,7 @@
 ## 2022-03-21
 |paper|code|
 |---|---|
+|[lead-agnostic self-supervised learning for local and global representations of electrocardiogram](https://arxiv.org/abs/2203.06889)|[fairseq-signals](https://github.com/jwoo5/fairseq-signals)|
 |[generative principal component analysis](https://arxiv.org/abs/2203.09693)|[GenerativePCA](https://github.com/liuzq09/GenerativePCA)|
 ## 2022-03-18
 |paper|code|
