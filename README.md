@@ -1,3 +1,10 @@
+## 2022-03-25
+|paper|code|
+|---|---|
+|[a direct-indirect hybridization approach to control-limited ddp](https://arxiv.org/abs/2010.00411)|[crocoddyl](https://github.com/loco-3d/crocoddyl)|
+|[complex frequency domain linear prediction: a tool to compute modulation spectrum of speech](https://arxiv.org/abs/2203.13216)|[fdlp_spectrogram](https://github.com/sadhusamik/fdlp_spectrogram)|
+|[mo3: a modular mobility model for future generation mobile wireless networks](https://arxiv.org/abs/1704.03065)|[mo3](https://github.com/lucadn/mo3)|
+|[distilling ghz states using stabilizer codes](https://arxiv.org/abs/2109.06248)|[ghz_distillation_qec](https://github.com/nrenga/ghz_distillation_qec)|
 ## 2022-03-24
 |paper|code|
 |---|---|
@@ -30,6 +37,7 @@
 |---|---|
 |[phase collapse in neural networks](https://arxiv.org/abs/2110.05283)|[phasecollapse](https://github.com/florentinguth/phasecollapse)|
 |[neural capacity estimators: how reliable are they?](https://arxiv.org/abs/2111.07401)|[nce_icc-2022](https://github.com/farhad-mrkm/nce_icc-2022)|
+|[physics informed neural networks for control oriented thermal modeling of buildings](https://arxiv.org/abs/2111.12066)|[physnet_thermal_models](https://github.com/gargyagokhale/physnet_thermal_models)|
 |[linear variational state-space filtering](https://arxiv.org/abs/2201.01353)|[variational_state_space_models](https://github.com/pfrommerd/variational_state_space_models)|
 |[efficient doa estimation method for reconfigurable intelligent surfaces aided uav swarm](https://arxiv.org/abs/2203.10219)|[adpp](https://github.com/chenpengseu/adpp)|
 |[sdoanet: an efficient deep learning-based doa estimation network for imperfect array](https://arxiv.org/abs/2203.10231)|[sdoanet](https://github.com/chenpengseu/sdoanet)|
