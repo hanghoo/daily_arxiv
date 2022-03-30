@@ -1,3 +1,18 @@
+## 2022-03-29
+|paper|code|
+|---|---|
+|[deep unfolding basis pursuit: improving sparse channel reconstruction via data-driven measurement matrices](https://arxiv.org/abs/2007.05177)|[DeepBP-AE](https://github.com/pengxiawu/DeepBP-AE)|
+|[data-driven set-based estimation using matrix zonotopes with set containment guarantees](https://arxiv.org/abs/2101.10784)|[data-driven-set-based-estimation-zonotopes](https://github.com/alexberndt/data-driven-set-based-estimation-zonotopes)|
+|[parametric scattering networks](https://arxiv.org/abs/2107.09539)|[ParametricScatteringNetworks](https://github.com/bentherien/ParametricScatteringNetworks)|
+|[the role of tactile sensing in learning and deploying grasp refinement algorithms](https://arxiv.org/abs/2109.11234)|[grasp_refinement](https://github.com/axkoenig/grasp_refinement)|
+|[neural energy casimir control for port-hamiltonian systems](https://arxiv.org/abs/2112.03339)|[neural_energy_casimir_control](https://github.com/decodepfl/neural_energy_casimir_control)|
+|[autonomous racing with multiple vehicles using a parallelized optimization with safety guarantee using control barrier functions](https://arxiv.org/abs/2112.06435)|[car-racing](https://github.com/hybridrobotics/car-racing)|
+|[predicting the impact of formation protocols on battery lifetime immediately after manufacturing](https://arxiv.org/abs/2203.14158)|[fast-formation](https://github.com/wengandrew/fast-formation)|
+|[distributed link sparsification for scalable scheduling using graph neural networks](https://arxiv.org/abs/2203.14339)|[gcn-sparsify](https://github.com/zhongyuanzhao/gcn-sparsify)|
+|[5g routing interfered environment](https://arxiv.org/abs/2203.14790)|[5GRIE](https://github.com/BarakGahtan/5GRIE)|
+|[q-ppg: energy-efficient ppg-based heart rate monitoring on wearable devices](https://arxiv.org/abs/2203.14907)|[q-ppg](https://github.com/embeddedml-edagroup/q-ppg)|
+|[neural vocoder is all you need for speech super-resolution](https://arxiv.org/abs/2203.14941)|[ssr_eval](https://github.com/haoheliu/ssr_eval)|
+|[meta-reinforcement learning for reliable communication in thz/vlc wireless vr networks](https://arxiv.org/abs/2102.12277)|[THzVR](https://github.com/wyy0206/THzVR)|
 ## 2022-03-28
 |paper|code|
 |---|---|
