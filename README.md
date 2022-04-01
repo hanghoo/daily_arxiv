@@ -1,3 +1,14 @@
+## 2022-03-31
+|paper|code|
+|---|---|
+|[do higher-order interactions promote synchronization?](https://arxiv.org/abs/2203.03060)|[higherorder_sync_promoted](https://github.com/maximelucas/higherorder_sync_promoted)|
+|[5g routing interfered environment](https://arxiv.org/abs/2203.14790)|[5GRIE](https://github.com/BarakGahtan/5GRIE)|
+|[closed-form minkowski sum approximations for efficient optimization-based collision avoidance](https://arxiv.org/abs/2203.15977)|[mink-obca](https://github.com/guthriejd1/mink-obca)|
+|[a sequential quadratic programming approach to the solution of open-loop generalized nash equilibria](https://arxiv.org/abs/2203.16478)|[dgsqp](https://github.com/zhu-edward/dgsqp)|
+|[common information, matroid representation, and secret sharing for matroid ports](https://arxiv.org/abs/2002.08108)|[common-information-and-matroid-ports](https://github.com/bmilosh/common-information-and-matroid-ports)|
+|[unbiased single-scale and multi-scale quantizers for distributed optimization](https://arxiv.org/abs/2109.12497)|[Gradient-Compression](https://github.com/vineeths96/Gradient-Compression)|
+|[a fast transformer-based general-purpose lossless compressor](https://arxiv.org/abs/2203.16114)|[a-fast-transformer-based-general-purpose-losslesscompressor](https://github.com/mynotwo/a-fast-transformer-based-general-purpose-losslesscompressor)|
+|[self-dual hadamard bent sequences](https://arxiv.org/abs/2203.16439)|[hadamard_bent](https://github.com/qomo-cheng/hadamard_bent)|
 ## 2022-03-30
 |paper|code|
 |---|---|
@@ -25,7 +36,6 @@
 |[predicting the impact of formation protocols on battery lifetime immediately after manufacturing](https://arxiv.org/abs/2203.14158)|[fast-formation](https://github.com/wengandrew/fast-formation)|
 |[distributed link sparsification for scalable scheduling using graph neural networks](https://arxiv.org/abs/2203.14339)|[gcn-sparsify](https://github.com/zhongyuanzhao/gcn-sparsify)|
 |[online meta-learning for hybrid model-based deep receivers](https://arxiv.org/abs/2203.14359)|[metadeepsic](https://github.com/tomerraviv95/metadeepsic)|
-|[towards stable interstellar flight: levitation of a laser-propelled sailcraft](https://arxiv.org/abs/2203.14699)|[spotless](https://github.com/anirudhamajumdar/spotless)|
 |[q-ppg: energy-efficient ppg-based heart rate monitoring on wearable devices](https://arxiv.org/abs/2203.14907)|[q-ppg](https://github.com/embeddedml-edagroup/q-ppg)|
 |[neural vocoder is all you need for speech super-resolution](https://arxiv.org/abs/2203.14941)|[ssr_eval](https://github.com/haoheliu/ssr_eval)|
 |[meta-reinforcement learning for reliable communication in thz/vlc wireless vr networks](https://arxiv.org/abs/2102.12277)|[THzVR](https://github.com/wyy0206/THzVR)|
