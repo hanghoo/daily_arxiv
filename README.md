@@ -1,13 +1,19 @@
 ## 2022-04-01
 |paper|code|
 |---|---|
+|[single-pixel compressive imaging in shift-invariant spaces via exact wavelet frames](https://arxiv.org/abs/2106.00404)|[compressive_imaging_in_si_spaces](https://github.com/retiro/compressive_imaging_in_si_spaces)|
 |[fbdnn: filter banks and deep neural networks for portable and fast brain-computer interfaces](https://arxiv.org/abs/2109.02165)|[fbcnn](https://github.com/pedrorasb/fbcnn)|
 |[time-coded spiking fourier transform in neuromorphic hardware](https://arxiv.org/abs/2202.12650)|[time-coded-SFT](https://github.com/KI-ASIC-TUM/time-coded-SFT)|
 |[learning from humans: combining imitation and deep reinforcement learning to accomplish human-level performance on a virtual foraging task](https://arxiv.org/abs/2203.06250)|[Learning-from-humans-combining-imitation-and-deep-on-policy-reinforcement-learning-to-accomplish-su](https://github.com/VittorioGiammarino/Learning-from-humans-combining-imitation-and-deep-on-policy-reinforcement-learning-to-accomplish-su)|
 |[towards stable interstellar flight: levitation of a laser-propelled sailcraft](https://arxiv.org/abs/2203.14699)|[spotless](https://github.com/anirudhamajumdar/spotless)|
+|[model predictive optimized path integral strategies](https://arxiv.org/abs/2203.16633)|[mpopis](https://github.com/sisl/mpopis)|
 |[system identification via nuclear norm regularization](https://arxiv.org/abs/2203.16673)|[sunyue93.github.io](https://github.com/sunyue93/sunyue93.github.io)|
+|[system level synthesis beyond finite impulse response using approximation by simple poles](https://arxiv.org/abs/2203.16765)|[systemlevelsynthesis](https://github.com/michaelwfisher/systemlevelsynthesis)|
 |[direction of arrival estimation of sound sources using icosahedral cnns](https://arxiv.org/abs/2203.16940)|[icodoa](https://github.com/daviddiazguerra/icodoa)|
+|[vqf: highly accurate imu orientation estimation with bias estimation and magnetic disturbance rejection](https://arxiv.org/abs/2203.17024)|[vqf](https://github.com/dlaidig/vqf)|
 |[differentially private federated learning via reconfigurable intelligent surface](https://arxiv.org/abs/2203.17028)|[fl_privacy_blockcrossing](https://github.com/mengcongwo/fl_privacy_blockcrossing)|
+|[a computationally informed realisation algorithm for lithium-ion batteries implemented with liibra.jl](https://arxiv.org/abs/2203.17105)|[liibra.jl](https://github.com/bradyplanden/liibra.jl)|
+|[convex parameterization of stabilizing controllers and its lmi-based computation via filtering](https://arxiv.org/abs/2203.17145)|[iop_lmi](https://github.com/soc-ucsd/iop_lmi)|
 |[lead1.0: a large-scale annotated dataset for energy anomaly detection in commercial buildings](https://arxiv.org/abs/2203.17256)|[lead-dataset](https://github.com/samy101/lead-dataset)|
 ## 2022-03-31
 |paper|code|
