@@ -1,8 +1,20 @@
+## 2022-04-04
+|paper|code|
+|---|---|
+|[numerical solution of the steady-state network flow equations for a non-ideal gas](https://arxiv.org/abs/2204.00071)|[gassteadysim.jl](https://github.com/kaarthiksundar/gassteadysim.jl)|
+|[synthesis of stabilizing recurrent equilibrium network controllers](https://arxiv.org/abs/2204.00122)|[stabilizing-ren](https://github.com/neelayjunnarkar/stabilizing-ren)|
+|[distributionally robust decision making leveraging conditional distributions](https://arxiv.org/abs/2204.00138)|[ckdro](https://github.com/chenyx09/ckdro)|
+|[robust remote estimation over the collision channel in the presence of an intelligent jammer](https://arxiv.org/abs/2204.00148)|[cdc22](https://github.com/mullervasconcelos/cdc22)|
+|[multi-rate planning and control of uncertain nonlinear systems: model predictive control and control lyapunov functions](https://arxiv.org/abs/2204.00152)|[c-mpc](https://github.com/noelc-s/c-mpc)|
+|[comparative analysis of interval reachability for robust implicit and feedforward neural networks](https://arxiv.org/abs/2204.00187)|[robust-inn-mm](https://github.com/davydovalexander/robust-inn-mm)|
+|[towards gain tuning for numerical kkl observers](https://arxiv.org/abs/2204.00318)|[learn_observe_KKL](https://github.com/monabf/learn_observe_KKL)|
+|[intrusion prevention through optimal stopping](https://arxiv.org/abs/2111.00289)|[gym-optimal-intrusion-response](https://github.com/Limmen/gym-optimal-intrusion-response)|
+|[a fast transformer-based general-purpose lossless compressor](https://arxiv.org/abs/2203.16114)|[a-fast-transformer-based-general-purpose-losslesscompressor](https://github.com/mynotwo/a-fast-transformer-based-general-purpose-losslesscompressor)|
+|[a solution approach for the anonymous sharing of sensitive supply chain traceability data](https://arxiv.org/abs/2204.00317)|[epcis-sanitisation](https://github.com/european-epc-competence-center/epcis-sanitisation)|
 ## 2022-04-01
 |paper|code|
 |---|---|
 |[single-pixel compressive imaging in shift-invariant spaces via exact wavelet frames](https://arxiv.org/abs/2106.00404)|[compressive_imaging_in_si_spaces](https://github.com/retiro/compressive_imaging_in_si_spaces)|
-|[fbdnn: filter banks and deep neural networks for portable and fast brain-computer interfaces](https://arxiv.org/abs/2109.02165)|[fbcnn](https://github.com/pedrorasb/fbcnn)|
 |[time-coded spiking fourier transform in neuromorphic hardware](https://arxiv.org/abs/2202.12650)|[time-coded-SFT](https://github.com/KI-ASIC-TUM/time-coded-SFT)|
 |[learning from humans: combining imitation and deep reinforcement learning to accomplish human-level performance on a virtual foraging task](https://arxiv.org/abs/2203.06250)|[Learning-from-humans-combining-imitation-and-deep-on-policy-reinforcement-learning-to-accomplish-su](https://github.com/VittorioGiammarino/Learning-from-humans-combining-imitation-and-deep-on-policy-reinforcement-learning-to-accomplish-su)|
 |[towards stable interstellar flight: levitation of a laser-propelled sailcraft](https://arxiv.org/abs/2203.14699)|[spotless](https://github.com/anirudhamajumdar/spotless)|
