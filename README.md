@@ -1,3 +1,11 @@
+## 2022-04-07
+|paper|code|
+|---|---|
+|[attentionlight: rethinking queue length and attention mechanism for traffic signal control](https://arxiv.org/abs/2201.00006)|[QL_XLight](https://github.com/LiangZhang1996/QL_XLight)|
+|[hrtf measurement for accurate sound localization cues](https://arxiv.org/abs/2203.03166)|[hrtf-hats-kaist](https://github.com/han-saram/hrtf-hats-kaist)|
+|[towards better test coverage: merging unit tests for autonomous systems](https://arxiv.org/abs/2204.02541)|[mergeunittests](https://github.com/jgraeb/mergeunittests)|
+|[pareto-optimal clustering with the primal deterministic information bottleneck](https://arxiv.org/abs/2204.02489)|[pareto_dib](https://github.com/andrewktan/pareto_dib)|
+|[spider-web enables stable, repairable, and encryptible algorithms under arbitrary local biochemical constraints in dna-based storage](https://arxiv.org/abs/2204.02855)|[dnaspiderweb](https://github.com/haolingzhang/dnaspiderweb)|
 ## 2022-04-06
 |paper|code|
 |---|---|
@@ -6,7 +14,6 @@
 |[a simple and efficient sampling-based algorithm for general reachability analysis](https://arxiv.org/abs/2112.05745)|[randup](https://github.com/stanfordasl/randup)|
 |[data-driven modeling and prediction of non-linearizable dynamics via spectral submanifolds](https://arxiv.org/abs/2201.04976)|[ssmlearn](https://github.com/haller-group/ssmlearn)|
 |[gan-based joint activity detection and channel estimation for grant-free random access](https://arxiv.org/abs/2204.01731)|[jadce](https://github.com/deeeeeeplearning/jadce)|
-|[wifieye -- seeing over wifi made accessible](https://arxiv.org/abs/2204.01830)|[wifieye](https://github.com/pkindt/wifieye)|
 ## 2022-04-05
 |paper|code|
 |---|---|
