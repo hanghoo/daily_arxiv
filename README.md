@@ -1,3 +1,11 @@
+## 2022-04-08
+|paper|code|
+|---|---|
+|[an open-source low-cost mobile robot system with an rgb-d camera and efficient real-time navigation algorithm](https://arxiv.org/abs/2103.03054)|[2019-UGRP-DPoom](https://github.com/shinkansan/2019-UGRP-DPoom)|
+|[wifieye -- seeing over wifi made accessible](https://arxiv.org/abs/2204.01830)|[wifieye](https://github.com/pkindt/wifieye)|
+|[muleeg: a multi-view representation learning on eeg signals](https://arxiv.org/abs/2204.03272)|[muleeg](https://github.com/likith012/muleeg)|
+|[binary spatial random field reconstruction from non-gaussian inhomogeneous time-series observations](https://arxiv.org/abs/2204.03343)|[WarpedGaussianProcesses](https://github.com/ShunanSheng/WarpedGaussianProcesses)|
+|[rf signal transformation and classification using deep neural networks](https://arxiv.org/abs/2204.03564)|[rf_classification](https://github.com/umarkhalidcs/rf_classification)|
 ## 2022-04-07
 |paper|code|
 |---|---|
