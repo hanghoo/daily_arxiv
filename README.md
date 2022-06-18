@@ -1,3 +1,44 @@
+## 2022-06-17
+|paper|code|
+|---|---|
+|[an accelerated expectation-maximization algorithm for multi-reference alignment](https://arxiv.org/abs/2105.07372)|[synch-em](https://github.com/noamjanco/synch-em)|
+|[the portiloop: a deep learning-based open science tool for closed-loop brain stimulation](https://arxiv.org/abs/2107.13473)|[portiloop](https://github.com/mistlab/portiloop)|
+|[openfwi: large-scale multi-structural benchmark datasets for seismic full waveform inversion](https://arxiv.org/abs/2111.02926)|[openfwi](https://github.com/margarita-aicyd/openfwi)|
+|[a real-world radio frequency signal dataset based on lte system and variable channels](https://arxiv.org/abs/2205.12577)|[xsrpdataset](https://github.com/njuptzsp/xsrpdataset)|
+|[barrier certified safety learning control: when sum-of-square programming meets reinforcement learning](https://arxiv.org/abs/2206.07915)|[ccta2022_saferl](https://github.com/wogwan/ccta2022_saferl)|
+|[uavs beneath the surface: cooperative autonomy for subterranean search and rescue in darpa subt](https://arxiv.org/abs/2206.08185)|[slam_datasets](https://github.com/ctu-mrs/slam_datasets)|
+## 2022-06-16
+|paper|code|
+|---|---|
+|[learning the structure of large networked systems obeying conservation laws](https://arxiv.org/abs/2206.07083)|[slnscl](https://github.com/anirudhrayas/slnscl)|
+|[on the relationship between ground- and satellite- based global horizontal irradiance](https://arxiv.org/abs/2206.07404)|[solarsatground](https://github.com/ydjoel/solarsatground)|
+|[paramnet: a multi-layer parametric network for joint channel estimation and symbol detection](https://arxiv.org/abs/2206.07405)|[ParamNET](https://github.com/vincentchoqueuse/ParamNET)|
+|[eden: communication-efficient and robust distributed mean estimation for federated learning](https://arxiv.org/abs/2108.08842)|[eden-distributed-mean-estimation](https://github.com/amitport/eden-distributed-mean-estimation)|
+|[loss functions for classification using structured entropy](https://arxiv.org/abs/2206.07122)|[resources](https://github.com/numeristical/resources)|
+## 2022-06-15
+|paper|code|
+|---|---|
+|[using temperature sensitivity to estimate shiftable electricity demand: implications for power system investments and climate change](https://arxiv.org/abs/2109.00643)|[Shiftable_electricity](https://github.com/Sisihawaii/Shiftable_electricity)|
+|[pareto-optimal clustering with the primal deterministic information bottleneck](https://arxiv.org/abs/2204.02489)|[pareto_dib](https://github.com/andrewktan/pareto_dib)|
+|[vsc-webgpu: a selenium-based vs code extension for local edit and cloud compilation on webgpu](https://arxiv.org/abs/2206.06428)|[ece408-remote-control](https://github.com/biechi/ece408-remote-control)|
+## 2022-06-14
+|paper|code|
+|---|---|
+|[multiple hypothesis testing framework for spatial signals](https://arxiv.org/abs/2108.12314)|[lfdr-smom](https://github.com/mgoelz95/lfdr-smom)|
+|[efficient approximation of jacobian matrices involving a non-uniform fast fourier transform (nufft)](https://arxiv.org/abs/2111.02912)|[Bjork](https://github.com/guanhuaw/Bjork)|
+|[an open source software stack for tuning the dynamical behavior of complex power systems](https://arxiv.org/abs/2112.00347)|[open-power-simulation-conference-2021-paper](https://github.com/pik-icone/open-power-simulation-conference-2021-paper)|
+|[roadside lidar vehicle detection and tracking using range and intensity background subtraction](https://arxiv.org/abs/2201.04756)|[roadside-lidar-vehicle-detection-and-tracking-background-subtraction](https://github.com/teryzh/roadside-lidar-vehicle-detection-and-tracking-background-subtraction)|
+|[sharp-maml: sharpness-aware model-agnostic meta learning](https://arxiv.org/abs/2206.03996)|[sharp-maml](https://github.com/mominabbass/sharp-maml)|
+|[integration of physics-based and data-driven models for hyperspectral image unmixing](https://arxiv.org/abs/2206.05508)|[awesome-hyperspectral-image-unmixing](https://github.com/xiuheng-wang/awesome-hyperspectral-image-unmixing)|
+|[arena-bench: a benchmarking suite for obstacle avoidance approaches in highly dynamic environments](https://arxiv.org/abs/2206.05728)|[arena-bench](https://github.com/ignc-research/arena-bench)|
+|[data-driven denoising of accelerometer signals](https://arxiv.org/abs/2206.05937)|[MEMS-IMU-Denoising](https://github.com/ansfl/MEMS-IMU-Denoising)|
+|[reinforcement learning-based placement of charging stations in urban road networks](https://arxiv.org/abs/2206.06011)|[pcrl](https://github.com/ashusao/pcrl)|
+|[ris-admm: an admm-based passive and sparse sensing method with interference removal](https://arxiv.org/abs/2206.06172)|[ris-admm](https://github.com/chenpengseu/ris-admm)|
+|[ultra-marginal feature importance](https://arxiv.org/abs/2204.09938)|[umfi](https://github.com/joej1997/umfi)|
+## 2022-06-13
+|paper|code|
+|---|---|
+|[denoising generalized expectation-consistent approximation for mri image recovery](https://arxiv.org/abs/2206.05049)|[corr-plus-corr](https://github.com/saurav-k-shastri/corr-plus-corr)|
 ## 2022-04-11
 |paper|code|
 |---|---|
