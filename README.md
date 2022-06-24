@@ -1,3 +1,16 @@
+## 2022-06-23
+|paper|code|
+|---|---|
+|[beyond cost reduction: improving the value of energy storage in electricity systems](https://arxiv.org/abs/2101.10092)|[beyond-cost](https://github.com/pz-max/beyond-cost)|
+|[scaling and scalability: provable nonconvex low-rank tensor estimation from incomplete measurements](https://arxiv.org/abs/2104.14526)|[ScaledGD](https://github.com/Titan-Tong/ScaledGD)|
+|[ellipsotopes: combining ellipsoids and zonotopes for reachability analysis and fault detection](https://arxiv.org/abs/2108.01750)|[ellipsotopes](https://github.com/Stanford-NavLab/ellipsotopes)|
+|[identifying electrocardiogram abnormalities using a handcrafted-rule-enhanced neural network](https://arxiv.org/abs/2206.10592)|[ecg_processing](https://github.com/alwaysbyx/ecg_processing)|
+|[model-driven deep learning-based mimo-ofdm detector: design, simulation, and experimental results](https://arxiv.org/abs/2206.10909)|[cg-oamp-net](https://github.com/starainz/cg-oamp-net)|
+|[event-triggered and distributed model predictive control for guaranteed collision avoidance in uav swarms](https://arxiv.org/abs/2206.11020)|[et-distributed-uav-path-planner](https://github.com/data-science-in-mechanical-engineering/et-distributed-uav-path-planner)|
+|[adaptive regularized zero-forcing beamforming in massive mimo with multi-antenna users](https://arxiv.org/abs/2107.00853)|[Adaptive-Regularized-Zero-Forcing-Beamforming-in-Massive-MIMO-with-Multi-Antenna-Users](https://github.com/eugenbobrov/Adaptive-Regularized-Zero-Forcing-Beamforming-in-Massive-MIMO-with-Multi-Antenna-Users)|
+|[self-dual hadamard bent sequences](https://arxiv.org/abs/2203.16439)|[hadamard_bent](https://github.com/qomo-cheng/hadamard_bent)|
+|[differentially private maximal information coefficients](https://arxiv.org/abs/2206.10685)|[dp-mic](https://github.com/jlazarsfeld/dp-mic)|
+|[beating the sum-rate capacity of the binary adder channel with non-signaling correlations](https://arxiv.org/abs/2206.10968)|[mac_ns_lp](https://github.com/pferme/mac_ns_lp)|
 ## 2022-06-22
 |paper|code|
 |---|---|
@@ -12,9 +25,11 @@
 |[deep neural convolutive matrix factorization for articulatory representation decomposition](https://arxiv.org/abs/2204.00465)|[ema_gesture](https://github.com/berkeley-speech-group/ema_gesture)|
 |[toward agile and robust supply chains: a lesson from stochastic job-shop scheduling](https://arxiv.org/abs/2206.09326)|[jobshop.jl](https://github.com/psorlab/jobshop.jl)|
 |[graph neural network aided mu-mimo detectors](https://arxiv.org/abs/2206.09381)|[GNN-based-MIMO-Detection](https://github.com/GNN-based-MIMO-Detection/GNN-based-MIMO-Detection)|
+|[sample average approximation for stochastic programming with equality constraints](https://arxiv.org/abs/2206.09963)|[stochasticedl](https://github.com/stanfordasl/stochasticedl)|
 |[propagation of measurement and model uncertainties through multiline trl calibration](https://arxiv.org/abs/2206.10209)|[uncertainty-multiline-trl-calibration](https://github.com/ZiadHatab/uncertainty-multiline-trl-calibration)|
+|[can we trust our energy measurements? a study on the odroid-xu4](https://arxiv.org/abs/2206.10377)|[energymeasurementanalysis](https://bitbucket.org/uva-sne/energymeasurementanalysis)|
+|[a learning aided gradient descent for miso beamforming](https://arxiv.org/abs/2206.10499)|[lagd](https://github.com/xiagroup/lagd)|
 |[combating the instability of mutual information-based losses via regularization](https://arxiv.org/abs/2011.07932)|[deconstructing-mine](https://github.com/siyeong-lee/deconstructing-mine)|
-|[fair queuing aware congestion control](https://arxiv.org/abs/2206.10561)|[fair-queuing-aware-congestion-control](https://github.com/muxamilian/fair-queuing-aware-congestion-control)|
 ## 2022-06-20
 |paper|code|
 |---|---|
