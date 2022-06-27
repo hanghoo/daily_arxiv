@@ -35,6 +35,7 @@
 |[a covariant, discrete time-frequency representation tailored for zero-based signal detection](https://arxiv.org/abs/2202.03835)|[kravchuk-transform-and-its-zeros](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros)|
 |[signal decomposition using masked proximal operators](https://arxiv.org/abs/2202.09338)|[signal-decomposition](https://github.com/cvxgrp/signal-decomposition)|
 |[deep neural convolutive matrix factorization for articulatory representation decomposition](https://arxiv.org/abs/2204.00465)|[ema_gesture](https://github.com/berkeley-speech-group/ema_gesture)|
+|[safety guarantees for neural network dynamic systems via stochastic barrier functions](https://arxiv.org/abs/2206.07811)|[neuralnetcontrolbarrier](https://github.com/aria-systems-group/neuralnetcontrolbarrier)|
 |[toward agile and robust supply chains: a lesson from stochastic job-shop scheduling](https://arxiv.org/abs/2206.09326)|[jobshop.jl](https://github.com/psorlab/jobshop.jl)|
 |[graph neural network aided mu-mimo detectors](https://arxiv.org/abs/2206.09381)|[GNN-based-MIMO-Detection](https://github.com/GNN-based-MIMO-Detection/GNN-based-MIMO-Detection)|
 |[sample average approximation for stochastic programming with equality constraints](https://arxiv.org/abs/2206.09963)|[stochasticedl](https://github.com/stanfordasl/stochasticedl)|
