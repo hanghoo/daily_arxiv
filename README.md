@@ -1,3 +1,13 @@
+## 2022-06-29
+|paper|code|
+|---|---|
+|[an artificial neural network-based model predictive control for three-phase flying capacitor multi-level inverter](https://arxiv.org/abs/2110.08101)|[ann-fcmli](https://github.com/ihabmohamed/ann-fcmli)|
+|[using ppp information to implement a global real-time virtual network dgnss approach](https://arxiv.org/abs/2110.14763)|[Virtual-Network-DGNSS-Project](https://github.com/Azurehappen/Virtual-Network-DGNSS-Project)|
+|[aivc: artificial intelligence based video codec](https://arxiv.org/abs/2202.04365)|[AIVC](https://github.com/Orange-OpenSource/AIVC)|
+|[optimal intermittent particle filter](https://arxiv.org/abs/2204.06265)|[optimal_measurement_times_for_particle_filtering](https://github.com/amaurygouverneur/optimal_measurement_times_for_particle_filtering)|
+|[calipso: a differentiable solver for trajectory optimization with conic and complementarity constraints](https://arxiv.org/abs/2205.09255)|[calipso.jl](https://github.com/thowell/calipso.jl)|
+|[encoding of probability distributions for asymmetric numeral systems](https://arxiv.org/abs/2106.06438)|[AsymmetricNumeralSystemsToolkit](https://github.com/JarekDuda/AsymmetricNumeralSystemsToolkit)|
+|[stratified multivariate multiscale dispersion entropy for physiological signal analysis](https://arxiv.org/abs/2202.09298)|[smvmde](https://github.com/evangeloskafantaris/smvmde)|
 ## 2022-06-28
 |paper|code|
 |---|---|
@@ -6,7 +16,6 @@
 |[optimisation of structured neural controller based on continuous-time policy gradient](https://arxiv.org/abs/2201.06262)|[continuoustimepolicygradients.jl](https://github.com/nhcho91/continuoustimepolicygradients.jl)|
 |[safety guarantees for neural network dynamic systems via stochastic barrier functions](https://arxiv.org/abs/2206.07811)|[neuralnetcontrolbarrier](https://github.com/aria-systems-group/neuralnetcontrolbarrier)|
 |[graph neural network aided mu-mimo detectors](https://arxiv.org/abs/2206.09381)|[GNN-based-MIMO-Detection](https://github.com/GNN-based-MIMO-Detection/GNN-based-MIMO-Detection)|
-|[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
 |[learning neural state-space models: do we need a state estimator?](https://arxiv.org/abs/2206.12928)|[sysid-neural-estimator](https://github.com/forgi86/sysid-neural-estimator)|
 |[adaptive decoding mechanisms for uav-enabled double-uplink coordinated noma](https://arxiv.org/abs/2206.13370)|[uav-noma-adm](https://github.com/thanhluannguyen/uav-noma-adm)|
 |[a unified treatment of partial stragglers and sparse matrices in coded matrix computation](https://arxiv.org/abs/2109.12070)|[unifiedtreatment](https://github.com/anindyabijoydas/unifiedtreatment)|
