@@ -1,3 +1,60 @@
+## 2022-07-01
+|paper|code|
+|---|---|
+|[openstreetmap-based autonomous navigation with lidar naive-valley-path obstacle avoidance](https://arxiv.org/abs/2108.09117)|[lib_planning](https://github.com/aurova-lab/lib_planning)|
+|[stride: a flexible platform for high-performance ultrasound computed tomography](https://arxiv.org/abs/2110.03345)|[stride](https://github.com/trustimaging/stride)|
+|[leveraging joint-diagonalization in transform-learning nmf](https://arxiv.org/abs/2112.05664)|[tlnmf-tsp](https://github.com/sixin-zh/tlnmf-tsp)|
+|[barrier certified safety learning control: when sum-of-square programming meets reinforcement learning](https://arxiv.org/abs/2206.07915)|[ccta2022_saferl](https://github.com/wogwan/ccta2022_saferl)|
+|[propagation of measurement and model uncertainties through multiline trl calibration](https://arxiv.org/abs/2206.10209)|[uncertainty-multiline-trl-calibration](https://github.com/ZiadHatab/uncertainty-multiline-trl-calibration)|
+|[design and motion planning for a reconfigurable robotic base](https://arxiv.org/abs/2206.15298)|[swerve_steering](https://github.com/leggedrobotics/swerve_steering)|
+|[federated over-air subspace tracking from incomplete and corrupted data](https://arxiv.org/abs/2002.12873)|[distributed-pca](https://github.com/praneethmurthy/distributed-pca)|
+## 2022-06-30
+|paper|code|
+|---|---|
+|[deep kkl: data-driven output prediction for non-linear systems](https://arxiv.org/abs/2103.12443)|[DeepKKL](https://github.com/SteevenJanny/DeepKKL)|
+|[robust photon-efficient imaging using a pixel-wise residual shrinkage network](https://arxiv.org/abs/2201.01453)|[robust-photon-efficient-imaging-using-prsnet](https://github.com/y2w-oc/robust-photon-efficient-imaging-using-prsnet)|
+|[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
+|[a biased random-key genetic algorithm for the home health care problem](https://arxiv.org/abs/2206.14347)|[brkga-mp-ipr-hhcrsp-2021](https://github.com/afkummer/brkga-mp-ipr-hhcrsp-2021)|
+|[robust online voltage control with an unknown grid topology](https://arxiv.org/abs/2206.14369)|[voltctrl](https://github.com/chrisyeh96/voltctrl)|
+|[correctly modeling tx and rx chain in (distributed) massive mimo -- new fundamental insights on coherency](https://arxiv.org/abs/2206.14752)|[Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO](https://github.com/rnissel/Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO)|
+|[depth-2 neural networks under a data-poisoning attack](https://arxiv.org/abs/2005.01699)|[neurotron_experiments](https://github.com/papamarkou/neurotron_experiments)|
+## 2022-06-29
+|paper|code|
+|---|---|
+|[an artificial neural network-based model predictive control for three-phase flying capacitor multi-level inverter](https://arxiv.org/abs/2110.08101)|[ann-fcmli](https://github.com/ihabmohamed/ann-fcmli)|
+|[using ppp information to implement a global real-time virtual network dgnss approach](https://arxiv.org/abs/2110.14763)|[Virtual-Network-DGNSS-Project](https://github.com/Azurehappen/Virtual-Network-DGNSS-Project)|
+|[aivc: artificial intelligence based video codec](https://arxiv.org/abs/2202.04365)|[AIVC](https://github.com/Orange-OpenSource/AIVC)|
+|[optimal intermittent particle filter](https://arxiv.org/abs/2204.06265)|[optimal_measurement_times_for_particle_filtering](https://github.com/amaurygouverneur/optimal_measurement_times_for_particle_filtering)|
+|[calipso: a differentiable solver for trajectory optimization with conic and complementarity constraints](https://arxiv.org/abs/2205.09255)|[calipso.jl](https://github.com/thowell/calipso.jl)|
+|[encoding of probability distributions for asymmetric numeral systems](https://arxiv.org/abs/2106.06438)|[AsymmetricNumeralSystemsToolkit](https://github.com/JarekDuda/AsymmetricNumeralSystemsToolkit)|
+|[stratified multivariate multiscale dispersion entropy for physiological signal analysis](https://arxiv.org/abs/2202.09298)|[smvmde](https://github.com/evangeloskafantaris/smvmde)|
+## 2022-06-28
+|paper|code|
+|---|---|
+|[audio dequantization using (co)sparse (non)convex methods](https://arxiv.org/abs/2010.16386)|[audio_dequantization](https://github.com/zawi01/audio_dequantization)|
+|[risk-sensitive safety analysis using conditional value-at-risk](https://arxiv.org/abs/2101.12086)|[IEEE-TAC-2021](https://github.com/risk-sensitive-reachability/IEEE-TAC-2021)|
+|[optimisation of structured neural controller based on continuous-time policy gradient](https://arxiv.org/abs/2201.06262)|[continuoustimepolicygradients.jl](https://github.com/nhcho91/continuoustimepolicygradients.jl)|
+|[safety guarantees for neural network dynamic systems via stochastic barrier functions](https://arxiv.org/abs/2206.07811)|[neuralnetcontrolbarrier](https://github.com/aria-systems-group/neuralnetcontrolbarrier)|
+|[graph neural network aided mu-mimo detectors](https://arxiv.org/abs/2206.09381)|[GNN-based-MIMO-Detection](https://github.com/GNN-based-MIMO-Detection/GNN-based-MIMO-Detection)|
+|[learning neural state-space models: do we need a state estimator?](https://arxiv.org/abs/2206.12928)|[sysid-neural-estimator](https://github.com/forgi86/sysid-neural-estimator)|
+|[adaptive decoding mechanisms for uav-enabled double-uplink coordinated noma](https://arxiv.org/abs/2206.13370)|[uav-noma-adm](https://github.com/thanhluannguyen/uav-noma-adm)|
+|[a unified treatment of partial stragglers and sparse matrices in coded matrix computation](https://arxiv.org/abs/2109.12070)|[unifiedtreatment](https://github.com/anindyabijoydas/unifiedtreatment)|
+|[mutual-information based optimal experimental design for hyperpolarized $^{13}$c-pyruvate mri](https://arxiv.org/abs/2206.12509)|[hyperpolarizedmri](https://github.com/prashjha/hyperpolarizedmri)|
+|[snow: serverless n-party calls over webrtc](https://arxiv.org/abs/2206.12762)|[snow](https://github.com/patompa/snow)|
+|[active tls stack fingerprinting: characterizing tls server deployments at scale](https://arxiv.org/abs/2206.13230)|[goscanner](https://github.com/tumi8/goscanner)|
+## 2022-06-27
+|paper|code|
+|---|---|
+|[a framework of inertial alternating direction method of multipliers for non-convex non-smooth optimization](https://arxiv.org/abs/2102.05433)|[iADMM](https://github.com/nhatpd/iADMM)|
+|[frame-type sensitive rdo control for content-adaptive-encoding](https://arxiv.org/abs/2206.11976)|[icip2022](https://gitlab.com/mindfreeze/icip2022)|
+|[multi-modal sensor data fusion for in-situ classification of animal behavior using accelerometry and gnss data](https://arxiv.org/abs/2206.12078)|[animal_behavior_classification_acc_gnss](https://github.com/reza219/animal_behavior_classification_acc_gnss)|
+|[deep-learning-aided distributed clock synchronization for wireless networks](https://arxiv.org/abs/2206.12097)|[distributed-dnn-aided-time-synchronization](https://github.com/emekagdswill/distributed-dnn-aided-time-synchronization)|
+|[signal knowledge graph](https://arxiv.org/abs/2206.12111)|[signal-knowledge-graph](https://github.com/anjsimmo/signal-knowledge-graph)|
+|[optimization-based exploration of the feasible power flow space for rapid data collection](https://arxiv.org/abs/2206.12214)|[data-collection-algorithm](https://github.com/ignasiven/data-collection-algorithm)|
+|[intersecting near-optimal spaces: european power systems with more resilience to weather variability](https://arxiv.org/abs/2206.12242)|[multidecade-data](https://github.com/aleks-g/multidecade-data)|
+|[accelerated information gradient flow](https://arxiv.org/abs/1909.02102)|[Accelerated-Information-Gradient-flow](https://github.com/YiifeiWang/Accelerated-Information-Gradient-flow)|
+|[source localization of graph diffusion via variational autoencoders for graph inverse problems](https://arxiv.org/abs/2206.12327)|[slvae](https://github.com/triplej0079/slvae)|
+|[deep generation of heterogeneous networks](https://arxiv.org/abs/2206.12336)|[hgen](https://github.com/lingchen0331/hgen)|
 ## 2022-06-24
 |paper|code|
 |---|---|
