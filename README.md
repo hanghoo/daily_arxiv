@@ -13,8 +13,6 @@
 |---|---|
 |[deep kkl: data-driven output prediction for non-linear systems](https://arxiv.org/abs/2103.12443)|[DeepKKL](https://github.com/SteevenJanny/DeepKKL)|
 |[robust photon-efficient imaging using a pixel-wise residual shrinkage network](https://arxiv.org/abs/2201.01453)|[robust-photon-efficient-imaging-using-prsnet](https://github.com/y2w-oc/robust-photon-efficient-imaging-using-prsnet)|
-|[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
-|[a biased random-key genetic algorithm for the home health care problem](https://arxiv.org/abs/2206.14347)|[brkga-mp-ipr-hhcrsp-2021](https://github.com/afkummer/brkga-mp-ipr-hhcrsp-2021)|
 |[robust online voltage control with an unknown grid topology](https://arxiv.org/abs/2206.14369)|[voltctrl](https://github.com/chrisyeh96/voltctrl)|
 |[correctly modeling tx and rx chain in (distributed) massive mimo -- new fundamental insights on coherency](https://arxiv.org/abs/2206.14752)|[Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO](https://github.com/rnissel/Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO)|
 |[depth-2 neural networks under a data-poisoning attack](https://arxiv.org/abs/2005.01699)|[neurotron_experiments](https://github.com/papamarkou/neurotron_experiments)|
