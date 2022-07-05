@@ -1,3 +1,10 @@
+## 2022-07-04
+|paper|code|
+|---|---|
+|[unified multi-rate control: from low level actuation to high level planning](https://arxiv.org/abs/2012.06558)|[segway_sim](https://github.com/DrewSingletary/segway_sim)|
+|[the fragility of noise estimation in kalman filter: optimization can handle model-misspecification](https://arxiv.org/abs/2104.02372)|[UsingKalmanFilterTheRightWay](https://github.com/ido90/UsingKalmanFilterTheRightWay)|
+|[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
+|[a biased random-key genetic algorithm for the home health care problem](https://arxiv.org/abs/2206.14347)|[brkga-mp-ipr-hhcrsp-2021](https://github.com/afkummer/brkga-mp-ipr-hhcrsp-2021)|
 ## 2022-07-01
 |paper|code|
 |---|---|
@@ -6,7 +13,6 @@
 |[leveraging joint-diagonalization in transform-learning nmf](https://arxiv.org/abs/2112.05664)|[tlnmf-tsp](https://github.com/sixin-zh/tlnmf-tsp)|
 |[barrier certified safety learning control: when sum-of-square programming meets reinforcement learning](https://arxiv.org/abs/2206.07915)|[ccta2022_saferl](https://github.com/wogwan/ccta2022_saferl)|
 |[propagation of measurement and model uncertainties through multiline trl calibration](https://arxiv.org/abs/2206.10209)|[uncertainty-multiline-trl-calibration](https://github.com/ZiadHatab/uncertainty-multiline-trl-calibration)|
-|[design and motion planning for a reconfigurable robotic base](https://arxiv.org/abs/2206.15298)|[swerve_steering](https://github.com/leggedrobotics/swerve_steering)|
 |[federated over-air subspace tracking from incomplete and corrupted data](https://arxiv.org/abs/2002.12873)|[distributed-pca](https://github.com/praneethmurthy/distributed-pca)|
 ## 2022-06-30
 |paper|code|
@@ -24,7 +30,6 @@
 |[aivc: artificial intelligence based video codec](https://arxiv.org/abs/2202.04365)|[AIVC](https://github.com/Orange-OpenSource/AIVC)|
 |[optimal intermittent particle filter](https://arxiv.org/abs/2204.06265)|[optimal_measurement_times_for_particle_filtering](https://github.com/amaurygouverneur/optimal_measurement_times_for_particle_filtering)|
 |[calipso: a differentiable solver for trajectory optimization with conic and complementarity constraints](https://arxiv.org/abs/2205.09255)|[calipso.jl](https://github.com/thowell/calipso.jl)|
-|[encoding of probability distributions for asymmetric numeral systems](https://arxiv.org/abs/2106.06438)|[AsymmetricNumeralSystemsToolkit](https://github.com/JarekDuda/AsymmetricNumeralSystemsToolkit)|
 |[stratified multivariate multiscale dispersion entropy for physiological signal analysis](https://arxiv.org/abs/2202.09298)|[smvmde](https://github.com/evangeloskafantaris/smvmde)|
 ## 2022-06-28
 |paper|code|
