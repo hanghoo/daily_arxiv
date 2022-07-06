@@ -1,3 +1,15 @@
+## 2022-07-05
+|paper|code|
+|---|---|
+|[distributionally consistent simulation of naturalistic driving environment for autonomous vehicle testing](https://arxiv.org/abs/2101.02828)|[highway-env](https://github.com/eleurent/highway-env)|
+|[a nearly blackwell-optimal policy gradient method](https://arxiv.org/abs/2105.13609)|[nbwpg](https://github.com/tttor/nbwpg)|
+|[feasibility study of neural ode and dae modules for power system dynamic component modeling](https://arxiv.org/abs/2110.12981)|[Py_PSNODE](https://github.com/xxh0523/Py_PSNODE)|
+|[design and motion planning for a reconfigurable robotic base](https://arxiv.org/abs/2206.15298)|[swerve_steering](https://github.com/leggedrobotics/swerve_steering)|
+|[hardware architecture for high throughput event visual data filtering with matrix of iir filters algorithm](https://arxiv.org/abs/2207.00860)|[dvs_filtermatrixiir](https://github.com/vision-agh/dvs_filtermatrixiir)|
+|[learning noise with generative adversarial networks: explorations with classical random process models](https://arxiv.org/abs/2207.01110)|[noisegan](https://github.com/usnistgov/noisegan)|
+|[task-oriented self-supervised learning for anomaly detection in electroencephalography](https://arxiv.org/abs/2207.01391)|[eeg-ad](https://github.com/ironing/eeg-ad)|
+|[encoding of probability distributions for asymmetric numeral systems](https://arxiv.org/abs/2106.06438)|[AsymmetricNumeralSystemsToolkit](https://github.com/JarekDuda/AsymmetricNumeralSystemsToolkit)|
+|[fair queuing aware congestion control](https://arxiv.org/abs/2206.10561)|[fair-queuing-aware-congestion-control](https://github.com/muxamilian/fair-queuing-aware-congestion-control)|
 ## 2022-07-04
 |paper|code|
 |---|---|
