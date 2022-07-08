@@ -1,3 +1,16 @@
+## 2022-07-07
+|paper|code|
+|---|---|
+|[efficient reachability analysis of parametric linear hybrid systems with time-triggered transitions](https://arxiv.org/abs/2006.12325)|[ReachabilityAnalysis.jl](https://github.com/JuliaReach/ReachabilityAnalysis.jl)|
+|[exploration of artificial intelligence-oriented power system dynamic simulators](https://arxiv.org/abs/2110.00931)|[Py_PSNODE](https://github.com/xxh0523/Py_PSNODE)|
+|[verification of neural-network control systems by integrating taylor models and zonotopes](https://arxiv.org/abs/2112.09197)|[aaai22_re](https://github.com/juliareach/aaai22_re)|
+|[state-augmented learnable algorithms for resource management in wireless networks](https://arxiv.org/abs/2207.02242)|[stateaugmented_rrm_gnn](https://github.com/navid-naderi/stateaugmented_rrm_gnn)|
+|[stochos: stochastic opportunistic maintenance scheduling for offshore wind farms](https://arxiv.org/abs/2207.02274)|[stochos](https://github.com/petros-pap/stochos)|
+|[can we effectively use smart contracts to stipulate time constraints?](https://arxiv.org/abs/2207.02323)|[execution-accuracy-testbed](https://github.com/marceltub/execution-accuracy-testbed)|
+|[a learning system for motion planning of free-float dual-arm space manipulator towards non-cooperative object](https://arxiv.org/abs/2207.02464)|[SpaceRobotEnv](https://github.com/Tsinghua-Space-Robot-Learning-Group/SpaceRobotEnv)|
+|[simbricks: end-to-end network system evaluation with modular simulation](https://arxiv.org/abs/2012.14219)|[simbricks](https://github.com/simbricks/simbricks)|
+|[edge-detect: edge-centric network intrusion detection using deep neural network](https://arxiv.org/abs/2102.01873)|[EDD](https://github.com/racsa-lab/EDD)|
+|[benchmarking of dl libraries and models on mobile devices](https://arxiv.org/abs/2202.06512)|[mobiledlframeworksbenchmark](https://github.com/ubiquitouslearning/mobiledlframeworksbenchmark)|
 ## 2022-07-06
 |paper|code|
 |---|---|
@@ -26,7 +39,6 @@
 |---|---|
 |[unified multi-rate control: from low level actuation to high level planning](https://arxiv.org/abs/2012.06558)|[segway_sim](https://github.com/DrewSingletary/segway_sim)|
 |[the fragility of noise estimation in kalman filter: optimization can handle model-misspecification](https://arxiv.org/abs/2104.02372)|[UsingKalmanFilterTheRightWay](https://github.com/ido90/UsingKalmanFilterTheRightWay)|
-|[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
 |[a biased random-key genetic algorithm for the home health care problem](https://arxiv.org/abs/2206.14347)|[brkga-mp-ipr-hhcrsp-2021](https://github.com/afkummer/brkga-mp-ipr-hhcrsp-2021)|
 ## 2022-07-01
 |paper|code|
