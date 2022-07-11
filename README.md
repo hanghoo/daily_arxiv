@@ -4,7 +4,6 @@
 |[scalable multiagent driving policies for reducing traffic congestion](https://arxiv.org/abs/2103.00058)|[MITC-Project](https://github.com/cuijiaxun/MITC-Project)|
 |[infusing model predictive control into meta-reinforcement learning for mobile robots in dynamic environments](https://arxiv.org/abs/2109.07120)|[mpc-pearl](https://github.com/core-snu/mpc-pearl)|
 |[visual sensor network stimulation model identification via gaussian mixture model and deep embedded features](https://arxiv.org/abs/2201.06804)|[vsn-with-ae](https://github.com/luca-varotto/vsn-with-ae)|
-|[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
 |[variance in classifying affective state via electrocardiogram and photoplethysmography](https://arxiv.org/abs/2207.02916)|[emo_phys_eval](https://github.com/zacdair/emo_phys_eval)|
 |[do we really need inertia?](https://arxiv.org/abs/2207.03292)|[Publications](https://github.com/Future-Power-Networks/Publications)|
 |[stochastic optimal well control in subsurface reservoirs using reinforcement learning](https://arxiv.org/abs/2207.03456)|[rl_robust_owc](https://github.com/atishdixit16/rl_robust_owc)|
