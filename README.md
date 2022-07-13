@@ -1,8 +1,25 @@
+## 2022-07-12
+|paper|code|
+|---|---|
+|[heteroscedastic uncertainty for robust generative latent dynamics](https://arxiv.org/abs/2008.08157)|[robust-latent-srl](https://github.com/utiasSTARS/robust-latent-srl)|
+|[beyond cost reduction: improving the value of energy storage in electricity systems](https://arxiv.org/abs/2101.10092)|[beyond-cost](https://github.com/pz-max/beyond-cost)|
+|[towards off-the-grid algorithms for total variation regularized inverse problems](https://arxiv.org/abs/2104.06706)|[tvsfw](https://github.com/rpetit/tvsfw)|
+|[multilevel monte carlo with surrogate models for resource adequacy assessment](https://arxiv.org/abs/2203.03437)|[mlmc-pmaps2022](https://github.com/ensieh-sharifnia/mlmc-pmaps2022)|
+|[arena-bench: a benchmarking suite for obstacle avoidance approaches in highly dynamic environments](https://arxiv.org/abs/2206.05728)|[arena-bench](https://github.com/ignc-research/arena-bench)|
+|[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
+|[frame-type sensitive rdo control for content-adaptive-encoding](https://arxiv.org/abs/2206.11976)|[icip2022](https://gitlab.com/mindfreeze/icip2022)|
+|[design and motion planning for a reconfigurable robotic base](https://arxiv.org/abs/2206.15298)|[swerve_steering](https://github.com/leggedrobotics/swerve_steering)|
+|[stochastic optimal well control in subsurface reservoirs using reinforcement learning](https://arxiv.org/abs/2207.03456)|[rl_robust_owc](https://github.com/atishdixit16/rl_robust_owc)|
+|[multi-channel deep networks for block-based image compressive sensing](https://arxiv.org/abs/1908.11221)|[deepbcs](https://github.com/siwangzhou/deepbcs)|
+|[ipal: breaking up silos of protocol-dependent and domain-specific industrial intrusion detection systems](https://arxiv.org/abs/2111.03438)|[ipal_datasets](https://github.com/fkie-cad/ipal_datasets)|
+|[an information upper bound for probability sensitivity](https://arxiv.org/abs/2206.02274)|[ProbSensitivityInfoBound](https://github.com/longitude-jyang/ProbSensitivityInfoBound)|
+|[l$_0$onie: compressing coins with l$_0$-constraints](https://arxiv.org/abs/2207.04144)|[l0onie](https://github.com/juan43ramirez/l0onie)|
 ## 2022-07-11
 |paper|code|
 |---|---|
 |[network-aware flexibility requests for distribution-level flexibility markets](https://arxiv.org/abs/2110.05983)|[flexrequest-creation](https://github.com/eleaprat/flexrequest-creation)|
 |[mutual-information based optimal experimental design for hyperpolarized $^{13}$c-pyruvate mri](https://arxiv.org/abs/2206.12509)|[hyperpolarizedmri](https://github.com/prashjha/hyperpolarizedmri)|
+|[robustness evaluation of deep unsupervised learning algorithms for intrusion detection systems](https://arxiv.org/abs/2207.03576)|[robevalanodetect](https://github.com/intrudetection/robevalanodetect)|
 ## 2022-07-08
 |paper|code|
 |---|---|
@@ -10,6 +27,7 @@
 |[infusing model predictive control into meta-reinforcement learning for mobile robots in dynamic environments](https://arxiv.org/abs/2109.07120)|[mpc-pearl](https://github.com/core-snu/mpc-pearl)|
 |[visual sensor network stimulation model identification via gaussian mixture model and deep embedded features](https://arxiv.org/abs/2201.06804)|[vsn-with-ae](https://github.com/luca-varotto/vsn-with-ae)|
 |[variance in classifying affective state via electrocardiogram and photoplethysmography](https://arxiv.org/abs/2207.02916)|[emo_phys_eval](https://github.com/zacdair/emo_phys_eval)|
+|[morpi: mobile robot pure inertial navigation](https://arxiv.org/abs/2207.02982)|[morpi](https://github.com/ansfl/morpi)|
 |[do we really need inertia?](https://arxiv.org/abs/2207.03292)|[Publications](https://github.com/Future-Power-Networks/Publications)|
 |[topologically driven methods for construction of multi-edge type (multigraph with nodes puncturing) quasi-cyclic low-density parity-check codes for wireless channel, wdm long-haul and archival holographic memory](https://arxiv.org/abs/2011.14753)|[trapping-sets-enumeration](https://github.com/Lcrypto/trapping-sets-enumeration)|
 ## 2022-07-07
