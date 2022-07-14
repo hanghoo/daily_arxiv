@@ -1,3 +1,14 @@
+## 2022-07-13
+|paper|code|
+|---|---|
+|[non-intrusive balancing transformation of highly stiff systems with lightly-damped impulse response](https://arxiv.org/abs/2109.10408)|[perform](https://github.com/cwentland0/perform)|
+|[a covariant, discrete time-frequency representation tailored for zero-based signal detection](https://arxiv.org/abs/2202.03835)|[kravchuk-transform-and-its-zeros](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros)|
+|[connecting gaits in energetically conservative legged systems](https://arxiv.org/abs/2203.00782)|[connectinggaitsinenergeticallyconservativeleggedsystems](https://github.com/raffmax/connectinggaitsinenergeticallyconservativeleggedsystems)|
+|[gnn-pmb: a simple but effective online 3d multi-object tracker without bells and whistles](https://arxiv.org/abs/2206.10255)|[gnn_pmb_tracker](https://github.com/chisyliu/gnn_pmb_tracker)|
+|[correctly modeling tx and rx chain in (distributed) massive mimo -- new fundamental insights on coherency](https://arxiv.org/abs/2206.14752)|[Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO](https://github.com/rnissel/Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO)|
+|[an automated theorem proving framework for information-theoretic results](https://arxiv.org/abs/2101.12370)|[psitip](https://github.com/cheuktingli/psitip)|
+|[on the distribution of the information density of gaussian random vectors: explicit formulas and tight approximations](https://arxiv.org/abs/2105.03925)|[information-density](https://gitlab.com/infth/information-density)|
+|[quantum advantage in learning from experiments](https://arxiv.org/abs/2112.00778)|[ReCirq](https://github.com/quantumlib/ReCirq)|
 ## 2022-07-12
 |paper|code|
 |---|---|
@@ -5,7 +16,6 @@
 |[beyond cost reduction: improving the value of energy storage in electricity systems](https://arxiv.org/abs/2101.10092)|[beyond-cost](https://github.com/pz-max/beyond-cost)|
 |[towards off-the-grid algorithms for total variation regularized inverse problems](https://arxiv.org/abs/2104.06706)|[tvsfw](https://github.com/rpetit/tvsfw)|
 |[multilevel monte carlo with surrogate models for resource adequacy assessment](https://arxiv.org/abs/2203.03437)|[mlmc-pmaps2022](https://github.com/ensieh-sharifnia/mlmc-pmaps2022)|
-|[arena-bench: a benchmarking suite for obstacle avoidance approaches in highly dynamic environments](https://arxiv.org/abs/2206.05728)|[arena-bench](https://github.com/ignc-research/arena-bench)|
 |[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
 |[frame-type sensitive rdo control for content-adaptive-encoding](https://arxiv.org/abs/2206.11976)|[icip2022](https://gitlab.com/mindfreeze/icip2022)|
 |[design and motion planning for a reconfigurable robotic base](https://arxiv.org/abs/2206.15298)|[swerve_steering](https://github.com/leggedrobotics/swerve_steering)|
