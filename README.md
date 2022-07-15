@@ -1,3 +1,11 @@
+## 2022-07-14
+|paper|code|
+|---|---|
+|[robust data-driven predictive control using reachability analysis](https://arxiv.org/abs/2103.14110)|[Data-Driven-Predictive-Control](https://github.com/aalanwar/Data-Driven-Predictive-Control)|
+|[arena-bench: a benchmarking suite for obstacle avoidance approaches in highly dynamic environments](https://arxiv.org/abs/2206.05728)|[arena-bench](https://github.com/ignc-research/arena-bench)|
+|[a comparison between pmbm bayesian track initiation and labelled rfs adaptive birth](https://arxiv.org/abs/2207.06156)|[MTT](https://github.com/Agarciafernandez/MTT)|
+|[iterative linear quadratic optimization for nonlinear control: differentiable programming algorithmic templates](https://arxiv.org/abs/2207.06362)|[ilqc](https://github.com/vroulet/ilqc)|
+|[qt-routenet: improved gnn generalization to larger 5g networks by fine-tuning predictions from queueing theory](https://arxiv.org/abs/2207.06336)|[itu-ml5g-ps-001-parana](https://github.com/itu-ai-ml-in-5g-challenge/itu-ml5g-ps-001-parana)|
 ## 2022-07-13
 |paper|code|
 |---|---|
@@ -6,6 +14,8 @@
 |[connecting gaits in energetically conservative legged systems](https://arxiv.org/abs/2203.00782)|[connectinggaitsinenergeticallyconservativeleggedsystems](https://github.com/raffmax/connectinggaitsinenergeticallyconservativeleggedsystems)|
 |[gnn-pmb: a simple but effective online 3d multi-object tracker without bells and whistles](https://arxiv.org/abs/2206.10255)|[gnn_pmb_tracker](https://github.com/chisyliu/gnn_pmb_tracker)|
 |[correctly modeling tx and rx chain in (distributed) massive mimo -- new fundamental insights on coherency](https://arxiv.org/abs/2206.14752)|[Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO](https://github.com/rnissel/Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO)|
+|[auna: modularly integrated simulation framework for cooperative autonomous navigation](https://arxiv.org/abs/2207.05544)|[auna](https://github.com/tu-dortmund-ls12-rt/auna)|
+|[safedrones: real-time reliability evaluation of uavs using executable digital dependable identities](https://arxiv.org/abs/2207.05643)|[safedrones](https://github.com/koo-ec/safedrones)|
 |[an automated theorem proving framework for information-theoretic results](https://arxiv.org/abs/2101.12370)|[psitip](https://github.com/cheuktingli/psitip)|
 |[on the distribution of the information density of gaussian random vectors: explicit formulas and tight approximations](https://arxiv.org/abs/2105.03925)|[information-density](https://gitlab.com/infth/information-density)|
 |[quantum advantage in learning from experiments](https://arxiv.org/abs/2112.00778)|[ReCirq](https://github.com/quantumlib/ReCirq)|
