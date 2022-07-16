@@ -1,9 +1,21 @@
+## 2022-07-15
+|paper|code|
+|---|---|
+|[self-supervised speaker recognition with loss-gated learning](https://arxiv.org/abs/2110.03869)|[loss-gated-learning](https://github.com/taoruijie/loss-gated-learning)|
+|[closing the loop: a framework for trustworthy machine learning in power systems](https://arxiv.org/abs/2203.07505)|[irep_2022_closing_the_loop](https://github.com/jbesty/irep_2022_closing_the_loop)|
+|[reconstruction of time-varying graph signals via sobolev smoothness](https://arxiv.org/abs/2207.06439)|[graphtrss](https://github.com/jhonygiraldo/graphtrss)|
+|[few-shot specific emitter identification via deep metric ensemble learning](https://arxiv.org/abs/2207.06592)|[few-shot-specific-emitter-identification-via-deep-metric-ensemble-learning](https://github.com/beechburgpiestar/few-shot-specific-emitter-identification-via-deep-metric-ensemble-learning)|
+|[a neural-network framework for the design of individualised hearing-loss compensation](https://arxiv.org/abs/2207.07091)|[connear_periphery](https://github.com/hearingtechnology/connear_periphery)|
+|[analytic relations between complex networks: encoding, decoding, and causality](https://arxiv.org/abs/2207.06606)|[analytic-relations-between-complex-networks-encoding-decoding-and-causality](https://github.com/doloming/analytic-relations-between-complex-networks-encoding-decoding-and-causality)|
+|[an asymmetric contrastive loss for handling imbalanced datasets](https://arxiv.org/abs/2207.07080)|[asymmetric-cl](https://github.com/valentinovito/asymmetric-cl)|
 ## 2022-07-14
 |paper|code|
 |---|---|
 |[robust data-driven predictive control using reachability analysis](https://arxiv.org/abs/2103.14110)|[Data-Driven-Predictive-Control](https://github.com/aalanwar/Data-Driven-Predictive-Control)|
 |[arena-bench: a benchmarking suite for obstacle avoidance approaches in highly dynamic environments](https://arxiv.org/abs/2206.05728)|[arena-bench](https://github.com/ignc-research/arena-bench)|
+|[flexible ramping product procurement in day-ahead markets](https://arxiv.org/abs/2207.05880)|[damc](https://github.com/oyurdakul/damc)|
 |[a comparison between pmbm bayesian track initiation and labelled rfs adaptive birth](https://arxiv.org/abs/2207.06156)|[MTT](https://github.com/Agarciafernandez/MTT)|
+|[snappergps: open hardware for energy-efficient, low-cost wildlife location tracking with snapshot gnss](https://arxiv.org/abs/2207.06310)|[snappergps-pcb](https://github.com/snappergps/snappergps-pcb)|
 |[iterative linear quadratic optimization for nonlinear control: differentiable programming algorithmic templates](https://arxiv.org/abs/2207.06362)|[ilqc](https://github.com/vroulet/ilqc)|
 |[qt-routenet: improved gnn generalization to larger 5g networks by fine-tuning predictions from queueing theory](https://arxiv.org/abs/2207.06336)|[itu-ml5g-ps-001-parana](https://github.com/itu-ai-ml-in-5g-challenge/itu-ml5g-ps-001-parana)|
 ## 2022-07-13
