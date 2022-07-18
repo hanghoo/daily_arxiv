@@ -6,7 +6,6 @@
 |[information design for vehicle-to-vehicle communication](https://arxiv.org/abs/2207.06411)|[gould-trptc-2022](https://github.com/descon-uccs/gould-trptc-2022)|
 |[reconstruction of time-varying graph signals via sobolev smoothness](https://arxiv.org/abs/2207.06439)|[graphtrss](https://github.com/jhonygiraldo/graphtrss)|
 |[few-shot specific emitter identification via deep metric ensemble learning](https://arxiv.org/abs/2207.06592)|[few-shot-specific-emitter-identification-via-deep-metric-ensemble-learning](https://github.com/beechburgpiestar/few-shot-specific-emitter-identification-via-deep-metric-ensemble-learning)|
-|[open-source software for electrical engineering applications requiring consideration of electrodynamics: elecode](https://arxiv.org/abs/2207.06908)|[elecode](https://gitlab.com/dmika/elecode)|
 |[a neural-network framework for the design of individualised hearing-loss compensation](https://arxiv.org/abs/2207.07091)|[connear_periphery](https://github.com/hearingtechnology/connear_periphery)|
 |[analytic relations between complex networks: encoding, decoding, and causality](https://arxiv.org/abs/2207.06606)|[analytic-relations-between-complex-networks-encoding-decoding-and-causality](https://github.com/doloming/analytic-relations-between-complex-networks-encoding-decoding-and-causality)|
 |[an asymmetric contrastive loss for handling imbalanced datasets](https://arxiv.org/abs/2207.07080)|[asymmetric-cl](https://github.com/valentinovito/asymmetric-cl)|
@@ -27,7 +26,6 @@
 |[a covariant, discrete time-frequency representation tailored for zero-based signal detection](https://arxiv.org/abs/2202.03835)|[kravchuk-transform-and-its-zeros](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros)|
 |[connecting gaits in energetically conservative legged systems](https://arxiv.org/abs/2203.00782)|[connectinggaitsinenergeticallyconservativeleggedsystems](https://github.com/raffmax/connectinggaitsinenergeticallyconservativeleggedsystems)|
 |[gnn-pmb: a simple but effective online 3d multi-object tracker without bells and whistles](https://arxiv.org/abs/2206.10255)|[gnn_pmb_tracker](https://github.com/chisyliu/gnn_pmb_tracker)|
-|[correctly modeling tx and rx chain in (distributed) massive mimo -- new fundamental insights on coherency](https://arxiv.org/abs/2206.14752)|[Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO](https://github.com/rnissel/Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO)|
 |[auna: modularly integrated simulation framework for cooperative autonomous navigation](https://arxiv.org/abs/2207.05544)|[auna](https://github.com/tu-dortmund-ls12-rt/auna)|
 |[safedrones: real-time reliability evaluation of uavs using executable digital dependable identities](https://arxiv.org/abs/2207.05643)|[safedrones](https://github.com/koo-ec/safedrones)|
 |[an automated theorem proving framework for information-theoretic results](https://arxiv.org/abs/2101.12370)|[psitip](https://github.com/cheuktingli/psitip)|
