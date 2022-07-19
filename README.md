@@ -1,3 +1,13 @@
+## 2022-07-18
+|paper|code|
+|---|---|
+|[correctly modeling tx and rx chain in (distributed) massive mimo -- new fundamental insights on coherency](https://arxiv.org/abs/2206.14752)|[Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO](https://github.com/rnissel/Correctly-Modeling-TX-and-RX-Chain-in-Massive-MIMO)|
+|[open-source software for electrical engineering applications requiring consideration of electrodynamics: elecode](https://arxiv.org/abs/2207.06908)|[elecode](https://gitlab.com/dmika/elecode)|
+|[automating geometric proofs of collision avoidance with active corners](https://arxiv.org/abs/2207.07259)|[automatic-safety-proofs](https://github.com/nskh/automatic-safety-proofs)|
+|[strike-goldd 4.0: user-friendly, efficient analysis of structural identifiability and observability](https://arxiv.org/abs/2207.07346)|[strike-goldd](https://github.com/afvillaverde/strike-goldd)|
+|[deepsolar tracker: towards unsupervised assessment with open-source data of the accuracy of deep learning-based distributed pv mapping](https://arxiv.org/abs/2207.07466)|[dsfrance](https://github.com/gabrielkasmi/dsfrance)|
+|[outlier detection of vital sign trajectories from covid-19 patients](https://arxiv.org/abs/2207.07572)|[outlier-detection-recap-data](https://github.com/sara-es/outlier-detection-recap-data)|
+|[short-term trajectory prediction for full-immersive multiuser virtual reality with redirected walking](https://arxiv.org/abs/2207.07520)|[pm4vr](https://bitbucket.org/filip_lemic/pm4vr)|
 ## 2022-07-15
 |paper|code|
 |---|---|
@@ -25,7 +35,6 @@
 |[non-intrusive balancing transformation of highly stiff systems with lightly-damped impulse response](https://arxiv.org/abs/2109.10408)|[perform](https://github.com/cwentland0/perform)|
 |[a covariant, discrete time-frequency representation tailored for zero-based signal detection](https://arxiv.org/abs/2202.03835)|[kravchuk-transform-and-its-zeros](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros)|
 |[connecting gaits in energetically conservative legged systems](https://arxiv.org/abs/2203.00782)|[connectinggaitsinenergeticallyconservativeleggedsystems](https://github.com/raffmax/connectinggaitsinenergeticallyconservativeleggedsystems)|
-|[gnn-pmb: a simple but effective online 3d multi-object tracker without bells and whistles](https://arxiv.org/abs/2206.10255)|[gnn_pmb_tracker](https://github.com/chisyliu/gnn_pmb_tracker)|
 |[auna: modularly integrated simulation framework for cooperative autonomous navigation](https://arxiv.org/abs/2207.05544)|[auna](https://github.com/tu-dortmund-ls12-rt/auna)|
 |[safedrones: real-time reliability evaluation of uavs using executable digital dependable identities](https://arxiv.org/abs/2207.05643)|[safedrones](https://github.com/koo-ec/safedrones)|
 |[an automated theorem proving framework for information-theoretic results](https://arxiv.org/abs/2101.12370)|[psitip](https://github.com/cheuktingli/psitip)|
