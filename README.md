@@ -1,3 +1,13 @@
+## 2022-07-20
+|paper|code|
+|---|---|
+|[a large collection of real-world pediatric sleep studies](https://arxiv.org/abs/2102.13284)|[sleep_study](https://github.com/liboyue/sleep_study)|
+|[continuous and distribution-free probabilistic wind power forecasting: a conditional normalizing flow approach](https://arxiv.org/abs/2206.02433)|[Conditional-normalizing-flow-for-wind-power-forecasting](https://github.com/honglinwen/Conditional-normalizing-flow-for-wind-power-forecasting)|
+|[flexible ramping product procurement in day-ahead markets](https://arxiv.org/abs/2207.05880)|[damc](https://github.com/oyurdakul/damc)|
+|[do not sleep on linear models: simple and interpretable techniques outperform deep learning for sleep scoring](https://arxiv.org/abs/2207.07753)|[sleep-linear](https://github.com/predict-idlab/sleep-linear)|
+|[unrolled algorithms for group synchronization](https://arxiv.org/abs/2207.09418)|[unrolling_synchronization](https://github.com/noamjanco/unrolling_synchronization)|
+|[iotdevid: a behavior-based device identification method for the iot](https://arxiv.org/abs/2102.08866)|[iotdevidv2](https://github.com/kahramankostas/iotdevidv2)|
+|[balancing the trade-off between cost and reliability for wireless sensor networks: a multi-objective optimized deployment method](https://arxiv.org/abs/2207.09089)|[CMOMPA](https://github.com/iNet-WZU/CMOMPA)|
 ## 2022-07-19
 |paper|code|
 |---|---|
@@ -23,6 +33,7 @@
 |[strike-goldd 4.0: user-friendly, efficient analysis of structural identifiability and observability](https://arxiv.org/abs/2207.07346)|[strike-goldd](https://github.com/afvillaverde/strike-goldd)|
 |[deepsolar tracker: towards unsupervised assessment with open-source data of the accuracy of deep learning-based distributed pv mapping](https://arxiv.org/abs/2207.07466)|[dsfrance](https://github.com/gabrielkasmi/dsfrance)|
 |[outlier detection of vital sign trajectories from covid-19 patients](https://arxiv.org/abs/2207.07572)|[outlier-detection-recap-data](https://github.com/sara-es/outlier-detection-recap-data)|
+|[securing name resolution in the iot: dns over coap](https://arxiv.org/abs/2207.07486)|[aiodnsprox](https://github.com/anr-bmbf-pivot/aiodnsprox)|
 |[short-term trajectory prediction for full-immersive multiuser virtual reality with redirected walking](https://arxiv.org/abs/2207.07520)|[pm4vr](https://bitbucket.org/filip_lemic/pm4vr)|
 ## 2022-07-15
 |paper|code|
