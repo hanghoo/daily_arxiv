@@ -1,3 +1,13 @@
+## 2022-07-21
+|paper|code|
+|---|---|
+|[invertibility conditions for the admittance matrices of balanced power systems](https://arxiv.org/abs/2012.04087)|[ybus-inv-check](https://github.com/djturizo/ybus-inv-check)|
+|[quadratic and higher-order unconstrained binary optimization of railway rescheduling for quantum computing](https://arxiv.org/abs/2107.03234)|[railways_hobo](https://github.com/iitis/railways_hobo)|
+|[philip on the hil: automated multi-platform os testing with external reference devices](https://arxiv.org/abs/2107.07255)|[PHiLIP](https://github.com/riot-appstore/PHiLIP)|
+|[infusing model predictive control into meta-reinforcement learning for mobile robots in dynamic environments](https://arxiv.org/abs/2109.07120)|[mpc-pearl](https://github.com/core-snu/mpc-pearl)|
+|[exploration of artificial intelligence-oriented power system dynamic simulators](https://arxiv.org/abs/2110.00931)|[Py_PSNODE](https://github.com/xxh0523/Py_PSNODE)|
+|[beats: an open-source, high-precision, multi-channel eeg acquisition tool system](https://arxiv.org/abs/2203.02102)|[beats](https://github.com/buptanteeg/beats)|
+|[secure and authorized client-to-client communication for lwm2m](https://arxiv.org/abs/2203.03450)|[ipsn-2022-lwm2mc2c](https://github.com/inetrg/ipsn-2022-lwm2mc2c)|
 ## 2022-07-20
 |paper|code|
 |---|---|
@@ -6,7 +16,8 @@
 |[flexible ramping product procurement in day-ahead markets](https://arxiv.org/abs/2207.05880)|[damc](https://github.com/oyurdakul/damc)|
 |[do not sleep on linear models: simple and interpretable techniques outperform deep learning for sleep scoring](https://arxiv.org/abs/2207.07753)|[sleep-linear](https://github.com/predict-idlab/sleep-linear)|
 |[unrolled algorithms for group synchronization](https://arxiv.org/abs/2207.09418)|[unrolling_synchronization](https://github.com/noamjanco/unrolling_synchronization)|
-|[iotdevid: a behavior-based device identification method for the iot](https://arxiv.org/abs/2102.08866)|[iotdevidv2](https://github.com/kahramankostas/iotdevidv2)|
+|[iotdevid: a behavior-based device identification method for the iot](https://arxiv.org/abs/2102.08866)|[IoTDevID](https://github.com/kahramankostas/IoTDevID)|
+|[automated black-box boundary value detection](https://arxiv.org/abs/2207.09065)|[repro_autobva](https://github.com/feldob/repro_autobva)|
 |[balancing the trade-off between cost and reliability for wireless sensor networks: a multi-objective optimized deployment method](https://arxiv.org/abs/2207.09089)|[CMOMPA](https://github.com/iNet-WZU/CMOMPA)|
 ## 2022-07-19
 |paper|code|
@@ -15,7 +26,6 @@
 |[correlated age-of-information bandits](https://arxiv.org/abs/2011.05032)|[Correlated-AoI-Bandits](https://github.com/ishank-juneja/Correlated-AoI-Bandits)|
 |[music source separation with generative flow](https://arxiv.org/abs/2204.09079)|[generativesourceseparation](https://github.com/gzhu06/generativesourceseparation)|
 |[plotly-resampler: effective visual analytics for large time series](https://arxiv.org/abs/2206.08703)|[plotly-resampler](https://github.com/predict-idlab/plotly-resampler)|
-|[gnn-pmb: a simple but effective online 3d multi-object tracker without bells and whistles](https://arxiv.org/abs/2206.10255)|[gnn_pmb_tracker](https://github.com/chisyliu/gnn_pmb_tracker)|
 |[segment-level metric learning for few-shot bioacoustic event detection](https://arxiv.org/abs/2207.07773)|[dcase_2022_task_5](https://github.com/haoheliu/dcase_2022_task_5)|
 |[deep learning and its applications to wifi human sensing: a benchmark and a tutorial](https://arxiv.org/abs/2207.07859)|[wifi-csi-sensing-benchmark](https://github.com/chenxinyan-sg/wifi-csi-sensing-benchmark)|
 |[the signed cumulative distribution transform for 1-d signal analysis and classification](https://arxiv.org/abs/2106.02146)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
