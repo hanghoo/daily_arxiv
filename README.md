@@ -1,3 +1,11 @@
+## 2022-07-22
+|paper|code|
+|---|---|
+|[gaussian process uniform error bounds with unknown hyperparameters for safety-critical applications](https://arxiv.org/abs/2109.02606)|[gauss_proc_unknown_hyp](https://github.com/aCapone1/gauss_proc_unknown_hyp)|
+|[approximate quantiles for stochastic optimal control of lti systems with arbitrary disturbances](https://arxiv.org/abs/2110.03040)|[shawnpriore-approximate-quantiles](https://github.com/unm-hscl/shawnpriore-approximate-quantiles)|
+|[neural architecture search for spiking neural networks](https://arxiv.org/abs/2201.10355)|[neural-architecture-search-for-spiking-neural-networks](https://github.com/intelligent-computing-lab-yale/neural-architecture-search-for-spiking-neural-networks)|
+|[gnn-pmb: a simple but effective online 3d multi-object tracker without bells and whistles](https://arxiv.org/abs/2206.10255)|[gnn_pmb_tracker](https://github.com/chisyliu/gnn_pmb_tracker)|
+|[multi resolution analysis (mra) for approximate self-attention](https://arxiv.org/abs/2207.10284)|[mra-attention](https://github.com/mlpen/mra-attention)|
 ## 2022-07-21
 |paper|code|
 |---|---|
