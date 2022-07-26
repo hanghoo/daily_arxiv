@@ -1,3 +1,8 @@
+## 2022-07-25
+|paper|code|
+|---|---|
+|[explainable ai algorithms for vibration data-based fault detection: use case-adadpted methods and critical evaluation](https://arxiv.org/abs/2207.10732)|[xai-vibration-fault-detection](https://github.com/o-mey/xai-vibration-fault-detection)|
+|[on controller tuning with time-varying bayesian optimization](https://arxiv.org/abs/2207.11120)|[uitvbo](https://github.com/brunzema/uitvbo)|
 ## 2022-07-22
 |paper|code|
 |---|---|
