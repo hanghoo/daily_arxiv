@@ -1,7 +1,20 @@
+## 2022-07-26
+|paper|code|
+|---|---|
+|[task-oriented communication for multi-device cooperative edge inference](https://arxiv.org/abs/2109.00172)|[vddib-sr](https://github.com/shaojiawei07/vddib-sr)|
+|[secondary control activation analysed and predicted with explainable ai](https://arxiv.org/abs/2109.04802)|[xai-for-afrr-activation](https://github.com/johkruse/xai-for-afrr-activation)|
+|[end-to-end signal classification in signed cumulative distribution transform space](https://arxiv.org/abs/2205.00348)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
+|[a learning aided flexible gradient descent approach to miso beamforming](https://arxiv.org/abs/2206.10499)|[lagd](https://github.com/xiagroup/lagd)|
+|[vector field-based collision avoidance for moving obstacles with time-varying elliptical shape](https://arxiv.org/abs/2207.01747)|[vector-field-obstacle-avoidance](https://github.com/MartinBraquet/vector-field-obstacle-avoidance)|
+|[driver dojo: a benchmark for generalizable reinforcement learning for autonomous driving](https://arxiv.org/abs/2207.11432)|[driver-dojo](https://github.com/seawee1/driver-dojo)|
+|[openran gym: ai/ml development, data collection, and testing for o-ran on pawr platforms](https://arxiv.org/abs/2207.12362)|[colosseum-near-rt-ric](https://github.com/wineslab/colosseum-near-rt-ric)|
+|[toward reliable signals decoding for electroencephalogram: a benchmark study to eegnex](https://arxiv.org/abs/2207.12369)|[eegnex](https://github.com/chenxiachan/eegnex)|
+|[quantum advantage in learning from experiments](https://arxiv.org/abs/2112.00778)|[ReCirq](https://github.com/quantumlib/ReCirq)|
 ## 2022-07-25
 |paper|code|
 |---|---|
 |[explainable ai algorithms for vibration data-based fault detection: use case-adadpted methods and critical evaluation](https://arxiv.org/abs/2207.10732)|[xai-vibration-fault-detection](https://github.com/o-mey/xai-vibration-fault-detection)|
+|[data-driven stochastic ac-opf using gaussian processes](https://arxiv.org/abs/2207.10781)|[gp_cc-opf](https://github.com/mile888/gp_cc-opf)|
 |[on controller tuning with time-varying bayesian optimization](https://arxiv.org/abs/2207.11120)|[uitvbo](https://github.com/brunzema/uitvbo)|
 ## 2022-07-22
 |paper|code|
