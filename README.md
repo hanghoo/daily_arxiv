@@ -1,3 +1,11 @@
+## 2022-07-27
+|paper|code|
+|---|---|
+|[sparse signal models for data augmentation in deep learning atr](https://arxiv.org/abs/2012.09284)|[mstar_data_aug](https://github.com/SENSE-Lab-OSU/mstar_data_aug)|
+|[few-shot domain adaptation for end-to-end communication](https://arxiv.org/abs/2108.00874)|[domain-adaptation-autoencoder](https://github.com/jayaram-r/domain-adaptation-autoencoder)|
+|[safe-control-gym: a unified benchmark suite for safe learning-based control and reinforcement learning in robotics](https://arxiv.org/abs/2109.06325)|[safe-control-gym](https://github.com/utiasDSL/safe-control-gym)|
+|[secure service implementation with slice isolation and wireguard](https://arxiv.org/abs/2207.12471)|[ttm4905](https://github.com/sondrki/ttm4905)|
+|[dynamic measurement of structural entropy for dynamic graphs](https://arxiv.org/abs/2207.12653)|[incre-se](https://github.com/yangrunze1013/incre-se)|
 ## 2022-07-26
 |paper|code|
 |---|---|
@@ -10,6 +18,7 @@
 |[openran gym: ai/ml development, data collection, and testing for o-ran on pawr platforms](https://arxiv.org/abs/2207.12362)|[colosseum-near-rt-ric](https://github.com/wineslab/colosseum-near-rt-ric)|
 |[toward reliable signals decoding for electroencephalogram: a benchmark study to eegnex](https://arxiv.org/abs/2207.12369)|[eegnex](https://github.com/chenxiachan/eegnex)|
 |[quantum advantage in learning from experiments](https://arxiv.org/abs/2112.00778)|[ReCirq](https://github.com/quantumlib/ReCirq)|
+|[on confidence sequences for bounded random processes via universal gambling strategies](https://arxiv.org/abs/2207.12382)|[confidence-sequence-via-gambling](https://github.com/jongharyu/confidence-sequence-via-gambling)|
 ## 2022-07-25
 |paper|code|
 |---|---|
