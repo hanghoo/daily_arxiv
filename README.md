@@ -1,3 +1,9 @@
+## 2022-07-28
+|paper|code|
+|---|---|
+|[graph neural networks for communication networks: context, use cases and opportunities](https://arxiv.org/abs/2112.14792)|[GNNPapersCommNets](https://github.com/BNN-UPC/GNNPapersCommNets)|
+|[data-driven stochastic ac-opf using gaussian processes](https://arxiv.org/abs/2207.10781)|[gp_cc-opf](https://github.com/mile888/gp_cc-opf)|
+|[marker and source-marker reprogramming of most permissive boolean networks and ensembles with bonesis](https://arxiv.org/abs/2207.13307)|[reprogramming-with-bonesis](https://github.com/bnediction/reprogramming-with-bonesis)|
 ## 2022-07-27
 |paper|code|
 |---|---|
@@ -23,7 +29,6 @@
 |paper|code|
 |---|---|
 |[explainable ai algorithms for vibration data-based fault detection: use case-adadpted methods and critical evaluation](https://arxiv.org/abs/2207.10732)|[xai-vibration-fault-detection](https://github.com/o-mey/xai-vibration-fault-detection)|
-|[data-driven stochastic ac-opf using gaussian processes](https://arxiv.org/abs/2207.10781)|[gp_cc-opf](https://github.com/mile888/gp_cc-opf)|
 |[on controller tuning with time-varying bayesian optimization](https://arxiv.org/abs/2207.11120)|[uitvbo](https://github.com/brunzema/uitvbo)|
 ## 2022-07-22
 |paper|code|
