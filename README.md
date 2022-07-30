@@ -1,9 +1,21 @@
+## 2022-07-29
+|paper|code|
+|---|---|
+|[a comparative study of algorithms for intelligent traffic signal control](https://arxiv.org/abs/2109.00937)|[sumo-rl](https://github.com/LucasAlegre/sumo-rl)|
+|[physics-informed neural networks for ac optimal power flow](https://arxiv.org/abs/2110.02672)|[Physics-Informed-Neural-Networks-for-AC-Optimal-Power-Flow](https://github.com/RahulNellikkath/Physics-Informed-Neural-Networks-for-AC-Optimal-Power-Flow)|
+|[neuropack: an algorithm-level python-based simulator for memristor-empowered neuro-inspired computing](https://arxiv.org/abs/2201.03339)|[neuropack](https://github.com/hjq310/neuropack)|
+|[improving the performance of robust control through event-triggered learning](https://arxiv.org/abs/2207.14252)|[betl](https://github.com/avrohr/betl)|
+|[one-nearest-neighbor search is all you need for minimax optimal regression and classification](https://arxiv.org/abs/2202.02464)|[split-knn-rules](https://github.com/jongharyu/split-knn-rules)|
+|[pareto-optimal clustering with the primal deterministic information bottleneck](https://arxiv.org/abs/2204.02489)|[pareto_dib](https://github.com/andrewktan/pareto_dib)|
 ## 2022-07-28
 |paper|code|
 |---|---|
 |[graph neural networks for communication networks: context, use cases and opportunities](https://arxiv.org/abs/2112.14792)|[GNNPapersCommNets](https://github.com/BNN-UPC/GNNPapersCommNets)|
 |[data-driven stochastic ac-opf using gaussian processes](https://arxiv.org/abs/2207.10781)|[gp_cc-opf](https://github.com/mile888/gp_cc-opf)|
 |[marker and source-marker reprogramming of most permissive boolean networks and ensembles with bonesis](https://arxiv.org/abs/2207.13307)|[reprogramming-with-bonesis](https://github.com/bnediction/reprogramming-with-bonesis)|
+|[unbiased active inference for classical control](https://arxiv.org/abs/2207.13409)|[unbiased_aic](https://github.com/cpezzato/unbiased_aic)|
+|[ultimatekalman: flexible kalman filtering and smoothing using orthogonal transformations](https://arxiv.org/abs/2207.13526)|[ultimate-kalman](https://github.com/sivantoledo/ultimate-kalman)|
+|[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezhav2](https://gitlab.com/steamgjk/nezhav2)|
 ## 2022-07-27
 |paper|code|
 |---|---|
