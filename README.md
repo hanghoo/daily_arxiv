@@ -4,6 +4,8 @@
 |[a comparative study of algorithms for intelligent traffic signal control](https://arxiv.org/abs/2109.00937)|[sumo-rl](https://github.com/LucasAlegre/sumo-rl)|
 |[physics-informed neural networks for ac optimal power flow](https://arxiv.org/abs/2110.02672)|[Physics-Informed-Neural-Networks-for-AC-Optimal-Power-Flow](https://github.com/RahulNellikkath/Physics-Informed-Neural-Networks-for-AC-Optimal-Power-Flow)|
 |[neuropack: an algorithm-level python-based simulator for memristor-empowered neuro-inspired computing](https://arxiv.org/abs/2201.03339)|[neuropack](https://github.com/hjq310/neuropack)|
+|[model predictive control of nonlinear latent force models: a scenario-based approach](https://arxiv.org/abs/2207.13872)|[MPC-NLFM-Scenario-ICRA21](https://github.com/KU-ISSL/MPC-NLFM-Scenario-ICRA21)|
+|[wivelo: fine-grained walking velocity estimation for wi-fi passive tracking](https://arxiv.org/abs/2207.14072)|[WiVelo_SECON22](https://github.com/liecn/WiVelo_SECON22)|
 |[improving the performance of robust control through event-triggered learning](https://arxiv.org/abs/2207.14252)|[betl](https://github.com/avrohr/betl)|
 |[one-nearest-neighbor search is all you need for minimax optimal regression and classification](https://arxiv.org/abs/2202.02464)|[split-knn-rules](https://github.com/jongharyu/split-knn-rules)|
 |[pareto-optimal clustering with the primal deterministic information bottleneck](https://arxiv.org/abs/2204.02489)|[pareto_dib](https://github.com/andrewktan/pareto_dib)|
