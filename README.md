@@ -1,3 +1,12 @@
+## 2022-08-01
+|paper|code|
+|---|---|
+|[polar: a polynomial arithmetic framework for verifying neural-network controlled systems](https://arxiv.org/abs/2106.13867)|[polar_tool](https://github.com/chaohuang2018/polar_tool)|
+|[scalable simulation and demonstration of jumping piezoelectric 2-d soft robots](https://arxiv.org/abs/2202.13521)|[sfers](https://github.com/zhiwuz/sfers)|
+|[blockchain-enabled server-less federated learning](https://arxiv.org/abs/2112.07938)|[blockchain_enabled_federated_learning](https://github.com/fwilhelmi/blockchain_enabled_federated_learning)|
+|[quality of service in quantum networks](https://arxiv.org/abs/2204.09538)|[quantum-routing](https://github.com/ccicconetti/quantum-routing)|
+|[deep learning-based synchronization for uplink nb-iot](https://arxiv.org/abs/2205.10805)|[nprach_synch](https://github.com/nvlabs/nprach_synch)|
+|[analytic relations between networks: encoding, decoding, and causality](https://arxiv.org/abs/2207.06606)|[analytic-relations-between-complex-networks-encoding-decoding-and-causality](https://github.com/doloming/analytic-relations-between-complex-networks-encoding-decoding-and-causality)|
 ## 2022-07-29
 |paper|code|
 |---|---|
@@ -24,6 +33,7 @@
 |[sparse signal models for data augmentation in deep learning atr](https://arxiv.org/abs/2012.09284)|[mstar_data_aug](https://github.com/SENSE-Lab-OSU/mstar_data_aug)|
 |[few-shot domain adaptation for end-to-end communication](https://arxiv.org/abs/2108.00874)|[domain-adaptation-autoencoder](https://github.com/jayaram-r/domain-adaptation-autoencoder)|
 |[safe-control-gym: a unified benchmark suite for safe learning-based control and reinforcement learning in robotics](https://arxiv.org/abs/2109.06325)|[safe-control-gym](https://github.com/utiasDSL/safe-control-gym)|
+|[time majority voting, a pc-based eeg classifier for non-expert users](https://arxiv.org/abs/2207.12662)|[time_majority_voting](https://github.com/guangyaodou/time_majority_voting)|
 |[secure service implementation with slice isolation and wireguard](https://arxiv.org/abs/2207.12471)|[ttm4905](https://github.com/sondrki/ttm4905)|
 |[dynamic measurement of structural entropy for dynamic graphs](https://arxiv.org/abs/2207.12653)|[incre-se](https://github.com/yangrunze1013/incre-se)|
 ## 2022-07-26
