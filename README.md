@@ -1,8 +1,24 @@
+## 2022-08-02
+|paper|code|
+|---|---|
+|[constrained multi-agent ergodic area surveying control based on finite element approximation of the potential field](https://arxiv.org/abs/2109.10756)|[hedac_fem_data](https://gitlab.com/sikirica_a/hedac_fem_data)|
+|[adversarial robustness verification and attack synthesis in stochastic systems](https://arxiv.org/abs/2110.02125)|[dtmc_attack_synthesis](https://github.com/lisaoakley/dtmc_attack_synthesis)|
+|[feasibility study of neural ode and dae modules for power system dynamic component modeling](https://arxiv.org/abs/2110.12981)|[Py_PSNODE](https://github.com/xxh0523/Py_PSNODE)|
+|[rt-bench: an extensible benchmark framework for the analysis and management of real-time applications](https://arxiv.org/abs/2203.11423)|[rt-bench](https://gitlab.com/rt-bench/rt-bench)|
+|[continuous optimization for control of hybrid systems with hysteresis via time-freezing](https://arxiv.org/abs/2203.11510)|[nosnoc](https://github.com/nurkanovic/nosnoc)|
+|[untargeted region of interest selection for gc-ms data using a pseudo f-ratio moving window ($\psi$frmv)](https://arxiv.org/abs/2208.00313)|[regionofinterest](https://github.com/ryland-chem/regionofinterest)|
+|[performance comparison of deep rl algorithms for energy systems optimal scheduling](https://arxiv.org/abs/2208.00728)|[drl-for-energy-systems-optimal-scheduling](https://github.com/shengrenhou/drl-for-energy-systems-optimal-scheduling)|
+|[tcmi: a non-parametric mutual-dependence estimator for multivariate continuous distributions](https://arxiv.org/abs/2001.11212)|[tcmi](https://github.com/BenjaminRegler/tcmi)|
+|[vehicular fog computing enabled real-time collision warning via trajectory calibration](https://arxiv.org/abs/2005.11508)|[fog-computing-based-collision-warning-system](https://github.com/neardws/fog-computing-based-collision-warning-system)|
+|[tight concentrations and confidence sequences from the regret of universal portfolio](https://arxiv.org/abs/2110.14099)|[precise](https://github.com/bremen79/precise)|
+|[adaptive edge offloading for image classification under rate limit](https://arxiv.org/abs/2208.00485)|[edgeml-dqn](https://github.com/qiujiaming315/edgeml-dqn)|
 ## 2022-08-01
 |paper|code|
 |---|---|
 |[polar: a polynomial arithmetic framework for verifying neural-network controlled systems](https://arxiv.org/abs/2106.13867)|[polar_tool](https://github.com/chaohuang2018/polar_tool)|
+|[terrain-adaptive, alip-based bipedal locomotion controller via model predictive control and virtual constraints](https://arxiv.org/abs/2109.14862)|[cassie_alip_mpc](https://github.com/umich-bipedlab/cassie_alip_mpc)|
 |[scalable simulation and demonstration of jumping piezoelectric 2-d soft robots](https://arxiv.org/abs/2202.13521)|[sfers](https://github.com/zhiwuz/sfers)|
+|[deep learning based successive interference cancellation for the non-orthogonal downlink](https://arxiv.org/abs/2207.14468)|[sicnet](https://github.com/thienvanluong/sicnet)|
 |[blockchain-enabled server-less federated learning](https://arxiv.org/abs/2112.07938)|[blockchain_enabled_federated_learning](https://github.com/fwilhelmi/blockchain_enabled_federated_learning)|
 |[quality of service in quantum networks](https://arxiv.org/abs/2204.09538)|[quantum-routing](https://github.com/ccicconetti/quantum-routing)|
 |[deep learning-based synchronization for uplink nb-iot](https://arxiv.org/abs/2205.10805)|[nprach_synch](https://github.com/nvlabs/nprach_synch)|
