@@ -1,3 +1,11 @@
+## 2022-08-03
+|paper|code|
+|---|---|
+|[the time-freezing reformulation for numerical optimal control of complementarity lagrangian systems with state jumps](https://arxiv.org/abs/2111.06759)|[nosnoc](https://github.com/nurkanovic/nosnoc)|
+|[wayfast: navigation with predictive traversability in the field](https://arxiv.org/abs/2203.12071)|[wayfast](https://github.com/matval/wayfast)|
+|[self-supervised group meiosis contrastive learning for eeg-based emotion recognition](https://arxiv.org/abs/2208.00877)|[Self-supervised-group-meiosis-contrastive-learning-for-EEG-based-emotion-recognition](https://github.com/kanhaoning/Self-supervised-group-meiosis-contrastive-learning-for-EEG-based-emotion-recognition)|
+|[towards v2i age-aware fairness access: a dqn based intelligent vehicular node training and test method](https://arxiv.org/abs/2208.01283)|[age-fairness](https://github.com/qiongwu86/age-fairness)|
+|[enero: efficient real-time wan routing optimization with deep reinforcement learning](https://arxiv.org/abs/2109.10883)|[ENERO](https://github.com/BNN-UPC/ENERO)|
 ## 2022-08-02
 |paper|code|
 |---|---|
@@ -11,6 +19,7 @@
 |[tcmi: a non-parametric mutual-dependence estimator for multivariate continuous distributions](https://arxiv.org/abs/2001.11212)|[tcmi](https://github.com/BenjaminRegler/tcmi)|
 |[vehicular fog computing enabled real-time collision warning via trajectory calibration](https://arxiv.org/abs/2005.11508)|[fog-computing-based-collision-warning-system](https://github.com/neardws/fog-computing-based-collision-warning-system)|
 |[tight concentrations and confidence sequences from the regret of universal portfolio](https://arxiv.org/abs/2110.14099)|[precise](https://github.com/bremen79/precise)|
+|[better lattice quantizers constructed from complex integers](https://arxiv.org/abs/2204.01105)|[latticequantizer](https://github.com/shx-lyu/latticequantizer)|
 |[adaptive edge offloading for image classification under rate limit](https://arxiv.org/abs/2208.00485)|[edgeml-dqn](https://github.com/qiujiaming315/edgeml-dqn)|
 ## 2022-08-01
 |paper|code|
@@ -19,6 +28,7 @@
 |[terrain-adaptive, alip-based bipedal locomotion controller via model predictive control and virtual constraints](https://arxiv.org/abs/2109.14862)|[cassie_alip_mpc](https://github.com/umich-bipedlab/cassie_alip_mpc)|
 |[scalable simulation and demonstration of jumping piezoelectric 2-d soft robots](https://arxiv.org/abs/2202.13521)|[sfers](https://github.com/zhiwuz/sfers)|
 |[deep learning based successive interference cancellation for the non-orthogonal downlink](https://arxiv.org/abs/2207.14468)|[sicnet](https://github.com/thienvanluong/sicnet)|
+|[multi-stage warm started optimal motion planning for over-actuated mobile platforms](https://arxiv.org/abs/2207.14659)|[mwmp-matlab](https://github.com/spaceuma/mwmp-matlab)|
 |[blockchain-enabled server-less federated learning](https://arxiv.org/abs/2112.07938)|[blockchain_enabled_federated_learning](https://github.com/fwilhelmi/blockchain_enabled_federated_learning)|
 |[quality of service in quantum networks](https://arxiv.org/abs/2204.09538)|[quantum-routing](https://github.com/ccicconetti/quantum-routing)|
 |[deep learning-based synchronization for uplink nb-iot](https://arxiv.org/abs/2205.10805)|[nprach_synch](https://github.com/nvlabs/nprach_synch)|
