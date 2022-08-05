@@ -1,3 +1,13 @@
+## 2022-08-04
+|paper|code|
+|---|---|
+|[stable and interpretable unrolled dictionary learning](https://arxiv.org/abs/2106.00058)|[stable-interpretable-unrolled-dl](https://github.com/btolooshams/stable-interpretable-unrolled-dl)|
+|[nosnoc: a software package for numerical optimal control of nonsmooth systems](https://arxiv.org/abs/2203.11516)|[nosnoc](https://github.com/nurkanovic/nosnoc)|
+|[the wqn algorithm to adaptively correct artifacts in the eeg signal](https://arxiv.org/abs/2207.11696)|[wavelet-wqn-acha](https://github.com/mattbit/wavelet-wqn-acha)|
+|[segmented learning for class-of-service network traffic classification](https://arxiv.org/abs/2208.01793)|[s2mc-for-cos](https://github.com/yoga-suhas-km/s2mc-for-cos)|
+|[recovery of future data via convolution nuclear norm minimization](https://arxiv.org/abs/1909.03889)|[CNNM](https://github.com/gcliu1982/CNNM)|
+|[deep learning-enabled semantic communication systems with task-unaware transmitter and dynamic data](https://arxiv.org/abs/2205.00271)|[semantic-communication-systems](https://github.com/sjtu-mxtao/semantic-communication-systems)|
+|[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezhav2](https://gitlab.com/steamgjk/nezhav2)|
 ## 2022-08-03
 |paper|code|
 |---|---|
@@ -15,6 +25,7 @@
 |[rt-bench: an extensible benchmark framework for the analysis and management of real-time applications](https://arxiv.org/abs/2203.11423)|[rt-bench](https://gitlab.com/rt-bench/rt-bench)|
 |[continuous optimization for control of hybrid systems with hysteresis via time-freezing](https://arxiv.org/abs/2203.11510)|[nosnoc](https://github.com/nurkanovic/nosnoc)|
 |[untargeted region of interest selection for gc-ms data using a pseudo f-ratio moving window ($\psi$frmv)](https://arxiv.org/abs/2208.00313)|[regionofinterest](https://github.com/ryland-chem/regionofinterest)|
+|[descod-ecg: deep score-based diffusion model for ecg baseline wander and noise removal](https://arxiv.org/abs/2208.00542)|[score-based-ecg-denoising](https://github.com/huayuliarizona/score-based-ecg-denoising)|
 |[performance comparison of deep rl algorithms for energy systems optimal scheduling](https://arxiv.org/abs/2208.00728)|[drl-for-energy-systems-optimal-scheduling](https://github.com/shengrenhou/drl-for-energy-systems-optimal-scheduling)|
 |[tcmi: a non-parametric mutual-dependence estimator for multivariate continuous distributions](https://arxiv.org/abs/2001.11212)|[tcmi](https://github.com/BenjaminRegler/tcmi)|
 |[vehicular fog computing enabled real-time collision warning via trajectory calibration](https://arxiv.org/abs/2005.11508)|[fog-computing-based-collision-warning-system](https://github.com/neardws/fog-computing-based-collision-warning-system)|
