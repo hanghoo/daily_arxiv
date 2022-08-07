@@ -2,7 +2,9 @@
 |paper|code|
 |---|---|
 |[neural network optimal feedback control with guaranteed local stability](https://arxiv.org/abs/2205.00394)|[qrnet](https://github.com/tenavi/qrnet)|
+|[visually evaluating generative adversarial networks using itself under multivariate time series](https://arxiv.org/abs/2208.02649)|[GaussianGANs](https://github.com/jack-pan-ai/GaussianGANs)|
 |[disentangled representation learning for rf fingerprint extraction under unknown channel statistics](https://arxiv.org/abs/2208.02724)|[dr-rff](https://github.com/xrj-com/dr-rff)|
+|[sros2: usable cyber security tools for ros 2](https://arxiv.org/abs/2208.02615)|[turtlebot3_demo](https://github.com/ros-swg/turtlebot3_demo)|
 ## 2022-08-04
 |paper|code|
 |---|---|
