@@ -3,7 +3,6 @@
 |---|---|
 |[neural network optimal feedback control with guaranteed local stability](https://arxiv.org/abs/2205.00394)|[qrnet](https://github.com/tenavi/qrnet)|
 |[visually evaluating generative adversarial networks using itself under multivariate time series](https://arxiv.org/abs/2208.02649)|[GaussianGANs](https://github.com/jack-pan-ai/GaussianGANs)|
-|[disentangled representation learning for rf fingerprint extraction under unknown channel statistics](https://arxiv.org/abs/2208.02724)|[dr-rff](https://github.com/xrj-com/dr-rff)|
 |[sros2: usable cyber security tools for ros 2](https://arxiv.org/abs/2208.02615)|[turtlebot3_demo](https://github.com/ros-swg/turtlebot3_demo)|
 ## 2022-08-04
 |paper|code|
@@ -14,7 +13,6 @@
 |[segmented learning for class-of-service network traffic classification](https://arxiv.org/abs/2208.01793)|[s2mc-for-cos](https://github.com/yoga-suhas-km/s2mc-for-cos)|
 |[recovery of future data via convolution nuclear norm minimization](https://arxiv.org/abs/1909.03889)|[CNNM](https://github.com/gcliu1982/CNNM)|
 |[deep learning-enabled semantic communication systems with task-unaware transmitter and dynamic data](https://arxiv.org/abs/2205.00271)|[semantic-communication-systems](https://github.com/sjtu-mxtao/semantic-communication-systems)|
-|[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezhav2](https://gitlab.com/steamgjk/nezhav2)|
 ## 2022-08-03
 |paper|code|
 |---|---|
@@ -32,6 +30,7 @@
 |[rt-bench: an extensible benchmark framework for the analysis and management of real-time applications](https://arxiv.org/abs/2203.11423)|[rt-bench](https://gitlab.com/rt-bench/rt-bench)|
 |[continuous optimization for control of hybrid systems with hysteresis via time-freezing](https://arxiv.org/abs/2203.11510)|[nosnoc](https://github.com/nurkanovic/nosnoc)|
 |[untargeted region of interest selection for gc-ms data using a pseudo f-ratio moving window ($\psi$frmv)](https://arxiv.org/abs/2208.00313)|[regionofinterest](https://github.com/ryland-chem/regionofinterest)|
+|[vector-based data improves left-right eye-tracking classifier performance after a covariate distributional shift](https://arxiv.org/abs/2208.00465)|[eegetcovariatedistributionalshift](https://github.com/brianxiang123/eegetcovariatedistributionalshift)|
 |[descod-ecg: deep score-based diffusion model for ecg baseline wander and noise removal](https://arxiv.org/abs/2208.00542)|[score-based-ecg-denoising](https://github.com/huayuliarizona/score-based-ecg-denoising)|
 |[performance comparison of deep rl algorithms for energy systems optimal scheduling](https://arxiv.org/abs/2208.00728)|[drl-for-energy-systems-optimal-scheduling](https://github.com/shengrenhou/drl-for-energy-systems-optimal-scheduling)|
 |[tcmi: a non-parametric mutual-dependence estimator for multivariate continuous distributions](https://arxiv.org/abs/2001.11212)|[tcmi](https://github.com/BenjaminRegler/tcmi)|
