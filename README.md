@@ -1,3 +1,11 @@
+## 2022-08-08
+|paper|code|
+|---|---|
+|[learning from human directional corrections](https://arxiv.org/abs/2011.15014)|[Learning-from-Directional-Corrections](https://github.com/wanxinjin/Learning-from-Directional-Corrections)|
+|[disentangled representation learning for rf fingerprint extraction under unknown channel statistics](https://arxiv.org/abs/2208.02724)|[dr-rff](https://github.com/xrj-com/dr-rff)|
+|[a design of low-projection scma codebooks for downlink satellite internet of things](https://arxiv.org/abs/2208.03118)|[scma-codebook](https://github.com/ethanlq/scma-codebook)|
+|[adaptive warden strategy for countering network covert storage channels](https://arxiv.org/abs/2111.03310)|[adaptivewarden](https://github.com/zcerx/adaptivewarden)|
+|[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezhav2](https://gitlab.com/steamgjk/nezhav2)|
 ## 2022-08-05
 |paper|code|
 |---|---|
