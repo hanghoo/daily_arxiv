@@ -1,3 +1,12 @@
+## 2022-08-09
+|paper|code|
+|---|---|
+|[functional observability and target state estimation in large-scale networks](https://arxiv.org/abs/2201.07256)|[functionalobservability](https://github.com/montanariarthur/functionalobservability)|
+|[beats: an open-source, high-precision, multi-channel eeg acquisition tool system](https://arxiv.org/abs/2203.02102)|[beats](https://github.com/buptanteeg/beats)|
+|[raptor: rapid aerial pickup and transport of objects by robots](https://arxiv.org/abs/2203.03018)|[raptor_setup](https://github.com/raptor-ethz/raptor_setup)|
+|[sharp-maml: sharpness-aware model-agnostic meta learning](https://arxiv.org/abs/2206.03996)|[sharp-maml](https://github.com/mominabbass/sharp-maml)|
+|[lccde: a decision-based ensemble framework for intrusion detection in the internet of vehicles](https://arxiv.org/abs/2208.03399)|[Intrusion-Detection-System-Using-Machine-Learning](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning)|
+|[oversquashing in gnns through the lens of information contraction and graph expansion](https://arxiv.org/abs/2208.03471)|[oversquashing](https://github.com/kedar2/oversquashing)|
 ## 2022-08-08
 |paper|code|
 |---|---|
