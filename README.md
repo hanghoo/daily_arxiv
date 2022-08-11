@@ -1,3 +1,16 @@
+## 2022-08-10
+|paper|code|
+|---|---|
+|[efficient waveform covariance matrix design and antenna selection for mimo radar](https://arxiv.org/abs/2002.06025)|[evolutionary-antenna-design-in-mimo](https://github.com/arindam-bose/evolutionary-antenna-design-in-mimo)|
+|[learning from sparse demonstrations](https://arxiv.org/abs/2008.02159)|[Learning-from-Sparse-Demonstrations](https://github.com/wanxinjin/Learning-from-Sparse-Demonstrations)|
+|[controlled invariant sets: implicit closed-form representations and applications](https://arxiv.org/abs/2107.08566)|[cis2m](https://github.com/janis10/cis2m)|
+|[monotone one-port circuits](https://arxiv.org/abs/2111.15407)|[monotone-one-port-circuits](https://github.com/ThomasChaffey/monotone-one-port-circuits)|
+|[expression might be enough: representing pressure and demand for reinforcement learning based traffic signal control](https://arxiv.org/abs/2112.10107)|[Advanced_XLight](https://github.com/LiangZhang1996/Advanced_XLight)|
+|[practical efficient microservice autoscaling with qos assurance](https://arxiv.org/abs/2202.00057)|[microservice-autoscaling](https://github.com/rajibhossen/microservice-autoscaling)|
+|[experimental validation of deep-lcc for dissipating stop-and-go waves in mixed traffic](https://arxiv.org/abs/2204.03747)|[deep-lcc](https://github.com/soc-ucsd/deep-lcc)|
+|[ultra lite convolutional neural network for automatic modulation classification](https://arxiv.org/abs/2208.04659)|[ultra-lite-convolutional-neural-network-for-automatic-modulation-classification](https://github.com/beechburgpiestar/ultra-lite-convolutional-neural-network-for-automatic-modulation-classification)|
+|[classification of stress via ambulatory ecg and gsr data](https://arxiv.org/abs/2208.04705)|[embc_release](https://github.com/zacdair/embc_release)|
+|[learning mean-field control for delayed information load balancing in large queuing systems](https://arxiv.org/abs/2208.04777)|[mfc_large_queueing_systems](https://github.com/anamtahir7/mfc_large_queueing_systems)|
 ## 2022-08-09
 |paper|code|
 |---|---|
@@ -5,6 +18,9 @@
 |[beats: an open-source, high-precision, multi-channel eeg acquisition tool system](https://arxiv.org/abs/2203.02102)|[beats](https://github.com/buptanteeg/beats)|
 |[raptor: rapid aerial pickup and transport of objects by robots](https://arxiv.org/abs/2203.03018)|[raptor_setup](https://github.com/raptor-ethz/raptor_setup)|
 |[sharp-maml: sharpness-aware model-agnostic meta learning](https://arxiv.org/abs/2206.03996)|[sharp-maml](https://github.com/mominabbass/sharp-maml)|
+|[a spatially separable attention mechanism for massive mimo csi feedback](https://arxiv.org/abs/2208.03369)|[pytorch_stnet](https://github.com/sharanmourya/pytorch_stnet)|
+|[towards analytical electromagnetic models for reconfigurable intelligent surfaces](https://arxiv.org/abs/2208.03905)|[ris_models](https://github.com/mitiebin/ris_models)|
+|[fra-rir: fast random approximation of the image-source method](https://arxiv.org/abs/2208.04101)|[fra-rir](https://github.com/yluo42/fra-rir)|
 |[lccde: a decision-based ensemble framework for intrusion detection in the internet of vehicles](https://arxiv.org/abs/2208.03399)|[Intrusion-Detection-System-Using-Machine-Learning](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning)|
 |[oversquashing in gnns through the lens of information contraction and graph expansion](https://arxiv.org/abs/2208.03471)|[oversquashing](https://github.com/kedar2/oversquashing)|
 ## 2022-08-08
