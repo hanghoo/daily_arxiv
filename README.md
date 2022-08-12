@@ -1,3 +1,10 @@
+## 2022-08-11
+|paper|code|
+|---|---|
+|[robust mpc for linear systems with parametric and additive uncertainty: a novel constraint tightening approach](https://arxiv.org/abs/2007.00930)|[rmpcpy](https://github.com/monimoyb/rmpcpy)|
+|[system norm regularization methods for koopman operator approximation](https://arxiv.org/abs/2110.09658)|[system_norm_koopman](https://github.com/decarsg/system_norm_koopman)|
+|[towards autonomous atlas-based ultrasound acquisitions in presence of articulated motion](https://arxiv.org/abs/2208.05399)|[autolimbusscan](https://github.com/jiang96998/autolimbusscan)|
+|[perturbative construction of mean-field equations in extensive-rank matrix factorization and denoising](https://arxiv.org/abs/2110.08775)|[perturbative_mean_field_matrix_factorization](https://github.com/sphinxteam/perturbative_mean_field_matrix_factorization)|
 ## 2022-08-10
 |paper|code|
 |---|---|
