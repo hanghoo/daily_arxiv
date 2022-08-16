@@ -1,3 +1,10 @@
+## 2022-08-15
+|paper|code|
+|---|---|
+|[power flow balancing with decentralized graph neural networks](https://arxiv.org/abs/2111.02169)|[power-flow-balancing-with-decentralized-graph-neural-networks](https://github.com/jonasberghansen/power-flow-balancing-with-decentralized-graph-neural-networks)|
+|[lrh-net: a multi-level knowledge distillation approach for low-resource heart network](https://arxiv.org/abs/2204.08000)|[lrh-net](https://github.com/ekansh09/lrh-net)|
+|[accurate action recommendation for smart home via two-level encoders and commonsense knowledge](https://arxiv.org/abs/2208.06089)|[smartsense](https://github.com/snudatalab/smartsense)|
+|[a unified spatially coupled code design: threshold, cycles, and locality](https://arxiv.org/abs/2203.02052)|[unified_sc_ldpcl](https://github.com/hesfahanizadeh/unified_sc_ldpcl)|
 ## 2022-08-12
 |paper|code|
 |---|---|
