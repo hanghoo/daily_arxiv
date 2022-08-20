@@ -1,9 +1,18 @@
+## 2022-08-19
+|paper|code|
+|---|---|
+|[fast off-the-grid sparse recovery with over-parametrized projected gradient descent](https://arxiv.org/abs/2202.13757)|[opcomp_sparse_recovery](https://github.com/pjbenard/opcomp_sparse_recovery)|
+|[visual pursuit control based on gaussian processes with switched motion trajectories](https://arxiv.org/abs/2208.08645)|[vpc-switched-motion](https://github.com/marciska/vpc-switched-motion)|
+|[psychophysiological arousal in young children who stutter: an interpretable ai approach](https://arxiv.org/abs/2208.08859)|[modality-wise-multple-instance-learning](https://github.com/asalekin-ubiquitouslab/modality-wise-multple-instance-learning)|
+|[a unified algorithmic framework for distributed adaptive signal and feature fusion problems -- part i: algorithm derivation](https://arxiv.org/abs/2208.08867)|[DASF_toolbox](https://github.com/AlexanderBertrandLab/DASF_toolbox)|
+|[oh ssh-it, what's my fingerprint? a large-scale analysis of ssh host key fingerprint verification records in the dns](https://arxiv.org/abs/2208.08846)|[sshfp-dns-measurement](https://github.com/gehaxelt/sshfp-dns-measurement)|
 ## 2022-08-18
 |paper|code|
 |---|---|
 |[bounding the distance to unsafe sets with convex optimization](https://arxiv.org/abs/2110.14047)|[distance](https://github.com/jarmill/distance)|
 |[a hybrid sfanc-fxnlms algorithm for active noise control based on deep learning](https://arxiv.org/abs/2208.08082)|[sfanc-fxnlms-anc-algorithm-based-on-deep-learning](https://github.com/luo-zhengding/sfanc-fxnlms-anc-algorithm-based-on-deep-learning)|
 |[towards a better understanding human reading comprehension with brain signals](https://arxiv.org/abs/2108.01360)|[uercm](https://github.com/yeziyi1998/uercm)|
+|[quantum message-passing algorithm for optimal and efficient decoding](https://arxiv.org/abs/2109.08170)|[quantum-message-passing-paper](https://github.com/chripiv/quantum-message-passing-paper)|
 ## 2022-08-17
 |paper|code|
 |---|---|
@@ -19,6 +28,7 @@
 |[towards interpretable sleep stage classification using cross-modal transformers](https://arxiv.org/abs/2208.06991)|[cross-modal-transformer](https://github.com/jathurshan0330/cross-modal-transformer)|
 |[dynamic task software caching-assisted computation offloading for multi-access edge computing](https://arxiv.org/abs/2208.07151)|[drl-mec](https://github.com/chfocus/drl-mec)|
 |[wifi based distance estimation using supervised machine learning](https://arxiv.org/abs/2208.07190)|[wifi-fingerprint](https://github.com/kahramankostas/wifi-fingerprint)|
+|[mocapact: a multi-task dataset for simulated humanoid control](https://arxiv.org/abs/2208.07363)|[MoCapAct](https://github.com/microsoft/MoCapAct)|
 |[a transfer learning and optimized cnn based intrusion detection system for internet of vehicles](https://arxiv.org/abs/2201.11812)|[intrusion-detection-system-using-cnn-and-transfer-learning](https://github.com/western-oc2-lab/intrusion-detection-system-using-cnn-and-transfer-learning)|
 |[how does data freshness affect real-time supervised learning?](https://arxiv.org/abs/2208.06948)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
 ## 2022-08-15
