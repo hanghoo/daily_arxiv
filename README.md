@@ -2,6 +2,7 @@
 |paper|code|
 |---|---|
 |[fast off-the-grid sparse recovery with over-parametrized projected gradient descent](https://arxiv.org/abs/2202.13757)|[opcomp_sparse_recovery](https://github.com/pjbenard/opcomp_sparse_recovery)|
+|[ensemble learning using individual neonatal data for seizure detection](https://arxiv.org/abs/2204.07043)|[distributed-nsda](https://github.com/anaborovac/distributed-nsda)|
 |[visual pursuit control based on gaussian processes with switched motion trajectories](https://arxiv.org/abs/2208.08645)|[vpc-switched-motion](https://github.com/marciska/vpc-switched-motion)|
 |[psychophysiological arousal in young children who stutter: an interpretable ai approach](https://arxiv.org/abs/2208.08859)|[modality-wise-multple-instance-learning](https://github.com/asalekin-ubiquitouslab/modality-wise-multple-instance-learning)|
 |[a unified algorithmic framework for distributed adaptive signal and feature fusion problems -- part i: algorithm derivation](https://arxiv.org/abs/2208.08867)|[DASF_toolbox](https://github.com/AlexanderBertrandLab/DASF_toolbox)|
