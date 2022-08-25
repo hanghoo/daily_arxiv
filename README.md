@@ -1,3 +1,11 @@
+## 2022-08-24
+|paper|code|
+|---|---|
+|[leveraging joint-diagonalization in transform-learning nmf](https://arxiv.org/abs/2112.05664)|[tlnmf-tsp](https://github.com/sixin-zh/tlnmf-tsp)|
+|[arrhythmia classification using cgan-augmented ecg signals](https://arxiv.org/abs/2202.00569)|[augmentation-of-ecg-training-dataset-with-cgan](https://github.com/mah533/augmentation-of-ecg-training-dataset-with-cgan)|
+|[a hybrid sfanc-fxnlms algorithm for active noise control based on deep learning](https://arxiv.org/abs/2208.08082)|[sfanc-fxnlms-anc-algorithm-based-on-deep-learning](https://github.com/luo-zhengding/sfanc-fxnlms-anc-algorithm-based-on-deep-learning)|
+|[quantum message-passing algorithm for optimal and efficient decoding](https://arxiv.org/abs/2109.08170)|[quantum-message-passing-paper](https://github.com/chripiv/quantum-message-passing-paper)|
+|[energy-aware scheduling of virtualized base stations in o-ran with online learning](https://arxiv.org/abs/2208.09956)|[bsvbs](https://github.com/mikekalnt/bsvbs)|
 ## 2022-08-23
 |paper|code|
 |---|---|
