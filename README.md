@@ -1,3 +1,9 @@
+## 2022-08-25
+|paper|code|
+|---|---|
+|[trajectory pmb filters for extended object tracking using belief propagation](https://arxiv.org/abs/2207.10164)|[trajectory-pmb-eot-bp](https://github.com/yuhsuansia/trajectory-pmb-eot-bp)|
+|[enhancing deep learning performance of massive mimo csi feedback](https://arxiv.org/abs/2208.11333)|[jpts](https://github.com/sijieji/jpts)|
+|[adjoint optimisation for wind farm flow control with a free-vortex wake model](https://arxiv.org/abs/2208.11516)|[vortexwake](https://github.com/TUDelft-DataDrivenControl/vortexwake)|
 ## 2022-08-24
 |paper|code|
 |---|---|
