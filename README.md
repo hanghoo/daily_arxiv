@@ -29,7 +29,6 @@
 |[event-triggered model predictive control with deep reinforcement learning for autonomous driving](https://arxiv.org/abs/2208.10302)|[rl-based-event-triggered-mpc](https://github.com/dangfengying/rl-based-event-triggered-mpc)|
 |[exploiting temporal structures of cyclostationary signals for data-driven single-channel source separation](https://arxiv.org/abs/2208.10325)|[scss_csgaussian](https://github.com/rfchallenge/scss_csgaussian)|
 |[survey of machine learning techniques to predict heartbeat arrhythmias](https://arxiv.org/abs/2208.10463)|[ECG_Predictor](https://github.com/innovationcore/ECG_Predictor)|
-|[deep learning based coverage and rate manifold estimation in cellular networks](https://arxiv.org/abs/2202.06390)|[CoverageRate_via_CNN_AE](https://github.itap.purdue.edu/Clan-labs/CoverageRate_via_CNN_AE)|
 |[universal caching](https://arxiv.org/abs/2205.04860)|[universalcaching](https://github.com/ativjoshi/universalcaching)|
 |[an incentive-compatible mechanism for decentralized storage network](https://arxiv.org/abs/2208.09937)|[icm-dsn](https://github.com/podiumdesu/icm-dsn)|
 |[tree-structured auxiliary online knowledge distillation](https://arxiv.org/abs/2208.10068)|[tree-supervised](https://github.com/linwenye/tree-supervised)|
