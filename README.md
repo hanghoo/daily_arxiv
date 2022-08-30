@@ -1,3 +1,12 @@
+## 2022-08-29
+|paper|code|
+|---|---|
+|[gcns-net: a graph convolutional neural network approach for decoding time-resolved eeg motor imagery signals](https://arxiv.org/abs/2006.08924)|[EEG-DL](https://github.com/SuperBruceJia/EEG-DL)|
+|[deep learning based coverage and rate manifold estimation in cellular networks](https://arxiv.org/abs/2202.06390)|[CoverageRate_via_CNN_AE](https://github.itap.purdue.edu/Clan-labs/CoverageRate_via_CNN_AE)|
+|[resource allocation in quantum networks for distributed quantum computing](https://arxiv.org/abs/2203.05844)|[quantum-routing](https://github.com/ccicconetti/quantum-routing)|
+|[stateless or stateful faas? i'll take both!](https://arxiv.org/abs/2203.06385)|[serverlessonedge](https://github.com/ccicconetti/serverlessonedge)|
+|[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezhav2](https://gitlab.com/steamgjk/nezhav2)|
+|[dsme-lora: seamless long range communication between arbitrary nodes in the constrained iot](https://arxiv.org/abs/2206.14077)|[dsme_lora](https://github.com/inetrg/dsme_lora)|
 ## 2022-08-26
 |paper|code|
 |---|---|
