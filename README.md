@@ -1,3 +1,14 @@
+## 2022-08-30
+|paper|code|
+|---|---|
+|[on the universal transformation of data-driven models to control systems](https://arxiv.org/abs/2102.04722)|[QuaSiModO](https://github.com/SebastianPeitz/QuaSiModO)|
+|[openfwi: large-scale multi-structural benchmark datasets for seismic full waveform inversion](https://arxiv.org/abs/2111.02926)|[openfwi](https://github.com/lanl/openfwi)|
+|[robust distributed bayesian learning with stragglers via consensus monte carlo](https://arxiv.org/abs/2112.09794)|[straggler-resilient-cmc](https://github.com/kclip/straggler-resilient-cmc)|
+|[integration of physics-based and data-driven models for hyperspectral image unmixing](https://arxiv.org/abs/2206.05508)|[awesome-hyperspectral-image-unmixing](https://github.com/xiuheng-wang/awesome-hyperspectral-image-unmixing)|
+|[deepsolar tracker: towards unsupervised assessment with open-source data of the accuracy of deep learning-based distributed pv mapping](https://arxiv.org/abs/2207.07466)|[dsfrance](https://github.com/gabrielkasmi/dsfrance)|
+|[improving electricity market economy via closed-loop predict-and-optimize](https://arxiv.org/abs/2208.13065)|[cpo_for_electricity_market](https://github.com/asxadf/cpo_for_electricity_market)|
+|[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
+|[network-level adversaries in federated learning](https://arxiv.org/abs/2208.12911)|[network-level-adversaries-in-federated-learning](https://github.com/clonedone/network-level-adversaries-in-federated-learning)|
 ## 2022-08-29
 |paper|code|
 |---|---|
@@ -16,6 +27,7 @@
 |[ssd -- software for systems with delays: reproducible examples and benchmarks on model reduction and h2 norm computation](https://arxiv.org/abs/2208.11827)|[ssd](https://github.com/gumussoysuat/ssd)|
 |[data-driven predictive tracking control based on koopman operators](https://arxiv.org/abs/2208.12000)|[ktmpc](https://github.com/autosysproj/ktmpc)|
 |[approximation of images via generalized higher order singular value decomposition over finite-dimensional commutative semisimple algebra](https://arxiv.org/abs/2202.00450)|[talgebra](https://github.com/liaoliang2020/talgebra)|
+|[your blockchain needn't care how the message is spread](https://arxiv.org/abs/2208.11241)|[network-equivalences](https://github.com/input-output-hk/network-equivalences)|
 |[a deep learning approach to predict the number of k-barriers for intrusion detection over a circular region using wireless sensor networks](https://arxiv.org/abs/2208.11887)|[intrusion_detection](https://github.com/abhilash12iec002/intrusion_detection)|
 ## 2022-08-25
 |paper|code|
