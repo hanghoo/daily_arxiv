@@ -1,3 +1,9 @@
+## 2022-08-31
+|paper|code|
+|---|---|
+|[adaptive observers for biophysical neuronal circuits](https://arxiv.org/abs/2111.02176)|[online-learning](https://github.com/thiagoburghi/online-learning)|
+|[towards analytical electromagnetic models for reconfigurable intelligent surfaces](https://arxiv.org/abs/2208.03905)|[ris_models](https://github.com/mitiebin/ris_models)|
+|[effective multi-user delay-constrained scheduling with deep recurrent reinforcement learning](https://arxiv.org/abs/2208.14074)|[rsd4](https://github.com/hupihe/rsd4)|
 ## 2022-08-30
 |paper|code|
 |---|---|
@@ -6,8 +12,11 @@
 |[robust distributed bayesian learning with stragglers via consensus monte carlo](https://arxiv.org/abs/2112.09794)|[straggler-resilient-cmc](https://github.com/kclip/straggler-resilient-cmc)|
 |[integration of physics-based and data-driven models for hyperspectral image unmixing](https://arxiv.org/abs/2206.05508)|[awesome-hyperspectral-image-unmixing](https://github.com/xiuheng-wang/awesome-hyperspectral-image-unmixing)|
 |[deepsolar tracker: towards unsupervised assessment with open-source data of the accuracy of deep learning-based distributed pv mapping](https://arxiv.org/abs/2207.07466)|[dsfrance](https://github.com/gabrielkasmi/dsfrance)|
+|[cast: a toolchain for creating and characterizing realistic wireless network emulation scenarios](https://arxiv.org/abs/2208.03993)|[cast](https://github.com/wineslab/cast)|
+|[latent signal models: learning compact representations of signal evolution for improved time-resolved, multi-contrast mri](https://arxiv.org/abs/2208.13003)|[latent_signal_models_mrm_2022](https://github.com/yaminarefeen/latent_signal_models_mrm_2022)|
 |[improving electricity market economy via closed-loop predict-and-optimize](https://arxiv.org/abs/2208.13065)|[cpo_for_electricity_market](https://github.com/asxadf/cpo_for_electricity_market)|
 |[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
+|[osf: an open-source framework for synchronous flooding over multiple physical layers](https://arxiv.org/abs/2208.12850)|[osf](https://github.com/open-sf/osf)|
 |[network-level adversaries in federated learning](https://arxiv.org/abs/2208.12911)|[network-level-adversaries-in-federated-learning](https://github.com/clonedone/network-level-adversaries-in-federated-learning)|
 ## 2022-08-29
 |paper|code|
