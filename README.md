@@ -3,6 +3,7 @@
 |---|---|
 |[unsupervised learning of lagrangian dynamics from images for prediction and control](https://arxiv.org/abs/2007.01926)|[Lagrangian_caVAE](https://github.com/DesmondZhong/Lagrangian_caVAE)|
 |[variational sparse coding with learned thresholding](https://arxiv.org/abs/2205.03665)|[variational-sparse-coding](https://github.com/kfallah/variational-sparse-coding)|
+|[an analytical latency model and evaluation of the capacity of 5g nr to support v2x services using v2n2v communications](https://arxiv.org/abs/2201.06083)|[5g-nr-radio-latency-models](https://github.com/msepulcre/5g-nr-radio-latency-models)|
 |[a unified spatially coupled code design: threshold, cycles, and locality](https://arxiv.org/abs/2203.02052)|[unified_sc_ldpcl](https://github.com/hesfahanizadeh/unified_sc_ldpcl)|
 |[mind: maximum mutual information based neural decoder](https://arxiv.org/abs/2205.07061)|[mind-neural-decoder](https://github.com/tonellolab/mind-neural-decoder)|
 |[lccde: a decision-based ensemble framework for intrusion detection in the internet of vehicles](https://arxiv.org/abs/2208.03399)|[Intrusion-Detection-System-Using-Machine-Learning](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning)|
