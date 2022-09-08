@@ -1,3 +1,20 @@
+## 2022-09-07
+|paper|code|
+|---|---|
+|[analysis of theoretical and numerical properties of sequential convex programming for continuous-time optimal control](https://arxiv.org/abs/2009.05038)|[jlSCP](https://github.com/StanfordASL/jlSCP)|
+|[bottlefit: learning compressed representations in deep neural networks for effective and efficient split computing](https://arxiv.org/abs/2201.02693)|[bottlefit-split_computing](https://github.com/yoshitomo-matsubara/bottlefit-split_computing)|
+|[a reliability-aware distributed framework to schedule residential charging of electric vehicles](https://arxiv.org/abs/2202.07092)|[revs-admm](https://github.com/rounak-meyur/revs-admm)|
+|[real-time neural-mpc: deep learning model predictive control for quadrotors and agile robotic platforms](https://arxiv.org/abs/2203.07747)|[ml-casadi](https://github.com/TUM-AAS/ml-casadi)|
+|[position aided beam prediction in the real world: how useful gps locations actually are?](https://arxiv.org/abs/2205.09054)|[position-beam-prediction](https://github.com/jmoraispk/position-beam-prediction)|
+|[semantic communications with discrete-time analog transmission: a papr perspective](https://arxiv.org/abs/2208.08342)|[semanticpapr](https://github.com/lynshao/semanticpapr)|
+|[transfer learning of an ensemble of dnns for ssvep bci spellers without user-specific training](https://arxiv.org/abs/2209.01511)|[ensemble-of-dnns](https://github.com/osmanberke/ensemble-of-dnns)|
+|[tfn: an interpretable neural network with time-frequency transform embedded for intelligent fault diagnosis](https://arxiv.org/abs/2209.01992)|[tfn](https://github.com/chenqian0618/tfn)|
+|[online decision making for trading wind energy](https://arxiv.org/abs/2209.02009)|[online-trading-wind-energy](https://github.com/miguel897/online-trading-wind-energy)|
+|[large graph signal denoising with application to differential privacy](https://arxiv.org/abs/2209.02043)|[dp-graph-denoising](https://gitlab.com/elie-chedemail/dp-graph-denoising)|
+|[analysis and evaluation of synchronous and asynchronous flchain](https://arxiv.org/abs/2112.07938)|[blockchain_enabled_federated_learning](https://github.com/fwilhelmi/blockchain_enabled_federated_learning)|
+|[data augmentation for deep receivers](https://arxiv.org/abs/2209.01362)|[data-augmentations-for-receivers](https://github.com/tomerraviv95/data-augmentations-for-receivers)|
+|[learning to predict requires integrated information](https://arxiv.org/abs/2209.01418)|[learningrequiresintinf](https://github.com/carlottalanger/learningrequiresintinf)|
+|[abs+ polar codes: exploiting more linear transforms on adjacent bits](https://arxiv.org/abs/2209.02461)|[abs-polar](https://github.com/plumjelly/abs-polar)|
 ## 2022-09-05
 |paper|code|
 |---|---|
