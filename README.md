@@ -1,3 +1,16 @@
+## 2022-09-09
+|paper|code|
+|---|---|
+|[two beams are better than one: enabling reliable and high throughput mmwave links](https://arxiv.org/abs/2101.04249)|[mmreliable](https://github.com/ucsdwcsng/mmreliable)|
+|[position aided beam prediction in the real world: how useful gps locations actually are?](https://arxiv.org/abs/2205.09054)|[position-beam-prediction](https://github.com/jmoraispk/position-beam-prediction)|
+|[quadratic constraints for local stability analysis of quadratic systems](https://arxiv.org/abs/2209.03565)|[valleyqc_roa](https://github.com/scliao47/valleyqc_roa)|
+|[too fine or too coarse? the goldilocks composition of data complexity for robust left-right eye-tracking classifiers](https://arxiv.org/abs/2209.03761)|[kdd-ml](https://github.com/ayahia1/kdd-ml)|
+|[eigenvalue mapping-based semi-implicit discretization of the generalized super-twisting algorithm](https://arxiv.org/abs/2209.03825)|[semi-implicit-of-gsta](https://github.com/hmx2013/semi-implicit-of-gsta)|
+|[non-adaptive and two-stage coding over the z-channel](https://arxiv.org/abs/2202.00136)|[Z-channel_with_1_error](https://github.com/VorobyevIlya/Z-channel_with_1_error)|
+|[automatic curriculum generation for learning adaptation in networking](https://arxiv.org/abs/2202.05940)|[genet](https://github.com/genetproject/genet)|
+|[invicloak: an end-to-end approach to privacy and performance in web content distribution](https://arxiv.org/abs/2209.01541)|[ccs2022-invicloak](https://github.com/shiftlin/ccs2022-invicloak)|
+|[diy-ips: towards an off-the-shelf accurate indoor positioning system](https://arxiv.org/abs/2209.03613)|[DIY_IPS-Indoor-Positioning-System](https://github.com/SensorsCloudsServicesLab/DIY_IPS-Indoor-Positioning-System)|
+|[enabling connectivity for automated mobility: a novel mqtt-based interface evaluated in a 5g case study on edge-cloud lidar object detection](https://arxiv.org/abs/2209.03630)|[ros-v2x-benchmarking-suite](https://github.com/ika-rwth-aachen/ros-v2x-benchmarking-suite)|
 ## 2022-09-08
 |paper|code|
 |---|---|
