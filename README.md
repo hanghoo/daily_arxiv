@@ -1,3 +1,11 @@
+## 2022-09-12
+|paper|code|
+|---|---|
+|[approximate quantiles for stochastic optimal control of lti systems with arbitrary disturbances](https://arxiv.org/abs/2110.03040)|[shawnpriore-approximate-quantiles](https://github.com/unm-hscl/shawnpriore-approximate-quantiles)|
+|[analysis method of strapdown inertial navigation error distribution based on covariance matrix decomposition](https://arxiv.org/abs/2203.11810)|[Error%20budget%20based%20on%20covariance%20matrix](https://github.com/georgenwpu/code_data_of_papers/tree/master/Error%20budget%20based%20on%20covariance%20matrix)|
+|[autoencoder based iterative modeling and multivariate time-series subsequence clustering algorithm](https://arxiv.org/abs/2209.04213)|[mt3scm](https://github.com/jokonu/mt3scm)|
+|[stateful function-as-a-service at the edge](https://arxiv.org/abs/2109.15040)|[serverlessonedge](https://github.com/ccicconetti/serverlessonedge)|
+|[the optimality of word lengths. theoretical foundations and an empirical study](https://arxiv.org/abs/2208.10384)|[iql-research-project-21-22](https://github.com/iql-course/iql-research-project-21-22)|
 ## 2022-09-09
 |paper|code|
 |---|---|
