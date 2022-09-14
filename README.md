@@ -1,3 +1,16 @@
+## 2022-09-13
+|paper|code|
+|---|---|
+|[robust uncertainty bounds in reproducing kernel hilbert spaces: a convex optimization approach](https://arxiv.org/abs/2104.09582)|[opt-rkhs-bounds](https://github.com/predict-epfl/opt-rkhs-bounds)|
+|[adaptive r-peak detection on wearable ecg sensors for high-intensity exercise](https://arxiv.org/abs/2112.04369)|[adaptive_rpeak_det_public](https://c4science.ch/source/adaptive_rpeak_det_public)|
+|[near-optimal distributed linear-quadratic regulator for networked systems](https://arxiv.org/abs/2204.05551)|[near-optimal-distributed-lqr](https://github.com/sshin23/near-optimal-distributed-lqr)|
+|[angular control charts: a new perspective for monitoring reliability of multi-state systems](https://arxiv.org/abs/2205.02024)|[ac_charts](https://github.com/khaled-janada/ac_charts)|
+|[a design of low-projection scma codebooks for ultra-low decoding complexity in downlink iot networks](https://arxiv.org/abs/2208.03118)|[scma-codebook](https://github.com/ethanlq/scma-codebook)|
+|[data-driven blind synchronization and interference rejection for digital communication signals](https://arxiv.org/abs/2209.04871)|[scss_sync](https://github.com/rfchallenge/scss_sync)|
+|[fairness in forecasting of observations of linear dynamical systems](https://arxiv.org/abs/2209.05274)|[Fairness-in-Learning-of-LDS](https://github.com/Quan-Zhou/Fairness-in-Learning-of-LDS)|
+|[qunetsim: a software framework for quantum networks](https://arxiv.org/abs/2003.06397)|[QuNetSim](https://github.com/tqsd/QuNetSim)|
+|[detecting network-based internet censorship via latent feature representation learning](https://arxiv.org/abs/2209.05152)|[cp_learning](https://github.com/fathershawn/cp_learning)|
+|[bottlemod: modeling data flows and tasks for fast bottleneck analysis](https://arxiv.org/abs/2209.05358)|[bottlemod](https://github.com/bottlemod/bottlemod)|
 ## 2022-09-12
 |paper|code|
 |---|---|
