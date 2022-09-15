@@ -1,3 +1,9 @@
+## 2022-09-14
+|paper|code|
+|---|---|
+|[synthesis of stabilizing recurrent equilibrium network controllers](https://arxiv.org/abs/2204.00122)|[stabilizing-ren](https://github.com/neelayjunnarkar/stabilizing-ren)|
+|[multi-event-camera depth estimation and outlier rejection by refocused events fusion](https://arxiv.org/abs/2207.10494)|[dvs_mcemvs](https://github.com/tub-rip/dvs_mcemvs)|
+|[decorrelate irrelevant, purify relevant: overcome textual spurious correlations from a feature perspective](https://arxiv.org/abs/2202.08048)|[depro](https://github.com/coling2022-depro/depro)|
 ## 2022-09-13
 |paper|code|
 |---|---|
@@ -9,7 +15,6 @@
 |[data-driven blind synchronization and interference rejection for digital communication signals](https://arxiv.org/abs/2209.04871)|[scss_sync](https://github.com/rfchallenge/scss_sync)|
 |[fairness in forecasting of observations of linear dynamical systems](https://arxiv.org/abs/2209.05274)|[Fairness-in-Learning-of-LDS](https://github.com/Quan-Zhou/Fairness-in-Learning-of-LDS)|
 |[qunetsim: a software framework for quantum networks](https://arxiv.org/abs/2003.06397)|[QuNetSim](https://github.com/tqsd/QuNetSim)|
-|[detecting network-based internet censorship via latent feature representation learning](https://arxiv.org/abs/2209.05152)|[cp_learning](https://github.com/fathershawn/cp_learning)|
 |[bottlemod: modeling data flows and tasks for fast bottleneck analysis](https://arxiv.org/abs/2209.05358)|[bottlemod](https://github.com/bottlemod/bottlemod)|
 ## 2022-09-12
 |paper|code|
