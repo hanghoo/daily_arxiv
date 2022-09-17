@@ -1,3 +1,12 @@
+## 2022-09-16
+|paper|code|
+|---|---|
+|[blind equalization and channel estimation in coherent optical communications using variational autoencoders](https://arxiv.org/abs/2204.11776)|[vae-equalizer](https://github.com/kit-cel/vae-equalizer)|
+|[efficient planar pose estimation via uwb measurements](https://arxiv.org/abs/2209.06779)|[Efficient-Pose-Estimation-via-UWB-measurements](https://github.com/SLAMLab-CUHKSZ/Efficient-Pose-Estimation-via-UWB-measurements)|
+|[team: a parameter-free algorithm to teach collaborative robots motions from user demonstrations](https://arxiv.org/abs/2209.06940)|[team](https://github.com/SchindlerReGIS/team)|
+|[neural stochastic control](https://arxiv.org/abs/2209.07240)|[neural-stochastic-control](https://github.com/jingddong-zhang/neural-stochastic-control)|
+|[particle gradient descent model for point process generation](https://arxiv.org/abs/2010.14928)|[pp_syn](https://github.com/abrochar/pp_syn)|
+|[a stochastic optimization framework for fair risk minimization](https://arxiv.org/abs/2102.12586)|[FERMI](https://github.com/optimization-for-data-driven-science/FERMI)|
 ## 2022-09-15
 |paper|code|
 |---|---|
