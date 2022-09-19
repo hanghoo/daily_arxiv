@@ -18,6 +18,7 @@
 ## 2022-09-14
 |paper|code|
 |---|---|
+|[temporal feedback convolutional recurrent neural networks for speech command recognition](https://arxiv.org/abs/1911.01803)|[temporal-feedback-crnn](https://github.com/tae-jun/temporal-feedback-crnn)|
 |[synthesis of stabilizing recurrent equilibrium network controllers](https://arxiv.org/abs/2204.00122)|[stabilizing-ren](https://github.com/neelayjunnarkar/stabilizing-ren)|
 |[multi-event-camera depth estimation and outlier rejection by refocused events fusion](https://arxiv.org/abs/2207.10494)|[dvs_mcemvs](https://github.com/tub-rip/dvs_mcemvs)|
 |[decorrelate irrelevant, purify relevant: overcome textual spurious correlations from a feature perspective](https://arxiv.org/abs/2202.08048)|[depro](https://github.com/coling2022-depro/depro)|
@@ -30,7 +31,6 @@
 |[angular control charts: a new perspective for monitoring reliability of multi-state systems](https://arxiv.org/abs/2205.02024)|[ac_charts](https://github.com/khaled-janada/ac_charts)|
 |[a design of low-projection scma codebooks for ultra-low decoding complexity in downlink iot networks](https://arxiv.org/abs/2208.03118)|[scma-codebook](https://github.com/ethanlq/scma-codebook)|
 |[data-driven blind synchronization and interference rejection for digital communication signals](https://arxiv.org/abs/2209.04871)|[scss_sync](https://github.com/rfchallenge/scss_sync)|
-|[fairness in forecasting of observations of linear dynamical systems](https://arxiv.org/abs/2209.05274)|[Fairness-in-Learning-of-LDS](https://github.com/Quan-Zhou/Fairness-in-Learning-of-LDS)|
 |[qunetsim: a software framework for quantum networks](https://arxiv.org/abs/2003.06397)|[QuNetSim](https://github.com/tqsd/QuNetSim)|
 |[bottlemod: modeling data flows and tasks for fast bottleneck analysis](https://arxiv.org/abs/2209.05358)|[bottlemod](https://github.com/bottlemod/bottlemod)|
 ## 2022-09-12
