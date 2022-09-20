@@ -1,3 +1,13 @@
+## 2022-09-19
+|paper|code|
+|---|---|
+|[gcns-net: a graph convolutional neural network approach for decoding time-resolved eeg motor imagery signals](https://arxiv.org/abs/2006.08924)|[EEG-DL](https://github.com/SuperBruceJia/EEG-DL)|
+|[bayesbeat: reliable atrial fibrillation detection from noisy photoplethysmography data](https://arxiv.org/abs/2011.00753)|[bayesbeat](https://github.com/sarathismg/bayesbeat)|
+|[a sequential quadratic programming approach to the solution of open-loop generalized nash equilibria](https://arxiv.org/abs/2203.16478)|[dgsqp](https://github.com/zhu-edward/dgsqp)|
+|[fairness in forecasting of observations of linear dynamical systems](https://arxiv.org/abs/2209.05274)|[Fairness-in-Learning-of-LDS](https://github.com/Quan-Zhou/Fairness-in-Learning-of-LDS)|
+|[multiscale adaptive scheduling and path-planning for power-constrained uav-relays via smdps](https://arxiv.org/abs/2209.07655)|[MAESTRO-X](https://github.com/bharathkeshavamurthy/MAESTRO-X)|
+|[iot data analytics in dynamic environments: from an automated machine learning perspective](https://arxiv.org/abs/2209.08018)|[automl-implementation-for-static-and-dynamic-data-analytics](https://github.com/western-oc2-lab/automl-implementation-for-static-and-dynamic-data-analytics)|
+|[self-supervised learning with an information maximization criterion](https://arxiv.org/abs/2209.07999)|[corinfomax-ssl](https://github.com/serdarozsoy/corinfomax-ssl)|
 ## 2022-09-16
 |paper|code|
 |---|---|
@@ -11,14 +21,12 @@
 |paper|code|
 |---|---|
 |[learning-based downlink power allocation in cell-free massive mimo systems](https://arxiv.org/abs/2109.03128)|[power-allocation-cell-free](https://github.com/emilbjornson/power-allocation-cell-free)|
-|[data-driven estimation of capacity upper bounds](https://arxiv.org/abs/2205.06471)|[upper_capacity_bounds](https://github.com/chaeger/upper_capacity_bounds)|
 |[untargeted region of interest selection for gc-ms data using a pseudo f-ratio moving window ($\psi$frmv)](https://arxiv.org/abs/2208.00313)|[regionofinterest](https://github.com/ryland-chem/regionofinterest)|
 |[personalized emotion detection using iot and machine learning](https://arxiv.org/abs/2209.06464)|[MLEmotionDetection](https://github.com/fionavictoria/MLEmotionDetection)|
 |[detecting network-based internet censorship via latent feature representation learning](https://arxiv.org/abs/2209.05152)|[cp_learning](https://github.com/fathershawn/cp_learning)|
 ## 2022-09-14
 |paper|code|
 |---|---|
-|[temporal feedback convolutional recurrent neural networks for speech command recognition](https://arxiv.org/abs/1911.01803)|[temporal-feedback-crnn](https://github.com/tae-jun/temporal-feedback-crnn)|
 |[synthesis of stabilizing recurrent equilibrium network controllers](https://arxiv.org/abs/2204.00122)|[stabilizing-ren](https://github.com/neelayjunnarkar/stabilizing-ren)|
 |[multi-event-camera depth estimation and outlier rejection by refocused events fusion](https://arxiv.org/abs/2207.10494)|[dvs_mcemvs](https://github.com/tub-rip/dvs_mcemvs)|
 |[decorrelate irrelevant, purify relevant: overcome textual spurious correlations from a feature perspective](https://arxiv.org/abs/2202.08048)|[depro](https://github.com/coling2022-depro/depro)|
