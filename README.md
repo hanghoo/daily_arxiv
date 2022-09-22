@@ -1,3 +1,11 @@
+## 2022-09-21
+|paper|code|
+|---|---|
+|[an inertial block majorization minimization framework for nonsmooth nonconvex optimization](https://arxiv.org/abs/2010.12133)|[TITAN](https://github.com/nhatpd/TITAN)|
+|[neural network training under semidefinite constraints](https://arxiv.org/abs/2201.00632)|[neural_network_training_with_matrix_inequality_constraints](https://github.com/eragon10/neural_network_training_with_matrix_inequality_constraints)|
+|[signal decomposition using masked proximal operators](https://arxiv.org/abs/2202.09338)|[signal-decomposition](https://github.com/cvxgrp/signal-decomposition)|
+|[optimization-based exploration of the feasible power flow space for rapid data collection](https://arxiv.org/abs/2206.12214)|[data-collection-algorithm](https://github.com/ignasiven/data-collection-algorithm)|
+|[internet of drones simulator: design, implementation, and performance evaluation](https://arxiv.org/abs/2203.13710)|[iod_sim](https://github.com/telematics-lab/iod_sim)|
 ## 2022-09-20
 |paper|code|
 |---|---|
