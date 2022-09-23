@@ -1,9 +1,21 @@
+## 2022-09-22
+|paper|code|
+|---|---|
+|[probabilistic robust linear quadratic regulators with gaussian processes](https://arxiv.org/abs/2105.07668)|[prlqr](https://github.com/Data-Science-in-Mechanical-Engineering/prlqr)|
+|[$\mathcal{l}_1$ adaptive augmentation for geometric tracking control of quadrotors](https://arxiv.org/abs/2109.06998)|[README.md](https://github.com/HovakimyanResearch/L1-Mambo/blob/main/README.md)|
+|[model predictive optimized path integral strategies](https://arxiv.org/abs/2203.16633)|[mpopis](https://github.com/sisl/mpopis)|
+|[improving the performance of robust control through event-triggered learning](https://arxiv.org/abs/2207.14252)|[betl](https://github.com/avrohr/betl)|
+|[learning bilinear models of actuated koopman generators from partially-observed trajectories](https://arxiv.org/abs/2209.09977)|[koopmangeneratorem](https://github.com/samotto1/koopmangeneratorem)|
+|[inferring network properties from time series using transfer entropy and mutual information: validation of multivariate versus bivariate approaches](https://arxiv.org/abs/2007.07500)|[infonet](https://github.com/LNov/infonet)|
+|[decoding reed-muller codes with successive codeword permutations](https://arxiv.org/abs/2109.02122)|[sprld](https://github.com/nghiadt05/sprld)|
+|[building flexible, low-cost wireless access networks with magma](https://arxiv.org/abs/2209.10001)|[magma](https://github.com/magma/magma)|
 ## 2022-09-21
 |paper|code|
 |---|---|
 |[an inertial block majorization minimization framework for nonsmooth nonconvex optimization](https://arxiv.org/abs/2010.12133)|[TITAN](https://github.com/nhatpd/TITAN)|
 |[neural network training under semidefinite constraints](https://arxiv.org/abs/2201.00632)|[neural_network_training_with_matrix_inequality_constraints](https://github.com/eragon10/neural_network_training_with_matrix_inequality_constraints)|
 |[signal decomposition using masked proximal operators](https://arxiv.org/abs/2202.09338)|[signal-decomposition](https://github.com/cvxgrp/signal-decomposition)|
+|[massive mimo with dual-polarized antennas](https://arxiv.org/abs/2202.10084)|[dual-polarization](https://github.com/emilbjornson/dual-polarization)|
 |[optimization-based exploration of the feasible power flow space for rapid data collection](https://arxiv.org/abs/2206.12214)|[data-collection-algorithm](https://github.com/ignasiven/data-collection-algorithm)|
 |[internet of drones simulator: design, implementation, and performance evaluation](https://arxiv.org/abs/2203.13710)|[iod_sim](https://github.com/telematics-lab/iod_sim)|
 ## 2022-09-20
