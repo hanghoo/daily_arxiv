@@ -1,3 +1,9 @@
+## 2022-09-23
+|paper|code|
+|---|---|
+|[leveraging joint-diagonalization in transform-learning nmf](https://arxiv.org/abs/2112.05664)|[tlnmf-tsp](https://github.com/sixin-zh/tlnmf-tsp)|
+|[eventnet: detecting events in eeg](https://arxiv.org/abs/2209.11007)|[eventnet](https://github.com/n1xu5/eventnet)|
+|[compressing sign information in dct-based image coding via deep sign retrieval](https://arxiv.org/abs/2209.10712)|[dsr](https://github.com/ctsutake/dsr)|
 ## 2022-09-22
 |paper|code|
 |---|---|
@@ -9,6 +15,7 @@
 |[inferring network properties from time series using transfer entropy and mutual information: validation of multivariate versus bivariate approaches](https://arxiv.org/abs/2007.07500)|[infonet](https://github.com/LNov/infonet)|
 |[decoding reed-muller codes with successive codeword permutations](https://arxiv.org/abs/2109.02122)|[sprld](https://github.com/nghiadt05/sprld)|
 |[building flexible, low-cost wireless access networks with magma](https://arxiv.org/abs/2209.10001)|[magma](https://github.com/magma/magma)|
+|[fast traffic engineering by gradient descent with learned differentiable routing](https://arxiv.org/abs/2209.10380)|[net2vec](https://github.com/krzysztofrusek/net2vec)|
 ## 2022-09-21
 |paper|code|
 |---|---|
