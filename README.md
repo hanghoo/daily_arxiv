@@ -1,3 +1,22 @@
+## 2022-09-27
+|paper|code|
+|---|---|
+|[ddp-gcn: multi-graph convolutional network for spatiotemporal traffic forecasting](https://arxiv.org/abs/1905.12256)|[DDP-GCN](https://github.com/snu-adsl/DDP-GCN)|
+|[ppg2abp: translating photoplethysmogram (ppg) signals to arterial blood pressure (abp) waveforms using fully convolutional neural networks](https://arxiv.org/abs/2005.01669)|[PPG2ABP](https://github.com/nibtehaz/PPG2ABP)|
+|[sequential convex programming for non-linear stochastic optimal control](https://arxiv.org/abs/2009.05182)|[stochasticscp](https://github.com/stanfordasl/stochasticscp)|
+|[real-time noise cancellation with deep learning](https://arxiv.org/abs/2011.03466)|[deepNeuronalFilter](https://github.com/berndporr/deepNeuronalFilter)|
+|[under the sand: navigation and localization of a micro aerial vehicle for landmine detection with ground penetrating synthetic aperture radar](https://arxiv.org/abs/2106.10108)|[mav_findmine](https://github.com/ethz-asl/mav_findmine)|
+|[pyffs: a python library for fast fourier series computation and interpolation with gpu acceleration](https://arxiv.org/abs/2110.00262)|[pyFFS](https://github.com/imagingofthings/pyFFS)|
+|[non-iterative calculation of quasi-dynamic energy flow in the heat and electricity integrated energy systems](https://arxiv.org/abs/2112.07331)|[paperdt_supplementary_materials](https://github.com/rzyu45/paperdt_supplementary_materials)|
+|[cooperative tuning of multi-agent optimal control systems](https://arxiv.org/abs/2209.12017)|[Cooperative-Tuning-of-Multi-Agent-Optimal-Control-Systems](https://github.com/zehuilu/Cooperative-Tuning-of-Multi-Agent-Optimal-Control-Systems)|
+|[overcoming bias: equivariant filter design for biased attitude estimation with online calibration](https://arxiv.org/abs/2209.12038)|[abc-eqf](https://github.com/aau-cns/abc-eqf)|
+|[unsupervised reward shaping for a robotic sequential picking task from visual observations in a logistics scenario](https://arxiv.org/abs/2209.12350)|[bootstrapping-rl-4-sequential-picking](https://github.com/vittoriogiammarino/bootstrapping-rl-4-sequential-picking)|
+|[carbon-aware ev charging](https://arxiv.org/abs/2209.12373)|[carbon_aware_ev_charging](https://github.com/kaicheng0824/carbon_aware_ev_charging)|
+|[model predictive monitoring of dynamic systems for signal temporal logic specifications](https://arxiv.org/abs/2209.12493)|[mpm4stl](https://github.com/xinyi-yu/mpm4stl)|
+|[foresee: model-based reinforcement learning using unscented transform with application to tuning of control barrier functions](https://arxiv.org/abs/2209.12644)|[foresee](https://github.com/hardikparwana/foresee)|
+|[poisson phase retrieval in very low-count regimes](https://arxiv.org/abs/2104.00861)|[ppr-low-count](https://github.com/zongyuli-umich/ppr-low-count)|
+|[how does data freshness affect real-time supervised learning?](https://arxiv.org/abs/2208.06948)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
+|[test coverage for network configurations](https://arxiv.org/abs/2209.12870)|[netcov](https://github.com/uwnetworkslab/netcov)|
 ## 2022-09-26
 |paper|code|
 |---|---|
