@@ -1,3 +1,13 @@
+## 2022-09-28
+|paper|code|
+|---|---|
+|[simulation and control of deformable autonomous airships in turbulent wind](https://arxiv.org/abs/2012.15684)|[airship_simulation](https://github.com/robot-perception-group/airship_simulation)|
+|[biologically-plausible determinant maximization neural networks for blind separation of correlated sources](https://arxiv.org/abs/2209.12894)|[biologically-plausible-detmaxnns-for-blind-source-separation](https://github.com/bariscanbozkurt/biologically-plausible-detmaxnns-for-blind-source-separation)|
+|[semi-blind source separation with learned constraints](https://arxiv.org/abs/2209.13585)|[sgmca](https://github.com/rcarlonigertosio/sgmca)|
+|[provably efficient machine learning for quantum many-body problems](https://arxiv.org/abs/2106.12627)|[PastaQ.jl](https://github.com/GTorlai/PastaQ.jl)|
+|[cell-free massive mimo meets otfs modulation](https://arxiv.org/abs/2112.10869)|[cell-free-otfs](https://github.com/mohammadalimohammadi/cell-free-otfs)|
+|[online caching with optimistic learning](https://arxiv.org/abs/2202.10590)|[online-caching](https://github.com/naram-m/online-caching)|
+|[an asymmetric contrastive loss for handling imbalanced datasets](https://arxiv.org/abs/2207.07080)|[asymmetric-cl](https://github.com/valentinovito/asymmetric-cl)|
 ## 2022-09-27
 |paper|code|
 |---|---|
@@ -13,6 +23,8 @@
 |[unsupervised reward shaping for a robotic sequential picking task from visual observations in a logistics scenario](https://arxiv.org/abs/2209.12350)|[bootstrapping-rl-4-sequential-picking](https://github.com/vittoriogiammarino/bootstrapping-rl-4-sequential-picking)|
 |[carbon-aware ev charging](https://arxiv.org/abs/2209.12373)|[carbon_aware_ev_charging](https://github.com/kaicheng0824/carbon_aware_ev_charging)|
 |[model predictive monitoring of dynamic systems for signal temporal logic specifications](https://arxiv.org/abs/2209.12493)|[mpm4stl](https://github.com/xinyi-yu/mpm4stl)|
+|[power system anomaly detection and classification utilizing wls-ekf state estimation and machine learning](https://arxiv.org/abs/2209.12629)|[anomaly_identification](https://github.com/mile888/anomaly_identification)|
+|[bounded simplex-structured matrix factorization](https://arxiv.org/abs/2209.12638)|[bssmf.jl](https://gitlab.com/vuthanho/bssmf.jl)|
 |[foresee: model-based reinforcement learning using unscented transform with application to tuning of control barrier functions](https://arxiv.org/abs/2209.12644)|[foresee](https://github.com/hardikparwana/foresee)|
 |[poisson phase retrieval in very low-count regimes](https://arxiv.org/abs/2104.00861)|[ppr-low-count](https://github.com/zongyuli-umich/ppr-low-count)|
 |[how does data freshness affect real-time supervised learning?](https://arxiv.org/abs/2208.06948)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
