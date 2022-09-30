@@ -1,13 +1,22 @@
+## 2022-09-29
+|paper|code|
+|---|---|
+|[a parameter-free nonconvex low-rank tensor completion model for spatiotemporal traffic data recovery](https://arxiv.org/abs/2209.13786)|[T-ITS-PFNC](https://github.com/YoungHe49/T-ITS-PFNC)|
+|[near lossless time series data compression methods using statistics and deviation](https://arxiv.org/abs/2209.14162)|[data-compression](https://github.com/vidhi0206/data-compression)|
+|[toward safe and accelerated deep reinforcement learning for next-generation wireless networks](https://arxiv.org/abs/2209.13532)|[SARL-RRM](https://github.com/ahmadnagib/SARL-RRM)|
 ## 2022-09-28
 |paper|code|
 |---|---|
 |[simulation and control of deformable autonomous airships in turbulent wind](https://arxiv.org/abs/2012.15684)|[airship_simulation](https://github.com/robot-perception-group/airship_simulation)|
 |[biologically-plausible determinant maximization neural networks for blind separation of correlated sources](https://arxiv.org/abs/2209.12894)|[biologically-plausible-detmaxnns-for-blind-source-separation](https://github.com/bariscanbozkurt/biologically-plausible-detmaxnns-for-blind-source-separation)|
+|[perception-driven formation control of airships](https://arxiv.org/abs/2209.13040)|[airship-mpc](https://github.com/robot-perception-group/airship-mpc)|
+|[source detection via multi-label classification](https://arxiv.org/abs/2209.13553)|[Signal_detector](https://github.com/jkrishnan95v/Signal_detector)|
 |[semi-blind source separation with learned constraints](https://arxiv.org/abs/2209.13585)|[sgmca](https://github.com/rcarlonigertosio/sgmca)|
 |[provably efficient machine learning for quantum many-body problems](https://arxiv.org/abs/2106.12627)|[PastaQ.jl](https://github.com/GTorlai/PastaQ.jl)|
 |[cell-free massive mimo meets otfs modulation](https://arxiv.org/abs/2112.10869)|[cell-free-otfs](https://github.com/mohammadalimohammadi/cell-free-otfs)|
 |[online caching with optimistic learning](https://arxiv.org/abs/2202.10590)|[online-caching](https://github.com/naram-m/online-caching)|
 |[an asymmetric contrastive loss for handling imbalanced datasets](https://arxiv.org/abs/2207.07080)|[asymmetric-cl](https://github.com/valentinovito/asymmetric-cl)|
+|[forlorn: a framework for comparing offline methods and reinforcement learning for optimization of ran parameters](https://arxiv.org/abs/2209.13540)|[forlorn](https://github.com/tnresearch/forlorn)|
 ## 2022-09-27
 |paper|code|
 |---|---|
