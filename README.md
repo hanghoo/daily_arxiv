@@ -5,12 +5,10 @@
 |[robust moving target defence against false data injection attacks in power grids](https://arxiv.org/abs/2111.06346)|[robust_mtd](https://github.com/xuwkk/robust_mtd)|
 |[iterative inner/outer approximations for scalable semidefinite programs using block factor-width-two matrices](https://arxiv.org/abs/2204.06759)|[iterative_sdpfw](https://github.com/soc-ucsd/iterative_sdpfw)|
 |[exploring proxying quic and http/3 for satellite communication](https://arxiv.org/abs/2205.01554)|[2022-ifip-nw-quic-proxies](https://github.com/kosekmi/2022-ifip-nw-quic-proxies)|
-|[facial landmark predictions with applications to metaverse](https://arxiv.org/abs/2209.14698)|[text-to-anime](https://github.com/sweatybridge/text-to-anime)|
 ## 2022-09-29
 |paper|code|
 |---|---|
 |[a parameter-free nonconvex low-rank tensor completion model for spatiotemporal traffic data recovery](https://arxiv.org/abs/2209.13786)|[T-ITS-PFNC](https://github.com/YoungHe49/T-ITS-PFNC)|
-|[near lossless time series data compression methods using statistics and deviation](https://arxiv.org/abs/2209.14162)|[data-compression](https://github.com/vidhi0206/data-compression)|
 |[toward safe and accelerated deep reinforcement learning for next-generation wireless networks](https://arxiv.org/abs/2209.13532)|[SARL-RRM](https://github.com/ahmadnagib/SARL-RRM)|
 ## 2022-09-28
 |paper|code|
