@@ -1,3 +1,20 @@
+## 2022-10-03
+|paper|code|
+|---|---|
+|[sequential fair allocation: achieving the optimal envy-efficiency tradeoff curve](https://arxiv.org/abs/2105.05308)|[Online-Resource-Allocation](https://github.com/seanrsinclair/Online-Resource-Allocation)|
+|[probabilistic metamodels for an efficient characterization of complex driving scenarios](https://arxiv.org/abs/2110.02892)|[dsiod](https://github.com/wnklmx/dsiod)|
+|[end-to-end p300 bci using bayesian accumulation of riemannian probabilities](https://arxiv.org/abs/2203.07807)|[demos](https://github.com/timeflux/demos)|
+|[near lossless time series data compression methods using statistics and deviation](https://arxiv.org/abs/2209.14162)|[data-compression](https://github.com/vidhi0206/data-compression)|
+|[fully proprioceptive slip-velocity-aware state estimation for mobile robots via invariant kalman filtering and disturbance observer](https://arxiv.org/abs/2209.15140)|[slip_detection_dob](https://github.com/umich-curly/slip_detection_dob)|
+|[ensemble machine learning model trained on a new synthesized dataset generalizes well for stress prediction using wearable devices](https://arxiv.org/abs/2209.15146)|[stress](https://github.com/xalentis/stress)|
+|[rf-transformer: a unified backscatter radio hardware abstraction](https://arxiv.org/abs/2209.15195)|[rf-transformer](https://github.com/lefscc/rf-transformer)|
+|[astf: visual abstractions of time-varying patterns in radio signals](https://arxiv.org/abs/2209.15223)|[astf](https://github.com/csuvis/astf)|
+|[safe exploration method for reinforcement learning under existence of disturbance](https://arxiv.org/abs/2209.15452)|[safeexploration](https://github.com/fujitsuresearch/safeexploration)|
+|[tinyturbo: efficient turbo decoders on edge](https://arxiv.org/abs/2209.15614)|[tinyturbo](https://github.com/hebbarashwin/tinyturbo)|
+|[construction of optimal spectral methods in phase retrieval](https://arxiv.org/abs/2012.04524)|[Optimal_Spectral_Methods_PR](https://github.com/AnMaillard/Optimal_Spectral_Methods_PR)|
+|[optimal denoising of rotationally invariant rectangular matrices](https://arxiv.org/abs/2203.07752)|[rectangular_rie](https://github.com/penombraet/rectangular_rie)|
+|[facial landmark predictions with applications to metaverse](https://arxiv.org/abs/2209.14698)|[text-to-anime](https://github.com/sweatybridge/text-to-anime)|
+|[self-stabilization: the implicit bias of gradient descent at the edge of stability](https://arxiv.org/abs/2209.15594)|[eos](https://github.com/adamian98/eos)|
 ## 2022-09-30
 |paper|code|
 |---|---|
