@@ -1,3 +1,14 @@
+## 2022-10-04
+|paper|code|
+|---|---|
+|[uncertainty detection and reduction in neural decoding of eeg signals](https://arxiv.org/abs/2201.00627)|[ue-eeg](https://github.com/tiehangd/ue-eeg)|
+|[angular control charts: a new perspective for monitoring reliability of multi-state systems](https://arxiv.org/abs/2205.02024)|[ac_charts](https://github.com/khaled-janada/ac_charts)|
+|[event-triggered and distributed model predictive control for guaranteed collision avoidance in uav swarms](https://arxiv.org/abs/2206.11020)|[et-distributed-uav-path-planner](https://github.com/data-science-in-mechanical-engineering/et-distributed-uav-path-planner)|
+|[power system anomaly detection and classification utilizing wls-ekf state estimation and machine learning](https://arxiv.org/abs/2209.12629)|[anomaly_identification](https://github.com/mile888/anomaly_identification)|
+|[distributionally robust covariance steering with optimal risk allocation](https://arxiv.org/abs/2210.00050)|[covariance-steering-with-optimal-dr-risk-allocation](https://github.com/venkatramanrenganathan/covariance-steering-with-optimal-dr-risk-allocation)|
+|[probabilistic traversability model for risk-aware motion planning in off-road environments](https://arxiv.org/abs/2210.00153)|[mppi_numba](https://github.com/mit-acl/mppi_numba)|
+|[accelerate reinforcement learning with pid controllers in the pendulum simulations](https://arxiv.org/abs/2210.00770)|[Coaching](https://github.com/BaiLiping/Coaching)|
+|[unsupervised multimodal change detection based on structural relationship graph representation learning](https://arxiv.org/abs/2210.00941)|[srgcae](https://github.com/chenhongruixuan/srgcae)|
 ## 2022-10-03
 |paper|code|
 |---|---|
