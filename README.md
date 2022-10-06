@@ -1,3 +1,12 @@
+## 2022-10-05
+|paper|code|
+|---|---|
+|[dynamic interventions for networked contagions](https://arxiv.org/abs/2205.13394)|[dynamic-clearing](https://github.com/papachristoumarios/dynamic-clearing)|
+|[diagnosis of parkinson's disease based on voice signals using shap and hard voting ensemble method](https://arxiv.org/abs/2210.01205)|[classification_of_parkinson_disease](https://github.com/pariaghaheri/classification_of_parkinson_disease)|
+|[fair queuing aware congestion control](https://arxiv.org/abs/2206.10561)|[fair-queuing-aware-congestion-control](https://github.com/muxamilian/fair-queuing-aware-congestion-control)|
+|[qt-routenet: improved gnn generalization to larger 5g networks by fine-tuning predictions from queueing theory](https://arxiv.org/abs/2207.06336)|[itu-ml5g-ps-001-parana](https://github.com/itu-ai-ml-in-5g-challenge/itu-ml5g-ps-001-parana)|
+|[do language models make human-like predictions about the coreferents of italian anaphoric zero pronouns?](https://arxiv.org/abs/2208.14554)|[italian-zero-anaphora-prediction](https://github.com/jmichaelov/italian-zero-anaphora-prediction)|
+|[overparameterized relu neural networks learn the simplest models: neural isometry and exact recovery](https://arxiv.org/abs/2209.15265)|[neural-recovery](https://github.com/pilancilab/neural-recovery)|
 ## 2022-10-04
 |paper|code|
 |---|---|
