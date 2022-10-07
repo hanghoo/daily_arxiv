@@ -1,12 +1,21 @@
+## 2022-10-06
+|paper|code|
+|---|---|
+|[quadratic and higher-order unconstrained binary optimization of railway rescheduling for quantum computing](https://arxiv.org/abs/2107.03234)|[railways_hobo](https://github.com/iitis/railways_hobo)|
+|[generalised implicit neural representations](https://arxiv.org/abs/2205.15674)|[ginr](https://github.com/danielegrattarola/ginr)|
+|[learning the spectrogram temporal resolution for audio classification](https://arxiv.org/abs/2210.01719)|[diffres-python](https://github.com/haoheliu/diffres-python)|
+|[matt: a manifold attention network for eeg decoding](https://arxiv.org/abs/2210.01986)|[matt](https://github.com/cecnl/matt)|
+|[a multi-stage automated online network data stream analytics framework for iiot systems](https://arxiv.org/abs/2210.01985)|[msana-online-data-stream-analytics-and-concept-drift-adaptation](https://github.com/western-oc2-lab/msana-online-data-stream-analytics-and-concept-drift-adaptation)|
 ## 2022-10-05
 |paper|code|
 |---|---|
+|[future-focused control barrier functions for autonomous vehicle control](https://arxiv.org/abs/2204.00127)|[ffcbf-control](https://github.com/6lackmitchell/ffcbf-control)|
 |[dynamic interventions for networked contagions](https://arxiv.org/abs/2205.13394)|[dynamic-clearing](https://github.com/papachristoumarios/dynamic-clearing)|
 |[diagnosis of parkinson's disease based on voice signals using shap and hard voting ensemble method](https://arxiv.org/abs/2210.01205)|[classification_of_parkinson_disease](https://github.com/pariaghaheri/classification_of_parkinson_disease)|
-|[fair queuing aware congestion control](https://arxiv.org/abs/2206.10561)|[fair-queuing-aware-congestion-control](https://github.com/muxamilian/fair-queuing-aware-congestion-control)|
 |[qt-routenet: improved gnn generalization to larger 5g networks by fine-tuning predictions from queueing theory](https://arxiv.org/abs/2207.06336)|[itu-ml5g-ps-001-parana](https://github.com/itu-ai-ml-in-5g-challenge/itu-ml5g-ps-001-parana)|
 |[do language models make human-like predictions about the coreferents of italian anaphoric zero pronouns?](https://arxiv.org/abs/2208.14554)|[italian-zero-anaphora-prediction](https://github.com/jmichaelov/italian-zero-anaphora-prediction)|
 |[overparameterized relu neural networks learn the simplest models: neural isometry and exact recovery](https://arxiv.org/abs/2209.15265)|[neural-recovery](https://github.com/pilancilab/neural-recovery)|
+|[anoml-iot: an end to end re-configurable multi-protocol anomaly detection pipeline for internet of things](https://arxiv.org/abs/2210.01771)|[anoml-iot-analytics](https://gitlab.com/iotgarage/anoml-iot-analytics)|
 ## 2022-10-04
 |paper|code|
 |---|---|
