@@ -1,3 +1,10 @@
+## 2022-10-10
+|paper|code|
+|---|---|
+|[experiments with mmwave automotive radar test-bed](https://arxiv.org/abs/1912.12566)|[mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|
+|[neural network optimal feedback control with guaranteed local stability](https://arxiv.org/abs/2205.00394)|[qrnet](https://github.com/tenavi/qrnet)|
+|[physics-inspired temporal learning of quadrotor dynamics for accurate model predictive trajectory tracking](https://arxiv.org/abs/2206.03305)|[pi-tcn](https://github.com/arplaboratory/pi-tcn)|
+|[deep reinforcement learning meets graph neural networks: exploring a routing optimization use case](https://arxiv.org/abs/1910.07421)|[DRL-GNN](https://github.com/knowledgedefinednetworking/DRL-GNN)|
 ## 2022-10-07
 |paper|code|
 |---|---|
@@ -15,7 +22,6 @@
 |[learning the spectrogram temporal resolution for audio classification](https://arxiv.org/abs/2210.01719)|[diffres-python](https://github.com/haoheliu/diffres-python)|
 |[matt: a manifold attention network for eeg decoding](https://arxiv.org/abs/2210.01986)|[matt](https://github.com/cecnl/matt)|
 |[sequential sum-of-squares programming for analysis of nonlinear systems](https://arxiv.org/abs/2210.02142)|[bisosprob](https://github.com/tcunis/bisosprob)|
-|[a novel covariance matrix reconstruction method for robust adaptive beamforming](https://arxiv.org/abs/2210.02214)|[robust-adaptive-beamforming-2022](https://github.com/chenpengseu/robust-adaptive-beamforming-2022)|
 |[a multi-stage automated online network data stream analytics framework for iiot systems](https://arxiv.org/abs/2210.01985)|[msana-online-data-stream-analytics-and-concept-drift-adaptation](https://github.com/western-oc2-lab/msana-online-data-stream-analytics-and-concept-drift-adaptation)|
 ## 2022-10-05
 |paper|code|
