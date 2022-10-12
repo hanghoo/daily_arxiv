@@ -1,3 +1,13 @@
+## 2022-10-11
+|paper|code|
+|---|---|
+|[towards real-world bci: ccspnet, a compact subject-independent motor imagery framework](https://arxiv.org/abs/2012.13567)|[CCSPNet](https://github.com/Singular-Brain/CCSPNet)|
+|[interactive power to frequency dynamics between grid-forming inverters and synchronous generators in power electronics-dominated power systems](https://arxiv.org/abs/2102.12332)|[PyPSCAD](https://github.com/NREL/PyPSCAD)|
+|[performance analysis of multi-user noma wireless-powered mmtc networks: a stochastic geometry approach](https://arxiv.org/abs/2201.04784)|[mmtc-noma](https://github.com/thanhluannguyen/mmtc-noma)|
+|[communication-efficient stochastic zeroth-order optimization for federated learning](https://arxiv.org/abs/2201.09531)|[FedZO](https://github.com/noobyzy/FedZO)|
+|[urglq: an efficient covariance matrix reconstruction method for robust adaptive beamforming](https://arxiv.org/abs/2210.02214)|[robust-adaptive-beamforming-2022](https://github.com/chenpengseu/robust-adaptive-beamforming-2022)|
+|[coinpress: practical private mean and covariance estimation](https://arxiv.org/abs/2006.06618)|[coin-press](https://github.com/twistedcubic/coin-press)|
+|[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezhav2](https://gitlab.com/steamgjk/nezhav2)|
 ## 2022-10-10
 |paper|code|
 |---|---|
@@ -21,6 +31,7 @@
 |[generalised implicit neural representations](https://arxiv.org/abs/2205.15674)|[ginr](https://github.com/danielegrattarola/ginr)|
 |[learning the spectrogram temporal resolution for audio classification](https://arxiv.org/abs/2210.01719)|[diffres-python](https://github.com/haoheliu/diffres-python)|
 |[matt: a manifold attention network for eeg decoding](https://arxiv.org/abs/2210.01986)|[matt](https://github.com/cecnl/matt)|
+|[density planner: minimizing collision risk in motion planning with dynamic obstacles using density-based reachability](https://arxiv.org/abs/2210.02131)|[density_planner](https://github.com/MIT-REALM/density_planner)|
 |[sequential sum-of-squares programming for analysis of nonlinear systems](https://arxiv.org/abs/2210.02142)|[bisosprob](https://github.com/tcunis/bisosprob)|
 |[a multi-stage automated online network data stream analytics framework for iiot systems](https://arxiv.org/abs/2210.01985)|[msana-online-data-stream-analytics-and-concept-drift-adaptation](https://github.com/western-oc2-lab/msana-online-data-stream-analytics-and-concept-drift-adaptation)|
 ## 2022-10-05
