@@ -1,3 +1,12 @@
+## 2022-10-12
+|paper|code|
+|---|---|
+|[the portiloop: a deep learning-based open science tool for closed-loop brain stimulation](https://arxiv.org/abs/2107.13473)|[portiloop](https://github.com/mistlab/portiloop)|
+|[load balancing in compute clusters with delayed feedback](https://arxiv.org/abs/2109.08548)|[partially-observable-load-balancer](https://github.com/anamtahir7/partially-observable-load-balancer)|
+|[transfer learning-based channel estimation in orthogonal frequency division multiplexing systems using data-nulling superimposed pilots](https://arxiv.org/abs/2205.14308)|[transferlearningbasedcebydnsp](https://github.com/leiunnn/transferlearningbasedcebydnsp)|
+|[differentiable bilevel programming for stackelberg congestion games](https://arxiv.org/abs/2209.07618)|[Differentiable-Bilevel-Programming](https://github.com/jiayangli-nu/Differentiable-Bilevel-Programming)|
+|[multi-site diagnostic classification of schizophrenia using 3d cnn on aggregated task-based fmri data](https://arxiv.org/abs/2210.05240)|[Schizophrenia-Classification-from-multi-site-fMRI-data](https://github.com/s-vigneshwaran/Schizophrenia-Classification-from-multi-site-fMRI-data)|
+|[misspecified phase retrieval with generative priors](https://arxiv.org/abs/2210.05571)|[MPRG](https://github.com/jiulongliu/MPRG)|
 ## 2022-10-11
 |paper|code|
 |---|---|
@@ -6,6 +15,7 @@
 |[performance analysis of multi-user noma wireless-powered mmtc networks: a stochastic geometry approach](https://arxiv.org/abs/2201.04784)|[mmtc-noma](https://github.com/thanhluannguyen/mmtc-noma)|
 |[communication-efficient stochastic zeroth-order optimization for federated learning](https://arxiv.org/abs/2201.09531)|[FedZO](https://github.com/noobyzy/FedZO)|
 |[urglq: an efficient covariance matrix reconstruction method for robust adaptive beamforming](https://arxiv.org/abs/2210.02214)|[robust-adaptive-beamforming-2022](https://github.com/chenpengseu/robust-adaptive-beamforming-2022)|
+|[correlative information maximization based biologically plausible neural networks for correlated source separation](https://arxiv.org/abs/2210.04222)|[Biologically-Plausible-Correlative-Information-Maximization-for-Blind-Source-Separation](https://github.com/BariscanBozkurt/Biologically-Plausible-Correlative-Information-Maximization-for-Blind-Source-Separation)|
 |[coinpress: practical private mean and covariance estimation](https://arxiv.org/abs/2006.06618)|[coin-press](https://github.com/twistedcubic/coin-press)|
 |[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezhav2](https://gitlab.com/steamgjk/nezhav2)|
 ## 2022-10-10
