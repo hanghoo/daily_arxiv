@@ -15,7 +15,6 @@
 |paper|code|
 |---|---|
 |[a spatially separable attention mechanism for massive mimo csi feedback](https://arxiv.org/abs/2208.03369)|[pytorch_stnet](https://github.com/sharanmourya/pytorch_stnet)|
-|[calibration and uncertainty characterization for ultra-wideband two-way-ranging measurements](https://arxiv.org/abs/2210.05888)|[uwb_calibration](https://github.com/decarsg/uwb_calibration)|
 |[outlier-insensitive kalman filtering using nuv priors](https://arxiv.org/abs/2210.06083)|[oikf_icassp23](https://github.com/kalmannet/oikf_icassp23)|
 |[an energy-efficient spiking neural network for finger velocity decoding for implantable brain-machine interface](https://arxiv.org/abs/2210.06287)|[snn-for-finger-velocity-ibmi](https://github.com/liaorichard/snn-for-finger-velocity-ibmi)|
 |[multimodality multi-lead ecg arrhythmia classification using self-supervised learning](https://arxiv.org/abs/2210.06297)|[ecg_ssl_12lead](https://github.com/uark-aicv/ecg_ssl_12lead)|
