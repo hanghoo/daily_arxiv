@@ -1,3 +1,13 @@
+## 2022-10-17
+|paper|code|
+|---|---|
+|[learning distributed and fair policies for network load balancing as markov potential game](https://arxiv.org/abs/2206.01451)|[marllb](https://github.com/zhiyuanyaoj/marllb)|
+|[$\mathcal{l}_2$-optimal reduced-order modeling using parameter-separable forms](https://arxiv.org/abs/2206.02929)|[l2-opt-rom-ex](https://github.com/pmli/l2-opt-rom-ex)|
+|[calibration and uncertainty characterization for ultra-wideband two-way-ranging measurements](https://arxiv.org/abs/2210.05888)|[uwb_calibration](https://github.com/decarsg/uwb_calibration)|
+|[deep reinforcement learning-based rebalancing policies for profit maximization of relay nodes in payment channel networks](https://arxiv.org/abs/2210.07302)|[payment-channel-rebalancing](https://github.com/npapadis/payment-channel-rebalancing)|
+|[safe model-based reinforcement learning with an uncertainty-aware reachability certificate](https://arxiv.org/abs/2210.07553)|[Safe_MBRL](https://github.com/ManUtdMoon/Safe_MBRL)|
+|[i13dr: a real-time demand response infrastructure for integrating renewable energy resources](https://arxiv.org/abs/2210.07789)|[demand-manager-app](https://github.com/i13DR/demand-manager-app)|
+|[grafics: graph embedding-based floor identification using crowdsourced rf signals](https://arxiv.org/abs/2210.07895)|[floors](https://github.com/robertflame/floors)|
 ## 2022-10-14
 |paper|code|
 |---|---|
@@ -11,6 +21,7 @@
 |[decentralized state estimation in a dimension-reduced linear regression](https://arxiv.org/abs/2210.06947)|[dtt](https://gitlab.com/robinforsling/dtt)|
 |[better lattice quantizers constructed from complex integers](https://arxiv.org/abs/2204.01105)|[latticequantizer](https://github.com/shx-lyu/latticequantizer)|
 |[decision-oriented two-parameter fisher information sensitivity using symplectic decomposition](https://arxiv.org/abs/2207.12077)|[symplecticfishersensitivity](https://github.com/longitude-jyang/symplecticfishersensitivity)|
+|[rigorous dynamical mean field theory for stochastic gradient descent methods](https://arxiv.org/abs/2210.06591)|[rigorous-dynamical-mean-field-theory](https://github.com/spoc-group/rigorous-dynamical-mean-field-theory)|
 ## 2022-10-13
 |paper|code|
 |---|---|
