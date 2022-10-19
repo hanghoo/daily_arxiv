@@ -1,3 +1,22 @@
+## 2022-10-18
+|paper|code|
+|---|---|
+|[a robust alternative for graph convolutional neural networks via graph neighborhood filters](https://arxiv.org/abs/2110.00844)|[neighborhoodgf](https://github.com/vmtenorio/neighborhoodgf)|
+|[music source separation with generative flow](https://arxiv.org/abs/2204.09079)|[generativesourceseparation](https://github.com/gzhu06/generativesourceseparation)|
+|[sinr: deconvolving circular sas images using implicit neural representations](https://arxiv.org/abs/2204.10428)|[csas_deconvolution_inr](https://github.com/awreed/csas_deconvolution_inr)|
+|[neural lyapunov control of unknown nonlinear systems with stability guarantees](https://arxiv.org/abs/2206.01913)|[unknown_neural_lyapunov](https://github.com/ruikunzhou/unknown_neural_lyapunov)|
+|[toward reliable signals decoding for electroencephalogram: a benchmark study to eegnex](https://arxiv.org/abs/2207.12369)|[eegnex](https://github.com/chenxiachan/eegnex)|
+|[disentangled representation learning for rf fingerprint extraction under unknown channel statistics](https://arxiv.org/abs/2208.02724)|[dr-rff](https://github.com/xrj-com/dr-rff)|
+|[efficient planar pose estimation via uwb measurements](https://arxiv.org/abs/2209.06779)|[Efficient-Pose-Estimation-via-UWB-measurements](https://github.com/SLAMLab-CUHKSZ/Efficient-Pose-Estimation-via-UWB-measurements)|
+|[multiscale adaptive scheduling and path-planning for power-constrained uav-relays via smdps](https://arxiv.org/abs/2209.07655)|[MAESTRO-X](https://github.com/bharathkeshavamurthy/MAESTRO-X)|
+|[evaluating latent space robustness and uncertainty of eeg-ml models under realistic distribution shifts](https://arxiv.org/abs/2209.11233)|[evaluating-eeg-representations](https://github.com/neerajwagh/evaluating-eeg-representations)|
+|[vehicle risk assessment and control for lane-keeping and collision avoidance in urban and highway driving scenarios](https://arxiv.org/abs/2210.08357)|[Advanced-Driving-Simulator](https://github.com/hazemfahmyy/Advanced-Driving-Simulator)|
+|[robust graph filter identification and graph denoising from signal observations](https://arxiv.org/abs/2210.08488)|[graph_denoising](https://github.com/reysam93/graph_denoising)|
+|[logical zonotope: a set representation for binary vectors](https://arxiv.org/abs/2210.08596)|[Logical-Zonotope](https://github.com/aalanwar/Logical-Zonotope)|
+|[principled pruning of bayesian neural networks through variational free energy minimization](https://arxiv.org/abs/2210.09134)|[principledpruningbnn](https://github.com/biaslab/principledpruningbnn)|
+|[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezhav2](https://gitlab.com/steamgjk/nezhav2)|
+|[programmable and customized intelligence for traffic steering in 5g networks using open ran architectures](https://arxiv.org/abs/2209.14171)|[sim-ns3-o-ran-e2](https://github.com/o-ran-sc/sim-ns3-o-ran-e2)|
+|[a unitary transform based generalized approximate message passing](https://arxiv.org/abs/2210.08861)|[guamp](https://github.com/riverzhu/guamp)|
 ## 2022-10-17
 |paper|code|
 |---|---|
@@ -7,6 +26,7 @@
 |[deep reinforcement learning-based rebalancing policies for profit maximization of relay nodes in payment channel networks](https://arxiv.org/abs/2210.07302)|[payment-channel-rebalancing](https://github.com/npapadis/payment-channel-rebalancing)|
 |[safe model-based reinforcement learning with an uncertainty-aware reachability certificate](https://arxiv.org/abs/2210.07553)|[Safe_MBRL](https://github.com/ManUtdMoon/Safe_MBRL)|
 |[i13dr: a real-time demand response infrastructure for integrating renewable energy resources](https://arxiv.org/abs/2210.07789)|[demand-manager-app](https://github.com/i13DR/demand-manager-app)|
+|[skyplane: optimizing transfer cost and throughput using cloud-aware overlays](https://arxiv.org/abs/2210.07259)|[skyplane](https://github.com/skyplane-project/skyplane)|
 |[grafics: graph embedding-based floor identification using crowdsourced rf signals](https://arxiv.org/abs/2210.07895)|[floors](https://github.com/robertflame/floors)|
 ## 2022-10-14
 |paper|code|
