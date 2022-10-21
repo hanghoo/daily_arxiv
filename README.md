@@ -1,3 +1,9 @@
+## 2022-10-20
+|paper|code|
+|---|---|
+|[a spatially separable attention mechanism for massive mimo csi feedback](https://arxiv.org/abs/2208.03369)|[pytorch_stnet](https://github.com/sharanmourya/pytorch_stnet)|
+|[learning control admissibility models with graph neural networks for multi-agent navigation](https://arxiv.org/abs/2210.09378)|[pytorch_geometric_multiagent](https://github.com/rainorangelemon/pytorch_geometric_multiagent)|
+|[generative adversarial user privacy in lossy single-server information retrieval](https://arxiv.org/abs/2012.03902)|[GAUP_TIFS22](https://github.com/Simula-UiB/GAUP_TIFS22)|
 ## 2022-10-19
 |paper|code|
 |---|---|
