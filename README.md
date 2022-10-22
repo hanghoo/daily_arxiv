@@ -1,8 +1,21 @@
+## 2022-10-21
+|paper|code|
+|---|---|
+|[computing truncated joint approximate eigenbases for model order reduction](https://arxiv.org/abs/2201.05928)|[pytjae](https://github.com/fredyvides/pytjae)|
+|[recovery of missing sensor data by reconstructing time-varying graph signals](https://arxiv.org/abs/2203.00418)|[EUSIPCO_22_Sobolev](https://github.com/anindya2001/EUSIPCO_22_Sobolev)|
+|[the pump scheduling problem: a real-world scenario for reinforcement learning](https://arxiv.org/abs/2210.11111)|[pumpscheduling](https://gitlab.com/hdonancio/pumpscheduling)|
+|[neural odes as feedback policies for nonlinear optimal control](https://arxiv.org/abs/2210.11245)|[control_neuralode](https://github.com/ilyaorson/control_neuralode)|
+|[on tilted losses in machine learning: theory and applications](https://arxiv.org/abs/2109.06141)|[TERM](https://github.com/litian96/TERM)|
+|[long-range icn for the iot: exploring a lora system design](https://arxiv.org/abs/2204.11040)|[ifip-networking-lora-icn-2022](https://github.com/inetrg/ifip-networking-lora-icn-2022)|
+|[rashomon capacity: a metric for predictive multiplicity in classification](https://arxiv.org/abs/2206.01295)|[rashomon-capacity](https://github.com/hsianghsu/rashomon-capacity)|
 ## 2022-10-20
 |paper|code|
 |---|---|
 |[a spatially separable attention mechanism for massive mimo csi feedback](https://arxiv.org/abs/2208.03369)|[pytorch_stnet](https://github.com/sharanmourya/pytorch_stnet)|
 |[learning control admissibility models with graph neural networks for multi-agent navigation](https://arxiv.org/abs/2210.09378)|[pytorch_geometric_multiagent](https://github.com/rainorangelemon/pytorch_geometric_multiagent)|
+|[from model-based to model-free: learning building control for demand response](https://arxiv.org/abs/2210.10203)|[learning-building-control](https://github.com/nrel/learning-building-control)|
+|[evaluation metrics for object detection for autonomous systems](https://arxiv.org/abs/2210.10298)|[dist-confusionmtrx](https://github.com/abadithela/dist-confusionmtrx)|
+|[a non-interior-point continuation method for the optimal control problem with equilibrium constraints](https://arxiv.org/abs/2210.10336)|[nipocpec](https://github.com/ky-lin22/nipocpec)|
 |[generative adversarial user privacy in lossy single-server information retrieval](https://arxiv.org/abs/2012.03902)|[GAUP_TIFS22](https://github.com/Simula-UiB/GAUP_TIFS22)|
 ## 2022-10-19
 |paper|code|
