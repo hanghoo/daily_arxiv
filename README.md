@@ -5,9 +5,12 @@
 |[recovery of missing sensor data by reconstructing time-varying graph signals](https://arxiv.org/abs/2203.00418)|[EUSIPCO_22_Sobolev](https://github.com/anindya2001/EUSIPCO_22_Sobolev)|
 |[the pump scheduling problem: a real-world scenario for reinforcement learning](https://arxiv.org/abs/2210.11111)|[pumpscheduling](https://gitlab.com/hdonancio/pumpscheduling)|
 |[neural odes as feedback policies for nonlinear optimal control](https://arxiv.org/abs/2210.11245)|[control_neuralode](https://github.com/ilyaorson/control_neuralode)|
+|[prosky: neat meets noma-mmwave in the sky of 6g](https://arxiv.org/abs/2210.11406)|[prosky](https://github.com/fouzibenfaid/prosky)|
+|[a hybrid millimeter-wave channel simulator for joint communication and localization](https://arxiv.org/abs/2210.11422)|[omnisim](https://github.com/dengjunquan/omnisim)|
 |[on tilted losses in machine learning: theory and applications](https://arxiv.org/abs/2109.06141)|[TERM](https://github.com/litian96/TERM)|
 |[long-range icn for the iot: exploring a lora system design](https://arxiv.org/abs/2204.11040)|[ifip-networking-lora-icn-2022](https://github.com/inetrg/ifip-networking-lora-icn-2022)|
 |[rashomon capacity: a metric for predictive multiplicity in classification](https://arxiv.org/abs/2206.01295)|[rashomon-capacity](https://github.com/hsianghsu/rashomon-capacity)|
+|[a fast algorithm for ranking users by their influence in online social platforms](https://arxiv.org/abs/2206.09960)|[psi-score](https://github.com/nouamanea/psi-score)|
 ## 2022-10-20
 |paper|code|
 |---|---|
