@@ -1,3 +1,10 @@
+## 2022-10-26
+|paper|code|
+|---|---|
+|[learning multi-objective curricula for robotic policy learning](https://arxiv.org/abs/2110.03032)|[moc_corl22](https://github.com/luciferkonn/moc_corl22)|
+|[label-aware ranked loss for robust people counting using automotive in-cabin radar](https://arxiv.org/abs/2110.05876)|[labelawareranked-loss](https://github.com/2geeks2/labelawareranked-loss)|
+|[energy pricing in p2p energy systems using reinforcement learning](https://arxiv.org/abs/2210.13555)|[rl-p2p-price-prediction](https://github.com/artifitialleap-mbzuai/rl-p2p-price-prediction)|
+|[what has been enhanced in my knowledge-enhanced language model?](https://arxiv.org/abs/2202.00964)|[gcs_ki](https://github.com/yifan-h/gcs_ki)|
 ## 2022-10-25
 |paper|code|
 |---|---|
