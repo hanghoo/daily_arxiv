@@ -1,3 +1,9 @@
+## 2022-10-27
+|paper|code|
+|---|---|
+|[multimodal sensor data fusion for in-situ classification of animal behavior using accelerometry and gnss data](https://arxiv.org/abs/2206.12078)|[animal_behavior_classification_acc_gnss](https://github.com/reza219/animal_behavior_classification_acc_gnss)|
+|[mima -- multifunctional iot integrated menstrual aid](https://arxiv.org/abs/2210.14600)|[mima2022](https://github.com/smlab-niser/mima2022)|
+|[hybrid hmm decoder for convolutional codes by joint trellis-like structure and channel prior](https://arxiv.org/abs/2210.14749)|[hmm-decoder](https://github.com/haoyyli/hmm-decoder)|
 ## 2022-10-26
 |paper|code|
 |---|---|
@@ -5,11 +11,15 @@
 |[label-aware ranked loss for robust people counting using automotive in-cabin radar](https://arxiv.org/abs/2110.05876)|[labelawareranked-loss](https://github.com/2geeks2/labelawareranked-loss)|
 |[energy pricing in p2p energy systems using reinforcement learning](https://arxiv.org/abs/2210.13555)|[rl-p2p-price-prediction](https://github.com/artifitialleap-mbzuai/rl-p2p-price-prediction)|
 |[what has been enhanced in my knowledge-enhanced language model?](https://arxiv.org/abs/2202.00964)|[gcs_ki](https://github.com/yifan-h/gcs_ki)|
+|[spacephish: the evasion-space of adversarial attacks against phishing website detectors using machine learning](https://arxiv.org/abs/2210.13660)|[acsac22_spacephish](https://github.com/hihey54/acsac22_spacephish)|
 ## 2022-10-25
 |paper|code|
 |---|---|
+|[hierarchical filtering with online learned priors for ecg denoising](https://arxiv.org/abs/2210.12807)|[hkf_icassp23](https://github.com/kalmannet/hkf_icassp23)|
 |[unsupervised particle sorting for cryo-em using probabilistic pca](https://arxiv.org/abs/2210.12811)|[particle_sorting](https://github.com/giliw/particle_sorting)|
+|[distributed deep-lcc for cooperatively smoothing large-scale mixed traffic flow via connected and automated vehicles](https://arxiv.org/abs/2210.13171)|[distributed-deep-lcc](https://github.com/wangjw18/distributed-deep-lcc)|
 |[ecg artifact removal from single-channel surface emg using fully convolutional networks](https://arxiv.org/abs/2210.13271)|[ecg-removal-from-semg-by-fcn](https://github.com/eric-wang135/ecg-removal-from-semg-by-fcn)|
+|[stimulus-informed generalized canonical correlation analysis of stimulus-following brain responses](https://arxiv.org/abs/2210.13297)|[si-gcca](https://github.com/alexanderbertrandlab/si-gcca)|
 |[tight mutual information estimation with contrastive fenchel-legendre optimization](https://arxiv.org/abs/2107.01131)|[FLO](https://github.com/qingguo666/FLO)|
 |[joint task offloading and resource optimization in noma-based vehicular edge computing: a game-theoretic drl approach](https://arxiv.org/abs/2209.12749)|[Game-Theoretic-Deep-Reinforcement-Learning](https://github.com/neardws/Game-Theoretic-Deep-Reinforcement-Learning)|
 |[fast beam alignment via pure exploration in multi-armed bandits](https://arxiv.org/abs/2210.12625)|[fast-beam-alignment](https://github.com/yiwei0129/fast-beam-alignment)|
