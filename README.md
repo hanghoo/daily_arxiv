@@ -6,7 +6,6 @@
 |[adjoint optimisation for wind farm flow control with a free-vortex wake model](https://arxiv.org/abs/2208.11516)|[vortexwake](https://github.com/TUDelft-DataDrivenControl/vortexwake)|
 |[accelerated massive mimo detector based on annealed underdamped langevin dynamics](https://arxiv.org/abs/2210.15071)|[langevin-mimo-detector](https://github.com/nzilberstein/langevin-mimo-detector)|
 |[kalmanbot: kalmannet-aided bollinger bands for pairs trading](https://arxiv.org/abs/2210.15448)|[kalmanbot_icassp23](https://github.com/kalmannet/kalmanbot_icassp23)|
-|[deep convolutional neural networks for multi-target tracking: a transfer learning approach](https://arxiv.org/abs/2210.15539)|[mtt](https://github.com/damowerko/mtt)|
 |[forlorn: a framework for comparing offline methods and reinforcement learning for optimization of ran parameters](https://arxiv.org/abs/2209.13540)|[forlorn](https://github.com/tnresearch/forlorn)|
 |[infoshape: task-based neural data shaping via mutual information](https://arxiv.org/abs/2210.15034)|[mine-pytorch](https://github.com/billywu1029/mine-pytorch)|
 ## 2022-10-27
