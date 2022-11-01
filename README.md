@@ -1,3 +1,12 @@
+## 2022-10-31
+|paper|code|
+|---|---|
+|[deep convolutional neural networks for multi-target tracking: a transfer learning approach](https://arxiv.org/abs/2210.15539)|[mtt](https://github.com/damowerko/mtt)|
+|[conditioning and sampling in variational diffusion models for speech super-resolution](https://arxiv.org/abs/2210.15793)|[diffwave-sr](https://github.com/yoyololicon/diffwave-sr)|
+|[distributed optimal control of graph symmetric systems via graph filters](https://arxiv.org/abs/2210.15847)|[graph-symmetric-systems](https://github.com/unstable-zeros/graph-symmetric-systems)|
+|[lightweight and high-fidelity end-to-end text-to-speech with multi-band generation and inverse short-time fourier transform](https://arxiv.org/abs/2210.15975)|[mb-istft-vits](https://github.com/masayakawamura/mb-istft-vits)|
+|[nnsvs: a neural network-based singing voice synthesis toolkit](https://arxiv.org/abs/2210.15987)|[nnsvs](https://github.com/nnsvs/nnsvs)|
+|[reproducible and portable big data analytics in the cloud](https://arxiv.org/abs/2112.09762)|[Reproducible_and_portable_app_in_cloud](https://github.com/big-data-lab-umbc/Reproducible_and_portable_app_in_cloud)|
 ## 2022-10-28
 |paper|code|
 |---|---|
@@ -23,7 +32,6 @@
 |[learning multi-objective curricula for robotic policy learning](https://arxiv.org/abs/2110.03032)|[moc_corl22](https://github.com/luciferkonn/moc_corl22)|
 |[label-aware ranked loss for robust people counting using automotive in-cabin radar](https://arxiv.org/abs/2110.05876)|[labelawareranked-loss](https://github.com/2geeks2/labelawareranked-loss)|
 |[energy pricing in p2p energy systems using reinforcement learning](https://arxiv.org/abs/2210.13555)|[rl-p2p-price-prediction](https://github.com/artifitialleap-mbzuai/rl-p2p-price-prediction)|
-|[what has been enhanced in my knowledge-enhanced language model?](https://arxiv.org/abs/2202.00964)|[gcs_ki](https://github.com/yifan-h/gcs_ki)|
 |[spacephish: the evasion-space of adversarial attacks against phishing website detectors using machine learning](https://arxiv.org/abs/2210.13660)|[acsac22_spacephish](https://github.com/hihey54/acsac22_spacephish)|
 ## 2022-10-25
 |paper|code|
