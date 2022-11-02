@@ -1,9 +1,23 @@
+## 2022-11-01
+|paper|code|
+|---|---|
+|[constrained multi-agent ergodic area surveying control based on finite element approximation of the potential field](https://arxiv.org/abs/2109.10756)|[hedac_fem_data](https://gitlab.com/sikirica_a/hedac_fem_data)|
+|[sparse dynamical system identification with simultaneous structural parameters and initial condition estimation](https://arxiv.org/abs/2204.10472)|[integralsindy](https://github.com/weibl9/integralsindy)|
+|[i13dr: a real-time demand response infrastructure for integrating renewable energy resources](https://arxiv.org/abs/2210.07789)|[demand-manager-app](https://github.com/i13DR/demand-manager-app)|
+|[fast-convergent federated learning via cyclic aggregation](https://arxiv.org/abs/2210.16520)|[cyclicaggregation](https://github.com/yjlee22/cyclicaggregation)|
+|[better lightweight network for free: codeword mimic learning for massive mimo csi feedback](https://arxiv.org/abs/2210.16544)|[codewordmimicfeedback](https://github.com/kylin9511/codewordmimicfeedback)|
+|[model-free learning of optimal beamformers for passive irs-assisted sumrate maximization](https://arxiv.org/abs/2210.16712)|[zosga-irs](https://github.com/hassaanhashmi/zosga-irs)|
+|[bayesian model selection of lithium-ion battery models via bayesian quadrature](https://arxiv.org/abs/2210.17299)|[BayesianModelSelection](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
+|[what has been enhanced in my knowledge-enhanced language model?](https://arxiv.org/abs/2202.00964)|[gcs_ki](https://github.com/yifan-h/gcs_ki)|
+|[page: prototype-based model-level explanations for graph neural networks](https://arxiv.org/abs/2210.17159)|[page](https://github.com/jordan7186/page)|
 ## 2022-10-31
 |paper|code|
 |---|---|
 |[deep convolutional neural networks for multi-target tracking: a transfer learning approach](https://arxiv.org/abs/2210.15539)|[mtt](https://github.com/damowerko/mtt)|
 |[conditioning and sampling in variational diffusion models for speech super-resolution](https://arxiv.org/abs/2210.15793)|[diffwave-sr](https://github.com/yoyololicon/diffwave-sr)|
+|[multimodal estimation of change points of physiological arousal in drivers](https://arxiv.org/abs/2210.15826)|[ggs_driving](https://github.com/usc-sail/ggs_driving)|
 |[distributed optimal control of graph symmetric systems via graph filters](https://arxiv.org/abs/2210.15847)|[graph-symmetric-systems](https://github.com/unstable-zeros/graph-symmetric-systems)|
+|[speaker recognition with two-step multi-modal deep cleansing](https://arxiv.org/abs/2210.15903)|[avcleanse](https://github.com/taoruijie/avcleanse)|
 |[lightweight and high-fidelity end-to-end text-to-speech with multi-band generation and inverse short-time fourier transform](https://arxiv.org/abs/2210.15975)|[mb-istft-vits](https://github.com/masayakawamura/mb-istft-vits)|
 |[nnsvs: a neural network-based singing voice synthesis toolkit](https://arxiv.org/abs/2210.15987)|[nnsvs](https://github.com/nnsvs/nnsvs)|
 |[reproducible and portable big data analytics in the cloud](https://arxiv.org/abs/2112.09762)|[Reproducible_and_portable_app_in_cloud](https://github.com/big-data-lab-umbc/Reproducible_and_portable_app_in_cloud)|
