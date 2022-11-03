@@ -7,7 +7,6 @@
 |[fast-convergent federated learning via cyclic aggregation](https://arxiv.org/abs/2210.16520)|[cyclicaggregation](https://github.com/yjlee22/cyclicaggregation)|
 |[better lightweight network for free: codeword mimic learning for massive mimo csi feedback](https://arxiv.org/abs/2210.16544)|[codewordmimicfeedback](https://github.com/kylin9511/codewordmimicfeedback)|
 |[model-free learning of optimal beamformers for passive irs-assisted sumrate maximization](https://arxiv.org/abs/2210.16712)|[zosga-irs](https://github.com/hassaanhashmi/zosga-irs)|
-|[bayesian model selection of lithium-ion battery models via bayesian quadrature](https://arxiv.org/abs/2210.17299)|[BayesianModelSelection](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
 |[what has been enhanced in my knowledge-enhanced language model?](https://arxiv.org/abs/2202.00964)|[gcs_ki](https://github.com/yifan-h/gcs_ki)|
 |[page: prototype-based model-level explanations for graph neural networks](https://arxiv.org/abs/2210.17159)|[page](https://github.com/jordan7186/page)|
 ## 2022-10-31
