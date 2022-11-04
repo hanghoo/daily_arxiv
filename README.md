@@ -1,3 +1,18 @@
+## 2022-11-03
+|paper|code|
+|---|---|
+|[invertibility conditions for the admittance matrices of balanced power systems](https://arxiv.org/abs/2012.04087)|[ybus-inv-check](https://github.com/djturizo/ybus-inv-check)|
+|[thermal neural networks: lumped-parameter thermal modeling with state-space machine learning](https://arxiv.org/abs/2103.16323)|[thermal-nn](https://github.com/wkirgsn/thermal-nn)|
+|[topology-aware graph neural networks for learning feasible and adaptive ac-opf solutions](https://arxiv.org/abs/2205.10129)|[GNN_OPF_electricity_market](https://github.com/ShaohuiLiu/GNN_OPF_electricity_market)|
+|[parallel faceted imaging in radio interferometry via proximal splitting (faceted hypersara): ii. code and real data proof of concept](https://arxiv.org/abs/2209.07604)|[faceted-hypersara](https://github.com/basp-group/faceted-hypersara)|
+|[a nonlinear sum of squares search for cazac sequences](https://arxiv.org/abs/2210.14827)|[ieee-sos-cazac](https://github.com/magsino-usna/ieee-sos-cazac)|
+|[bayesian model selection of lithium-ion battery models via bayesian quadrature](https://arxiv.org/abs/2210.17299)|[BayesianModelSelection](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
+|[torchfl: a performant library for bootstrapping federated learning experiments](https://arxiv.org/abs/2211.00735)|[torchfl](https://github.com/vivekkhimani/torchfl)|
+|[witt: a wireless image transmission transformer for semantic communications](https://arxiv.org/abs/2211.00937)|[witt](https://github.com/keyang8/witt)|
+## 2022-11-02
+|paper|code|
+|---|---|
+|[reachlipbnb: a branch-and-bound method for reachability analysis of neural autonomous systems using lipschitz bounds](https://arxiv.org/abs/2211.00608)|[reachlipbnb](https://github.com/o4lc/reachlipbnb)|
 ## 2022-11-01
 |paper|code|
 |---|---|
@@ -7,6 +22,7 @@
 |[fast-convergent federated learning via cyclic aggregation](https://arxiv.org/abs/2210.16520)|[cyclicaggregation](https://github.com/yjlee22/cyclicaggregation)|
 |[better lightweight network for free: codeword mimic learning for massive mimo csi feedback](https://arxiv.org/abs/2210.16544)|[codewordmimicfeedback](https://github.com/kylin9511/codewordmimicfeedback)|
 |[model-free learning of optimal beamformers for passive irs-assisted sumrate maximization](https://arxiv.org/abs/2210.16712)|[zosga-irs](https://github.com/hassaanhashmi/zosga-irs)|
+|[space-time design for deep joint source channel coding of images over mimo channels](https://arxiv.org/abs/2210.16985)|[st_jscc](https://github.com/aprilbian/st_jscc)|
 |[what has been enhanced in my knowledge-enhanced language model?](https://arxiv.org/abs/2202.00964)|[gcs_ki](https://github.com/yifan-h/gcs_ki)|
 |[page: prototype-based model-level explanations for graph neural networks](https://arxiv.org/abs/2210.17159)|[page](https://github.com/jordan7186/page)|
 ## 2022-10-31
@@ -20,6 +36,7 @@
 |[lightweight and high-fidelity end-to-end text-to-speech with multi-band generation and inverse short-time fourier transform](https://arxiv.org/abs/2210.15975)|[mb-istft-vits](https://github.com/masayakawamura/mb-istft-vits)|
 |[nnsvs: a neural network-based singing voice synthesis toolkit](https://arxiv.org/abs/2210.15987)|[nnsvs](https://github.com/nnsvs/nnsvs)|
 |[reproducible and portable big data analytics in the cloud](https://arxiv.org/abs/2112.09762)|[Reproducible_and_portable_app_in_cloud](https://github.com/big-data-lab-umbc/Reproducible_and_portable_app_in_cloud)|
+|[imitation learning-based implicit semantic-aware communication networks: multi-layer representation and collaborative reasoning](https://arxiv.org/abs/2210.16118)|[irml](https://github.com/zjs919/irml)|
 ## 2022-10-28
 |paper|code|
 |---|---|
