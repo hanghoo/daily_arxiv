@@ -4,6 +4,7 @@
 |[a space of goals: the cognitive geometry of informationally bounded agents](https://arxiv.org/abs/2111.03699)|[cognitive-geometry](https://gitlab.com/uh-adapsys/cognitive-geometry)|
 |[safety guarantees for neural network dynamic systems via stochastic barrier functions](https://arxiv.org/abs/2206.07811)|[neuralnetcontrolbarrier](https://github.com/aria-systems-group/neuralnetcontrolbarrier)|
 |[an open platform for simulating the physical layer of 6g communication systems with multiple intelligent surfaces](https://arxiv.org/abs/2211.01659)|[6g-simulation-platform](https://github.com/alexpapad95/6g-simulation-platform)|
+|[benchmarking local motion planners for navigation of mobile manipulators](https://arxiv.org/abs/2211.01812)|[local_planner_benchmarking](https://github.com/sevag-tafnakaji/local_planner_benchmarking)|
 |[learning safety in model-based reinforcement learning using mpc and gaussian processes](https://arxiv.org/abs/2211.01860)|[learning-safety-in-mpc-based-rl](https://github.com/FilippoAiraldi/learning-safety-in-mpc-based-rl)|
 |[squid: faster analytics via sampled quantiles data-structure](https://arxiv.org/abs/2211.01726)|[squid](https://github.com/squid12/squid)|
 ## 2022-11-03
