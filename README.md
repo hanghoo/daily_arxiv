@@ -14,7 +14,6 @@
 |[thermal neural networks: lumped-parameter thermal modeling with state-space machine learning](https://arxiv.org/abs/2103.16323)|[thermal-nn](https://github.com/wkirgsn/thermal-nn)|
 |[topology-aware graph neural networks for learning feasible and adaptive ac-opf solutions](https://arxiv.org/abs/2205.10129)|[GNN_OPF_electricity_market](https://github.com/ShaohuiLiu/GNN_OPF_electricity_market)|
 |[parallel faceted imaging in radio interferometry via proximal splitting (faceted hypersara): ii. code and real data proof of concept](https://arxiv.org/abs/2209.07604)|[faceted-hypersara](https://github.com/basp-group/faceted-hypersara)|
-|[rate-splitting for intelligent reflecting surface-aided multiuser vr streaming](https://arxiv.org/abs/2210.12191)|[Deep-GRAIL](https://github.com/ruihuang1967/Deep-GRAIL)|
 |[a nonlinear sum of squares search for cazac sequences](https://arxiv.org/abs/2210.14827)|[ieee-sos-cazac](https://github.com/magsino-usna/ieee-sos-cazac)|
 |[bayesian model selection of lithium-ion battery models via bayesian quadrature](https://arxiv.org/abs/2210.17299)|[BayesianModelSelection](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
 |[torchfl: a performant library for bootstrapping federated learning experiments](https://arxiv.org/abs/2211.00735)|[torchfl](https://github.com/vivekkhimani/torchfl)|
