@@ -1,3 +1,11 @@
+## 2022-11-07
+|paper|code|
+|---|---|
+|[graph neural networks for wireless communications: from theory to practice](https://arxiv.org/abs/2203.10800)|[gnn4com](https://github.com/yshenaw/gnn4com)|
+|[towards gain tuning for numerical kkl observers](https://arxiv.org/abs/2204.00318)|[learn_observe_KKL](https://github.com/monabf/learn_observe_KKL)|
+|[capabilities and skills in manufacturing: a survey over the last decade of etfa](https://arxiv.org/abs/2204.12908)|[etfa-skills-survey](https://github.com/tuw-qse/etfa-skills-survey)|
+|[rate-splitting for intelligent reflecting surface-aided multiuser vr streaming](https://arxiv.org/abs/2210.12191)|[Deep-GRAIL](https://github.com/ruihuang1967/Deep-GRAIL)|
+|[a knowledge distillation framework for enhancing ear-eeg based sleep staging with scalp-eeg data](https://arxiv.org/abs/2211.02638)|[EarEEG_KnowledgeDistillation](https://github.com/Mithunjha/EarEEG_KnowledgeDistillation)|
 ## 2022-11-04
 |paper|code|
 |---|---|
