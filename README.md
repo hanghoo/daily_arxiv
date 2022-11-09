@@ -1,3 +1,20 @@
+## 2022-11-08
+|paper|code|
+|---|---|
+|[unsupervised dynamic modeling of medical image transformation](https://arxiv.org/abs/2103.00930)|[med-dyn-reg](https://github.com/ngunnar/med-dyn-reg)|
+|[sharp: environment and person independent activity recognition with commodity ieee 802.11 access points](https://arxiv.org/abs/2103.09924)|[sharp](https://github.com/signetlabdei/sharp)|
+|[deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic](https://arxiv.org/abs/2105.05701)|[marl_cavs](https://github.com/dongchen06/marl_cavs)|
+|[efficient deep learning-based estimation of the vital signs on smartphones](https://arxiv.org/abs/2204.08989)|[mtvital](https://github.com/mahdifarvardin/mtvital)|
+|[towards efficient ecg-based atrial fibrillation detection via parameterised hypercomplex neural networks](https://arxiv.org/abs/2211.02678)|[hypercomplexecg](https://github.com/leibniz-future-lab/hypercomplexecg)|
+|[malgrid: visualization of binary features in large malware corpora](https://arxiv.org/abs/2211.02696)|[MalGrid](https://github.com/Mayachitra-Inc/MalGrid)|
+|[samo: speaker attractor multi-center one-class learning for voice anti-spoofing](https://arxiv.org/abs/2211.02718)|[samo](https://github.com/sivannavis/samo)|
+|[deep learning for rapid landslide detection using synthetic aperture radar (sar) datacubes](https://arxiv.org/abs/2211.02869)|[landslide-sar-unet](https://github.com/iprapas/landslide-sar-unet)|
+|[graph neural networks for community detection on sparse graphs](https://arxiv.org/abs/2211.03231)|[gnn_community_detection](https://github.com/nhuang37/gnn_community_detection)|
+|[pygsl: a graph structure learning toolkit](https://arxiv.org/abs/2211.03583)|[pygsl](https://github.com/maxwass/pygsl)|
+|[unifying approaches in active learning and active sampling via fisher information and information-theoretic quantities](https://arxiv.org/abs/2208.00549)|[2208.00549](https://github.com/blackhc/2208.00549)|
+|[hybrid hmm decoder for convolutional codes by joint trellis-like structure and channel prior](https://arxiv.org/abs/2210.14749)|[hmm-decoder](https://github.com/haoyyli/hmm-decoder)|
+|[fas-unet: a novel fas-driven unet to learn variational image segmentation](https://arxiv.org/abs/2210.15164)|[fasunet](https://github.com/zhuhui100/fasunet)|
+|[quantization adaptor for bit-level deep learning-based massive mimo csi feedback](https://arxiv.org/abs/2211.02937)|[qcrnet](https://github.com/zhang-xd18/qcrnet)|
 ## 2022-11-07
 |paper|code|
 |---|---|
@@ -5,7 +22,10 @@
 |[towards gain tuning for numerical kkl observers](https://arxiv.org/abs/2204.00318)|[learn_observe_KKL](https://github.com/monabf/learn_observe_KKL)|
 |[capabilities and skills in manufacturing: a survey over the last decade of etfa](https://arxiv.org/abs/2204.12908)|[etfa-skills-survey](https://github.com/tuw-qse/etfa-skills-survey)|
 |[rate-splitting for intelligent reflecting surface-aided multiuser vr streaming](https://arxiv.org/abs/2210.12191)|[Deep-GRAIL](https://github.com/ruihuang1967/Deep-GRAIL)|
+|[multi-view multi-label fine-grained emotion decoding from human brain activity](https://arxiv.org/abs/2211.02629)|[ml-bvae](https://github.com/kaichengfu1997/ml-bvae)|
+|[recursive estimation of user intent from noninvasive electroencephalography using discriminative models](https://arxiv.org/abs/2211.02630)|[bci-disc-models](https://github.com/nik-sm/bci-disc-models)|
 |[a knowledge distillation framework for enhancing ear-eeg based sleep staging with scalp-eeg data](https://arxiv.org/abs/2211.02638)|[EarEEG_KnowledgeDistillation](https://github.com/Mithunjha/EarEEG_KnowledgeDistillation)|
+|[on the interplay between tls certificates and quic performance](https://arxiv.org/abs/2211.02421)|[artifacts-conext22-quic-tls](https://github.com/ilabrg/artifacts-conext22-quic-tls)|
 ## 2022-11-04
 |paper|code|
 |---|---|
