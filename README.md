@@ -1,3 +1,10 @@
+## 2022-11-14
+|paper|code|
+|---|---|
+|[learning sparse analytic filters for piano transcription](https://arxiv.org/abs/2108.10382)|[sparse-analytic-filters](https://github.com/cwitkowitz/sparse-analytic-filters)|
+|[safety guarantees for neural network dynamic systems via stochastic barrier functions](https://arxiv.org/abs/2206.07811)|[neuralnetcontrolbarrier](https://github.com/aria-systems-group/neuralnetcontrolbarrier)|
+|[inferring probabilistic boolean networks from steady-state gene data samples](https://arxiv.org/abs/2211.05935)|[pbn-inference](https://github.com/uos-plccn/pbn-inference)|
+|[on low-rank trace regression under general sampling distribution](https://arxiv.org/abs/1904.08576)|[cv-impute](https://github.com/mohsenbayati/cv-impute)|
 ## 2022-11-11
 |paper|code|
 |---|---|
