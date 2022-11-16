@@ -1,10 +1,33 @@
+## 2022-11-15
+|paper|code|
+|---|---|
+|[universal adversarial perturbations for cnn classifiers in eeg-based bcis](https://arxiv.org/abs/1912.01171)|[UAP_EEG](https://github.com/ZihanLiu95/UAP_EEG)|
+|[tiny noise, big mistakes: adversarial perturbations induce errors in brain-computer interface spellers](https://arxiv.org/abs/2001.11569)|[Speller-Attacks](https://github.com/ZhangXiao96/Speller-Attacks)|
+|[ppgn: physics-preserved graph networks for real-time fault location in distribution systems with limited observation and labels](https://arxiv.org/abs/2107.02275)|[ppgn-physics-preserved-graph-networks](https://github.com/wendy0601/ppgn-physics-preserved-graph-networks)|
+|[reconfigurable intelligent surface phase hopping for ultra-reliable communications](https://arxiv.org/abs/2107.11852)|[ris-phase-hopping](https://github.com/klb2/ris-phase-hopping)|
+|[stochastic saddle point problems with decision-dependent distributions](https://arxiv.org/abs/2201.02313)|[charging-market](https://github.com/killianrwood/charging-market)|
+|[safe control with minimal regret](https://arxiv.org/abs/2203.00358)|[safeminregret](https://github.com/decodepfl/safeminregret)|
+|[stochos: stochastic opportunistic maintenance scheduling for offshore wind farms](https://arxiv.org/abs/2207.02274)|[stochos](https://github.com/petros-pap/stochos)|
+|[adjoint optimisation for wind farm flow control with a free-vortex wake model](https://arxiv.org/abs/2208.11516)|[vortexwake](https://github.com/TUDelft-DataDrivenControl/vortexwake)|
+|[a dataset and baseline approach for identifying usage states from non-intrusive power sensing with midas iot-based sensors](https://arxiv.org/abs/2209.00987)|[poweriot-state-identification](https://github.com/ai4society/poweriot-state-identification)|
+|[neural odes as feedback policies for nonlinear optimal control](https://arxiv.org/abs/2210.11245)|[control_neuralode](https://github.com/ilyaorson/control_neuralode)|
+|[bayesian model selection of lithium-ion battery models via bayesian quadrature](https://arxiv.org/abs/2210.17299)|[BayesianModelSelection](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
+|[follow the clairvoyant: an imitation learning approach to optimal control](https://arxiv.org/abs/2211.07389)|[followtheclairvoyant](https://github.com/decodepfl/followtheclairvoyant)|
+|[advancing the state-of-the-art for ecg analysis through structured state space models](https://arxiv.org/abs/2211.07579)|[ssm_ecg](https://github.com/tmehari/ssm_ecg)|
+|[wyner-ziv estimators for distributed mean estimation with side information and optimization](https://arxiv.org/abs/2011.12160)|[wz_estimators](https://github.com/shubhamjha-46/wz_estimators)|
+|[hybrid hmm decoder for convolutional codes by joint trellis-like structure and channel prior](https://arxiv.org/abs/2210.14749)|[hmm-decoder](https://github.com/haoyyli/hmm-decoder)|
+|[primask: cascadable and collusion-resilient data masking for mobile cloud inference](https://arxiv.org/abs/2211.06716)|[primask](https://github.com/jls2007/primask)|
 ## 2022-11-14
 |paper|code|
 |---|---|
 |[learning sparse analytic filters for piano transcription](https://arxiv.org/abs/2108.10382)|[sparse-analytic-filters](https://github.com/cwitkowitz/sparse-analytic-filters)|
 |[safety guarantees for neural network dynamic systems via stochastic barrier functions](https://arxiv.org/abs/2206.07811)|[neuralnetcontrolbarrier](https://github.com/aria-systems-group/neuralnetcontrolbarrier)|
+|[robust data-driven predictive control of unknown nonlinear systems using reachability analysis](https://arxiv.org/abs/2211.05867)|[Data-Driven-Predictive-Control](https://github.com/aalanwar/Data-Driven-Predictive-Control)|
 |[inferring probabilistic boolean networks from steady-state gene data samples](https://arxiv.org/abs/2211.05935)|[pbn-inference](https://github.com/uos-plccn/pbn-inference)|
+|[an efficient method to verify the inclusion of ellipsoids](https://arxiv.org/abs/2211.06237)|[ellipsoidinclusion.jl](https://github.com/egidioln/ellipsoidinclusion.jl)|
 |[on low-rank trace regression under general sampling distribution](https://arxiv.org/abs/1904.08576)|[cv-impute](https://github.com/mohsenbayati/cv-impute)|
+|[a tutorial on trusted and untrusted non-3gpp accesses in 5g systems -- first steps towards a unified communications infrastructure](https://arxiv.org/abs/2109.08976)|[paper-macak-2022](https://github.com/labora-inf-ufg/paper-macak-2022)|
+|[the effect of the russian-ukrainian conflict from the perspective of internet exchanges](https://arxiv.org/abs/2211.06123)|[ukraineresearch](https://github.com/bo0ne/ukraineresearch)|
 ## 2022-11-11
 |paper|code|
 |---|---|
