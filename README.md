@@ -1,3 +1,17 @@
+## 2022-11-16
+|paper|code|
+|---|---|
+|[link scheduling using graph neural networks](https://arxiv.org/abs/2109.05536)|[distgcn](https://github.com/zhongyuanzhao/distgcn)|
+|[a tutorial on terahertz-band localization for 6g communication systems](https://arxiv.org/abs/2110.08581)|[radio_localization](https://github.com/chenhui07c8/radio_localization)|
+|[end-to-end p300 bci using bayesian accumulation of riemannian probabilities](https://arxiv.org/abs/2203.07807)|[demos](https://github.com/timeflux/demos)|
+|[data augmentation for learning predictive models on eeg: a systematic comparison](https://arxiv.org/abs/2206.14483)|[eeg-augmentation-benchmark-2022](https://github.com/eeg-augmentation-benchmark/eeg-augmentation-benchmark-2022)|
+|[towards v2i age-aware fairness access: a dqn based intelligent vehicular node training and test method](https://arxiv.org/abs/2208.01283)|[age-fairness](https://github.com/qiongwu86/age-fairness)|
+|[motif-topology improved spiking neural network for the cocktail party effect and mcgurk effect](https://arxiv.org/abs/2211.07641)|[motif-snn](https://github.com/thomasaimondy/motif-snn)|
+|[a matlab and casadi-based implementation of rice dynamic game](https://arxiv.org/abs/2211.07750)|[rice-game](https://github.com/chyj528/rice-game)|
+|[machine learning methods applied to cortico-cortical evoked potentials aid in localizing seizure onset zones](https://arxiv.org/abs/2211.07867)|[ml4hsoz](https://github.com/iangmalone/ml4hsoz)|
+|[model predictive control for signal temporal logic specifications with time interval decomposition](https://arxiv.org/abs/2211.08031)|[mpc4stl-tid](https://github.com/xinyi-yu/mpc4stl-tid)|
+|[cardiacgen: a hierarchical deep generative model for cardiac signals](https://arxiv.org/abs/2211.08385)|[cardiac_gen_model](https://github.com/SENSE-Lab-OSU/cardiac_gen_model)|
+|[almost optimal variance-constrained best arm identification](https://arxiv.org/abs/2201.10142)|[va-bai](https://github.com/y-hou/va-bai)|
 ## 2022-11-15
 |paper|code|
 |---|---|
@@ -12,11 +26,16 @@
 |[a dataset and baseline approach for identifying usage states from non-intrusive power sensing with midas iot-based sensors](https://arxiv.org/abs/2209.00987)|[poweriot-state-identification](https://github.com/ai4society/poweriot-state-identification)|
 |[neural odes as feedback policies for nonlinear optimal control](https://arxiv.org/abs/2210.11245)|[control_neuralode](https://github.com/ilyaorson/control_neuralode)|
 |[bayesian model selection of lithium-ion battery models via bayesian quadrature](https://arxiv.org/abs/2210.17299)|[BayesianModelSelection](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
+|[transforming ris-assisted passive beamforming from tedious to simple: a relaxation algorithm for rician channel](https://arxiv.org/abs/2211.06555)|[relaxation-algorithm-on-ris-miso](https://github.com/dwyanedong/relaxation-algorithm-on-ris-miso)|
+|[bto-rrt: a rapid, optimal, smooth and point cloud-based path planning algorithm](https://arxiv.org/abs/2211.06801)|[bto-rrt](https://github.com/zhz03/bto-rrt)|
+|[global performance guarantees for neural network models of ac power flow](https://arxiv.org/abs/2211.07125)|[verifystrongsdp](https://github.com/samchevalier/verifystrongsdp)|
+|[supervisory control for dynamic feature configuration in product lines](https://arxiv.org/abs/2211.07382)|[tecs_ple](https://github.com/sbthuijsman/tecs_ple)|
 |[follow the clairvoyant: an imitation learning approach to optimal control](https://arxiv.org/abs/2211.07389)|[followtheclairvoyant](https://github.com/decodepfl/followtheclairvoyant)|
 |[advancing the state-of-the-art for ecg analysis through structured state space models](https://arxiv.org/abs/2211.07579)|[ssm_ecg](https://github.com/tmehari/ssm_ecg)|
 |[wyner-ziv estimators for distributed mean estimation with side information and optimization](https://arxiv.org/abs/2011.12160)|[wz_estimators](https://github.com/shubhamjha-46/wz_estimators)|
 |[hybrid hmm decoder for convolutional codes by joint trellis-like structure and channel prior](https://arxiv.org/abs/2210.14749)|[hmm-decoder](https://github.com/haoyyli/hmm-decoder)|
 |[primask: cascadable and collusion-resilient data masking for mobile cloud inference](https://arxiv.org/abs/2211.06716)|[primask](https://github.com/jls2007/primask)|
+|[multi-user frequency assignment for ultra-reliable mmwave two-ray channels](https://arxiv.org/abs/2211.07204)|[frequency-assignment-qmkp](https://github.com/klb2/frequency-assignment-qmkp)|
 ## 2022-11-14
 |paper|code|
 |---|---|
