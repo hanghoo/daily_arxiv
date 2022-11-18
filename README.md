@@ -1,3 +1,11 @@
+## 2022-11-17
+|paper|code|
+|---|---|
+|[analysis and detectability of offline data poisoning attacks on linear systems](https://arxiv.org/abs/2211.08804)|[data-poisoning-linear-systems](https://github.com/rssalessio/data-poisoning-linear-systems)|
+|[mcnet: fuse multiple cues for multichannel speech enhancement](https://arxiv.org/abs/2211.08872)|[mcnet](https://github.com/audio-westlakeu/mcnet)|
+|[dlkoopman: a deep learning software package for koopman theory](https://arxiv.org/abs/2211.08992)|[dlkoopman](https://github.com/galoisinc/dlkoopman)|
+|[detecting train driveshaft damages using accelerometer signals and differential convolutional neural networks](https://arxiv.org/abs/2211.09011)|[crack-detection-railway-axles-deep-learning](https://github.com/antialopezg/crack-detection-railway-axles-deep-learning)|
+|[what has been enhanced in my knowledge-enhanced language model?](https://arxiv.org/abs/2202.00964)|[gcs_ki](https://github.com/yifan-h/gcs_ki)|
 ## 2022-11-16
 |paper|code|
 |---|---|
@@ -10,6 +18,7 @@
 |[a matlab and casadi-based implementation of rice dynamic game](https://arxiv.org/abs/2211.07750)|[rice-game](https://github.com/chyj528/rice-game)|
 |[machine learning methods applied to cortico-cortical evoked potentials aid in localizing seizure onset zones](https://arxiv.org/abs/2211.07867)|[ml4hsoz](https://github.com/iangmalone/ml4hsoz)|
 |[model predictive control for signal temporal logic specifications with time interval decomposition](https://arxiv.org/abs/2211.08031)|[mpc4stl-tid](https://github.com/xinyi-yu/mpc4stl-tid)|
+|[multiagent rollout with reshuffling for warehouse robots path planning](https://arxiv.org/abs/2211.08201)|[multi-agent-rollout](https://github.com/will-em/multi-agent-rollout)|
 |[cardiacgen: a hierarchical deep generative model for cardiac signals](https://arxiv.org/abs/2211.08385)|[cardiac_gen_model](https://github.com/SENSE-Lab-OSU/cardiac_gen_model)|
 |[almost optimal variance-constrained best arm identification](https://arxiv.org/abs/2201.10142)|[va-bai](https://github.com/y-hou/va-bai)|
 ## 2022-11-15
@@ -33,6 +42,7 @@
 |[follow the clairvoyant: an imitation learning approach to optimal control](https://arxiv.org/abs/2211.07389)|[followtheclairvoyant](https://github.com/decodepfl/followtheclairvoyant)|
 |[advancing the state-of-the-art for ecg analysis through structured state space models](https://arxiv.org/abs/2211.07579)|[ssm_ecg](https://github.com/tmehari/ssm_ecg)|
 |[wyner-ziv estimators for distributed mean estimation with side information and optimization](https://arxiv.org/abs/2011.12160)|[wz_estimators](https://github.com/shubhamjha-46/wz_estimators)|
+|[a lower bound on latency spikes for capacity-seeking network traffic](https://arxiv.org/abs/2111.00488)|[thesis-tcp-testbed](https://github.com/bjornite/thesis-tcp-testbed)|
 |[hybrid hmm decoder for convolutional codes by joint trellis-like structure and channel prior](https://arxiv.org/abs/2210.14749)|[hmm-decoder](https://github.com/haoyyli/hmm-decoder)|
 |[primask: cascadable and collusion-resilient data masking for mobile cloud inference](https://arxiv.org/abs/2211.06716)|[primask](https://github.com/jls2007/primask)|
 |[multi-user frequency assignment for ultra-reliable mmwave two-ray channels](https://arxiv.org/abs/2211.07204)|[frequency-assignment-qmkp](https://github.com/klb2/frequency-assignment-qmkp)|
