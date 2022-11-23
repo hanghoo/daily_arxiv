@@ -1,3 +1,18 @@
+## 2022-11-22
+|paper|code|
+|---|---|
+|[openfwi: large-scale multi-structural benchmark datasets for seismic full waveform inversion](https://arxiv.org/abs/2111.02926)|[openfwi](https://github.com/lanl/openfwi)|
+|[safe reinforcement learning using black-box reachability analysis](https://arxiv.org/abs/2204.07417)|[Safe-Reinforcement-Learning-for-Black-Box-Systems-Using-Reachability-Analysis](https://github.com/Mahmoud-Selim/Safe-Reinforcement-Learning-for-Black-Box-Systems-Using-Reachability-Analysis)|
+|[backward reachability analysis for neural feedback loops](https://arxiv.org/abs/2204.08319)|[nn_robustness_analysis](https://github.com/mit-acl/nn_robustness_analysis)|
+|[pmnet: robust pathloss map prediction via supervised learning](https://arxiv.org/abs/2211.10527)|[pmnet](https://github.com/abman23/pmnet)|
+|[safe control under input limits with neural control barrier functions](https://arxiv.org/abs/2211.11056)|[input_limit_cbf](https://github.com/sliu2019/input_limit_cbf)|
+|[spatiotemporal modeling of multivariate signals with graph neural networks and structured state space models](https://arxiv.org/abs/2211.11176)|[graphs4mer](https://github.com/tsy935/graphs4mer)|
+|[motor imagery decoding using ensemble curriculum learning and collaborative training](https://arxiv.org/abs/2211.11460)|[ensemble-mi](https://github.com/gzoumpourlis/ensemble-mi)|
+|[neural network based generation of 1-dimensional stochastic fields with turbulent velocity statistics](https://arxiv.org/abs/2211.11580)|[nn-turb](https://github.com/cgranerob/nn-turb)|
+|[nonlinear information bottleneck](https://arxiv.org/abs/1705.02436)|[nonlinear-IB-PyTorch](https://github.com/burklight/nonlinear-IB-PyTorch)|
+|[a novel approach to the partial information decomposition](https://arxiv.org/abs/1908.08642)|[redundancy](https://github.com/artemyk/redundancy)|
+|[diffeomorphic information neural estimation](https://arxiv.org/abs/2211.10856)|[dine](https://github.com/baosws/dine)|
+|[tinyqmix: distributed access control for mmtc via multi-agent reinforcement learning](https://arxiv.org/abs/2211.11692)|[tinyqmix-mtc](https://github.com/lethanh-96/tinyqmix-mtc)|
 ## 2022-11-21
 |paper|code|
 |---|---|
@@ -6,6 +21,7 @@
 |[sar-based landslide classification pretraining leads to better segmentation](https://arxiv.org/abs/2211.09927)|[sar-landslide-detection-pretraining](https://github.com/vmboehm/sar-landslide-detection-pretraining)|
 |[astrometric calibration and source characterisation of the latest generation neuromorphic event-based cameras for space imaging](https://arxiv.org/abs/2211.09939)|[icns_noralph_event_based-space_imaging-speed_dataset](https://github.com/nicralph213/icns_noralph_event_based-space_imaging-speed_dataset)|
 |[joint task offloading and resource optimization in noma-based vehicular edge computing: a game-theoretic drl approach](https://arxiv.org/abs/2209.12749)|[Game-Theoretic-Deep-Reinforcement-Learning](https://github.com/neardws/Game-Theoretic-Deep-Reinforcement-Learning)|
+|[tsn-flextest: flexible tsn measurement testbed (extended version)](https://arxiv.org/abs/2211.10413)|[tsn-testbed](https://github.com/5gcampus/tsn-testbed)|
 ## 2022-11-18
 |paper|code|
 |---|---|
@@ -19,7 +35,6 @@
 |[one-bit mmwave mimo channel estimation using deep generative networks](https://arxiv.org/abs/2211.08635)|[obq-gan-mimo-ce](https://github.com/akashsdoshi96/obq-gan-mimo-ce)|
 |[analysis and detectability of offline data poisoning attacks on linear systems](https://arxiv.org/abs/2211.08804)|[data-poisoning-linear-systems](https://github.com/rssalessio/data-poisoning-linear-systems)|
 |[mcnet: fuse multiple cues for multichannel speech enhancement](https://arxiv.org/abs/2211.08872)|[mcnet](https://github.com/audio-westlakeu/mcnet)|
-|[olia: an open-source digital lock-in amplifier](https://arxiv.org/abs/2211.08889)|[olia](https://github.com/openlockin/olia)|
 |[dlkoopman: a deep learning software package for koopman theory](https://arxiv.org/abs/2211.08992)|[dlkoopman](https://github.com/galoisinc/dlkoopman)|
 |[detecting train driveshaft damages using accelerometer signals and differential convolutional neural networks](https://arxiv.org/abs/2211.09011)|[crack-detection-railway-axles-deep-learning](https://github.com/antialopezg/crack-detection-railway-axles-deep-learning)|
 |[what has been enhanced in my knowledge-enhanced language model?](https://arxiv.org/abs/2202.00964)|[gcs_ki](https://github.com/yifan-h/gcs_ki)|
