@@ -1,3 +1,16 @@
+## 2022-11-23
+|paper|code|
+|---|---|
+|[regret-optimal filtering for prediction and estimation](https://arxiv.org/abs/2101.10357)|[regret-optimal-filtering](https://github.com/oronsabag/regret-optimal-filtering)|
+|[graph neural networks with parallel neighborhood aggregations for graph classification](https://arxiv.org/abs/2111.11482)|[spin](https://github.com/siddhant-doshi/spin)|
+|[communication-efficient stochastic zeroth-order optimization for federated learning](https://arxiv.org/abs/2201.09531)|[FedZO](https://github.com/noobyzy/FedZO)|
+|[sparse dynamical system identification with simultaneous structural parameters and initial condition estimation](https://arxiv.org/abs/2204.10472)|[integralsindy](https://github.com/weibl9/integralsindy)|
+|[transforming ris-assisted passive beamforming from tedious to simple: a relaxation algorithm for rician channel](https://arxiv.org/abs/2211.06555)|[relaxation-algorithm-on-ris-miso](https://github.com/dwyanedong/relaxation-algorithm-on-ris-miso)|
+|[olia: an open-source digital lock-in amplifier](https://arxiv.org/abs/2211.08889)|[olia](https://github.com/openlockin/olia)|
+|[ontology-aware learning and evaluation for audio tagging](https://arxiv.org/abs/2211.12195)|[ontology-aware-audio-tagging](https://github.com/haoheliu/ontology-aware-audio-tagging)|
+|[quasifibrations of graphs to find symmetries in biological networks](https://arxiv.org/abs/2111.06999)|[qf](https://github.com/boldip/qf)|
+|[blind super-resolution of point sources via projected gradient descent](https://arxiv.org/abs/2112.01077)|[pgdvhl](https://github.com/jcchen2017/pgdvhl)|
+|[rate-distortion theoretic bounds on generalization error for distributed learning](https://arxiv.org/abs/2206.02604)|[datascience](https://github.com/romainchor/datascience)|
 ## 2022-11-22
 |paper|code|
 |---|---|
