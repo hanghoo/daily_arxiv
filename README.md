@@ -1,3 +1,16 @@
+## 2022-11-24
+|paper|code|
+|---|---|
+|[network-aware flexibility requests for distribution-level flexibility markets](https://arxiv.org/abs/2110.05983)|[flexrequest-creation](https://github.com/eleaprat/flexrequest-creation)|
+|[evaluation of interpretability for deep learning algorithms in eeg emotion recognition: a case study in autism](https://arxiv.org/abs/2111.13208)|[deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals](https://github.com/meiyor/deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals)|
+|[implementation and experimental validation of data-driven predictive control for dissipating stop-and-go waves in mixed traffic](https://arxiv.org/abs/2204.03747)|[deep-lcc](https://github.com/soc-ucsd/deep-lcc)|
+|[pan-tompkins++: a robust approach to detect r-peaks in ecg signals](https://arxiv.org/abs/2211.03171)|[Pan-Tompkins-Plus-Plus](https://github.com/Niaz-Imtiaz/Pan-Tompkins-Plus-Plus)|
+|[evaluating feature attribution methods for electrocardiogram](https://arxiv.org/abs/2211.12702)|[attribution-ecg](https://github.com/snu-drl/attribution-ecg)|
+|[eeg aided boosting of single-lead ecg based sleep staging with deep knowledge distillation](https://arxiv.org/abs/2211.13125)|[sleep_staging_kd](https://github.com/acrophase/sleep_staging_kd)|
+|[oh ssh-it, what's my fingerprint? a large-scale analysis of ssh host key fingerprint verification records in the dns](https://arxiv.org/abs/2208.08846)|[sshfp-dns-measurement](https://github.com/gehaxelt/sshfp-dns-measurement)|
+|[imitation learning-based implicit semantic-aware communication networks: multi-layer representation and collaborative reasoning](https://arxiv.org/abs/2210.16118)|[irml](https://github.com/zjs919/irml)|
+|[verified reversible programming for verified lossless compression](https://arxiv.org/abs/2211.09676)|[flipper](https://github.com/j-towns/flipper)|
+|[diffusion model based posterior sampling for noisy linear inverse problems](https://arxiv.org/abs/2211.12343)|[dmps](https://github.com/mengxiangming/dmps)|
 ## 2022-11-23
 |paper|code|
 |---|---|
