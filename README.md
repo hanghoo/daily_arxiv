@@ -6,6 +6,7 @@
 |[implementation and experimental validation of data-driven predictive control for dissipating stop-and-go waves in mixed traffic](https://arxiv.org/abs/2204.03747)|[deep-lcc](https://github.com/soc-ucsd/deep-lcc)|
 |[pan-tompkins++: a robust approach to detect r-peaks in ecg signals](https://arxiv.org/abs/2211.03171)|[Pan-Tompkins-Plus-Plus](https://github.com/Niaz-Imtiaz/Pan-Tompkins-Plus-Plus)|
 |[evaluating feature attribution methods for electrocardiogram](https://arxiv.org/abs/2211.12702)|[attribution-ecg](https://github.com/snu-drl/attribution-ecg)|
+|[challenges in gaussian processes for non intrusive load monitoring](https://arxiv.org/abs/2211.13018)|[nilm_gp](https://github.com/aadesh-1404/nilm_gp)|
 |[eeg aided boosting of single-lead ecg based sleep staging with deep knowledge distillation](https://arxiv.org/abs/2211.13125)|[sleep_staging_kd](https://github.com/acrophase/sleep_staging_kd)|
 |[oh ssh-it, what's my fingerprint? a large-scale analysis of ssh host key fingerprint verification records in the dns](https://arxiv.org/abs/2208.08846)|[sshfp-dns-measurement](https://github.com/gehaxelt/sshfp-dns-measurement)|
 |[imitation learning-based implicit semantic-aware communication networks: multi-layer representation and collaborative reasoning](https://arxiv.org/abs/2210.16118)|[irml](https://github.com/zjs919/irml)|
@@ -18,6 +19,7 @@
 |[graph neural networks with parallel neighborhood aggregations for graph classification](https://arxiv.org/abs/2111.11482)|[spin](https://github.com/siddhant-doshi/spin)|
 |[communication-efficient stochastic zeroth-order optimization for federated learning](https://arxiv.org/abs/2201.09531)|[FedZO](https://github.com/noobyzy/FedZO)|
 |[sparse dynamical system identification with simultaneous structural parameters and initial condition estimation](https://arxiv.org/abs/2204.10472)|[integralsindy](https://github.com/weibl9/integralsindy)|
+|[meta-af: meta-learning for adaptive filters](https://arxiv.org/abs/2204.11942)|[metaaf](https://github.com/adobe-research/metaaf)|
 |[transforming ris-assisted passive beamforming from tedious to simple: a relaxation algorithm for rician channel](https://arxiv.org/abs/2211.06555)|[relaxation-algorithm-on-ris-miso](https://github.com/dwyanedong/relaxation-algorithm-on-ris-miso)|
 |[olia: an open-source digital lock-in amplifier](https://arxiv.org/abs/2211.08889)|[olia](https://github.com/openlockin/olia)|
 |[ontology-aware learning and evaluation for audio tagging](https://arxiv.org/abs/2211.12195)|[ontology-aware-audio-tagging](https://github.com/haoheliu/ontology-aware-audio-tagging)|
@@ -46,6 +48,7 @@
 |[sinusoidal frequency estimation by gradient descent](https://arxiv.org/abs/2210.14476)|[sinusoidal-gradient-descent](https://github.com/ben-hayes/sinusoidal-gradient-descent)|
 |[sar-based landslide classification pretraining leads to better segmentation](https://arxiv.org/abs/2211.09927)|[sar-landslide-detection-pretraining](https://github.com/vmboehm/sar-landslide-detection-pretraining)|
 |[astrometric calibration and source characterisation of the latest generation neuromorphic event-based cameras for space imaging](https://arxiv.org/abs/2211.09939)|[icns_noralph_event_based-space_imaging-speed_dataset](https://github.com/nicralph213/icns_noralph_event_based-space_imaging-speed_dataset)|
+|[towards fast single-trial online erp based brain-computer interface using dry eeg electrodes and neural networks: a pilot study](https://arxiv.org/abs/2211.10352)|[stimusto](https://github.com/okbalefthanded/stimusto)|
 |[joint task offloading and resource optimization in noma-based vehicular edge computing: a game-theoretic drl approach](https://arxiv.org/abs/2209.12749)|[Game-Theoretic-Deep-Reinforcement-Learning](https://github.com/neardws/Game-Theoretic-Deep-Reinforcement-Learning)|
 |[tsn-flextest: flexible tsn measurement testbed (extended version)](https://arxiv.org/abs/2211.10413)|[tsn-testbed](https://github.com/5gcampus/tsn-testbed)|
 ## 2022-11-18
