@@ -1,3 +1,16 @@
+## 2022-11-28
+|paper|code|
+|---|---|
+|[time delay estimation of traffic congestion propagation due to accidents based on statistical causality](https://arxiv.org/abs/2108.06717)|[TE-propagation](https://github.com/yongkyung-oh/TE-propagation)|
+|[differential elimination for dynamical models via projections with applications to structural identifiability](https://arxiv.org/abs/2111.00991)|[structuralidentifiability.jl](https://github.com/sciml/structuralidentifiability.jl)|
+|[low-complexity near-optimum symbol detection based on neural enhancement of factor graphs](https://arxiv.org/abs/2203.16417)|[gap](https://github.com/kit-cel/gap)|
+|[tube-based zonotopic data-driven predictive control](https://arxiv.org/abs/2209.03500)|[tzddpc](https://github.com/rssalessio/tzddpc)|
+|[biologically-plausible determinant maximization neural networks for blind separation of correlated sources](https://arxiv.org/abs/2209.12894)|[biologically-plausible-detmaxnns-for-blind-source-separation](https://github.com/bariscanbozkurt/biologically-plausible-detmaxnns-for-blind-source-separation)|
+|[conditioning and sampling in variational diffusion models for speech super-resolution](https://arxiv.org/abs/2210.15793)|[diffwave-sr](https://github.com/yoyololicon/diffwave-sr)|
+|[quantized compressed sensing with score-based generative models](https://arxiv.org/abs/2211.13006)|[qcs-sgm](https://github.com/mengxiangming/qcs-sgm)|
+|[learning to take a break: sustainable optimization of long-term user engagement](https://arxiv.org/abs/2211.13585)|[take-a-break](https://github.com/edensaig/take-a-break)|
+|[circuit analysis using monotone+skew splitting](https://arxiv.org/abs/2211.14010)|[circuit-analysis-using-monotone-skew-splitting](https://github.com/ThomasChaffey/circuit-analysis-using-monotone-skew-splitting)|
+|[structured gradient descent for fast robust low-rank hankel matrix completion](https://arxiv.org/abs/2204.03316)|[hsgd](https://github.com/caesarcai/hsgd)|
 ## 2022-11-24
 |paper|code|
 |---|---|
@@ -22,6 +35,7 @@
 |[meta-af: meta-learning for adaptive filters](https://arxiv.org/abs/2204.11942)|[metaaf](https://github.com/adobe-research/metaaf)|
 |[transforming ris-assisted passive beamforming from tedious to simple: a relaxation algorithm for rician channel](https://arxiv.org/abs/2211.06555)|[relaxation-algorithm-on-ris-miso](https://github.com/dwyanedong/relaxation-algorithm-on-ris-miso)|
 |[olia: an open-source digital lock-in amplifier](https://arxiv.org/abs/2211.08889)|[olia](https://github.com/openlockin/olia)|
+|[dime and agvis a distributed messaging environment and geographical visualizer for large-scale power system simulation](https://arxiv.org/abs/2211.11990)|[agvis](https://github.com/CURENT/agvis)|
 |[ontology-aware learning and evaluation for audio tagging](https://arxiv.org/abs/2211.12195)|[ontology-aware-audio-tagging](https://github.com/haoheliu/ontology-aware-audio-tagging)|
 |[quasifibrations of graphs to find symmetries in biological networks](https://arxiv.org/abs/2111.06999)|[qf](https://github.com/boldip/qf)|
 |[blind super-resolution of point sources via projected gradient descent](https://arxiv.org/abs/2112.01077)|[pgdvhl](https://github.com/jcchen2017/pgdvhl)|
