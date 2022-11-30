@@ -1,3 +1,17 @@
+## 2022-11-29
+|paper|code|
+|---|---|
+|[safe control synthesis via input constrained control barrier functions](https://arxiv.org/abs/2104.01704)|[Input-Constrained-Control-Barrier-Functions](https://github.com/dev10110/Input-Constrained-Control-Barrier-Functions)|
+|[state-of-charge aware ev charging](https://arxiv.org/abs/2111.15147)|[state-demand_aware_ev_charging](https://github.com/chennnnnyize/state-demand_aware_ev_charging)|
+|[learning task-aware energy disaggregation: a federated approach](https://arxiv.org/abs/2204.06767)|[fedmeta](https://github.com/ruohliuq/fedmeta)|
+|[stochos: stochastic opportunistic maintenance scheduling for offshore wind farms](https://arxiv.org/abs/2207.02274)|[stochos](https://github.com/petros-pap/stochos)|
+|[surimi: supervised radio map augmentation with deep learning and a generative adversarial network for fingerprint-based indoor positioning](https://arxiv.org/abs/2207.06120)|[surimi](https://github.com/darwinquezada/surimi)|
+|[online dynamics learning for predictive control with an application to aerial robots](https://arxiv.org/abs/2207.09344)|[online-knode-mpc](https://github.com/tomjz/online-knode-mpc)|
+|[stability constrained reinforcement learning for decentralized real-time voltage control](https://arxiv.org/abs/2209.07669)|[stable-ddpg-for-voltage-control](https://github.com/jiefeng-cse/stable-ddpg-for-voltage-control)|
+|[optimal discrete beamforming of reconfigurable intelligent surface](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
+|[fedsysid: a federated approach to sample-efficient system identification](https://arxiv.org/abs/2211.14393)|[federated-id](https://github.com/jd-anderson/federated-id)|
+|[bear: physics-principled building environment for control and reinforcement learning](https://arxiv.org/abs/2211.14744)|[bear](https://github.com/chz056/bear)|
+|[discovering dynamic patterns from spatiotemporal data with time-varying low-rank autoregression](https://arxiv.org/abs/2211.15482)|[vars](https://github.com/xinychen/vars)|
 ## 2022-11-28
 |paper|code|
 |---|---|
