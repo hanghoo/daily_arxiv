@@ -1,17 +1,43 @@
+## 2022-12-01
+|paper|code|
+|---|---|
+|[numerical solution of the steady-state network flow equations for a non-ideal gas](https://arxiv.org/abs/2204.00071)|[gassteadysim.jl](https://github.com/kaarthiksundar/gassteadysim.jl)|
+|[openran gym: ai/ml development, data collection, and testing for o-ran on pawr platforms](https://arxiv.org/abs/2207.12362)|[colosseum-near-rt-ric](https://github.com/wineslab/colosseum-near-rt-ric)|
+|[self-supervised learning for anomalous channel detection in eeg graphs: application to seizure analysis](https://arxiv.org/abs/2208.07448)|[EEG-CGS](https://github.com/Armanfard-Lab/EEG-CGS)|
+|[task-driven hybrid model reduction for dexterous manipulation](https://arxiv.org/abs/2211.16657)|[task-driven-hybrid-reduction](https://github.com/wanxinjin/task-driven-hybrid-reduction)|
+|[deepcsi: rethinking wi-fi radio fingerprinting through mu-mimo csi feedback deep learning](https://arxiv.org/abs/2204.07614)|[deepcsi](https://github.com/signetlabdei/deepcsi)|
+|[robust and fast measure of information via low-rank representation](https://arxiv.org/abs/2211.16784)|[lrmi](https://github.com/gamepiaynmo/lrmi)|
+## 2022-11-30
+|paper|code|
+|---|---|
+|[music source separation with generative flow](https://arxiv.org/abs/2204.09079)|[generativesourceseparation](https://github.com/gzhu06/generativesourceseparation)|
+|[parallel faceted imaging in radio interferometry via proximal splitting (faceted hypersara): ii. code and real data proof of concept](https://arxiv.org/abs/2209.07604)|[faceted-hypersara](https://github.com/basp-group/faceted-hypersara)|
+|[defending adversarial attacks on deep learning based power allocation in massive mimo using denoising autoencoders](https://arxiv.org/abs/2211.15365)|[dae_for_adv_attacks_in_mimo](https://github.com/jess-jpg-txt/dae_for_adv_attacks_in_mimo)|
+|[medalcare-xl: 16,900 healthy and pathological 12 lead ecgs obtained through electrophysiological simulations](https://arxiv.org/abs/2211.15997)|[fim_eikonal](https://github.com/kit-ibt/fim_eikonal)|
+|[quisp: a quantum internet simulation package](https://arxiv.org/abs/2112.07093)|[quisp](https://github.com/sfc-aqua/quisp)|
+|[sketch-and-solve approaches to k-means clustering by semidefinite programming](https://arxiv.org/abs/2211.15744)|[sketch-and-solve_kmeans](https://github.com/kkylie/sketch-and-solve_kmeans)|
 ## 2022-11-29
 |paper|code|
 |---|---|
 |[safe control synthesis via input constrained control barrier functions](https://arxiv.org/abs/2104.01704)|[Input-Constrained-Control-Barrier-Functions](https://github.com/dev10110/Input-Constrained-Control-Barrier-Functions)|
 |[state-of-charge aware ev charging](https://arxiv.org/abs/2111.15147)|[state-demand_aware_ev_charging](https://github.com/chennnnnyize/state-demand_aware_ev_charging)|
+|[deformable radar polygon: a lightweight and predictable occupancy representation for short-range collision avoidance](https://arxiv.org/abs/2203.01442)|[deformable_radar_polygon_occupancy_representation](https://github.com/xiangyu-gao/deformable_radar_polygon_occupancy_representation)|
 |[learning task-aware energy disaggregation: a federated approach](https://arxiv.org/abs/2204.06767)|[fedmeta](https://github.com/ruohliuq/fedmeta)|
 |[stochos: stochastic opportunistic maintenance scheduling for offshore wind farms](https://arxiv.org/abs/2207.02274)|[stochos](https://github.com/petros-pap/stochos)|
 |[surimi: supervised radio map augmentation with deep learning and a generative adversarial network for fingerprint-based indoor positioning](https://arxiv.org/abs/2207.06120)|[surimi](https://github.com/darwinquezada/surimi)|
 |[online dynamics learning for predictive control with an application to aerial robots](https://arxiv.org/abs/2207.09344)|[online-knode-mpc](https://github.com/tomjz/online-knode-mpc)|
 |[stability constrained reinforcement learning for decentralized real-time voltage control](https://arxiv.org/abs/2209.07669)|[stable-ddpg-for-voltage-control](https://github.com/jiefeng-cse/stable-ddpg-for-voltage-control)|
 |[optimal discrete beamforming of reconfigurable intelligent surface](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
+|[gatekeeper: safety critical control of nonlinear systems with limited perception in unknown and dynamic environments](https://arxiv.org/abs/2211.14361)|[gatekeeper](https://github.com/dev10110/gatekeeper)|
+|[safe and robust observer-controller synthesis using control barrier functions](https://arxiv.org/abs/2211.14364)|[robust-safe-observer-controllers](https://github.com/dev10110/robust-safe-observer-controllers)|
 |[fedsysid: a federated approach to sample-efficient system identification](https://arxiv.org/abs/2211.14393)|[federated-id](https://github.com/jd-anderson/federated-id)|
+|[transform once: efficient operator learning in frequency domain](https://arxiv.org/abs/2211.14453)|[kairos](https://github.com/diffeqml/kairos)|
 |[bear: physics-principled building environment for control and reinforcement learning](https://arxiv.org/abs/2211.14744)|[bear](https://github.com/chz056/bear)|
+|[semi-supervised specific emitter identification method using metric-adversarial training](https://arxiv.org/abs/2211.15379)|[mat-based-ss-sei](https://github.com/lovelymimola/mat-based-ss-sei)|
 |[discovering dynamic patterns from spatiotemporal data with time-varying low-rank autoregression](https://arxiv.org/abs/2211.15482)|[vars](https://github.com/xinychen/vars)|
+|[stochastic optimal control via local occupation measures](https://arxiv.org/abs/2211.15652)|[markovbounds.jl](https://github.com/fholtorf/markovbounds.jl)|
+|[federated learning for 5g base station traffic forecasting](https://arxiv.org/abs/2211.15220)|[federated-time-series-forecasting](https://github.com/vperifan/federated-time-series-forecasting)|
+|[p4testgen: an extensible test oracle for p4](https://arxiv.org/abs/2211.15300)|[p4c](https://github.com/p4lang/p4c)|
 ## 2022-11-28
 |paper|code|
 |---|---|
