@@ -4,6 +4,7 @@
 |[safe value functions](https://arxiv.org/abs/2105.12204)|[vibly](https://github.com/sheim/vibly)|
 |[interpreting primal-dual algorithms for constrained marl](https://arxiv.org/abs/2211.16069)|[multiagent-particle-envs](https://github.com/dtabas/multiagent-particle-envs)|
 |[enabling fast unit commitment constraint screening via learning cost model](https://arxiv.org/abs/2212.00483)|[uc_screening_ml](https://github.com/hexuan085/uc_screening_ml)|
+|[predictive sampling: real-time behaviour synthesis with mujoco](https://arxiv.org/abs/2212.00541)|[mujoco_mpc](https://github.com/deepmind/mujoco_mpc)|
 |[swl-adapt: an unsupervised domain adaptation model with sample weight learning for cross-user wearable human activity recognition](https://arxiv.org/abs/2212.00724)|[SWL-Adapt](https://github.com/Rxannro/SWL-Adapt)|
 |[dsme-lora: seamless long range communication between arbitrary nodes in the constrained iot](https://arxiv.org/abs/2206.14077)|[tosn-dsmelora22](https://github.com/inetrg/tosn-dsmelora22)|
 ## 2022-12-01
