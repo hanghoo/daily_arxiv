@@ -5,8 +5,9 @@
 |[interpreting primal-dual algorithms for constrained marl](https://arxiv.org/abs/2211.16069)|[multiagent-particle-envs](https://github.com/dtabas/multiagent-particle-envs)|
 |[enabling fast unit commitment constraint screening via learning cost model](https://arxiv.org/abs/2212.00483)|[uc_screening_ml](https://github.com/hexuan085/uc_screening_ml)|
 |[predictive sampling: real-time behaviour synthesis with mujoco](https://arxiv.org/abs/2212.00541)|[mujoco_mpc](https://github.com/deepmind/mujoco_mpc)|
+|[safe control design for unknown nonlinear systems with koopman-based fixed-time identification](https://arxiv.org/abs/2212.00624)|[nonlinear-fxt-adaptation-control](https://github.com/6lackmitchell/nonlinear-fxt-adaptation-control)|
+|[fully on-board low-power localization with multizone time-of-flight sensors on nano-uavs](https://arxiv.org/abs/2212.00710)|[Matrix_ToF_Drones](https://github.com/ETH-PBL/Matrix_ToF_Drones)|
 |[swl-adapt: an unsupervised domain adaptation model with sample weight learning for cross-user wearable human activity recognition](https://arxiv.org/abs/2212.00724)|[SWL-Adapt](https://github.com/Rxannro/SWL-Adapt)|
-|[dsme-lora: seamless long range communication between arbitrary nodes in the constrained iot](https://arxiv.org/abs/2206.14077)|[tosn-dsmelora22](https://github.com/inetrg/tosn-dsmelora22)|
 ## 2022-12-01
 |paper|code|
 |---|---|
@@ -36,7 +37,6 @@
 |[surimi: supervised radio map augmentation with deep learning and a generative adversarial network for fingerprint-based indoor positioning](https://arxiv.org/abs/2207.06120)|[surimi](https://github.com/darwinquezada/surimi)|
 |[online dynamics learning for predictive control with an application to aerial robots](https://arxiv.org/abs/2207.09344)|[online-knode-mpc](https://github.com/tomjz/online-knode-mpc)|
 |[stability constrained reinforcement learning for decentralized real-time voltage control](https://arxiv.org/abs/2209.07669)|[stable-ddpg-for-voltage-control](https://github.com/jiefeng-cse/stable-ddpg-for-voltage-control)|
-|[optimal discrete beamforming of reconfigurable intelligent surface](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
 |[gatekeeper: safety critical control of nonlinear systems with limited perception in unknown and dynamic environments](https://arxiv.org/abs/2211.14361)|[gatekeeper](https://github.com/dev10110/gatekeeper)|
 |[safe and robust observer-controller synthesis using control barrier functions](https://arxiv.org/abs/2211.14364)|[robust-safe-observer-controllers](https://github.com/dev10110/robust-safe-observer-controllers)|
 |[fedsysid: a federated approach to sample-efficient system identification](https://arxiv.org/abs/2211.14393)|[federated-id](https://github.com/jd-anderson/federated-id)|
