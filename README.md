@@ -1,3 +1,12 @@
+## 2022-12-05
+|paper|code|
+|---|---|
+|[optimal discrete beamforming of reconfigurable intelligent surfaces](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
+|[learning robust state observers using neural odes (longer version)](https://arxiv.org/abs/2212.00866)|[l4dc_neural_odes_observer](https://github.com/kymiao/l4dc_neural_odes_observer)|
+|[compositional learning of dynamical system models using port-hamiltonian neural networks](https://arxiv.org/abs/2212.00893)|[compositional_port_hamiltonian_nns](https://github.com/cyrusneary/compositional_port_hamiltonian_nns)|
+|[a domain-knowledge-inspired music embedding space and a novel attention mechanism for symbolic music modeling](https://arxiv.org/abs/2212.00973)|[fundamentalmusicembedding](https://github.com/guozixunnicolas/fundamentalmusicembedding)|
+|[fecam: frequency enhanced channel attention mechanism for time series forecasting](https://arxiv.org/abs/2212.01209)|[fecam](https://github.com/zero-coder/fecam)|
+|[dsme-lora: seamless long range communication between arbitrary nodes in the constrained iot](https://arxiv.org/abs/2206.14077)|[tosn-dsmelora22](https://github.com/inetrg/tosn-dsmelora22)|
 ## 2022-12-02
 |paper|code|
 |---|---|
