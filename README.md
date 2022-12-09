@@ -1,14 +1,26 @@
+## 2022-12-08
+|paper|code|
+|---|---|
+|[unique sparse decomposition of low rank matrices](https://arxiv.org/abs/2106.07736)|[Unique_Fac_of_Low_Rank](https://github.com/Jindiande/Unique_Fac_of_Low_Rank)|
+|[probabilistic metamodels for an efficient characterization of complex driving scenarios](https://arxiv.org/abs/2110.02892)|[dsiod](https://github.com/wnklmx/dsiod)|
+|[combining imitation and deep reinforcement learning to accomplish human-level performance on a virtual foraging task](https://arxiv.org/abs/2203.06250)|[Learning-from-humans-combining-imitation-and-deep-on-policy-reinforcement-learning-to-accomplish-su](https://github.com/VittorioGiammarino/Learning-from-humans-combining-imitation-and-deep-on-policy-reinforcement-learning-to-accomplish-su)|
+|[gridless 3d recovery of image sources from room impulse responses](https://arxiv.org/abs/2208.14017)|[acoustic-sfw](https://github.com/sprunckt/acoustic-sfw)|
+|[enhancing low-density eeg-based brain-computer interfaces with similarity-keeping knowledge distillation](https://arxiv.org/abs/2212.03329)|[eeg-kd](https://github.com/cecnl/eeg-kd)|
 ## 2022-12-07
 |paper|code|
 |---|---|
 |[direction of arrival estimation of sound sources using icosahedral cnns](https://arxiv.org/abs/2203.16940)|[icodoa](https://github.com/daviddiazguerra/icodoa)|
 |[storseismic: a new paradigm in deep learning for seismic processing](https://arxiv.org/abs/2205.00222)|[storseismic](https://github.com/swag-kaust/storseismic)|
+|[uas simulator for modeling, analysis and control in free flight and physical interaction](https://arxiv.org/abs/2212.02973)|[aircraft-simulator-matlab](https://github.com/keipour/aircraft-simulator-matlab)|
+|[analytical uncertainty propagation for multi-period stochastic optimal power flow](https://arxiv.org/abs/2212.03097)|[dcsopf](https://github.com/kit-iai/dcsopf)|
 |[nvidia flare: federated learning from simulation to real-world](https://arxiv.org/abs/2210.13291)|[nvflare](https://github.com/nvidia/nvflare)|
 ## 2022-12-06
 |paper|code|
 |---|---|
 |[lggnet: learning from local-global-graph representations for brain-computer interface](https://arxiv.org/abs/2105.02786)|[LGG](https://github.com/yi-ding-cs/LGG)|
 |[bayesian active meta-learning for few pilot demodulation and equalization](https://arxiv.org/abs/2108.00785)|[bayesian_active_meta_learning](https://github.com/kclip/bayesian_active_meta_learning)|
+|[navigation between initial and desired community states using shortcuts](https://arxiv.org/abs/2204.07629)|[shortcut_navigation](https://github.com/bblonder/shortcut_navigation)|
+|[signal enhancement for two-dimensional cryo-em data processing](https://arxiv.org/abs/2212.01421)|[cryoemsignalenhancement](https://github.com/tamirbendory/cryoemsignalenhancement)|
 |[conditions for estimation of sensitivities of voltage magnitudes to complex power injections](https://arxiv.org/abs/2212.01471)|[powersensitivities.jl](https://github.com/samtalki/powersensitivities.jl)|
 |[onboard real-time multi-sensor pose estimation for indoor quadrotor navigation with intermittent communication](https://arxiv.org/abs/2212.01599)|[ortilo](https://bitbucket.org/loizoshadjiloizou/ortilo)|
 |[learning bifunctional push-grasping synergistic strategy for goal-agnostic and goal-oriented tasks](https://arxiv.org/abs/2212.01763)|[learning_bifunctional_push-grasping_synergistic_strategy_for_goal-agnostic_and_goal-oriented_tasks](https://github.com/dafaren/learning_bifunctional_push-grasping_synergistic_strategy_for_goal-agnostic_and_goal-oriented_tasks)|
