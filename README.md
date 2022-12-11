@@ -1,9 +1,12 @@
 ## 2022-12-09
 |paper|code|
 |---|---|
+|[dynamic shimming in the cervical spinal cord for multi-echo gradient-echo imaging at 3 t](https://arxiv.org/abs/2107.10331)|[realtime-dynamic-shimming](https://github.com/neuropoly/realtime-dynamic-shimming)|
 |[unrolled algorithms for group synchronization](https://arxiv.org/abs/2207.09418)|[unrolling_synchronization](https://github.com/noamjanco/unrolling_synchronization)|
 |[online distributed optimal power flow with equality constraints](https://arxiv.org/abs/2212.03921)|[online_distributed_OPF](https://github.com/darknorth0/online_distributed_OPF)|
+|[digitization of chinese traffic laws: methodologies, quantative analysis, and usage for monitoring driving compliance](https://arxiv.org/abs/2212.04156)|[dotl](https://github.com/sotif-avlab/dotl)|
 |[greeneyes: an air quality evaluating model based on wavenet](https://arxiv.org/abs/2212.04175)|[AirEvaluation](https://github.com/AI-Huang/AirEvaluation)|
+|[gauss-newton meets panoc: a fast and globally convergent algorithm for nonlinear optimal control](https://arxiv.org/abs/2212.04391)|[panoc-gauss-newton-ifac-experiments](https://github.com/kul-optec/panoc-gauss-newton-ifac-experiments)|
 |[feature learning and network structure from noisy node activity data](https://arxiv.org/abs/2111.02630)|[embed-data-to-vector](https://github.com/bigbrokuang/embed-data-to-vector)|
 |[vicious classifiers: data reconstruction attack at inference time](https://arxiv.org/abs/2212.04223)|[vicious-classifiers](https://github.com/mmalekzadeh/vicious-classifiers)|
 ## 2022-12-08
