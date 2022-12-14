@@ -1,3 +1,15 @@
+## 2022-12-13
+|paper|code|
+|---|---|
+|[federated learning via plurality vote](https://arxiv.org/abs/2110.02998)|[fedvote](https://github.com/kai-yue/fedvote)|
+|[deep, deep learning with bart](https://arxiv.org/abs/2202.14005)|[deep-deep-learning-with-bart](https://github.com/mrirecon/deep-deep-learning-with-bart)|
+|[autofi: towards automatic wifi human sensing via geometric self-supervised learning](https://arxiv.org/abs/2205.01629)|[wifi-csi-sensing-benchmark](https://github.com/xyanchen/wifi-csi-sensing-benchmark)|
+|[state-augmented learnable algorithms for resource management in wireless networks](https://arxiv.org/abs/2207.02242)|[stateaugmented_rrm_gnn](https://github.com/navid-naderi/stateaugmented_rrm_gnn)|
+|[analysis and detectability of offline data poisoning attacks on linear systems](https://arxiv.org/abs/2211.08804)|[poisoning-data-driven-controllers](https://github.com/rssalessio/poisoning-data-driven-controllers)|
+|[spectral efficiency analysis of uplink-downlink decoupled access in c-v2x networks](https://arxiv.org/abs/2212.02164)|[Spectral-Efficiency-Analysis-of-Uplink-Downlink-Decoupled-Access-in-C-V2X-Networks](https://github.com/shiwensuoluo/Spectral-Efficiency-Analysis-of-Uplink-Downlink-Decoupled-Access-in-C-V2X-Networks)|
+|[optimal planning of hybrid energy storage systems using curtailed renewable energy through deep reinforcement learning](https://arxiv.org/abs/2212.05662)|[emsrl](https://github.com/kangdj6358/emsrl)|
+|[robust recurrent neural network to identify ship motion in open water with performance guarantees -- technical report](https://arxiv.org/abs/2212.05781)|[deepsysid](https://github.com/AlexandraBaier/deepsysid)|
+|[reinforcement learning and tree search methods for the unit commitment problem](https://arxiv.org/abs/2212.06001)|[rl4uc](https://github.com/pwdemars/rl4uc)|
 ## 2022-12-12
 |paper|code|
 |---|---|
