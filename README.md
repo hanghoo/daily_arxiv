@@ -1,7 +1,14 @@
+## 2022-12-15
+|paper|code|
+|---|---|
+|[unfreezing social navigation: dynamical systems based compliance for contact control in robot navigation](https://arxiv.org/abs/2203.01053)|[sliding-ds-control](https://github.com/epfl-lasa/sliding-ds-control)|
+|[do not sleep on traditional machine learning: simple and interpretable techniques are competitive to deep learning for sleep scoring](https://arxiv.org/abs/2207.07753)|[sleep-linear](https://github.com/predict-idlab/sleep-linear)|
+|[self-supervised learning for anomalous channel detection in eeg graphs: application to seizure analysis](https://arxiv.org/abs/2208.07448)|[EEG-CGS](https://github.com/Armanfard-Lab/EEG-CGS)|
 ## 2022-12-14
 |paper|code|
 |---|---|
 |[an open-source low-cost mobile robot system with an rgb-d camera and efficient real-time navigation algorithm](https://arxiv.org/abs/2103.03054)|[2019-UGRP-DPoom](https://github.com/shinkansan/2019-UGRP-DPoom)|
+|[learning representations for new sound classes with continual self-supervised learning](https://arxiv.org/abs/2205.07390)|[cssl_sound](https://github.com/zhepeiw/cssl_sound)|
 |[artificial intelligence enabled noma towards next generation multiple access](https://arxiv.org/abs/2206.04992)|[ai_noma](https://github.com/xiaoxiaxusummer/ai_noma)|
 ## 2022-12-13
 |paper|code|
@@ -9,12 +16,13 @@
 |[federated learning via plurality vote](https://arxiv.org/abs/2110.02998)|[fedvote](https://github.com/kai-yue/fedvote)|
 |[deep, deep learning with bart](https://arxiv.org/abs/2202.14005)|[deep-deep-learning-with-bart](https://github.com/mrirecon/deep-deep-learning-with-bart)|
 |[autofi: towards automatic wifi human sensing via geometric self-supervised learning](https://arxiv.org/abs/2205.01629)|[wifi-csi-sensing-benchmark](https://github.com/xyanchen/wifi-csi-sensing-benchmark)|
-|[state-augmented learnable algorithms for resource management in wireless networks](https://arxiv.org/abs/2207.02242)|[stateaugmented_rrm_gnn](https://github.com/navid-naderi/stateaugmented_rrm_gnn)|
 |[analysis and detectability of offline data poisoning attacks on linear systems](https://arxiv.org/abs/2211.08804)|[poisoning-data-driven-controllers](https://github.com/rssalessio/poisoning-data-driven-controllers)|
 |[spectral efficiency analysis of uplink-downlink decoupled access in c-v2x networks](https://arxiv.org/abs/2212.02164)|[Spectral-Efficiency-Analysis-of-Uplink-Downlink-Decoupled-Access-in-C-V2X-Networks](https://github.com/shiwensuoluo/Spectral-Efficiency-Analysis-of-Uplink-Downlink-Decoupled-Access-in-C-V2X-Networks)|
 |[optimal planning of hybrid energy storage systems using curtailed renewable energy through deep reinforcement learning](https://arxiv.org/abs/2212.05662)|[emsrl](https://github.com/kangdj6358/emsrl)|
 |[robust recurrent neural network to identify ship motion in open water with performance guarantees -- technical report](https://arxiv.org/abs/2212.05781)|[deepsysid](https://github.com/AlexandraBaier/deepsysid)|
 |[reinforcement learning and tree search methods for the unit commitment problem](https://arxiv.org/abs/2212.06001)|[rl4uc](https://github.com/pwdemars/rl4uc)|
+|[max filtering with reflection groups](https://arxiv.org/abs/2212.05104)|[reflection-groups](https://github.com/daniel-packer/reflection-groups)|
+|[optimal influencer marketing campaign under budget constraints using frank-wolfe](https://arxiv.org/abs/2212.05280)|[optimal-influencer-marketing-campaign](https://github.com/rld-hub/optimal-influencer-marketing-campaign)|
 ## 2022-12-12
 |paper|code|
 |---|---|
