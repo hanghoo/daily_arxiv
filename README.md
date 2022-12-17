@@ -1,9 +1,24 @@
+## 2022-12-16
+|paper|code|
+|---|---|
+|[a quaternion-valued variational autoencoder](https://arxiv.org/abs/2010.11647)|[QVAE](https://github.com/eleGAN23/QVAE)|
+|[l3das21 challenge: machine learning for 3d audio signal processing](https://arxiv.org/abs/2104.05499)|[L3DAS21](https://github.com/l3das/L3DAS21)|
+|[generating multivariate load states using a conditional variational autoencoder](https://arxiv.org/abs/2110.11435)|[pscc2022-cvae](https://github.com/chenguangwang-sam/pscc2022-cvae)|
+|[l3das22 challenge: learning 3d audio sources in a real office environment](https://arxiv.org/abs/2202.10372)|[l3das22](https://github.com/l3das/l3das22)|
+|[linear battery models for power systems analysis](https://arxiv.org/abs/2204.08240)|[linearbatterymodels](https://github.com/skoltech-paco/linearbatterymodels)|
+|[eqvio: an equivariant filter for visual inertial odometry](https://arxiv.org/abs/2205.01980)|[eqvio](https://github.com/pvangoor/eqvio)|
+|[state-augmented learnable algorithms for resource management in wireless networks](https://arxiv.org/abs/2207.02242)|[stateaugmented_rrm_gnn](https://github.com/navid-naderi/stateaugmented_rrm_gnn)|
+|[time-limited balanced truncation for data assimilation problems](https://arxiv.org/abs/2212.07719)|[TLBTforDA](https://github.com/joskoUP/TLBTforDA)|
+|[duidd: deep-unfolded interleaved detection and decoding for mimo wireless systems](https://arxiv.org/abs/2212.07816)|[duidd](https://github.com/iip-group/duidd)|
+|[bridging pomdps and bayesian decision making for robust maintenance planning under model uncertainty: an application to railway systems](https://arxiv.org/abs/2212.07933)|[hidden-markov-models](https://github.com/giarcieri/hidden-markov-models)|
 ## 2022-12-15
 |paper|code|
 |---|---|
 |[unfreezing social navigation: dynamical systems based compliance for contact control in robot navigation](https://arxiv.org/abs/2203.01053)|[sliding-ds-control](https://github.com/epfl-lasa/sliding-ds-control)|
 |[do not sleep on traditional machine learning: simple and interpretable techniques are competitive to deep learning for sleep scoring](https://arxiv.org/abs/2207.07753)|[sleep-linear](https://github.com/predict-idlab/sleep-linear)|
 |[self-supervised learning for anomalous channel detection in eeg graphs: application to seizure analysis](https://arxiv.org/abs/2208.07448)|[EEG-CGS](https://github.com/Armanfard-Lab/EEG-CGS)|
+|[hybrid multi-agent deep reinforcement learning for autonomous mobility on demand systems](https://arxiv.org/abs/2212.07313)|[hybridmadrl-amod](https://github.com/tumbais/hybridmadrl-amod)|
+|[network coding: an optimization approach](https://arxiv.org/abs/2212.07230)|[network_codes](https://github.com/christopherhojny/network_codes)|
 ## 2022-12-14
 |paper|code|
 |---|---|
