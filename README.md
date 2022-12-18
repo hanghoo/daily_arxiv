@@ -9,6 +9,7 @@
 |[eqvio: an equivariant filter for visual inertial odometry](https://arxiv.org/abs/2205.01980)|[eqvio](https://github.com/pvangoor/eqvio)|
 |[state-augmented learnable algorithms for resource management in wireless networks](https://arxiv.org/abs/2207.02242)|[stateaugmented_rrm_gnn](https://github.com/navid-naderi/stateaugmented_rrm_gnn)|
 |[time-limited balanced truncation for data assimilation problems](https://arxiv.org/abs/2212.07719)|[TLBTforDA](https://github.com/joskoUP/TLBTforDA)|
+|[calculation of the high-energy neutron flux for anticipating errors and recovery techniques in exascale supercomputer centres](https://arxiv.org/abs/2212.07770)|[arti](https://github.com/lagoproject/arti)|
 |[duidd: deep-unfolded interleaved detection and decoding for mimo wireless systems](https://arxiv.org/abs/2212.07816)|[duidd](https://github.com/iip-group/duidd)|
 |[bridging pomdps and bayesian decision making for robust maintenance planning under model uncertainty: an application to railway systems](https://arxiv.org/abs/2212.07933)|[hidden-markov-models](https://github.com/giarcieri/hidden-markov-models)|
 ## 2022-12-15
