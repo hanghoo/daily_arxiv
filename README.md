@@ -35,7 +35,6 @@
 |[analysis and detectability of offline data poisoning attacks on linear systems](https://arxiv.org/abs/2211.08804)|[poisoning-data-driven-controllers](https://github.com/rssalessio/poisoning-data-driven-controllers)|
 |[spectral efficiency analysis of uplink-downlink decoupled access in c-v2x networks](https://arxiv.org/abs/2212.02164)|[Spectral-Efficiency-Analysis-of-Uplink-Downlink-Decoupled-Access-in-C-V2X-Networks](https://github.com/shiwensuoluo/Spectral-Efficiency-Analysis-of-Uplink-Downlink-Decoupled-Access-in-C-V2X-Networks)|
 |[optimal planning of hybrid energy storage systems using curtailed renewable energy through deep reinforcement learning](https://arxiv.org/abs/2212.05662)|[emsrl](https://github.com/kangdj6358/emsrl)|
-|[robust recurrent neural network to identify ship motion in open water with performance guarantees -- technical report](https://arxiv.org/abs/2212.05781)|[deepsysid](https://github.com/AlexandraBaier/deepsysid)|
 |[reinforcement learning and tree search methods for the unit commitment problem](https://arxiv.org/abs/2212.06001)|[rl4uc](https://github.com/pwdemars/rl4uc)|
 |[max filtering with reflection groups](https://arxiv.org/abs/2212.05104)|[reflection-groups](https://github.com/daniel-packer/reflection-groups)|
 |[optimal influencer marketing campaign under budget constraints using frank-wolfe](https://arxiv.org/abs/2212.05280)|[optimal-influencer-marketing-campaign](https://github.com/rld-hub/optimal-influencer-marketing-campaign)|
