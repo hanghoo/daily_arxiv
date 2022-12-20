@@ -1,3 +1,11 @@
+## 2022-12-19
+|paper|code|
+|---|---|
+|[deep learning and its applications to wifi human sensing: a benchmark and a tutorial](https://arxiv.org/abs/2207.07859)|[wifi-csi-sensing-benchmark](https://github.com/chenxinyan-sg/wifi-csi-sensing-benchmark)|
+|[robust recurrent neural network to identify ship motion in open water with performance guarantees -- technical report](https://arxiv.org/abs/2212.05781)|[deepsysid](https://github.com/AlexandraBaier/deepsysid)|
+|[multi-resolution online deterministic annealing: a hierarchical and progressive learning architecture](https://arxiv.org/abs/2212.08189)|[onlinedeterministicannealing](https://github.com/mavridischristos/onlinedeterministicannealing)|
+|[resource-interaction graph: efficient graph representation for anomaly detection](https://arxiv.org/abs/2212.08525)|[container-escape-dataset](https://github.com/jpope8/container-escape-dataset)|
+|[simulating road spray effects in automotive lidar sensor models](https://arxiv.org/abs/2212.08558)|[reflection_based_lidar_object_model](https://github.com/openmsl/reflection_based_lidar_object_model)|
 ## 2022-12-16
 |paper|code|
 |---|---|
