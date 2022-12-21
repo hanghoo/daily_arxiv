@@ -1,8 +1,16 @@
+## 2022-12-20
+|paper|code|
+|---|---|
+|[enhancement of a state-of-the-art rl-based detection algorithm for massive mimo radars](https://arxiv.org/abs/2112.02628)|[improved_rl_algorithm_mmimo_radar](https://github.com/lisifra96/improved_rl_algorithm_mmimo_radar)|
+|[openran gym: ai/ml development, data collection, and testing for o-ran on pawr platforms](https://arxiv.org/abs/2207.12362)|[colosseum-near-rt-ric](https://github.com/wineslab/colosseum-near-rt-ric)|
+|[analysis and detectability of offline data poisoning attacks on linear systems](https://arxiv.org/abs/2211.08804)|[poisoning-data-driven-controllers](https://github.com/rssalessio/poisoning-data-driven-controllers)|
+|[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezhav2](https://gitlab.com/steamgjk/nezhav2)|
 ## 2022-12-19
 |paper|code|
 |---|---|
 |[deep learning and its applications to wifi human sensing: a benchmark and a tutorial](https://arxiv.org/abs/2207.07859)|[wifi-csi-sensing-benchmark](https://github.com/chenxinyan-sg/wifi-csi-sensing-benchmark)|
 |[robust recurrent neural network to identify ship motion in open water with performance guarantees -- technical report](https://arxiv.org/abs/2212.05781)|[deepsysid](https://github.com/AlexandraBaier/deepsysid)|
+|[small-signal stability of load and network dynamics on grid-forming inverters](https://arxiv.org/abs/2212.08147)|[GFM-LoadModeling](https://github.com/Energy-MAC/GFM-LoadModeling)|
 |[multi-resolution online deterministic annealing: a hierarchical and progressive learning architecture](https://arxiv.org/abs/2212.08189)|[onlinedeterministicannealing](https://github.com/mavridischristos/onlinedeterministicannealing)|
 |[resource-interaction graph: efficient graph representation for anomaly detection](https://arxiv.org/abs/2212.08525)|[container-escape-dataset](https://github.com/jpope8/container-escape-dataset)|
 |[simulating road spray effects in automotive lidar sensor models](https://arxiv.org/abs/2212.08558)|[reflection_based_lidar_object_model](https://github.com/openmsl/reflection_based_lidar_object_model)|
