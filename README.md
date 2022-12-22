@@ -1,3 +1,10 @@
+## 2022-12-21
+|paper|code|
+|---|---|
+|[anymod.jl: a julia package for creating energy system models](https://arxiv.org/abs/2011.00895)|[anyMOD.jl](https://github.com/leonardgoeke/anyMOD.jl)|
+|[safe control with learned certificates: a survey of neural lyapunov, barrier, and contraction methods](https://arxiv.org/abs/2202.11762)|[neural_clbf](https://github.com/mit-realm/neural_clbf)|
+|[beats: an open-source, high-precision, multi-channel eeg acquisition tool system](https://arxiv.org/abs/2203.02102)|[beats](https://github.com/buptanteeg/beats)|
+|[joint network topology inference via a shared graphon model](https://arxiv.org/abs/2209.08223)|[jointinf_graphs_graphon](https://github.com/mn51/jointinf_graphs_graphon)|
 ## 2022-12-20
 |paper|code|
 |---|---|
