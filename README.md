@@ -1,3 +1,11 @@
+## 2022-12-22
+|paper|code|
+|---|---|
+|[robust moving target defence against false data injection attacks in power grids](https://arxiv.org/abs/2111.06346)|[robust_mtd](https://github.com/xuwkk/robust_mtd)|
+|[rhombic grids reduce the number of voxels in fast pulse-echo ultrasound imaging](https://arxiv.org/abs/2210.04818)|[rhombic_grids](https://github.com/mschiffn/rhombic_grids)|
+|[anticancer peptides classification using kernel sparse representation classifier](https://arxiv.org/abs/2212.10567)|[acp-kernel-src](https://github.com/ehtisham-fazal/acp-kernel-src)|
+|[towards dynamic stability analysis of sustainable power grids using graph neural networks](https://arxiv.org/abs/2212.11130)|[dynamic_stability_gnn_neurips_climate_workshop](https://github.com/pik-icone/dynamic_stability_gnn_neurips_climate_workshop)|
+|[nestanets: stable, accurate and efficient neural networks for analysis-sparse inverse problems](https://arxiv.org/abs/2203.00804)|[as-nesta-net](https://github.com/mneyrane/as-nesta-net)|
 ## 2022-12-21
 |paper|code|
 |---|---|
@@ -11,7 +19,9 @@
 |[enhancement of a state-of-the-art rl-based detection algorithm for massive mimo radars](https://arxiv.org/abs/2112.02628)|[improved_rl_algorithm_mmimo_radar](https://github.com/lisifra96/improved_rl_algorithm_mmimo_radar)|
 |[openran gym: ai/ml development, data collection, and testing for o-ran on pawr platforms](https://arxiv.org/abs/2207.12362)|[colosseum-near-rt-ric](https://github.com/wineslab/colosseum-near-rt-ric)|
 |[analysis and detectability of offline data poisoning attacks on linear systems](https://arxiv.org/abs/2211.08804)|[poisoning-data-driven-controllers](https://github.com/rssalessio/poisoning-data-driven-controllers)|
-|[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezhav2](https://gitlab.com/steamgjk/nezhav2)|
+|[robust predictive output-feedback safety filter for uncertain nonlinear control systems](https://arxiv.org/abs/2212.08900)|[dsl__rpof__sf](https://github.com/utiasDSL/dsl__rpof__sf)|
+|[fast fullsubnet: accelerate full-band and sub-band fusion model for single-channel speech enhancement](https://arxiv.org/abs/2212.09019)|[FullSubNet](https://github.com/haoxiangsnr/FullSubNet)|
+|[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezha](https://github.com/steamgjk/nezha)|
 ## 2022-12-19
 |paper|code|
 |---|---|
