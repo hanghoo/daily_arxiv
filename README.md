@@ -1,3 +1,7 @@
+## 2022-12-23
+|paper|code|
+|---|---|
+|[towards safer self-driving through great pain (physically adversarial intelligent networks)](https://arxiv.org/abs/2003.10662)|[PAIN](https://github.com/piyushgupta221/PAIN)|
 ## 2022-12-22
 |paper|code|
 |---|---|
