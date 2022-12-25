@@ -2,10 +2,17 @@
 |paper|code|
 |---|---|
 |[towards safer self-driving through great pain (physically adversarial intelligent networks)](https://arxiv.org/abs/2003.10662)|[PAIN](https://github.com/piyushgupta221/PAIN)|
+|[end-to-end imitation learning with safety guarantees using control barrier functions](https://arxiv.org/abs/2212.11365)|[e2e-il-cbf](https://github.com/rkcosner/e2e-il-cbf)|
+|[electromagnetic based communication model for dynamic metasurface antennas](https://arxiv.org/abs/2212.11594)|[dma_model](https://github.com/robinjw/dma_model)|
+|[did you see that? a covert channel exploiting recent legitimate traffic](https://arxiv.org/abs/2212.11850)|[dyst](https://github.com/niosat/dyst)|
+|[sem-o-ran: semantic and flexible o-ran slicing for nextg edge-assisted mobile systems](https://arxiv.org/abs/2212.11853)|[semoran](https://github.com/corrado113/semoran)|
+|[asymmetric cross-scale alignment for text-based person search](https://arxiv.org/abs/2212.11958)|[acsa](https://github.com/mul-hjh/acsa)|
 ## 2022-12-22
 |paper|code|
 |---|---|
 |[robust moving target defence against false data injection attacks in power grids](https://arxiv.org/abs/2111.06346)|[robust_mtd](https://github.com/xuwkk/robust_mtd)|
+|[permutation matrix modulation](https://arxiv.org/abs/2112.13630)|[permutation-matrix-modulation](https://github.com/faddlis/permutation-matrix-modulation)|
+|[blending data and physics against false data injection attack: an event-triggered moving target defence approach](https://arxiv.org/abs/2204.12970)|[ddet-mtd](https://github.com/xuwkk/ddet-mtd)|
 |[rhombic grids reduce the number of voxels in fast pulse-echo ultrasound imaging](https://arxiv.org/abs/2210.04818)|[rhombic_grids](https://github.com/mschiffn/rhombic_grids)|
 |[anticancer peptides classification using kernel sparse representation classifier](https://arxiv.org/abs/2212.10567)|[acp-kernel-src](https://github.com/ehtisham-fazal/acp-kernel-src)|
 |[towards dynamic stability analysis of sustainable power grids using graph neural networks](https://arxiv.org/abs/2212.11130)|[dynamic_stability_gnn_neurips_climate_workshop](https://github.com/pik-icone/dynamic_stability_gnn_neurips_climate_workshop)|
