@@ -1,3 +1,14 @@
+## 2022-12-27
+|paper|code|
+|---|---|
+|[polar: a polynomial arithmetic framework for verifying neural-network controlled systems](https://arxiv.org/abs/2106.13867)|[polar_tool](https://github.com/chaohuang2018/polar_tool)|
+|[permutation matrix modulation](https://arxiv.org/abs/2112.13630)|[permutation-matrix-modulation](https://github.com/faddlis/permutation-matrix-modulation)|
+|[recovery of missing sensor data by reconstructing time-varying graph signals](https://arxiv.org/abs/2203.00418)|[EUSIPCO_22_Sobolev](https://github.com/anindya2001/EUSIPCO_22_Sobolev)|
+|[annealing optimization for progressive learning with stochastic approximation](https://arxiv.org/abs/2209.02826)|[onlinedeterministicannealing](https://github.com/mavridischristos/onlinedeterministicannealing)|
+|[predictive sampling: real-time behaviour synthesis with mujoco](https://arxiv.org/abs/2212.00541)|[mujoco_mpc](https://github.com/deepmind/mujoco_mpc)|
+|[ros-based multi-agent systems control simulation testbed (mascot)](https://arxiv.org/abs/2212.12657)|[mascot](https://github.com/avi241/mascot)|
+|[closed-form control with spike coding networks](https://arxiv.org/abs/2212.12887)|[scn_estimation_and_control](https://github.com/fsslijkhuis/scn_estimation_and_control)|
+|[doubly transitive lines ii: almost simple symmetries](https://arxiv.org/abs/1905.06859)|[2-tran-II](https://github.com/jwiverson/2-tran-II)|
 ## 2022-12-26
 |paper|code|
 |---|---|
