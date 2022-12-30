@@ -1,3 +1,11 @@
+## 2022-12-29
+|paper|code|
+|---|---|
+|[variance reduction for score functions using optimal baselines](https://arxiv.org/abs/2212.13587)|[ppo-tf2](https://github.com/ronan-keane/ppo-tf2)|
+|[ecg-based electrolyte prediction: evaluating regression and probabilistic methods](https://arxiv.org/abs/2212.13890)|[ecg-electrolyte-regression](https://github.com/philippvb/ecg-electrolyte-regression)|
+|[robust identification of non-autonomous dynamical systems using stochastic dynamics models](https://arxiv.org/abs/2212.13902)|[bayesid](https://github.com/ngalioto/bayesid)|
+|[anxolotl, an anxiety companion app -- stress detection](https://arxiv.org/abs/2212.14006)|[cfp-workshop-and-challenge-wellbeing](https://github.com/matpato/cfp-workshop-and-challenge-wellbeing)|
+|[a low multiplicative complexity fast recursive dct-2 algorithm](https://arxiv.org/abs/1203.3442)|[Fast_recursive_DCT](https://github.com/Mak-Sim/Fast_recursive_DCT)|
 ## 2022-12-27
 |paper|code|
 |---|---|
