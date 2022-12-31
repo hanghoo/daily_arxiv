@@ -1,6 +1,8 @@
 ## 2022-12-29
 |paper|code|
 |---|---|
+|[an online stochastic optimization approach for insulin intensification in type 2 diabetes with attention to pseudo-hypoglycemia](https://arxiv.org/abs/2204.11380)|[t2d-adaos](https://gitlab.com/aau-adapt-t2d/t2d-adaos)|
+|[clock and orientation-robust simultaneous radio localization and mapping at millimeter wave bands](https://arxiv.org/abs/2212.13477)|[castro-5g](https://github.com/gomezcuba/castro-5g)|
 |[variance reduction for score functions using optimal baselines](https://arxiv.org/abs/2212.13587)|[ppo-tf2](https://github.com/ronan-keane/ppo-tf2)|
 |[ecg-based electrolyte prediction: evaluating regression and probabilistic methods](https://arxiv.org/abs/2212.13890)|[ecg-electrolyte-regression](https://github.com/philippvb/ecg-electrolyte-regression)|
 |[robust identification of non-autonomous dynamical systems using stochastic dynamics models](https://arxiv.org/abs/2212.13902)|[bayesid](https://github.com/ngalioto/bayesid)|
@@ -23,6 +25,7 @@
 |---|---|
 |[neonatal eeg graded for severity of background abnormalities in hypoxic-ischaemic encephalopathy](https://arxiv.org/abs/2206.04420)|[downsample_open_eeg](https://github.com/otoolej/downsample_open_eeg)|
 |[spectral subspace dictionary learning](https://arxiv.org/abs/2210.10855)|[spectral_dict_learn](https://github.com/sew347/spectral_dict_learn)|
+|[energy-efficient baseband function deployments for service-oriented open ran](https://arxiv.org/abs/2212.12055)|[Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN](https://github.com/OCEAN-98/Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN)|
 |[deep unfolding-based weighted averaging for federated learning under heterogeneous environments](https://arxiv.org/abs/2212.12191)|[deepunfolding-based-fl](https://github.com/a-nakai-k/deepunfolding-based-fl)|
 ## 2022-12-23
 |paper|code|
