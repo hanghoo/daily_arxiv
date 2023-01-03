@@ -1,3 +1,21 @@
+## 2023-01-02
+|paper|code|
+|---|---|
+|[hamiltonian deep neural networks guaranteeing non-vanishing gradients by design](https://arxiv.org/abs/2105.13205)|[HamiltonianNet](https://github.com/DecodEPFL/HamiltonianNet)|
+|[a machine learning modelling benchmark for temperature field reconstruction of heat-source systems](https://arxiv.org/abs/2108.08298)|[tfr-hss-benchmark](https://github.com/shendu-sw/tfr-hss-benchmark)|
+|[efficient approximation of jacobian matrices involving a non-uniform fast fourier transform (nufft)](https://arxiv.org/abs/2111.02912)|[Bjork](https://github.com/guanhuaw/Bjork)|
+|[soft actor-critic deep reinforcement learning for fault tolerant flight control](https://arxiv.org/abs/2202.09262)|[fault-tolerant-flight-control-drl](https://github.com/kdally/fault-tolerant-flight-control-drl)|
+|[distributed and localized model predictive control. part ii: theoretical guarantees](https://arxiv.org/abs/2203.00780)|[dl-mpc-sls](https://github.com/unstable-zeros/dl-mpc-sls)|
+|[snappergps: open hardware for energy-efficient, low-cost wildlife location tracking with snapshot gnss](https://arxiv.org/abs/2207.06310)|[snappergps-pcb](https://github.com/snappergps/snappergps-pcb)|
+|[semantic communications with discrete-time analog transmission: a papr perspective](https://arxiv.org/abs/2208.08342)|[semanticpapr](https://github.com/lynshao/semanticpapr)|
+|[power control for 6g industrial wireless subnetworks: a graph neural network approach](https://arxiv.org/abs/2212.14051)|[Power_Control_GNN](https://github.com/danieloaAAU/Power_Control_GNN)|
+|[falsification of learning-based controllers through multi-fidelity bayesian optimization](https://arxiv.org/abs/2212.14118)|[mfbo-for-falsification](https://github.com/zahrashahrooei/mfbo-for-falsification)|
+|[sheaf-theoretic self-filtering network of low-cost sensors for local air quality monitoring: a causal approach](https://arxiv.org/abs/2212.14353)|[AirSheaf](https://github.com/a11to1n3/AirSheaf)|
+|[monge-kantorovich optimal transport through constrictions and flow-rate constraints](https://arxiv.org/abs/2212.14509)|[OMT-with-Flux-rate-Constraint](https://github.com/dytroshut/OMT-with-Flux-rate-Constraint)|
+|[similarity-based predictive maintenance framework for rotating machinery](https://arxiv.org/abs/2212.14550)|[similarity-based-predictive-maintenance-framework-for-rotating-machinery](https://github.com/western-oc2-lab/similarity-based-predictive-maintenance-framework-for-rotating-machinery)|
+|[lab-scale vibration analysis dataset and baseline methods for machinery fault diagnosis with machine learning](https://arxiv.org/abs/2212.14732)|[vbl-va001](https://github.com/bagustris/vbl-va001)|
+|[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezha](https://github.com/steamgjk/nezha)|
+|[detecting network-based internet censorship via latent feature representation learning](https://arxiv.org/abs/2209.05152)|[cp_learning](https://github.com/fathershawn/cp_learning)|
 ## 2022-12-29
 |paper|code|
 |---|---|
