@@ -1,8 +1,17 @@
+## 2023-01-03
+|paper|code|
+|---|---|
+|[bayesian active meta-learning for few pilot demodulation and equalization](https://arxiv.org/abs/2108.00785)|[bayesian_active_meta_learning](https://github.com/kclip/bayesian_active_meta_learning)|
+|[rtsnet: learning to smooth in partially known state-space models](https://arxiv.org/abs/2110.04717)|[rtsnet_icassp22](https://github.com/kalmannet/rtsnet_icassp22)|
+|[online gradient descent for flexible power point tracking under a highly fluctuating weather and load](https://arxiv.org/abs/2203.00197)|[online_gradient_descent_fppt](https://github.com/muhi-zatar/online_gradient_descent_fppt)|
+|[neural system level synthesis: learning over all stabilizing policies for nonlinear systems](https://arxiv.org/abs/2203.11812)|[neursls](https://github.com/decodepfl/neursls)|
+|[intersecting near-optimal spaces: european power systems with more resilience to weather variability](https://arxiv.org/abs/2206.12242)|[intersecting-near-opt-spaces](https://github.com/aleks-g/intersecting-near-opt-spaces)|
+|[energy-efficient baseband function deployments for service-oriented open ran](https://arxiv.org/abs/2212.12055)|[Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN](https://github.com/OCEAN-98/Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN)|
+|[fusing models for prognostics and health management of lithium-ion batteries based on physics-informed neural networks](https://arxiv.org/abs/2301.00776)|[PINN-Battery-Prognostics](https://github.com/WenPengfei0823/PINN-Battery-Prognostics)|
 ## 2023-01-02
 |paper|code|
 |---|---|
 |[hamiltonian deep neural networks guaranteeing non-vanishing gradients by design](https://arxiv.org/abs/2105.13205)|[HamiltonianNet](https://github.com/DecodEPFL/HamiltonianNet)|
-|[a machine learning modelling benchmark for temperature field reconstruction of heat-source systems](https://arxiv.org/abs/2108.08298)|[tfr-hss-benchmark](https://github.com/shendu-sw/tfr-hss-benchmark)|
 |[efficient approximation of jacobian matrices involving a non-uniform fast fourier transform (nufft)](https://arxiv.org/abs/2111.02912)|[Bjork](https://github.com/guanhuaw/Bjork)|
 |[soft actor-critic deep reinforcement learning for fault tolerant flight control](https://arxiv.org/abs/2202.09262)|[fault-tolerant-flight-control-drl](https://github.com/kdally/fault-tolerant-flight-control-drl)|
 |[distributed and localized model predictive control. part ii: theoretical guarantees](https://arxiv.org/abs/2203.00780)|[dl-mpc-sls](https://github.com/unstable-zeros/dl-mpc-sls)|
@@ -24,7 +33,6 @@
 |[variance reduction for score functions using optimal baselines](https://arxiv.org/abs/2212.13587)|[ppo-tf2](https://github.com/ronan-keane/ppo-tf2)|
 |[ecg-based electrolyte prediction: evaluating regression and probabilistic methods](https://arxiv.org/abs/2212.13890)|[ecg-electrolyte-regression](https://github.com/philippvb/ecg-electrolyte-regression)|
 |[robust identification of non-autonomous dynamical systems using stochastic dynamics models](https://arxiv.org/abs/2212.13902)|[bayesid](https://github.com/ngalioto/bayesid)|
-|[anxolotl, an anxiety companion app -- stress detection](https://arxiv.org/abs/2212.14006)|[cfp-workshop-and-challenge-wellbeing](https://github.com/matpato/cfp-workshop-and-challenge-wellbeing)|
 |[a low multiplicative complexity fast recursive dct-2 algorithm](https://arxiv.org/abs/1203.3442)|[Fast_recursive_DCT](https://github.com/Mak-Sim/Fast_recursive_DCT)|
 ## 2022-12-27
 |paper|code|
