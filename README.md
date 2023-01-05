@@ -1,13 +1,22 @@
+## 2023-01-04
+|paper|code|
+|---|---|
+|[from drinking philosophers to asynchronous path-following robots](https://arxiv.org/abs/2001.00440)|[philosophers](https://github.com/sahiny/philosophers)|
+|[a machine learning surrogate modeling benchmark for temperature field reconstruction of heat-source systems](https://arxiv.org/abs/2108.08298)|[recon-data-generator](https://github.com/shendu-sw/recon-data-generator)|
+|[multiscale adaptive scheduling and path-planning for power-constrained uav-relays via smdps](https://arxiv.org/abs/2209.07655)|[MAESTRO-X](https://github.com/bharathkeshavamurthy/MAESTRO-X)|
+|[anxolotl, an anxiety companion app -- stress detection](https://arxiv.org/abs/2212.14006)|[cfp-workshop-and-challenge-wellbeing](https://github.com/matpato/cfp-workshop-and-challenge-wellbeing)|
+|[moreau-yosida $f$-divergences](https://arxiv.org/abs/2102.13416)|[moreau-yosida-f-divergences](https://github.com/renyi-ai/moreau-yosida-f-divergences)|
 ## 2023-01-03
 |paper|code|
 |---|---|
 |[bayesian active meta-learning for few pilot demodulation and equalization](https://arxiv.org/abs/2108.00785)|[bayesian_active_meta_learning](https://github.com/kclip/bayesian_active_meta_learning)|
 |[rtsnet: learning to smooth in partially known state-space models](https://arxiv.org/abs/2110.04717)|[rtsnet_icassp22](https://github.com/kalmannet/rtsnet_icassp22)|
-|[online gradient descent for flexible power point tracking under a highly fluctuating weather and load](https://arxiv.org/abs/2203.00197)|[online_gradient_descent_fppt](https://github.com/muhi-zatar/online_gradient_descent_fppt)|
 |[neural system level synthesis: learning over all stabilizing policies for nonlinear systems](https://arxiv.org/abs/2203.11812)|[neursls](https://github.com/decodepfl/neursls)|
-|[intersecting near-optimal spaces: european power systems with more resilience to weather variability](https://arxiv.org/abs/2206.12242)|[intersecting-near-opt-spaces](https://github.com/aleks-g/intersecting-near-opt-spaces)|
 |[energy-efficient baseband function deployments for service-oriented open ran](https://arxiv.org/abs/2212.12055)|[Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN](https://github.com/OCEAN-98/Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN)|
+|[lagrangian relaxation for mixed-integer linear programming: importance, challenges, recent advancements, and opportunities](https://arxiv.org/abs/2301.00573)|[SLBLR](https://github.com/ProfBragin/SLBLR)|
 |[fusing models for prognostics and health management of lithium-ion batteries based on physics-informed neural networks](https://arxiv.org/abs/2301.00776)|[PINN-Battery-Prognostics](https://github.com/WenPengfei0823/PINN-Battery-Prognostics)|
+|[learning to maximize mutual information for dynamic feature selection](https://arxiv.org/abs/2301.00557)|[dynamic-selection](https://github.com/iancovert/dynamic-selection)|
+|[data-driven optimization of directed information over discrete alphabets](https://arxiv.org/abs/2301.00621)|[discrete_di_optimization](https://github.com/dortsur/discrete_di_optimization)|
 ## 2023-01-02
 |paper|code|
 |---|---|
@@ -18,9 +27,8 @@
 |[snappergps: open hardware for energy-efficient, low-cost wildlife location tracking with snapshot gnss](https://arxiv.org/abs/2207.06310)|[snappergps-pcb](https://github.com/snappergps/snappergps-pcb)|
 |[semantic communications with discrete-time analog transmission: a papr perspective](https://arxiv.org/abs/2208.08342)|[semanticpapr](https://github.com/lynshao/semanticpapr)|
 |[power control for 6g industrial wireless subnetworks: a graph neural network approach](https://arxiv.org/abs/2212.14051)|[Power_Control_GNN](https://github.com/danieloaAAU/Power_Control_GNN)|
-|[falsification of learning-based controllers through multi-fidelity bayesian optimization](https://arxiv.org/abs/2212.14118)|[mfbo-for-falsification](https://github.com/zahrashahrooei/mfbo-for-falsification)|
+|[high resolution modeling and analysis of cryptocurrency mining's impact on power grids: carbon footprint, reliability, and electricity price](https://arxiv.org/abs/2212.14189)|[crypto_mining_impacts](https://github.com/tamu-engineering-research/crypto_mining_impacts)|
 |[sheaf-theoretic self-filtering network of low-cost sensors for local air quality monitoring: a causal approach](https://arxiv.org/abs/2212.14353)|[AirSheaf](https://github.com/a11to1n3/AirSheaf)|
-|[monge-kantorovich optimal transport through constrictions and flow-rate constraints](https://arxiv.org/abs/2212.14509)|[OMT-with-Flux-rate-Constraint](https://github.com/dytroshut/OMT-with-Flux-rate-Constraint)|
 |[similarity-based predictive maintenance framework for rotating machinery](https://arxiv.org/abs/2212.14550)|[similarity-based-predictive-maintenance-framework-for-rotating-machinery](https://github.com/western-oc2-lab/similarity-based-predictive-maintenance-framework-for-rotating-machinery)|
 |[lab-scale vibration analysis dataset and baseline methods for machinery fault diagnosis with machine learning](https://arxiv.org/abs/2212.14732)|[vbl-va001](https://github.com/bagustris/vbl-va001)|
 |[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezha](https://github.com/steamgjk/nezha)|
