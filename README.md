@@ -1,3 +1,13 @@
+## 2023-01-05
+|paper|code|
+|---|---|
+|[online gradient descent for flexible power point tracking under a highly fluctuating weather and load](https://arxiv.org/abs/2203.00197)|[online_gradient_descent_fppt](https://github.com/muhi-zatar/online_gradient_descent_fppt)|
+|[intersecting near-optimal spaces: european power systems with more resilience to weather variability](https://arxiv.org/abs/2206.12242)|[intersecting-near-opt-spaces](https://github.com/aleks-g/intersecting-near-opt-spaces)|
+|[falsification of learning-based controllers through multi-fidelity bayesian optimization](https://arxiv.org/abs/2212.14118)|[mfbo-for-falsification](https://github.com/zahrashahrooei/mfbo-for-falsification)|
+|[monge-kantorovich optimal transport through constrictions and flow-rate constraints](https://arxiv.org/abs/2212.14509)|[OMT-with-Flux-rate-Constraint](https://github.com/dytroshut/OMT-with-Flux-rate-Constraint)|
+|[data-driven model identification via hyperparameter optimization for the autonomous racing system](https://arxiv.org/abs/2301.01470)|[MIHO](https://github.com/hynkis/MIHO)|
+|[pendantss: penalized norm-ratios disentangling additive noise, trend and sparse spikes](https://arxiv.org/abs/2301.01514)|[pendantss](https://github.com/paulzhengfr/pendantss)|
+|[online service migration in mobile edge with incomplete system information: a deep recurrent actor-critic learning approach](https://arxiv.org/abs/2012.08679)|[pomdp-service-migration](https://github.com/linkpark/pomdp-service-migration)|
 ## 2023-01-04
 |paper|code|
 |---|---|
@@ -9,13 +19,19 @@
 ## 2023-01-03
 |paper|code|
 |---|---|
+|[adaptsky: a drl based resource allocation framework in noma-uav networks](https://arxiv.org/abs/2107.01004)|[adaptsky](https://github.com/fouzibenfaid/adaptsky)|
 |[bayesian active meta-learning for few pilot demodulation and equalization](https://arxiv.org/abs/2108.00785)|[bayesian_active_meta_learning](https://github.com/kclip/bayesian_active_meta_learning)|
-|[rtsnet: learning to smooth in partially known state-space models](https://arxiv.org/abs/2110.04717)|[rtsnet_icassp22](https://github.com/kalmannet/rtsnet_icassp22)|
+|[rtsnet: learning to smooth in partially known state-space models](https://arxiv.org/abs/2110.04717)|[rtsnet_tsp](https://github.com/kalmannet/rtsnet_tsp)|
 |[neural system level synthesis: learning over all stabilizing policies for nonlinear systems](https://arxiv.org/abs/2203.11812)|[neursls](https://github.com/decodepfl/neursls)|
+|[deep learning of near field beam focusing in terahertz wideband massive mimo systems](https://arxiv.org/abs/2210.02980)|[nfwb_bf](https://github.com/yuzhang-github/nfwb_bf)|
 |[energy-efficient baseband function deployments for service-oriented open ran](https://arxiv.org/abs/2212.12055)|[Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN](https://github.com/OCEAN-98/Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN)|
+|[robust synergistic hybrid feedback](https://arxiv.org/abs/2301.00158)|[synergistic](https://github.com/pcasau/synergistic)|
+|[learn to rapidly and robustly optimize hybrid precoding](https://arxiv.org/abs/2301.00369)|[learn-to-rapidly-optimize-hybrid-precoding](https://github.com/ortalagiv/learn-to-rapidly-optimize-hybrid-precoding)|
 |[lagrangian relaxation for mixed-integer linear programming: importance, challenges, recent advancements, and opportunities](https://arxiv.org/abs/2301.00573)|[SLBLR](https://github.com/ProfBragin/SLBLR)|
 |[fusing models for prognostics and health management of lithium-ion batteries based on physics-informed neural networks](https://arxiv.org/abs/2301.00776)|[PINN-Battery-Prognostics](https://github.com/WenPengfei0823/PINN-Battery-Prognostics)|
+|[cloud broker: a systematic mapping study](https://arxiv.org/abs/2102.12717)|[sms-cloudbroker](https://github.com/hodataheri/sms-cloudbroker)|
 |[learning to maximize mutual information for dynamic feature selection](https://arxiv.org/abs/2301.00557)|[dynamic-selection](https://github.com/iancovert/dynamic-selection)|
+|[chamelemon: shifting measurement attention as network state changes](https://arxiv.org/abs/2301.00615)|[chamelemon](https://github.com/chamelemoncode/chamelemon)|
 |[data-driven optimization of directed information over discrete alphabets](https://arxiv.org/abs/2301.00621)|[discrete_di_optimization](https://github.com/dortsur/discrete_di_optimization)|
 ## 2023-01-02
 |paper|code|
