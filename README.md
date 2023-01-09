@@ -11,7 +11,6 @@
 |[intersecting near-optimal spaces: european power systems with more resilience to weather variability](https://arxiv.org/abs/2206.12242)|[intersecting-near-opt-spaces](https://github.com/aleks-g/intersecting-near-opt-spaces)|
 |[falsification of learning-based controllers through multi-fidelity bayesian optimization](https://arxiv.org/abs/2212.14118)|[mfbo-for-falsification](https://github.com/zahrashahrooei/mfbo-for-falsification)|
 |[monge-kantorovich optimal transport through constrictions and flow-rate constraints](https://arxiv.org/abs/2212.14509)|[OMT-with-Flux-rate-Constraint](https://github.com/dytroshut/OMT-with-Flux-rate-Constraint)|
-|[data-driven model identification via hyperparameter optimization for the autonomous racing system](https://arxiv.org/abs/2301.01470)|[MIHO](https://github.com/hynkis/MIHO)|
 |[pendantss: penalized norm-ratios disentangling additive noise, trend and sparse spikes](https://arxiv.org/abs/2301.01514)|[pendantss](https://github.com/paulzhengfr/pendantss)|
 |[online service migration in mobile edge with incomplete system information: a deep recurrent actor-critic learning approach](https://arxiv.org/abs/2012.08679)|[pomdp-service-migration](https://github.com/linkpark/pomdp-service-migration)|
 ## 2023-01-04
