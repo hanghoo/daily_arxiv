@@ -1,3 +1,9 @@
+## 2023-01-09
+|paper|code|
+|---|---|
+|[expanding boundaries of gap safe screening](https://arxiv.org/abs/2102.10846)|[kl_screening](https://github.com/cassiofragadantas/kl_screening)|
+|[fast contact-implicit model-predictive control](https://arxiv.org/abs/2107.05616)|[ContactImplicitMPC.jl](https://github.com/thowell/ContactImplicitMPC.jl)|
+|[data-driven model identification via hyperparameter optimization for autonomous racing systems](https://arxiv.org/abs/2301.01470)|[MIHO](https://github.com/hynkis/MIHO)|
 ## 2023-01-06
 |paper|code|
 |---|---|
