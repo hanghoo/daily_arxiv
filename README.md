@@ -1,3 +1,13 @@
+## 2023-01-10
+|paper|code|
+|---|---|
+|[on solar photovoltaic parameter estimation: global optimality analysis and a simple efficient differential evolution method](https://arxiv.org/abs/2011.12114)|[rePVest](https://github.com/ShuhuaGao/rePVest)|
+|[physfad: physics-based end-to-end channel modeling of ris-parametrized environments with adjustable fading](https://arxiv.org/abs/2202.02673)|[physfad](https://github.com/philipp-delhougne/physfad)|
+|[principal component analysis in space forms](https://arxiv.org/abs/2301.02750)|[HoroPCA](https://github.com/HazyResearch/HoroPCA)|
+|[deep injective prior for inverse scattering](https://arxiv.org/abs/2301.03092)|[scattering_injective_prior](https://github.com/swing-research/scattering_injective_prior)|
+|[unsupervised multivariate time-series transformers for seizure identification on eeg](https://arxiv.org/abs/2301.03470)|[eeg_mvts](https://github.com/ilkyyldz95/eeg_mvts)|
+|[internet of drones simulator: design, implementation, and performance evaluation](https://arxiv.org/abs/2203.13710)|[iod_sim](https://github.com/telematics-lab/iod_sim)|
+|[the entropy rate of linear additive markov processes](https://arxiv.org/abs/2211.05350)|[LAMPEntropyEstimates](https://github.com/bridget-smart/LAMPEntropyEstimates)|
 ## 2023-01-09
 |paper|code|
 |---|---|
