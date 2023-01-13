@@ -1,9 +1,20 @@
+## 2023-01-12
+|paper|code|
+|---|---|
+|[openstreetmap-based autonomous navigation with lidar naive-valley-path obstacle avoidance](https://arxiv.org/abs/2108.09117)|[lib_planning](https://github.com/aurova-lab/lib_planning)|
+|[trajectory optimization with optimization-based dynamics](https://arxiv.org/abs/2109.04928)|[optimization_dynamics](https://github.com/thowell/optimization_dynamics)|
+|[da-music: data-driven doa estimation via deep augmented music algorithm](https://arxiv.org/abs/2109.10581)|[tvt23](https://github.com/da-music/tvt23)|
+|[parkpredict+: multimodal intent and motion prediction for vehicles in parking lots with cnn and transformer](https://arxiv.org/abs/2204.10777)|[parksim](https://github.com/xushenlz/parksim)|
+|[calipso: a differentiable solver for trajectory optimization with conic and complementarity constraints](https://arxiv.org/abs/2205.09255)|[calipso.jl](https://github.com/thowell/calipso.jl)|
+|[adaptslam: edge-assisted adaptive slam with resource constraints via uncertainty minimization](https://arxiv.org/abs/2301.04620)|[adaptslam](https://github.com/i3tyc/adaptslam)|
 ## 2023-01-11
 |paper|code|
 |---|---|
 |[bayesian active meta-learning for few pilot demodulation and equalization](https://arxiv.org/abs/2108.00785)|[bayesian_active_meta_learning](https://github.com/kclip/bayesian_active_meta_learning)|
 |[mixcycle: unsupervised speech separation via cyclic mixture permutation invariant training](https://arxiv.org/abs/2202.03875)|[mixcycle](https://github.com/ertug/mixcycle)|
 |[learning representations for new sound classes with continual self-supervised learning](https://arxiv.org/abs/2205.07390)|[cssl_sound](https://github.com/zhepeiw/cssl_sound)|
+|[total energy-shaping control for mechanical systems via control-by-interconnection](https://arxiv.org/abs/2301.03746)|[underactuated_mechanical_cbi](https://github.com/joelferguson/underactuated_mechanical_cbi)|
+|[functional observability and subspace reconstruction in nonlinear systems](https://arxiv.org/abs/2301.04108)|[nonlinearobservability](https://github.com/montanariarthur/nonlinearobservability)|
 |[multiple-access channel coding with non-signaling correlations](https://arxiv.org/abs/2206.10968)|[mac_ns_lp](https://github.com/pferme/mac_ns_lp)|
 |[towards an ai-enabled connected industry: agv communication and sensor measurement datasets](https://arxiv.org/abs/2301.03364)|[ai4mobile-industrial](https://github.com/fraunhoferhhi/ai4mobile-industrial)|
 ## 2023-01-10
