@@ -1,3 +1,9 @@
+## 2023-01-13
+|paper|code|
+|---|---|
+|[cpu scheduling in data centers using asynchronous finite-time distributed coordination mechanisms](https://arxiv.org/abs/2101.06139)|[federated-capacity-consensus](https://github.com/andylamp/federated-capacity-consensus)|
+|[automated sleep staging via parallel frequency-cut attention](https://arxiv.org/abs/2204.03173)|[transformer_sleep](https://github.com/zhengchen3/transformer_sleep)|
+|[a stochastic optimization framework for fair risk minimization](https://arxiv.org/abs/2102.12586)|[FERMI](https://github.com/optimization-for-data-driven-science/FERMI)|
 ## 2023-01-12
 |paper|code|
 |---|---|
