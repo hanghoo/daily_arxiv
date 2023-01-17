@@ -1,3 +1,11 @@
+## 2023-01-16
+|paper|code|
+|---|---|
+|[mocapact: a multi-task dataset for simulated humanoid control](https://arxiv.org/abs/2208.07363)|[MoCapAct](https://github.com/microsoft/MoCapAct)|
+|[supervisory control for dynamic feature configuration in product lines](https://arxiv.org/abs/2211.07382)|[tecs_ple](https://github.com/sbthuijsman/tecs_ple)|
+|[planning visual inspection tours for a 3d dubins airplane model in an urban environment](https://arxiv.org/abs/2301.05309)|[visualtour3ddubins](https://github.com/robotics-uncc/visualtour3ddubins)|
+|[optimization of hybrid power plants: when is a detailed electrolyzer model necessary?](https://arxiv.org/abs/2301.05310)|[detailed-electrolyzer-model](https://github.com/mtba-dtu/detailed-electrolyzer-model)|
+|[imitation learning-based implicit semantic-aware communication networks: multi-layer representation and collaborative reasoning](https://arxiv.org/abs/2210.16118)|[irml](https://github.com/zjs919/irml)|
 ## 2023-01-13
 |paper|code|
 |---|---|
