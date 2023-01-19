@@ -1,3 +1,23 @@
+## 2023-01-18
+|paper|code|
+|---|---|
+|[q-eegnet: an energy-efficient 8-bit quantized parallel eegnet implementation for edge motor-imagery brain--machine interfaces](https://arxiv.org/abs/2004.11690)|[q-eegnet](https://github.com/pulp-platform/q-eegnet)|
+|[k-deep simplex: deep manifold learning via local dictionaries](https://arxiv.org/abs/2012.02134)|[manifold-learning-with-simplex-constraints](https://github.com/pbt17/manifold-learning-with-simplex-constraints)|
+|[deep-lcc: data-enabled predictive leading cruise control in mixed traffic flow](https://arxiv.org/abs/2203.10639)|[deep-lcc](https://github.com/soc-ucsd/deep-lcc)|
+|[model-based and graph-based priors for group testing](https://arxiv.org/abs/2205.11838)|[priors_group_testing](https://github.com/ethangela/priors_group_testing)|
+|[semi-blind source separation using convolutive transfer function for nonlinear acoustic echo cancellation](https://arxiv.org/abs/2207.01556)|[audio-samples2](https://github.com/chengguoliang0/audio-samples2)|
+|[on controller tuning with time-varying bayesian optimization](https://arxiv.org/abs/2207.11120)|[uitvbo](https://github.com/brunzema/uitvbo)|
+|[improving the performance of robust control through event-triggered learning](https://arxiv.org/abs/2207.14252)|[betl](https://github.com/avrohr/betl)|
+|[self-supervised learning for anomalous channel detection in eeg graphs: application to seizure analysis](https://arxiv.org/abs/2208.07448)|[EEG-CGS](https://github.com/Armanfard-Lab/EEG-CGS)|
+|[stimulus-informed generalized canonical correlation analysis of stimulus-following brain responses](https://arxiv.org/abs/2210.13297)|[si-gcca](https://github.com/alexanderbertrandlab/si-gcca)|
+|[total energy-shaping control for mechanical systems via control-by-interconnection](https://arxiv.org/abs/2301.03746)|[underactuated_mechanical_cbi](https://github.com/joelferguson/underactuated_mechanical_cbi)|
+|[identifying time lag in dynamical systems with copula entropy based transfer entropy](https://arxiv.org/abs/2301.06037)|[timelag](https://github.com/majianthu/timelag)|
+|[a reinforcement learning path planning approach for range-only underwater target localization with autonomous vehicles](https://arxiv.org/abs/2301.06863)|[rlforutracking](https://github.com/imasmitja/rlforutracking)|
+|[verifying and monitoring iots network behavior using mud profiles](https://arxiv.org/abs/1902.02484)|[sdn-pcap-simulator](https://github.com/ayyoob/sdn-pcap-simulator)|
+|[fast and heavy disjoint weighted matchings for demand-aware datacenter topologies](https://arxiv.org/abs/2201.06621)|[DJ-Match](https://github.com/DJ-Match/DJ-Match)|
+|[stratified multivariate multiscale dispersion entropy for physiological signal analysis](https://arxiv.org/abs/2202.09298)|[smvmde](https://github.com/evangeloskafantaris/smvmde)|
+|[energy-aware scheduling of virtualized base stations in o-ran with online learning](https://arxiv.org/abs/2208.09956)|[bsvbs](https://github.com/mikekalnt/bsvbs)|
+|[crc-aided learned ensembles of belief-propagation polar decoders](https://arxiv.org/abs/2301.06060)|[polar-ensembles](https://github.com/tomerraviv95/polar-ensembles)|
 ## 2023-01-17
 |paper|code|
 |---|---|
