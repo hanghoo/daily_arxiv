@@ -1,3 +1,11 @@
+## 2023-01-19
+|paper|code|
+|---|---|
+|[learning task-oriented communication for edge inference: an information bottleneck approach](https://arxiv.org/abs/2102.04170)|[VL-VFE](https://github.com/shaojiawei07/VL-VFE)|
+|[a multi-model ensemble kalman filter for data assimilation and forecasting](https://arxiv.org/abs/2202.02272)|[mmda](https://github.com/eviatarbach/mmda)|
+|[descod-ecg: deep score-based diffusion model for ecg baseline wander and noise removal](https://arxiv.org/abs/2208.00542)|[score-based-ecg-denoising](https://github.com/huayuliarizona/score-based-ecg-denoising)|
+|[digital twin-based multiple access optimization and monitoring via model-driven bayesian learning](https://arxiv.org/abs/2210.05582)|[bayesian-dt](https://github.com/kclip/bayesian-dt)|
+|[pendantss: penalized norm-ratios disentangling additive noise, trend and sparse spikes](https://arxiv.org/abs/2301.01514)|[pendantss](https://github.com/paulzhengfr/pendantss)|
 ## 2023-01-18
 |paper|code|
 |---|---|
@@ -9,6 +17,7 @@
 |[on controller tuning with time-varying bayesian optimization](https://arxiv.org/abs/2207.11120)|[uitvbo](https://github.com/brunzema/uitvbo)|
 |[improving the performance of robust control through event-triggered learning](https://arxiv.org/abs/2207.14252)|[betl](https://github.com/avrohr/betl)|
 |[self-supervised learning for anomalous channel detection in eeg graphs: application to seizure analysis](https://arxiv.org/abs/2208.07448)|[EEG-CGS](https://github.com/Armanfard-Lab/EEG-CGS)|
+|[self-validated physics-embedding network: a general framework for inverse modelling](https://arxiv.org/abs/2210.06071)|[svpen_1.0](https://github.com/ralphkang/svpen_1.0)|
 |[stimulus-informed generalized canonical correlation analysis of stimulus-following brain responses](https://arxiv.org/abs/2210.13297)|[si-gcca](https://github.com/alexanderbertrandlab/si-gcca)|
 |[total energy-shaping control for mechanical systems via control-by-interconnection](https://arxiv.org/abs/2301.03746)|[underactuated_mechanical_cbi](https://github.com/joelferguson/underactuated_mechanical_cbi)|
 |[identifying time lag in dynamical systems with copula entropy based transfer entropy](https://arxiv.org/abs/2301.06037)|[timelag](https://github.com/majianthu/timelag)|
@@ -26,7 +35,6 @@
 |paper|code|
 |---|---|
 |[mocapact: a multi-task dataset for simulated humanoid control](https://arxiv.org/abs/2208.07363)|[MoCapAct](https://github.com/microsoft/MoCapAct)|
-|[supervisory control for dynamic feature configuration in product lines](https://arxiv.org/abs/2211.07382)|[tecs_ple](https://github.com/sbthuijsman/tecs_ple)|
 |[planning visual inspection tours for a 3d dubins airplane model in an urban environment](https://arxiv.org/abs/2301.05309)|[visualtour3ddubins](https://github.com/robotics-uncc/visualtour3ddubins)|
 |[optimization of hybrid power plants: when is a detailed electrolyzer model necessary?](https://arxiv.org/abs/2301.05310)|[detailed-electrolyzer-model](https://github.com/mtba-dtu/detailed-electrolyzer-model)|
 |[imitation learning-based implicit semantic-aware communication networks: multi-layer representation and collaborative reasoning](https://arxiv.org/abs/2210.16118)|[irml](https://github.com/zjs919/irml)|
