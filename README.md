@@ -1,3 +1,9 @@
+## 2023-01-20
+|paper|code|
+|---|---|
+|[supervisory control for dynamic feature configuration in product lines](https://arxiv.org/abs/2211.07382)|[tecs_ple](https://github.com/sbthuijsman/tecs_ple)|
+|[emergence of the svd as an interpretable factorization in deep learning for inverse problems](https://arxiv.org/abs/2301.07820)|[descrambling-nn](https://github.com/shashanksule/descrambling-nn)|
+|[interval reachability of nonlinear dynamical systems with neural network controllers](https://arxiv.org/abs/2301.07912)|[l4dc2023_nncontrollerreachability](https://github.com/gtfactslab/l4dc2023_nncontrollerreachability)|
 ## 2023-01-19
 |paper|code|
 |---|---|
@@ -26,6 +32,7 @@
 |[fast and heavy disjoint weighted matchings for demand-aware datacenter topologies](https://arxiv.org/abs/2201.06621)|[DJ-Match](https://github.com/DJ-Match/DJ-Match)|
 |[stratified multivariate multiscale dispersion entropy for physiological signal analysis](https://arxiv.org/abs/2202.09298)|[smvmde](https://github.com/evangeloskafantaris/smvmde)|
 |[energy-aware scheduling of virtualized base stations in o-ran with online learning](https://arxiv.org/abs/2208.09956)|[bsvbs](https://github.com/mikekalnt/bsvbs)|
+|[dynamic demand-aware link scheduling for reconfigurable datacenters](https://arxiv.org/abs/2301.05751)|[dydj-match](https://github.com/dj-match/dydj-match)|
 |[crc-aided learned ensembles of belief-propagation polar decoders](https://arxiv.org/abs/2301.06060)|[polar-ensembles](https://github.com/tomerraviv95/polar-ensembles)|
 ## 2023-01-17
 |paper|code|
