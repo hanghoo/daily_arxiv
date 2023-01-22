@@ -2,8 +2,10 @@
 |paper|code|
 |---|---|
 |[supervisory control for dynamic feature configuration in product lines](https://arxiv.org/abs/2211.07382)|[tecs_ple](https://github.com/sbthuijsman/tecs_ple)|
+|[temporal logic motion planning with convex optimization via graphs of convex sets](https://arxiv.org/abs/2301.07773)|[ltl_gcs](https://github.com/vincekurtz/ltl_gcs)|
 |[emergence of the svd as an interpretable factorization in deep learning for inverse problems](https://arxiv.org/abs/2301.07820)|[descrambling-nn](https://github.com/shashanksule/descrambling-nn)|
 |[interval reachability of nonlinear dynamical systems with neural network controllers](https://arxiv.org/abs/2301.07912)|[l4dc2023_nncontrollerreachability](https://github.com/gtfactslab/l4dc2023_nncontrollerreachability)|
+|[cooperative distributed mpc via decentralized real-time optimization: implementation results for robot formations](https://arxiv.org/abs/2301.07960)|[dmpc_rto](https://github.com/optcon/dmpc_rto)|
 ## 2023-01-19
 |paper|code|
 |---|---|
@@ -12,6 +14,7 @@
 |[descod-ecg: deep score-based diffusion model for ecg baseline wander and noise removal](https://arxiv.org/abs/2208.00542)|[score-based-ecg-denoising](https://github.com/huayuliarizona/score-based-ecg-denoising)|
 |[digital twin-based multiple access optimization and monitoring via model-driven bayesian learning](https://arxiv.org/abs/2210.05582)|[bayesian-dt](https://github.com/kclip/bayesian-dt)|
 |[pendantss: penalized norm-ratios disentangling additive noise, trend and sparse spikes](https://arxiv.org/abs/2301.01514)|[pendantss](https://github.com/paulzhengfr/pendantss)|
+|[sen2dwater: a novel multispectral and multitemporal dataset and deep learning benchmark for water resources analysis](https://arxiv.org/abs/2301.07452)|[impact-of-climate-change-on-water-resources](https://github.com/francescomauro1998/impact-of-climate-change-on-water-resources)|
 ## 2023-01-18
 |paper|code|
 |---|---|
