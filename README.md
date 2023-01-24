@@ -1,3 +1,11 @@
+## 2023-01-23
+|paper|code|
+|---|---|
+|[a multi-model ensemble kalman filter for data assimilation and forecasting](https://arxiv.org/abs/2202.02272)|[mmda](https://github.com/eviatarbach/mmda)|
+|[online decision making for trading wind energy](https://arxiv.org/abs/2209.02009)|[online-trading-wind-energy](https://github.com/miguel897/online-trading-wind-energy)|
+|[planning visual inspection tours for a 3d dubins airplane model in an urban environment](https://arxiv.org/abs/2301.05309)|[visualtour3ddubins](https://github.com/robotics-uncc/visualtour3ddubins)|
+|[source-free subject adaptation for eeg-based visual recognition](https://arxiv.org/abs/2301.08448)|[Deep-BCI](https://github.com/DeepBCI/Deep-BCI)|
+|[weighted sum-rate maximization with causal inference for latent interference estimation](https://arxiv.org/abs/2211.08327)|[research-weighted-sum-rate](https://github.com/youlei202/research-weighted-sum-rate)|
 ## 2023-01-20
 |paper|code|
 |---|---|
