@@ -1,3 +1,16 @@
+## 2023-01-24
+|paper|code|
+|---|---|
+|[on the universal transformation of data-driven models to control systems](https://arxiv.org/abs/2102.04722)|[QuaSiModO](https://github.com/SebastianPeitz/QuaSiModO)|
+|[an error-state model predictive control on connected matrix lie groups for legged robot control](https://arxiv.org/abs/2203.08728)|[error-state-mpc](https://github.com/umich-curly/error-state-mpc)|
+|[continuous-time identification of dynamic state-space models by deep subspace encoding](https://arxiv.org/abs/2204.09405)|[ct-subnet](https://github.com/gerbenbeintema/ct-subnet)|
+|[toward robust manufacturing scheduling: stochastic job-shop scheduling](https://arxiv.org/abs/2206.09326)|[jobshop.jl](https://github.com/psorlab/jobshop.jl)|
+|[marker and source-marker reprogramming of most permissive boolean networks and ensembles with bonesis](https://arxiv.org/abs/2207.13307)|[reprogramming-with-bonesis](https://github.com/bnediction/reprogramming-with-bonesis)|
+|[likelihood-based generalization of markov parameter estimation and multiple shooting objectives in system identification](https://arxiv.org/abs/2212.13902)|[bayesid](https://github.com/ngalioto/bayesid)|
+|[robot skill learning via classical robotics-based generated datasets: advantages, disadvantages, and future improvement](https://arxiv.org/abs/2301.08794)|[TiagoRobotSkillLearning](https://github.com/btknzn/TiagoRobotSkillLearning)|
+|[propagation of linear uncertainties through multiline thru-reflect-line calibration](https://arxiv.org/abs/2301.09126)|[uncertainty-multiline-trl-calibration](https://github.com/ZiadHatab/uncertainty-multiline-trl-calibration)|
+|[energy prediction using federated learning](https://arxiv.org/abs/2301.09165)|[energy_prediction](https://github.com/sanjana-sarda/energy_prediction)|
+|[enabling kernel bypass networking on gem5](https://arxiv.org/abs/2301.09470)|[CAL-DPDK-GEM5](https://github.com/agsiddharth/CAL-DPDK-GEM5)|
 ## 2023-01-23
 |paper|code|
 |---|---|
@@ -5,7 +18,6 @@
 |[online decision making for trading wind energy](https://arxiv.org/abs/2209.02009)|[online-trading-wind-energy](https://github.com/miguel897/online-trading-wind-energy)|
 |[planning visual inspection tours for a 3d dubins airplane model in an urban environment](https://arxiv.org/abs/2301.05309)|[visualtour3ddubins](https://github.com/robotics-uncc/visualtour3ddubins)|
 |[source-free subject adaptation for eeg-based visual recognition](https://arxiv.org/abs/2301.08448)|[Deep-BCI](https://github.com/DeepBCI/Deep-BCI)|
-|[weighted sum-rate maximization with causal inference for latent interference estimation](https://arxiv.org/abs/2211.08327)|[research-weighted-sum-rate](https://github.com/youlei202/research-weighted-sum-rate)|
 ## 2023-01-20
 |paper|code|
 |---|---|
