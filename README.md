@@ -1,3 +1,12 @@
+## 2023-01-25
+|paper|code|
+|---|---|
+|[deep task-based analog-to-digital conversion](https://arxiv.org/abs/2201.12634)|[adc-learning-hyperopt](https://github.com/arielamar123/adc-learning-hyperopt)|
+|[towards dynamic stability analysis of sustainable power grids using graph neural networks](https://arxiv.org/abs/2212.11130)|[dynamic_stability_gnn_neurips_climate_workshop](https://github.com/pik-icone/dynamic_stability_gnn_neurips_climate_workshop)|
+|[autoencoder-based joint communication and sensing of multiple targets](https://arxiv.org/abs/2301.09439)|[JCAS_multitarg](https://github.com/frozenhairdryer/JCAS_multitarg)|
+|[p4-macsec: dynamic topology monitoring and data layer protection with macsec in p4-sdn](https://arxiv.org/abs/1904.07088)|[p4-macsec](https://github.com/uni-tue-kn/p4-macsec)|
+|[p4-ipsec: site-to-site and host-to-site vpn with ipsec in p4-based sdn](https://arxiv.org/abs/1907.03593)|[p4-ipsec](https://github.com/uni-tue-kn/p4-ipsec)|
+|[weighted sum-rate maximization with causal inference for latent interference estimation](https://arxiv.org/abs/2211.08327)|[research-weighted-sum-rate](https://github.com/youlei202/research-weighted-sum-rate)|
 ## 2023-01-24
 |paper|code|
 |---|---|
