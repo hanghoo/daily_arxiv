@@ -1,12 +1,21 @@
+## 2023-01-26
+|paper|code|
+|---|---|
+|[an inertial block majorization minimization framework for nonsmooth nonconvex optimization](https://arxiv.org/abs/2010.12133)|[TITAN](https://github.com/nhatpd/TITAN)|
+|[a framework of inertial alternating direction method of multipliers for non-convex non-smooth optimization](https://arxiv.org/abs/2102.05433)|[iADMM](https://github.com/nhatpd/iADMM)|
+|[predictive control barrier functions for online safety critical control](https://arxiv.org/abs/2204.00208)|[phd-code](https://github.com/jbreeden-um/phd-code)|
+|[partial identifiability for nonnegative matrix factorization](https://arxiv.org/abs/2206.08022)|[nmf-partial-identifiability](https://gitlab.com/ngillis/nmf-partial-identifiability)|
 ## 2023-01-25
 |paper|code|
 |---|---|
 |[deep task-based analog-to-digital conversion](https://arxiv.org/abs/2201.12634)|[adc-learning-hyperopt](https://github.com/arielamar123/adc-learning-hyperopt)|
 |[towards dynamic stability analysis of sustainable power grids using graph neural networks](https://arxiv.org/abs/2212.11130)|[dynamic_stability_gnn_neurips_climate_workshop](https://github.com/pik-icone/dynamic_stability_gnn_neurips_climate_workshop)|
 |[autoencoder-based joint communication and sensing of multiple targets](https://arxiv.org/abs/2301.09439)|[JCAS_multitarg](https://github.com/frozenhairdryer/JCAS_multitarg)|
+|[spectral cross-domain neural network with soft-adaptive threshold spectral enhancement](https://arxiv.org/abs/2301.10171)|[scdnn-ts](https://github.com/dl-wg/scdnn-ts)|
 |[p4-macsec: dynamic topology monitoring and data layer protection with macsec in p4-sdn](https://arxiv.org/abs/1904.07088)|[p4-macsec](https://github.com/uni-tue-kn/p4-macsec)|
 |[p4-ipsec: site-to-site and host-to-site vpn with ipsec in p4-based sdn](https://arxiv.org/abs/1907.03593)|[p4-ipsec](https://github.com/uni-tue-kn/p4-ipsec)|
 |[weighted sum-rate maximization with causal inference for latent interference estimation](https://arxiv.org/abs/2211.08327)|[research-weighted-sum-rate](https://github.com/youlei202/research-weighted-sum-rate)|
+|[xrp-ndn overlay: improving the communication efficiency of consensus-validation based blockchains with an ndn overlay](https://arxiv.org/abs/2301.10209)|[sntrippled](https://github.com/flavscheidt/sntrippled)|
 ## 2023-01-24
 |paper|code|
 |---|---|
@@ -16,6 +25,7 @@
 |[toward robust manufacturing scheduling: stochastic job-shop scheduling](https://arxiv.org/abs/2206.09326)|[jobshop.jl](https://github.com/psorlab/jobshop.jl)|
 |[marker and source-marker reprogramming of most permissive boolean networks and ensembles with bonesis](https://arxiv.org/abs/2207.13307)|[reprogramming-with-bonesis](https://github.com/bnediction/reprogramming-with-bonesis)|
 |[likelihood-based generalization of markov parameter estimation and multiple shooting objectives in system identification](https://arxiv.org/abs/2212.13902)|[bayesid](https://github.com/ngalioto/bayesid)|
+|[robust control for dynamical systems with non-gaussian noise via formal abstractions](https://arxiv.org/abs/2301.01526)|[dynabs](https://github.com/lava-lab/dynabs)|
 |[robot skill learning via classical robotics-based generated datasets: advantages, disadvantages, and future improvement](https://arxiv.org/abs/2301.08794)|[TiagoRobotSkillLearning](https://github.com/btknzn/TiagoRobotSkillLearning)|
 |[propagation of linear uncertainties through multiline thru-reflect-line calibration](https://arxiv.org/abs/2301.09126)|[uncertainty-multiline-trl-calibration](https://github.com/ZiadHatab/uncertainty-multiline-trl-calibration)|
 |[energy prediction using federated learning](https://arxiv.org/abs/2301.09165)|[energy_prediction](https://github.com/sanjana-sarda/energy_prediction)|
