@@ -1,3 +1,9 @@
+## 2023-01-27
+|paper|code|
+|---|---|
+|[conditions for estimation of sensitivities of voltage magnitudes to complex power injections](https://arxiv.org/abs/2212.01471)|[powersensitivities.jl](https://github.com/samtalki/powersensitivities.jl)|
+|[flex-net: a graph neural network approach to resource management in flexible duplex networks](https://arxiv.org/abs/2301.11166)|[flex-net](https://github.com/tharaka-perera/flex-net)|
+|[invicloak: an end-to-end approach to privacy and performance in web content distribution](https://arxiv.org/abs/2209.01541)|[ccs2022-invicloak](https://github.com/shiftlin/ccs2022-invicloak)|
 ## 2023-01-26
 |paper|code|
 |---|---|
@@ -5,6 +11,7 @@
 |[a framework of inertial alternating direction method of multipliers for non-convex non-smooth optimization](https://arxiv.org/abs/2102.05433)|[iADMM](https://github.com/nhatpd/iADMM)|
 |[predictive control barrier functions for online safety critical control](https://arxiv.org/abs/2204.00208)|[phd-code](https://github.com/jbreeden-um/phd-code)|
 |[partial identifiability for nonnegative matrix factorization](https://arxiv.org/abs/2206.08022)|[nmf-partial-identifiability](https://gitlab.com/ngillis/nmf-partial-identifiability)|
+|[high-throughput rate-flexible combinational decoders for multi-kernel polar codes](https://arxiv.org/abs/2301.10445)|[polar-compiler](https://github.com/hosseinrezaeii91/polar-compiler)|
 ## 2023-01-25
 |paper|code|
 |---|---|
