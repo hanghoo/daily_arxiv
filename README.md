@@ -1,3 +1,10 @@
+## 2023-01-30
+|paper|code|
+|---|---|
+|[myriad: a real-world testbed to bridge trajectory optimization and deep learning](https://arxiv.org/abs/2202.10600)|[myriad](https://github.com/nikihowe/myriad)|
+|[digital twin-based multiple access optimization and monitoring via model-driven bayesian learning](https://arxiv.org/abs/2210.05582)|[bayesian-dt](https://github.com/kclip/bayesian-dt)|
+|[neural abstractions](https://arxiv.org/abs/2301.11683)|[neural-abstractions-nips22](https://github.com/aleccedwards/neural-abstractions-nips22)|
+|[data volume-aware computation task scheduling for smart grid data analytic applications](https://arxiv.org/abs/2301.11831)|[ICCTS](https://github.com/wilixx/ICCTS)|
 ## 2023-01-27
 |paper|code|
 |---|---|
