@@ -1,10 +1,22 @@
+## 2023-01-31
+|paper|code|
+|---|---|
+|[towards safer self-driving through great pain (physically adversarial intelligent networks)](https://arxiv.org/abs/2003.10662)|[PAIN](https://github.com/piyushgupta221/PAIN)|
+|[chaos as an interpretable benchmark for forecasting and data-driven modelling](https://arxiv.org/abs/2110.05266)|[dysts](https://github.com/williamgilpin/dysts)|
+|[beyond hawkes: neural multi-event forecasting on spatio-temporal point processes](https://arxiv.org/abs/2211.02922)|[neural-spatio-temporal-probabilistic-transformers](https://github.com/negar-erfanian/neural-spatio-temporal-probabilistic-transformers)|
+|[versatile neural processes for learning implicit neural representations](https://arxiv.org/abs/2301.08883)|[versatile-np](https://github.com/zongyuguo/versatile-np)|
+|[audioldm: text-to-audio generation with latent diffusion models](https://arxiv.org/abs/2301.12503)|[audioldm_eval](https://github.com/haoheliu/audioldm_eval)|
+|[enabling kernel bypass networking on gem5](https://arxiv.org/abs/2301.09470)|[CAL-DPDK-GEM5](https://github.com/agsiddharth/CAL-DPDK-GEM5)|
+|[kernelized cumulants: beyond kernel mean embeddings](https://arxiv.org/abs/2301.12466)|[kernelized-cumulants](https://github.com/patricbonnier/kernelized-cumulants)|
+|[regularized weight aggregation in networked federated learning for glioblastoma segmentation](https://arxiv.org/abs/2301.12617)|[fets2022](https://github.com/dskhanirfan/fets2022)|
 ## 2023-01-30
 |paper|code|
 |---|---|
 |[myriad: a real-world testbed to bridge trajectory optimization and deep learning](https://arxiv.org/abs/2202.10600)|[myriad](https://github.com/nikihowe/myriad)|
 |[digital twin-based multiple access optimization and monitoring via model-driven bayesian learning](https://arxiv.org/abs/2210.05582)|[bayesian-dt](https://github.com/kclip/bayesian-dt)|
+|[smile: robust network localization via sparse and low-rank matrix decomposition](https://arxiv.org/abs/2301.11450)|[smile-network-localization](https://github.com/anrgusc/smile-network-localization)|
+|[exact linear reductions of dynamical models](https://arxiv.org/abs/2301.11653)|[exactodereduction.jl](https://github.com/x3042/exactodereduction.jl)|
 |[neural abstractions](https://arxiv.org/abs/2301.11683)|[neural-abstractions-nips22](https://github.com/aleccedwards/neural-abstractions-nips22)|
-|[data volume-aware computation task scheduling for smart grid data analytic applications](https://arxiv.org/abs/2301.11831)|[ICCTS](https://github.com/wilixx/ICCTS)|
 ## 2023-01-27
 |paper|code|
 |---|---|
