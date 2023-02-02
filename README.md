@@ -1,3 +1,14 @@
+## 2023-02-01
+|paper|code|
+|---|---|
+|[subgroup fairness in two-sided markets](https://arxiv.org/abs/2106.02702)|[fairness-in-two-sided-markets](https://github.com/quan-zhou/fairness-in-two-sided-markets)|
+|[a frequency domain approach to predict power system transients](https://arxiv.org/abs/2111.01103)|[Predict-Power-System-Dynamics-Frequency-Domain](https://github.com/Wenqi-Cui/Predict-Power-System-Dynamics-Frequency-Domain)|
+|[safety guarantees for neural network dynamic systems via stochastic barrier functions](https://arxiv.org/abs/2206.07811)|[neuralnetcontrolbarrier](https://github.com/aria-systems-group/neuralnetcontrolbarrier)|
+|[a unifying framework for interpolatory $\mathcal{l}_2$-optimal reduced-order modeling](https://arxiv.org/abs/2209.00714)|[l2-opt-interp-ex](https://github.com/pmli/l2-opt-interp-ex)|
+|[data volume-aware computation task scheduling for smart grid data analytic applications](https://arxiv.org/abs/2301.11831)|[ICCTS](https://github.com/wilixx/ICCTS)|
+|[can't touch this: real-time, safe motion planning and control for manipulators under uncertainty](https://arxiv.org/abs/2301.13308)|[armour-dev](https://github.com/roahmlab/armour-dev)|
+|[recurrences reveal shared causal drivers of complex time series](https://arxiv.org/abs/2301.13516)|[shrec](https://github.com/williamgilpin/shrec)|
+|[bayesian estimation of information-theoretic metrics for sparsely sampled distributions](https://arxiv.org/abs/2301.13647)|[info-metric-estimation](https://github.com/angelopiga/info-metric-estimation)|
 ## 2023-01-31
 |paper|code|
 |---|---|
