@@ -1,3 +1,12 @@
+## 2023-02-06
+|paper|code|
+|---|---|
+|[uavs beneath the surface: cooperative autonomy for subterranean search and rescue in darpa subt](https://arxiv.org/abs/2206.08185)|[slam_datasets](https://github.com/ctu-mrs/slam_datasets)|
+|[load modulation for backscatter communication: channel capacity and capacity-approaching finite constellations](https://arxiv.org/abs/2207.08100)|[BackscatterLoadModulationAtCapacity](https://github.com/GrDu/BackscatterLoadModulationAtCapacity)|
+|[enhancing deep learning performance of massive mimo csi feedback](https://arxiv.org/abs/2208.11333)|[jpts](https://github.com/sijieji/jpts)|
+|[low-complexity precoding for extremely large-scale mimo over non-stationary channels](https://arxiv.org/abs/2302.00847)|[Low-complexity-precoding-algorithm-for-XL-MIMO](https://github.com/bokaixu5/Low-complexity-precoding-algorithm-for-XL-MIMO)|
+|[statistical verification of traffic systems with expected differential privacy](https://arxiv.org/abs/2302.01388)|[SMC-EDP](https://github.com/SmartAutonomyLab/SMC-EDP)|
+|[provably bounding neural network preimages](https://arxiv.org/abs/2302.01404)|[verify-input](https://github.com/kothasuhas/verify-input)|
 ## 2023-02-03
 |paper|code|
 |---|---|
