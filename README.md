@@ -1,12 +1,25 @@
+## 2023-02-07
+|paper|code|
+|---|---|
+|[proper learning of linear dynamical systems as a non-commutative polynomial optimisation problem](https://arxiv.org/abs/2002.01444)|[proper-learning-of-lds](https://github.com/quan-zhou/proper-learning-of-lds)|
+|[maestro-x: distributed orchestration of rotary-wing uav-relay swarms](https://arxiv.org/abs/2007.01228)|[MAESTRO-X](https://github.com/bharathkeshavamurthy/MAESTRO-X)|
+|[efficient approximation of jacobian matrices involving a non-uniform fast fourier transform (nufft)](https://arxiv.org/abs/2111.02912)|[Bjork](https://github.com/guanhuaw/Bjork)|
+|[continuous forecasting via neural eigen decomposition](https://arxiv.org/abs/2202.00117)|[nesde](https://github.com/nesde/nesde)|
+|[a covariant, discrete time-frequency representation tailored for zero-based signal detection](https://arxiv.org/abs/2202.03835)|[kravchuk-transform-and-its-zeros](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros)|
+|[identifying time lag in dynamical systems with copula entropy based transfer entropy](https://arxiv.org/abs/2301.06037)|[timelag](https://github.com/majianthu/timelag)|
+|[achieving robust generalization for wireless channel estimation neural networks by designed training data](https://arxiv.org/abs/2302.02302)|[ICC_2023](https://github.com/dianixn/ICC_2023)|
+|[offline learning of closed-loop deep brain stimulation controllers for parkinson disease treatment](https://arxiv.org/abs/2302.02477)|[vlbm](https://github.com/gaoqitong/vlbm)|
+|[learning control-oriented dynamical structure from data](https://arxiv.org/abs/2302.02529)|[learning-control-oriented-structure](https://github.com/stanfordasl/learning-control-oriented-structure)|
+|[paseos simulates the environment for operating multiple spacecraft](https://arxiv.org/abs/2302.02659)|[paseos](https://github.com/aidotse/paseos)|
 ## 2023-02-06
 |paper|code|
 |---|---|
 |[uavs beneath the surface: cooperative autonomy for subterranean search and rescue in darpa subt](https://arxiv.org/abs/2206.08185)|[slam_datasets](https://github.com/ctu-mrs/slam_datasets)|
-|[load modulation for backscatter communication: channel capacity and capacity-approaching finite constellations](https://arxiv.org/abs/2207.08100)|[BackscatterLoadModulationAtCapacity](https://github.com/GrDu/BackscatterLoadModulationAtCapacity)|
+|[load modulation for backscatter communication: channel capacity and capacity-approaching finite constellations](https://arxiv.org/abs/2207.08100)|[backscatteratcapacity](https://github.com/grdu/backscatteratcapacity)|
 |[enhancing deep learning performance of massive mimo csi feedback](https://arxiv.org/abs/2208.11333)|[jpts](https://github.com/sijieji/jpts)|
 |[low-complexity precoding for extremely large-scale mimo over non-stationary channels](https://arxiv.org/abs/2302.00847)|[Low-complexity-precoding-algorithm-for-XL-MIMO](https://github.com/bokaixu5/Low-complexity-precoding-algorithm-for-XL-MIMO)|
 |[statistical verification of traffic systems with expected differential privacy](https://arxiv.org/abs/2302.01388)|[SMC-EDP](https://github.com/SmartAutonomyLab/SMC-EDP)|
-|[provably bounding neural network preimages](https://arxiv.org/abs/2302.01404)|[verify-input](https://github.com/kothasuhas/verify-input)|
+|[self-supervised enhancement of stimulus-evoked brain response data](https://arxiv.org/abs/2302.01924)|[shift_detection_icassp2023](https://github.com/exporl/shift_detection_icassp2023)|
 ## 2023-02-03
 |paper|code|
 |---|---|
