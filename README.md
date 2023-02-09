@@ -1,3 +1,12 @@
+## 2023-02-08
+|paper|code|
+|---|---|
+|[dct-former: efficient self-attention with discrete cosine transform](https://arxiv.org/abs/2203.01178)|[dct-former-public](https://github.com/cscribano/dct-former-public)|
+|[dynamic interventions for networked contagions](https://arxiv.org/abs/2205.13394)|[dynamic-clearing](https://github.com/papachristoumarios/dynamic-clearing)|
+|[viewpoint-driven formation control of airships for cooperative target tracking](https://arxiv.org/abs/2209.13040)|[airship-mpc](https://github.com/robot-perception-group/airship-mpc)|
+|[unsupervised multimodal change detection based on structural relationship graph representation learning](https://arxiv.org/abs/2210.00941)|[srgcae](https://github.com/chenhongruixuan/srgcae)|
+|[provably bounding neural network preimages](https://arxiv.org/abs/2302.01404)|[verify-input](https://github.com/kothasuhas/verify-input)|
+|[identification of power system oscillation modes using blind source separation based on copula statistic](https://arxiv.org/abs/2302.03633)|[hobmi](https://github.com/apooja1/hobmi)|
 ## 2023-02-07
 |paper|code|
 |---|---|
@@ -6,11 +15,15 @@
 |[efficient approximation of jacobian matrices involving a non-uniform fast fourier transform (nufft)](https://arxiv.org/abs/2111.02912)|[Bjork](https://github.com/guanhuaw/Bjork)|
 |[continuous forecasting via neural eigen decomposition](https://arxiv.org/abs/2202.00117)|[nesde](https://github.com/nesde/nesde)|
 |[a covariant, discrete time-frequency representation tailored for zero-based signal detection](https://arxiv.org/abs/2202.03835)|[kravchuk-transform-and-its-zeros](https://github.com/bpascal-fr/kravchuk-transform-and-its-zeros)|
+|[graph-based sequential beamforming](https://arxiv.org/abs/2208.12472)|[sequentialvariationalbayesdoa](https://github.com/noiselabucsd/sequentialvariationalbayesdoa)|
 |[identifying time lag in dynamical systems with copula entropy based transfer entropy](https://arxiv.org/abs/2301.06037)|[timelag](https://github.com/majianthu/timelag)|
 |[achieving robust generalization for wireless channel estimation neural networks by designed training data](https://arxiv.org/abs/2302.02302)|[ICC_2023](https://github.com/dianixn/ICC_2023)|
+|[modular model-based bayesian learning for uncertainty-aware and reliable deep mimo receivers](https://arxiv.org/abs/2302.02436)|[bayesian-learning-for-receivers](https://github.com/tomerraviv95/bayesian-learning-for-receivers)|
 |[offline learning of closed-loop deep brain stimulation controllers for parkinson disease treatment](https://arxiv.org/abs/2302.02477)|[vlbm](https://github.com/gaoqitong/vlbm)|
 |[learning control-oriented dynamical structure from data](https://arxiv.org/abs/2302.02529)|[learning-control-oriented-structure](https://github.com/stanfordasl/learning-control-oriented-structure)|
 |[paseos simulates the environment for operating multiple spacecraft](https://arxiv.org/abs/2302.02659)|[paseos](https://github.com/aidotse/paseos)|
+|[augmenting rule-based dns censorship detection at scale with machine learning](https://arxiv.org/abs/2302.02031)|[automated-dns-censorship](https://github.com/noise-lab/automated-dns-censorship)|
+|[jointly optimal routing and caching with bounded link capacities](https://arxiv.org/abs/2302.02508)|[cacheratenetwork](https://github.com/neu-spiral/cacheratenetwork)|
 ## 2023-02-06
 |paper|code|
 |---|---|
