@@ -1,3 +1,15 @@
+## 2023-02-09
+|paper|code|
+|---|---|
+|[multimodal representation learning using deep multiset canonical correlation](https://arxiv.org/abs/1904.01775)|[mica-deep-mcca](https://github.com/usc-sail/mica-deep-mcca)|
+|[evaluation of interpretability for deep learning algorithms in eeg emotion recognition: a case study in autism](https://arxiv.org/abs/2111.13208)|[deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals](https://github.com/meiyor/deep-learning-emotion-decoding-using-eeg-data-from-autism-individuals)|
+|[safety guarantees for neural network dynamic systems via stochastic barrier functions](https://arxiv.org/abs/2206.07811)|[neuralnetcontrolbarrier](https://github.com/aria-systems-group/neuralnetcontrolbarrier)|
+|[gnn-pmb: a simple but effective online 3d multi-object tracker without bells and whistles](https://arxiv.org/abs/2206.10255)|[GnnPmbTracker](https://github.com/chisyliu/GnnPmbTracker)|
+|[lagrangian relaxation for mixed-integer linear programming: importance, challenges, recent advancements, and opportunities](https://arxiv.org/abs/2301.00573)|[SLBLR](https://github.com/ProfBragin/SLBLR)|
+|[astride: adaptive symbolization for time series databases](https://arxiv.org/abs/2302.04097)|[astride](https://github.com/sylvaincom/astride)|
+|[policy evaluation in decentralized pomdps with belief sharing](https://arxiv.org/abs/2302.04151)|[decpomdp_policy_evaluation_w-belief_sharing](https://github.com/asl-epfl/decpomdp_policy_evaluation_w-belief_sharing)|
+|[a vector quantized approach for text to speech synthesis on real-world spontaneous speech](https://arxiv.org/abs/2302.04215)|[mqtts](https://github.com/b04901014/mqtts)|
+|[fundamental performance limits for sensor-based robot control and policy learning](https://arxiv.org/abs/2202.00129)|[performance-limits](https://github.com/irom-lab/performance-limits)|
 ## 2023-02-08
 |paper|code|
 |---|---|
@@ -19,7 +31,6 @@
 |[identifying time lag in dynamical systems with copula entropy based transfer entropy](https://arxiv.org/abs/2301.06037)|[timelag](https://github.com/majianthu/timelag)|
 |[achieving robust generalization for wireless channel estimation neural networks by designed training data](https://arxiv.org/abs/2302.02302)|[ICC_2023](https://github.com/dianixn/ICC_2023)|
 |[modular model-based bayesian learning for uncertainty-aware and reliable deep mimo receivers](https://arxiv.org/abs/2302.02436)|[bayesian-learning-for-receivers](https://github.com/tomerraviv95/bayesian-learning-for-receivers)|
-|[offline learning of closed-loop deep brain stimulation controllers for parkinson disease treatment](https://arxiv.org/abs/2302.02477)|[vlbm](https://github.com/gaoqitong/vlbm)|
 |[learning control-oriented dynamical structure from data](https://arxiv.org/abs/2302.02529)|[learning-control-oriented-structure](https://github.com/stanfordasl/learning-control-oriented-structure)|
 |[paseos simulates the environment for operating multiple spacecraft](https://arxiv.org/abs/2302.02659)|[paseos](https://github.com/aidotse/paseos)|
 |[augmenting rule-based dns censorship detection at scale with machine learning](https://arxiv.org/abs/2302.02031)|[automated-dns-censorship](https://github.com/noise-lab/automated-dns-censorship)|
