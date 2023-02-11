@@ -1,3 +1,12 @@
+## 2023-02-10
+|paper|code|
+|---|---|
+|[offline learning of closed-loop deep brain stimulation controllers for parkinson disease treatment](https://arxiv.org/abs/2302.02477)|[vlbm](https://github.com/gaoqitong/vlbm)|
+|[channelformer: attention based neural solution for wireless channel estimation and effective online training](https://arxiv.org/abs/2302.04368)|[Channelformer](https://github.com/dianixn/Channelformer)|
+|[anomal-e: a self-supervised network intrusion detection system based on graph neural networks](https://arxiv.org/abs/2207.06819)|[Anomal-E](https://github.com/waimorris/Anomal-E)|
+|[software tools for decoding quantum low-density parity check codes](https://arxiv.org/abs/2209.01180)|[qecc](https://github.com/lucasberent/qecc)|
+|[raynet: a simulation platform for developing reinforcement learning-driven network protocols](https://arxiv.org/abs/2302.04519)|[raynet](https://github.com/giacomoni/raynet)|
+|[trading information between latents in hierarchical variational autoencoders](https://arxiv.org/abs/2302.04855)|[hit](https://github.com/timxzz/hit)|
 ## 2023-02-09
 |paper|code|
 |---|---|
@@ -31,7 +40,6 @@
 |[identifying time lag in dynamical systems with copula entropy based transfer entropy](https://arxiv.org/abs/2301.06037)|[timelag](https://github.com/majianthu/timelag)|
 |[achieving robust generalization for wireless channel estimation neural networks by designed training data](https://arxiv.org/abs/2302.02302)|[ICC_2023](https://github.com/dianixn/ICC_2023)|
 |[modular model-based bayesian learning for uncertainty-aware and reliable deep mimo receivers](https://arxiv.org/abs/2302.02436)|[bayesian-learning-for-receivers](https://github.com/tomerraviv95/bayesian-learning-for-receivers)|
-|[learning control-oriented dynamical structure from data](https://arxiv.org/abs/2302.02529)|[learning-control-oriented-structure](https://github.com/stanfordasl/learning-control-oriented-structure)|
 |[paseos simulates the environment for operating multiple spacecraft](https://arxiv.org/abs/2302.02659)|[paseos](https://github.com/aidotse/paseos)|
 |[augmenting rule-based dns censorship detection at scale with machine learning](https://arxiv.org/abs/2302.02031)|[automated-dns-censorship](https://github.com/noise-lab/automated-dns-censorship)|
 |[jointly optimal routing and caching with bounded link capacities](https://arxiv.org/abs/2302.02508)|[cacheratenetwork](https://github.com/neu-spiral/cacheratenetwork)|
