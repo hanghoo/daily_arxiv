@@ -15,6 +15,7 @@
 |[safety guarantees for neural network dynamic systems via stochastic barrier functions](https://arxiv.org/abs/2206.07811)|[neuralnetcontrolbarrier](https://github.com/aria-systems-group/neuralnetcontrolbarrier)|
 |[gnn-pmb: a simple but effective online 3d multi-object tracker without bells and whistles](https://arxiv.org/abs/2206.10255)|[GnnPmbTracker](https://github.com/chisyliu/GnnPmbTracker)|
 |[lagrangian relaxation for mixed-integer linear programming: importance, challenges, recent advancements, and opportunities](https://arxiv.org/abs/2301.00573)|[SLBLR](https://github.com/ProfBragin/SLBLR)|
+|[definition of static and dynamic load models for grid studies of electric vehicles connected to fast charging stations](https://arxiv.org/abs/2302.03943)|[electric_vehicle_models](https://github.com/davide-del-giudice/electric_vehicle_models)|
 |[astride: adaptive symbolization for time series databases](https://arxiv.org/abs/2302.04097)|[astride](https://github.com/sylvaincom/astride)|
 |[policy evaluation in decentralized pomdps with belief sharing](https://arxiv.org/abs/2302.04151)|[decpomdp_policy_evaluation_w-belief_sharing](https://github.com/asl-epfl/decpomdp_policy_evaluation_w-belief_sharing)|
 |[a vector quantized approach for text to speech synthesis on real-world spontaneous speech](https://arxiv.org/abs/2302.04215)|[mqtts](https://github.com/b04901014/mqtts)|
