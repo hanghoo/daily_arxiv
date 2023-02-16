@@ -1,3 +1,13 @@
+## 2023-02-15
+|paper|code|
+|---|---|
+|[discrete fully probabilistic design: towards a control pipeline for the synthesis of policies from examples](https://arxiv.org/abs/2112.11210)|[discrete-fpd](https://github.com/unisa-acg/discrete-fpd)|
+|[cotv: cooperative control for traffic light signals and connected autonomous vehicles using deep reinforcement learning](https://arxiv.org/abs/2201.13143)|[cotv](https://github.com/guojyjy/cotv)|
+|[snappergps: open hardware for energy-efficient, low-cost wildlife location tracking with snapshot gnss](https://arxiv.org/abs/2207.06310)|[snappergps-pcb](https://github.com/snappergps/snappergps-pcb)|
+|[towards interpretable sleep stage classification using cross-modal transformers](https://arxiv.org/abs/2208.06991)|[cross-modal-transformer](https://github.com/jathurshan0330/cross-modal-transformer)|
+|[automated reachability analysis of neural network-controlled systems via adaptive polytopes](https://arxiv.org/abs/2212.07553)|[automatedreach](https://github.com/o4lc/automatedreach)|
+|[enhancing multivariate time series classifiers through self-attention and relative positioning infusion](https://arxiv.org/abs/2302.06683)|[timeseriesclassification-tps](https://github.com/mehryar72/timeseriesclassification-tps)|
+|[kadabra: adapting kademlia for the decentralized web](https://arxiv.org/abs/2210.12858)|[kadabrasim](https://github.com/yunqizhang99/kadabrasim)|
 ## 2023-02-14
 |paper|code|
 |---|---|
