@@ -1,3 +1,7 @@
+## 2023-02-16
+|paper|code|
+|---|---|
+|[acoustic integrity codes: secure device pairing using short-range acoustic communication](https://arxiv.org/abs/2005.08572)|[aic-prototype](https://github.com/seemoo-lab/aic-prototype)|
 ## 2023-02-15
 |paper|code|
 |---|---|
@@ -7,6 +11,7 @@
 |[towards interpretable sleep stage classification using cross-modal transformers](https://arxiv.org/abs/2208.06991)|[cross-modal-transformer](https://github.com/jathurshan0330/cross-modal-transformer)|
 |[automated reachability analysis of neural network-controlled systems via adaptive polytopes](https://arxiv.org/abs/2212.07553)|[automatedreach](https://github.com/o4lc/automatedreach)|
 |[enhancing multivariate time series classifiers through self-attention and relative positioning infusion](https://arxiv.org/abs/2302.06683)|[timeseriesclassification-tps](https://github.com/mehryar72/timeseriesclassification-tps)|
+|[a novel poisoned water detection method using smartphone embedded wi-fi technology and machine learning algorithms](https://arxiv.org/abs/2302.07153)|[poisoned_water_detection](https://github.com/halgurd18/poisoned_water_detection)|
 |[kadabra: adapting kademlia for the decentralized web](https://arxiv.org/abs/2210.12858)|[kadabrasim](https://github.com/yunqizhang99/kadabrasim)|
 ## 2023-02-14
 |paper|code|
