@@ -1,6 +1,16 @@
+## 2023-02-17
+|paper|code|
+|---|---|
+|[a ris-based vehicle doa estimation method with integrated sensing and communication system](https://arxiv.org/abs/2204.11626)|[passivedoa-isac-ris](https://github.com/chenpengseu/passivedoa-isac-ris)|
+|[stimulus-informed generalized canonical correlation analysis of stimulus-following brain responses](https://arxiv.org/abs/2210.13297)|[si-gcca](https://github.com/alexanderbertrandlab/si-gcca)|
+|[pendantss: penalized norm-ratios disentangling additive noise, trend and sparse spikes](https://arxiv.org/abs/2301.01514)|[pendantss](https://github.com/paulzhengfr/pendantss)|
+|[selective noise suppression in random svpwm to shape the voltage and current spectrum](https://arxiv.org/abs/2302.08053)|[SNS-in-random-SVPWM](https://github.com/IoaJianWen/SNS-in-random-SVPWM)|
+|[clapim: scalable sequence classification using processing-in-memory](https://arxiv.org/abs/2302.08284)|[clapim](https://github.com/marcelkh13/clapim)|
+|[reproducible and portable big data analytics in the cloud](https://arxiv.org/abs/2112.09762)|[Reproducible_and_portable_app_in_cloud](https://github.com/big-data-lab-umbc/Reproducible_and_portable_app_in_cloud)|
 ## 2023-02-16
 |paper|code|
 |---|---|
+|[deep learning for hybrid beamforming with finite feedback in gsm aided mmwave mimo systems](https://arxiv.org/abs/2302.07601)|[gsmefbnet](https://github.com/kylin9511/gsmefbnet)|
 |[acoustic integrity codes: secure device pairing using short-range acoustic communication](https://arxiv.org/abs/2005.08572)|[aic-prototype](https://github.com/seemoo-lab/aic-prototype)|
 ## 2023-02-15
 |paper|code|
@@ -12,6 +22,7 @@
 |[automated reachability analysis of neural network-controlled systems via adaptive polytopes](https://arxiv.org/abs/2212.07553)|[automatedreach](https://github.com/o4lc/automatedreach)|
 |[enhancing multivariate time series classifiers through self-attention and relative positioning infusion](https://arxiv.org/abs/2302.06683)|[timeseriesclassification-tps](https://github.com/mehryar72/timeseriesclassification-tps)|
 |[a novel poisoned water detection method using smartphone embedded wi-fi technology and machine learning algorithms](https://arxiv.org/abs/2302.07153)|[poisoned_water_detection](https://github.com/halgurd18/poisoned_water_detection)|
+|[context query simulation for smart carparking scenarios in the melbourne cdb](https://arxiv.org/abs/2302.07190)|[context-query-simulator](https://github.com/shakthiyasas/context-query-simulator)|
 |[kadabra: adapting kademlia for the decentralized web](https://arxiv.org/abs/2210.12858)|[kadabrasim](https://github.com/yunqizhang99/kadabrasim)|
 ## 2023-02-14
 |paper|code|
@@ -20,6 +31,7 @@
 |[transformers in time series: a survey](https://arxiv.org/abs/2202.07125)|[time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)|
 |[online meta-learning for hybrid model-based deep receivers](https://arxiv.org/abs/2203.14359)|[metadeepsic](https://github.com/tomerraviv95/metadeepsic)|
 |[probabilistic estimation of instantaneous frequencies of chirp signals](https://arxiv.org/abs/2205.06306)|[chirpgp](https://github.com/spdes/chirpgp)|
+|[hierarchical control and learning of a foraging cyberoctopus](https://arxiv.org/abs/2302.05811)|[PyElastica](https://github.com/GazzolaLab/PyElastica)|
 |[software-defined mimo ofdm joint radar-communication platform with fully digital mmwave architecture](https://arxiv.org/abs/2302.05812)|[gr-mimo-ofdm-jrc](https://github.com/ceyhunozkaptan/gr-mimo-ofdm-jrc)|
 |[fundamental limits for sensor-based robot control](https://arxiv.org/abs/2202.00129)|[performance-limits](https://github.com/irom-lab/performance-limits)|
 |[crc-aided learned ensembles of belief-propagation polar decoders](https://arxiv.org/abs/2301.06060)|[polar-ensembles](https://github.com/tomerraviv95/polar-ensembles)|
