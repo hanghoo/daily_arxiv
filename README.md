@@ -1,3 +1,12 @@
+## 2023-02-22
+|paper|code|
+|---|---|
+|[power scaling laws and near-field behaviors of massive mimo and intelligent reflecting surfaces](https://arxiv.org/abs/2002.04960)|[near-field-behavior](https://github.com/emilbjornson/near-field-behavior)|
+|[terrain-adaptive, alip-based bipedal locomotion controller via model predictive control and virtual constraints](https://arxiv.org/abs/2109.14862)|[cassie_alip_mpc](https://github.com/umich-bipedlab/cassie_alip_mpc)|
+|[lightweight and high-fidelity end-to-end text-to-speech with multi-band generation and inverse short-time fourier transform](https://arxiv.org/abs/2210.15975)|[mb-istft-vits](https://github.com/masayakawamura/mb-istft-vits)|
+|[versatile neural processes for learning implicit neural representations](https://arxiv.org/abs/2301.08883)|[versatile-np](https://github.com/zongyuguo/versatile-np)|
+|[on discrete symmetries of robotics systems: a group-theoretic and data-driven analysis](https://arxiv.org/abs/2302.10433)|[robotequivariantnn](https://github.com/danfoa/robotequivariantnn)|
+|[scalable infomin learning](https://arxiv.org/abs/2302.10701)|[infomin](https://github.com/cyz-ai/infomin)|
 ## 2023-02-21
 |paper|code|
 |---|---|
@@ -31,6 +40,7 @@
 |[ultra-marginal feature importance: learning from data with causal guarantees](https://arxiv.org/abs/2204.09938)|[umfi](https://github.com/hydroml/umfi)|
 |[raw radar data based object detection and heading estimation using cross attention](https://arxiv.org/abs/2205.08406)|[crossattention_radar_detector](https://github.com/ravikothari510/crossattention_radar_detector)|
 |[an incentive-compatible mechanism for decentralized storage network](https://arxiv.org/abs/2208.09937)|[icm-dsn](https://github.com/podiumdesu/icm-dsn)|
+|[contextual knowledge-based intent processing for management of next generation cellular networks](https://arxiv.org/abs/2302.08544)|[intentrdfproject](https://github.com/kashifme224/intentrdfproject)|
 |[consistent diffusion models: mitigating sampling drift by learning to be consistent](https://arxiv.org/abs/2302.09057)|[cdm](https://github.com/giannisdaras/cdm)|
 ## 2023-02-17
 |paper|code|
