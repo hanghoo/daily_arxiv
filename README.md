@@ -1,3 +1,9 @@
+## 2023-02-23
+|paper|code|
+|---|---|
+|[improved uncertainty quantification for neural networks with bayesian last layer](https://arxiv.org/abs/2302.10975)|[2022_paper_bll_lml](https://github.com/4flixt/2022_paper_bll_lml)|
+|[unsourced multiple access with random user activity](https://arxiv.org/abs/2202.06365)|[uma_random_user_activity](https://github.com/khachoang1412/uma_random_user_activity)|
+|[machine learning based propagation loss module for enabling digital twins of wireless networks in ns-3](https://arxiv.org/abs/2205.04284)|[ml-propagation-loss-model](https://gitlab.com/inesctec-ns3/ml-propagation-loss-model)|
 ## 2023-02-22
 |paper|code|
 |---|---|
@@ -5,7 +11,10 @@
 |[terrain-adaptive, alip-based bipedal locomotion controller via model predictive control and virtual constraints](https://arxiv.org/abs/2109.14862)|[cassie_alip_mpc](https://github.com/umich-bipedlab/cassie_alip_mpc)|
 |[lightweight and high-fidelity end-to-end text-to-speech with multi-band generation and inverse short-time fourier transform](https://arxiv.org/abs/2210.15975)|[mb-istft-vits](https://github.com/masayakawamura/mb-istft-vits)|
 |[versatile neural processes for learning implicit neural representations](https://arxiv.org/abs/2301.08883)|[versatile-np](https://github.com/zongyuguo/versatile-np)|
+|[a dynamic feedforward control strategy for energy-efficient building system operation](https://arxiv.org/abs/2302.10179)|[chenxiachan.github.io](https://github.com/chenxiachan/chenxiachan.github.io)|
 |[on discrete symmetries of robotics systems: a group-theoretic and data-driven analysis](https://arxiv.org/abs/2302.10433)|[robotequivariantnn](https://github.com/danfoa/robotequivariantnn)|
+|[energy-efficient blockchain-enabled user-centric mobile edge computing](https://arxiv.org/abs/2302.10515)|[blockchain-enabled-ucmec](https://github.com/qlt315/blockchain-enabled-ucmec)|
+|[joint optimization of base station clustering and service caching in user-centric mec](https://arxiv.org/abs/2302.10558)|[jo-cdsd](https://github.com/qlt315/jo-cdsd)|
 |[scalable infomin learning](https://arxiv.org/abs/2302.10701)|[infomin](https://github.com/cyz-ai/infomin)|
 ## 2023-02-21
 |paper|code|
