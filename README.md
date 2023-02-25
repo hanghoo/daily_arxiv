@@ -1,9 +1,23 @@
+## 2023-02-24
+|paper|code|
+|---|---|
+|[securely implementing and managing neighborhood solar with storage and peer to peer transactive energy](https://arxiv.org/abs/2302.11753)|[duckcurve](https://github.com/barkface/duckcurve)|
+|[data-driven observability analysis for nonlinear stochastic systems](https://arxiv.org/abs/2302.11979)|[data-obs](https://github.com/data-science-in-mechanical-engineering/data-obs)|
+|[information fragmentation, encryption and information flow in complex biological networks](https://arxiv.org/abs/2105.13585)|[fragmentation_replication_instructions](https://github.com/cliff-bohm/fragmentation_replication_instructions)|
+|[nonparametric two-sample testing by betting](https://arxiv.org/abs/2112.09162)|[nonparametric-testing-by-betting](https://github.com/sshekhar17/nonparametric-testing-by-betting)|
+|[bayesian estimation of information-theoretic metrics for sparsely sampled distributions](https://arxiv.org/abs/2301.13647)|[info-metric-estimation](https://github.com/angelopiga/info-metric-estimation)|
+|[information theory inspired pattern analysis for time-series data](https://arxiv.org/abs/2302.11654)|[entropypipeline](https://github.com/yushan-huang/entropypipeline)|
+|[rna secondary structures: from ab initio prediction to better compression, and back](https://arxiv.org/abs/2302.11669)|[joint-rna-compression](https://github.com/evita35/joint-rna-compression)|
+|[quantifying & modeling feature interactions: an information decomposition framework](https://arxiv.org/abs/2302.12247)|[pid](https://github.com/pliang279/pid)|
 ## 2023-02-23
 |paper|code|
 |---|---|
+|[carbon explorer: a holistic approach for designing carbon aware datacenters](https://arxiv.org/abs/2201.10036)|[carbonexplorer](https://github.com/facebookresearch/carbonexplorer)|
 |[improved uncertainty quantification for neural networks with bayesian last layer](https://arxiv.org/abs/2302.10975)|[2022_paper_bll_lml](https://github.com/4flixt/2022_paper_bll_lml)|
+|[estimating total correlation with mutual information estimators](https://arxiv.org/abs/2011.04794)|[tc-estimation](https://github.com/linear95/tc-estimation)|
 |[unsourced multiple access with random user activity](https://arxiv.org/abs/2202.06365)|[uma_random_user_activity](https://github.com/khachoang1412/uma_random_user_activity)|
 |[machine learning based propagation loss module for enabling digital twins of wireless networks in ns-3](https://arxiv.org/abs/2205.04284)|[ml-propagation-loss-model](https://gitlab.com/inesctec-ns3/ml-propagation-loss-model)|
+|[position-based machine learning propagation loss model enabling fast digital twins of wireless networks in ns-3](https://arxiv.org/abs/2302.11539)|[ml-propagation-loss-model](https://gitlab.com/inesctec-ns3/ml-propagation-loss-model)|
 ## 2023-02-22
 |paper|code|
 |---|---|
@@ -15,6 +29,7 @@
 |[on discrete symmetries of robotics systems: a group-theoretic and data-driven analysis](https://arxiv.org/abs/2302.10433)|[robotequivariantnn](https://github.com/danfoa/robotequivariantnn)|
 |[energy-efficient blockchain-enabled user-centric mobile edge computing](https://arxiv.org/abs/2302.10515)|[blockchain-enabled-ucmec](https://github.com/qlt315/blockchain-enabled-ucmec)|
 |[joint optimization of base station clustering and service caching in user-centric mec](https://arxiv.org/abs/2302.10558)|[jo-cdsd](https://github.com/qlt315/jo-cdsd)|
+|[a local machine learning approach for fingerprint-based indoor localization](https://arxiv.org/abs/2302.10810)|[-a-local-machine-learning-approach-for-fingerprint-based-indoor-localization](https://github.com/noraagah/-a-local-machine-learning-approach-for-fingerprint-based-indoor-localization)|
 |[scalable infomin learning](https://arxiv.org/abs/2302.10701)|[infomin](https://github.com/cyz-ai/infomin)|
 ## 2023-02-21
 |paper|code|
