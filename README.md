@@ -1,3 +1,12 @@
+## 2023-03-02
+|paper|code|
+|---|---|
+|[model predictive optimized path integral strategies](https://arxiv.org/abs/2203.16633)|[mpopis](https://github.com/sisl/mpopis)|
+|[a gaussian process model for opponent prediction in autonomous racing](https://arxiv.org/abs/2204.12533)|[gp-opponent-prediction-models](https://github.com/mpc-berkeley/gp-opponent-prediction-models)|
+|[bit error and block error rate training for ml-assisted communication](https://arxiv.org/abs/2210.14103)|[bler_training](https://github.com/iip-group/bler_training)|
+|[nnsvs: a neural network-based singing voice synthesis toolkit](https://arxiv.org/abs/2210.15987)|[nnsvs](https://github.com/nnsvs/nnsvs)|
+|[point cloud forecasting as a proxy for 4d occupancy forecasting](https://arxiv.org/abs/2302.13130)|[4d-occ-forecasting](https://github.com/tarashakhurana/4d-occ-forecasting)|
+|[the virtues of laziness in model-based rl: a unified objective and algorithms](https://arxiv.org/abs/2303.00694)|[lamps-mbrl](https://github.com/vvanirudh/lamps-mbrl)|
 ## 2023-03-01
 |paper|code|
 |---|---|
@@ -6,13 +15,18 @@
 |[density planner: minimizing collision risk in motion planning with dynamic obstacles using density-based reachability](https://arxiv.org/abs/2210.02131)|[density_planner](https://github.com/MIT-REALM/density_planner)|
 |[statistical verification of traffic systems with expected differential privacy](https://arxiv.org/abs/2302.01388)|[SMC-EDP](https://github.com/SmartAutonomyLab/SMC-EDP)|
 |[implementation of dnn based data detector for qpsk systems](https://arxiv.org/abs/2302.10073)|[qpsk_sdr_dnn_detector](https://github.com/abadi13/qpsk_sdr_dnn_detector)|
+|[neural operators for bypassing gain and control computations in pde backstepping](https://arxiv.org/abs/2302.14265)|[neuraloperatorsforgainkernels](https://github.com/lukebhan/neuraloperatorsforgainkernels)|
+|[brainbert: self-supervised representation learning for intracranial recordings](https://arxiv.org/abs/2302.14367)|[brainbert](https://github.com/czlwang/brainbert)|
+|[robust one-shot estimation over shared networks in the presence of denial-of-service attacks](https://arxiv.org/abs/2302.14689)|[ieee-tac2023](https://github.com/mullervasconcelos/ieee-tac2023)|
 |[learning to control autonomous fleets from observation via offline reinforcement learning](https://arxiv.org/abs/2302.14833)|[offline-rl-for-amod](https://github.com/carolinssc/offline-rl-for-amod)|
+|[choosing an effective setup for stream processing](https://arxiv.org/abs/2302.14463)|[mosquitto-edge-cloud-experiment](https://github.com/fredocr/mosquitto-edge-cloud-experiment)|
 ## 2023-02-28
 |paper|code|
 |---|---|
 |[compressing multisets with large alphabets using bits-back coding](https://arxiv.org/abs/2107.09202)|[multiset-compression](https://github.com/facebookresearch/multiset-compression)|
 |[hybrid far- and near-field channel estimation for thz ultra-massive mimo via fixed point networks](https://arxiv.org/abs/2205.04944)|[FPN-OAMP-THz-Channel-Estimation](https://github.com/wyuaq/FPN-OAMP-THz-Channel-Estimation)|
 |[uavs beneath the surface: cooperative autonomy for subterranean search and rescue in darpa subt](https://arxiv.org/abs/2206.08185)|[slam_datasets](https://github.com/ctu-mrs/slam_datasets)|
+|[hierarchical needs-driven agent learning systems: from deep reinforcement learning to diverse strategies](https://arxiv.org/abs/2302.13132)|[bayesian-soft-actor-critic--bsac](https://github.com/rickyang2016/bayesian-soft-actor-critic--bsac)|
 |[reinforcement learning based autonomous multi-rotor landing on moving platforms](https://arxiv.org/abs/2302.13192)|[rl_multi_rotor_landing](https://github.com/robot-perception-group/rl_multi_rotor_landing)|
 |[estimating the convex hull of the image of a set with smooth boundary: error bounds and applications](https://arxiv.org/abs/2302.13970)|[convex-hull-estimation](https://github.com/stanfordasl/convex-hull-estimation)|
 |[learned robust pca: a scalable deep unfolding approach for high-dimensional outlier detection](https://arxiv.org/abs/2110.05649)|[lrpca](https://github.com/caesarcai/lrpca)|
