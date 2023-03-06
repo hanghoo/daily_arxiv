@@ -8,6 +8,7 @@
 |[pay less but get more: a dual-attention-based channel estimation network for massive mimo systems with low-density pilots](https://arxiv.org/abs/2303.00986)|[dacen](https://github.com/jessezhou18/dacen)|
 |[toward a certified greedy loewner framework with minimal sampling](https://arxiv.org/abs/2303.01015)|[greedy-loewner](https://github.com/pradovera/greedy-loewner)|
 |[learning transfer operators by kernel density estimation](https://arxiv.org/abs/2210.03124)|[fpoperatorde](https://github.com/sudamphy/fpoperatorde)|
+|[the greedy side of the lasso: new algorithms for weighted sparse recovery via loss function-based orthogonal matching pursuit](https://arxiv.org/abs/2303.00844)|[greedy_lasso_womp](https://github.com/sina-taheri/greedy_lasso_womp)|
 |[predicting ipv4 services across all ports](https://arxiv.org/abs/2303.00895)|[gps](https://github.com/stanford-esrg/gps)|
 ## 2023-03-02
 |paper|code|
@@ -17,6 +18,7 @@
 |[bit error and block error rate training for ml-assisted communication](https://arxiv.org/abs/2210.14103)|[bler_training](https://github.com/iip-group/bler_training)|
 |[nnsvs: a neural network-based singing voice synthesis toolkit](https://arxiv.org/abs/2210.15987)|[nnsvs](https://github.com/nnsvs/nnsvs)|
 |[point cloud forecasting as a proxy for 4d occupancy forecasting](https://arxiv.org/abs/2302.13130)|[4d-occ-forecasting](https://github.com/tarashakhurana/4d-occ-forecasting)|
+|[assessing the finite-time stability of nonlinear systems by means of physics-informed neural networks](https://arxiv.org/abs/2303.00437)|[neuralnetfts](https://github.com/adrianomele/neuralnetfts)|
 |[robustness of quantum algorithms against coherent control errors](https://arxiv.org/abs/2303.00618)|[robustness-of-quantum-algorithms](https://github.com/daniel-fink-de/robustness-of-quantum-algorithms)|
 |[the virtues of laziness in model-based rl: a unified objective and algorithms](https://arxiv.org/abs/2303.00694)|[lamps-mbrl](https://github.com/vvanirudh/lamps-mbrl)|
 |[efficient routing algorithm design for large detnet](https://arxiv.org/abs/2303.00527)|[drcr](https://github.com/nothepeople/drcr)|
