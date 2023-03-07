@@ -1,3 +1,15 @@
+## 2023-03-06
+|paper|code|
+|---|---|
+|[whole-system first-swing stability of inverter-based inertia-free power systems](https://arxiv.org/abs/2207.03292)|[Publications](https://github.com/Future-Power-Networks/Publications)|
+|[towards v2i age-aware fairness access: a dqn based intelligent vehicular node training and test method](https://arxiv.org/abs/2208.01283)|[age-fairness](https://github.com/qiongwu86/age-fairness)|
+|[distributed deep joint source-channel coding over a multiple access channel](https://arxiv.org/abs/2211.09920)|[deepjscc-noma](https://github.com/ipc-lab/deepjscc-noma)|
+|[enhancing multivariate time series classifiers through self-attention and relative positioning infusion](https://arxiv.org/abs/2302.06683)|[timeseriesclassification-tps](https://github.com/mehryar72/timeseriesclassification-tps)|
+|[descriptor state space modeling of power systems](https://arxiv.org/abs/2303.01701)|[Publications](https://github.com/Future-Power-Networks/Publications)|
+|[quantized radio map estimation using tensor and deep generative models](https://arxiv.org/abs/2303.01770)|[Quantized-Radio-Map-Estimation-BTD-and-DGM](https://github.com/XiaoFuLab/Quantized-Radio-Map-Estimation-BTD-and-DGM)|
+|[high stable and accurate vehicle selection scheme based on federated edge learning in vehicular networks](https://arxiv.org/abs/2208.01890)|[Vehicle-selection](https://github.com/qiongwu86/Vehicle-selection)|
+|[asynchronous federated learning for edge-assisted vehicular networks](https://arxiv.org/abs/2208.01901)|[AFLweight](https://github.com/qiongwu86/AFLweight)|
+|[p4testgen: an extensible test oracle for p4](https://arxiv.org/abs/2211.15300)|[p4c](https://github.com/p4lang/p4c)|
 ## 2023-03-03
 |paper|code|
 |---|---|
