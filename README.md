@@ -1,12 +1,26 @@
+## 2023-03-08
+|paper|code|
+|---|---|
+|[large graph signal denoising with application to differential privacy](https://arxiv.org/abs/2209.02043)|[dp-graph-denoising](https://gitlab.com/elie-chedemail/dp-graph-denoising)|
+|[unsupervised particle sorting for cryo-em using probabilistic pca](https://arxiv.org/abs/2210.12811)|[particle_sorting](https://github.com/giliw/particle_sorting)|
+|[bit error and block error rate training for ml-assisted communication](https://arxiv.org/abs/2210.14103)|[bler_training](https://github.com/iip-group/bler_training)|
+|[reachlipbnb: a branch-and-bound method for reachability analysis of neural autonomous systems using lipschitz bounds](https://arxiv.org/abs/2211.00608)|[reachlipbnb](https://github.com/o4lc/reachlipbnb)|
+|[fast fullsubnet: accelerate full-band and sub-band fusion model for single-channel speech enhancement](https://arxiv.org/abs/2212.09019)|[FullSubNet](https://github.com/haoxiangsnr/FullSubNet)|
 ## 2023-03-07
 |paper|code|
 |---|---|
 |[few-shot domain adaptation for end-to-end communication](https://arxiv.org/abs/2108.00874)|[domain-adaptation-autoencoder](https://github.com/jayaram-r/domain-adaptation-autoencoder)|
 |[analysis of the whiplash gradient descent dynamics](https://arxiv.org/abs/2203.02140)|[Whiplash](https://github.com/SubhransuSekharBhattacharjee-01/Whiplash)|
+|[a novel decentralized inverter control algorithm for loss minimization and lvrt improvement](https://arxiv.org/abs/2207.11700)|[lvrt](https://github.com/ilgizmurzakhanov/lvrt)|
+|[a stochastic approximate expectation-maximization for structure determination directly from cryo-em micrographs](https://arxiv.org/abs/2303.02157)|[stochastic-approximate-em-for-cryo-em](https://github.com/krshay/stochastic-approximate-em-for-cryo-em)|
+|[graph-based simultaneous coverage and exploration planning for fast multi-robot search](https://arxiv.org/abs/2303.02259)|[robosar](https://github.com/mrsd-team-robosar/robosar)|
+|[data-driven method for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
 |[synthetic ecg signal generation using probabilistic diffusion models](https://arxiv.org/abs/2303.02475)|[augmentation-of-ecg-training-dataset-with-cgan](https://github.com/mah533/augmentation-of-ecg-training-dataset-with-cgan)|
 |[searching for effective neural network architectures for heart murmur detection from phonocardiogram](https://arxiv.org/abs/2303.02988)|[cinc2022](https://github.com/deeppsp/cinc2022)|
+|[probabilistic game-theoretic traffic routing](https://arxiv.org/abs/2303.03295)|[mdp_traffic_nonlinear](https://github.com/bemilio/mdp_traffic_nonlinear)|
 |[deepmad: mathematical architecture design for deep convolutional neural network](https://arxiv.org/abs/2303.02165)|[lightweight-neural-architecture-search](https://github.com/alibaba/lightweight-neural-architecture-search)|
 |[on probabilistic qam shaping for 5g mimo wireless channel with realistic ldpc codes](https://arxiv.org/abs/2303.02598)|[on-probabilistic-qam-shaping-for-5g-mimo-wireless-channel-with-realistic-ldpc-codes](https://github.com/eugenbobrov/on-probabilistic-qam-shaping-for-5g-mimo-wireless-channel-with-realistic-ldpc-codes)|
+|[a multi-agent adaptive deep learning framework for online intrusion detection](https://arxiv.org/abs/2303.02622)|[continual-federated-ids](https://github.com/inl-laboratory/continual-federated-ids)|
 |[rotation invariant quantization for model compression](https://arxiv.org/abs/2303.03106)|[riq](https://github.com/ehaleva/riq)|
 ## 2023-03-06
 |paper|code|
