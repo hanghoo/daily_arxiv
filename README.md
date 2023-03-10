@@ -1,3 +1,12 @@
+## 2023-03-09
+|paper|code|
+|---|---|
+|[integrated task and motion planning for safe legged navigation in partially observable environments](https://arxiv.org/abs/2110.12097)|[safe-nav-locomotion](https://github.com/GTLIDAR/safe-nav-locomotion)|
+|[covid19 reproduction number: credibility intervals by blockwise proximal monte carlo samplers](https://arxiv.org/abs/2203.09142)|[OpSiMorE](https://github.com/gfort-lab/OpSiMorE)|
+|[neural collapse with normalized features: a geometric analysis over the riemannian manifold](https://arxiv.org/abs/2209.09211)|[normalized-neural-collapse](https://github.com/cjyaras/normalized-neural-collapse)|
+|[grid-free harmonic retrieval and model order selection using deep convolutional neural networks](https://arxiv.org/abs/2211.04846)|[deepest-demo](https://huggingface.co/spaces/EMS-TU-Ilmenau/deepest-demo)|
+|[nonlinear kalman filtering with reparametrization gradients](https://arxiv.org/abs/2303.04450)|[nonkf_energy_minimization](https://github.com/sangultekin/nonkf_energy_minimization)|
+|[autofr: automated filter rule generation for adblocking](https://arxiv.org/abs/2202.12872)|[AutoFR](https://github.com/UCI-Networking-Group/AutoFR)|
 ## 2023-03-08
 |paper|code|
 |---|---|
@@ -6,6 +15,7 @@
 |[bit error and block error rate training for ml-assisted communication](https://arxiv.org/abs/2210.14103)|[bler_training](https://github.com/iip-group/bler_training)|
 |[reachlipbnb: a branch-and-bound method for reachability analysis of neural autonomous systems using lipschitz bounds](https://arxiv.org/abs/2211.00608)|[reachlipbnb](https://github.com/o4lc/reachlipbnb)|
 |[fast fullsubnet: accelerate full-band and sub-band fusion model for single-channel speech enhancement](https://arxiv.org/abs/2212.09019)|[FullSubNet](https://github.com/haoxiangsnr/FullSubNet)|
+|[a comparative study of deep learning and iterative algorithms for joint channel estimation and signal detection](https://arxiv.org/abs/2303.03678)|[mimo_jcesd](https://github.com/j991222/mimo_jcesd)|
 ## 2023-03-07
 |paper|code|
 |---|---|
