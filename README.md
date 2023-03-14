@@ -1,3 +1,13 @@
+## 2023-03-13
+|paper|code|
+|---|---|
+|[neonatal eeg graded for severity of background abnormalities in hypoxic-ischaemic encephalopathy](https://arxiv.org/abs/2206.04420)|[downsample_open_eeg](https://github.com/otoolej/downsample_open_eeg)|
+|[a hybrid sfanc-fxnlms algorithm for active noise control based on deep learning](https://arxiv.org/abs/2208.08082)|[sfanc-fxnlms-anc-algorithm-based-on-deep-learning](https://github.com/luo-zhengding/sfanc-fxnlms-anc-algorithm-based-on-deep-learning)|
+|[iterative convex optimization for model predictive control with discrete-time high-order control barrier functions](https://arxiv.org/abs/2210.04361)|[iterative-mpc-dhocbf](https://github.com/shockleo/iterative-mpc-dhocbf)|
+|[rmmdet: road-side multitype and multigroup sensor detection system for autonomous driving](https://arxiv.org/abs/2303.05203)|[RMMDet](https://github.com/OrangeSodahub/RMMDet)|
+|[sliced-wasserstein on symmetric positive definite matrices for m/eeg signals](https://arxiv.org/abs/2303.05798)|[Sliced-Wasserstein_on_Symmetric_Positive_Definite_Matrices](https://github.com/clbonet/Sliced-Wasserstein_on_Symmetric_Positive_Definite_Matrices)|
+|[reproducible and portable big data analytics in the cloud](https://arxiv.org/abs/2112.09762)|[Reproducible_and_portable_app_in_cloud](https://github.com/big-data-lab-umbc/Reproducible_and_portable_app_in_cloud)|
+|[wigner distribution deconvolution adaptation for live ptychography reconstruction](https://arxiv.org/abs/2212.01309)|[livewdd](https://github.com/ptychography-4-0/livewdd)|
 ## 2023-03-10
 |paper|code|
 |---|---|
