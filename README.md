@@ -1,3 +1,12 @@
+## 2023-03-15
+|paper|code|
+|---|---|
+|[safe control synthesis via input constrained control barrier functions](https://arxiv.org/abs/2104.01704)|[Input-Constrained-Control-Barrier-Functions](https://github.com/dev10110/Input-Constrained-Control-Barrier-Functions)|
+|[marker and source-marker reprogramming of most permissive boolean networks and ensembles with bonesis](https://arxiv.org/abs/2207.13307)|[reprogramming-with-bonesis](https://github.com/bnediction/reprogramming-with-bonesis)|
+|[phaseaug: a differentiable augmentation for speech synthesis to simulate one-to-many mapping](https://arxiv.org/abs/2211.04610)|[phaseaug](https://github.com/mindslab-ai/phaseaug)|
+|[gatekeeper: safety verification and control for nonlinear systems in unknown and dynamic environments](https://arxiv.org/abs/2211.14361)|[gatekeeper](https://github.com/dev10110/gatekeeper)|
+|[self-attention for enhanced oamp detection in mimo systems](https://arxiv.org/abs/2303.07821)|[self_attention_oamp_mimo](https://github.com/alexf1991/self_attention_oamp_mimo)|
+|[transition waste optimization for coded elastic computing](https://arxiv.org/abs/1910.00796)|[coded_elastic_computing](https://github.com/dausonhoang/coded_elastic_computing)|
 ## 2023-03-14
 |paper|code|
 |---|---|
@@ -11,6 +20,7 @@
 |[assessing gender fairness in eeg-based machine learning detection of parkinson's disease: a multi-center study](https://arxiv.org/abs/2303.06376)|[multicentric-ml-parkinson-detection](https://github.com/biomedical-data-analysis-laboratory/multicentric-ml-parkinson-detection)|
 |[variational gaussian filtering via wasserstein gradient flows](https://arxiv.org/abs/2303.06398)|[wasserstein-flow-filter](https://github.com/hanyas/wasserstein-flow-filter)|
 |[challenges facing the explainability of age prediction models: case study for two modalities](https://arxiv.org/abs/2303.06640)|[challenges-xai-aging-aaai23](https://github.com/pbiecek/challenges-xai-aging-aaai23)|
+|[differential voltage analysis for battery manufacturing process control](https://arxiv.org/abs/2303.07088)|[dvdq](https://github.com/wengandrew/dvdq)|
 |[pronto: preamble overhead reduction with neural networks for coarse synchronization](https://arxiv.org/abs/2112.10885)|[pronto](https://github.com/nasimsoltani/pronto)|
 |[securing data in multimode fibers by exploiting mode-dependent light propagation effects](https://arxiv.org/abs/2203.02064)|[mmf-physec](https://github.com/klb2/mmf-physec)|
 ## 2023-03-13
