@@ -1,3 +1,17 @@
+## 2023-03-17
+|paper|code|
+|---|---|
+|[srmd: sparse random mode decomposition](https://arxiv.org/abs/2204.06108)|[sparserandommodedecomposition](https://github.com/giangttran/sparserandommodedecomposition)|
+|[multi-resolution online deterministic annealing: a hierarchical and progressive learning architecture](https://arxiv.org/abs/2212.08189)|[onlinedeterministicannealing](https://github.com/mavridischristos/onlinedeterministicannealing)|
+|[model parameter identification via a hyperparameter optimization scheme for autonomous racing systems](https://arxiv.org/abs/2301.01470)|[MIHO](https://github.com/hynkis/MIHO)|
+|[pendantss: penalized norm-ratios disentangling additive noise, trend and sparse spikes](https://arxiv.org/abs/2301.01514)|[pendantss](https://github.com/paulzhengfr/pendantss)|
+|[offline learning of closed-loop deep brain stimulation controllers for parkinson disease treatment](https://arxiv.org/abs/2302.02477)|[vlbm](https://github.com/gaoqitong/vlbm)|
+|[synthetic ecg signal generation using probabilistic diffusion models](https://arxiv.org/abs/2303.02475)|[augmentation-of-ecg-training-dataset-with-cgan](https://github.com/mah533/augmentation-of-ecg-training-dataset-with-cgan)|
+|[learning spatio-temporal aggregations for large-scale capacity expansion problems](https://arxiv.org/abs/2303.08996)|[iccps-2023](https://github.com/rahmankhorramfar91/iccps-2023)|
+|[robust data-driven safe control using density functions](https://arxiv.org/abs/2303.09004)|[ddc-safety](https://github.com/j-mzz/ddc-safety)|
+|[text-to-ecg: 12-lead electrocardiogram synthesis conditioned on clinical text reports](https://arxiv.org/abs/2303.09395)|[text_to_ecg](https://github.com/tclife/text_to_ecg)|
+|[automatic generation of topology diagrams for strongly-meshed power transmission systems](https://arxiv.org/abs/2303.09462)|[topogen](https://github.com/hust-psa/topogen)|
+|[tackling clutter in radar data -- label generation and detection using pointnet++](https://arxiv.org/abs/2303.09530)|[clutter-ds](https://github.com/kopp-j/clutter-ds)|
 ## 2023-03-16
 |paper|code|
 |---|---|
