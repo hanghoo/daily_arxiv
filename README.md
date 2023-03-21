@@ -1,3 +1,10 @@
+## 2023-03-20
+|paper|code|
+|---|---|
+|[annealed langevin dynamics for massive mimo detection](https://arxiv.org/abs/2205.05776)|[langevin-mimo-detector](https://github.com/nzilberstein/langevin-mimo-detector)|
+|[nonlinear control allocation using a piecewise multi-linear representation](https://arxiv.org/abs/2208.10411)|[PMLRToolbox](https://github.com/ZeeshanIqbalKhan/PMLRToolbox)|
+|[aimy: an open-source table tennis ball launcher for versatile and high-fidelity trajectory generation](https://arxiv.org/abs/2210.06048)|[ball_launcher_beepy](https://github.com/intelligent-soft-robots/ball_launcher_beepy)|
+|[learning safety in model-based reinforcement learning using mpc and gaussian processes](https://arxiv.org/abs/2211.01860)|[learning-safety-in-mpc-based-rl](https://github.com/FilippoAiraldi/learning-safety-in-mpc-based-rl)|
 ## 2023-03-17
 |paper|code|
 |---|---|
@@ -7,10 +14,10 @@
 |[pendantss: penalized norm-ratios disentangling additive noise, trend and sparse spikes](https://arxiv.org/abs/2301.01514)|[pendantss](https://github.com/paulzhengfr/pendantss)|
 |[offline learning of closed-loop deep brain stimulation controllers for parkinson disease treatment](https://arxiv.org/abs/2302.02477)|[vlbm](https://github.com/gaoqitong/vlbm)|
 |[synthetic ecg signal generation using probabilistic diffusion models](https://arxiv.org/abs/2303.02475)|[augmentation-of-ecg-training-dataset-with-cgan](https://github.com/mah533/augmentation-of-ecg-training-dataset-with-cgan)|
+|[impact: a toolchain for nonlinear model predictive control specification, prototyping, and deployment](https://arxiv.org/abs/2303.08850)|[impact](https://gitlab.kuleuven.be/meco-software/impact)|
 |[learning spatio-temporal aggregations for large-scale capacity expansion problems](https://arxiv.org/abs/2303.08996)|[iccps-2023](https://github.com/rahmankhorramfar91/iccps-2023)|
 |[robust data-driven safe control using density functions](https://arxiv.org/abs/2303.09004)|[ddc-safety](https://github.com/j-mzz/ddc-safety)|
 |[text-to-ecg: 12-lead electrocardiogram synthesis conditioned on clinical text reports](https://arxiv.org/abs/2303.09395)|[text_to_ecg](https://github.com/tclife/text_to_ecg)|
-|[automatic generation of topology diagrams for strongly-meshed power transmission systems](https://arxiv.org/abs/2303.09462)|[topogen](https://github.com/hust-psa/topogen)|
 |[tackling clutter in radar data -- label generation and detection using pointnet++](https://arxiv.org/abs/2303.09530)|[clutter-ds](https://github.com/kopp-j/clutter-ds)|
 ## 2023-03-16
 |paper|code|
