@@ -1,3 +1,22 @@
+## 2023-03-21
+|paper|code|
+|---|---|
+|[system norm regularization methods for koopman operator approximation](https://arxiv.org/abs/2110.09658)|[pykoop](https://github.com/decarsg/pykoop)|
+|[group-level brain decoding with deep learning](https://arxiv.org/abs/2205.14102)|[meg-group-decode](https://github.com/ricsinaruto/meg-group-decode)|
+|[a unifying framework for interpolatory $\mathcal{l}_2$-optimal reduced-order modeling](https://arxiv.org/abs/2209.00714)|[l2-opt-interp-ex](https://github.com/pmli/l2-opt-interp-ex)|
+|[safe exploration method for reinforcement learning under existence of disturbance](https://arxiv.org/abs/2209.15452)|[safeexploration](https://github.com/fujitsuresearch/safeexploration)|
+|[defending adversarial attacks on deep learning based power allocation in massive mimo using denoising autoencoders](https://arxiv.org/abs/2211.15365)|[dae_for_adv_attacks_in_mimo](https://github.com/jess-jpg-txt/dae_for_adv_attacks_in_mimo)|
+|[modular model-based bayesian learning for uncertainty-aware and reliable deep mimo receivers](https://arxiv.org/abs/2302.02436)|[bayesian-learning-for-receivers](https://github.com/tomerraviv95/bayesian-learning-for-receivers)|
+|[automatic generation of topology diagrams for strongly-meshed power transmission systems](https://arxiv.org/abs/2303.09462)|[topogen](https://github.com/hust-psa/topogen)|
+|[safety-critical control for systems with impulsive actuators and dwell time constraints](https://arxiv.org/abs/2303.10243)|[phd-code](https://github.com/jbreeden-um/phd-code)|
+|[neural operators of backstepping controller and observer gain functions for reaction-diffusion pdes](https://arxiv.org/abs/2303.10506)|[neuraloperatorsforgainkernels](https://github.com/lukebhan/neuraloperatorsforgainkernels)|
+|[emc2-net: joint equalization and modulation classification based on constellation network](https://arxiv.org/abs/2303.10934)|[emc2net](https://github.com/hyun-ryu/emc2net)|
+|[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
+|[sionna: an open-source library for next-generation physical layer research](https://arxiv.org/abs/2203.11854)|[sionna](https://github.com/nvlabs/sionna)|
+|[structured gradient descent for fast robust low-rank hankel matrix completion](https://arxiv.org/abs/2204.03316)|[hsgd](https://github.com/caesarcai/hsgd)|
+|[encoding, decoding, and causality between complex networks](https://arxiv.org/abs/2207.06606)|[analytic-relations-between-complex-networks-encoding-decoding-and-causality](https://github.com/doloming/analytic-relations-between-complex-networks-encoding-decoding-and-causality)|
+|[towards an ai-enabled connected industry: agv communication and sensor measurement datasets](https://arxiv.org/abs/2301.03364)|[ai4mobile-industrial](https://github.com/fraunhoferhhi/ai4mobile-industrial)|
+|[sionna rt: differentiable ray tracing for radio propagation modeling](https://arxiv.org/abs/2303.11103)|[diff-rt](https://github.com/nvlabs/diff-rt)|
 ## 2023-03-20
 |paper|code|
 |---|---|
@@ -5,11 +24,11 @@
 |[nonlinear control allocation using a piecewise multi-linear representation](https://arxiv.org/abs/2208.10411)|[PMLRToolbox](https://github.com/ZeeshanIqbalKhan/PMLRToolbox)|
 |[aimy: an open-source table tennis ball launcher for versatile and high-fidelity trajectory generation](https://arxiv.org/abs/2210.06048)|[ball_launcher_beepy](https://github.com/intelligent-soft-robots/ball_launcher_beepy)|
 |[learning safety in model-based reinforcement learning using mpc and gaussian processes](https://arxiv.org/abs/2211.01860)|[learning-safety-in-mpc-based-rl](https://github.com/FilippoAiraldi/learning-safety-in-mpc-based-rl)|
+|[goldfish: peer selection using matrix completion in unstructured p2p network](https://arxiv.org/abs/2303.09761)|[goldfish](https://github.com/bx3/goldfish)|
 ## 2023-03-17
 |paper|code|
 |---|---|
 |[srmd: sparse random mode decomposition](https://arxiv.org/abs/2204.06108)|[sparserandommodedecomposition](https://github.com/giangttran/sparserandommodedecomposition)|
-|[multi-resolution online deterministic annealing: a hierarchical and progressive learning architecture](https://arxiv.org/abs/2212.08189)|[onlinedeterministicannealing](https://github.com/mavridischristos/onlinedeterministicannealing)|
 |[model parameter identification via a hyperparameter optimization scheme for autonomous racing systems](https://arxiv.org/abs/2301.01470)|[MIHO](https://github.com/hynkis/MIHO)|
 |[pendantss: penalized norm-ratios disentangling additive noise, trend and sparse spikes](https://arxiv.org/abs/2301.01514)|[pendantss](https://github.com/paulzhengfr/pendantss)|
 |[offline learning of closed-loop deep brain stimulation controllers for parkinson disease treatment](https://arxiv.org/abs/2302.02477)|[vlbm](https://github.com/gaoqitong/vlbm)|
