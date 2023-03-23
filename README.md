@@ -1,3 +1,13 @@
+## 2023-03-22
+|paper|code|
+|---|---|
+|[mean subtraction and mode selection in dynamic mode decomposition](https://arxiv.org/abs/2105.03607)|[msub_mdselect_dmd](https://github.com/gowtham-ss-ragavan/msub_mdselect_dmd)|
+|[probabilistic estimation of instantaneous frequencies of chirp signals](https://arxiv.org/abs/2205.06306)|[chirpgp](https://github.com/spdes/chirpgp)|
+|[integration of physics-based and data-driven models for hyperspectral image unmixing](https://arxiv.org/abs/2206.05508)|[awesome-hyperspectral-image-unmixing](https://github.com/xiuheng-wang/awesome-hyperspectral-image-unmixing)|
+|[viewpoint-driven formation control of airships for cooperative target tracking](https://arxiv.org/abs/2209.13040)|[airship-mpc](https://github.com/robot-perception-group/airship-mpc)|
+|[multi-resolution online deterministic annealing: a hierarchical and progressive learning architecture](https://arxiv.org/abs/2212.08189)|[onlinedeterministicannealing](https://github.com/mavridischristos/onlinedeterministicannealing)|
+|[lipschitz-bounded 1d convolutional neural networks using the cayley transform and the controllability gramian](https://arxiv.org/abs/2303.11835)|[1d-lipcnns](https://github.com/ppauli/1d-lipcnns)|
+|[local convergence of multi-agent systems towards triangular patterns](https://arxiv.org/abs/2303.11865)|[swarmsimpublic](https://github.com/dibernardogroup/swarmsimpublic)|
 ## 2023-03-21
 |paper|code|
 |---|---|
@@ -8,9 +18,11 @@
 |[defending adversarial attacks on deep learning based power allocation in massive mimo using denoising autoencoders](https://arxiv.org/abs/2211.15365)|[dae_for_adv_attacks_in_mimo](https://github.com/jess-jpg-txt/dae_for_adv_attacks_in_mimo)|
 |[modular model-based bayesian learning for uncertainty-aware and reliable deep mimo receivers](https://arxiv.org/abs/2302.02436)|[bayesian-learning-for-receivers](https://github.com/tomerraviv95/bayesian-learning-for-receivers)|
 |[automatic generation of topology diagrams for strongly-meshed power transmission systems](https://arxiv.org/abs/2303.09462)|[topogen](https://github.com/hust-psa/topogen)|
+|[quantifying space-time load shifting flexibility in electricity markets](https://arxiv.org/abs/2303.10217)|[JuliaBox](https://github.com/zavalab/JuliaBox)|
 |[safety-critical control for systems with impulsive actuators and dwell time constraints](https://arxiv.org/abs/2303.10243)|[phd-code](https://github.com/jbreeden-um/phd-code)|
 |[neural operators of backstepping controller and observer gain functions for reaction-diffusion pdes](https://arxiv.org/abs/2303.10506)|[neuraloperatorsforgainkernels](https://github.com/lukebhan/neuraloperatorsforgainkernels)|
 |[emc2-net: joint equalization and modulation classification based on constellation network](https://arxiv.org/abs/2303.10934)|[emc2net](https://github.com/hyun-ryu/emc2net)|
+|[global performance guarantees for localized model predictive control](https://arxiv.org/abs/2303.11264)|[localizedmpcperformance](https://github.com/flyingpeach/localizedmpcperformance)|
 |[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
 |[sionna: an open-source library for next-generation physical layer research](https://arxiv.org/abs/2203.11854)|[sionna](https://github.com/nvlabs/sionna)|
 |[structured gradient descent for fast robust low-rank hankel matrix completion](https://arxiv.org/abs/2204.03316)|[hsgd](https://github.com/caesarcai/hsgd)|
@@ -24,6 +36,7 @@
 |[nonlinear control allocation using a piecewise multi-linear representation](https://arxiv.org/abs/2208.10411)|[PMLRToolbox](https://github.com/ZeeshanIqbalKhan/PMLRToolbox)|
 |[aimy: an open-source table tennis ball launcher for versatile and high-fidelity trajectory generation](https://arxiv.org/abs/2210.06048)|[ball_launcher_beepy](https://github.com/intelligent-soft-robots/ball_launcher_beepy)|
 |[learning safety in model-based reinforcement learning using mpc and gaussian processes](https://arxiv.org/abs/2211.01860)|[learning-safety-in-mpc-based-rl](https://github.com/FilippoAiraldi/learning-safety-in-mpc-based-rl)|
+|[maximum correntropy criterion kalman filter for indoor quadrotor navigation under intermittent measurements](https://arxiv.org/abs/2303.09561)|[mcckfuim](https://github.com/loizoshad/mcckfuim)|
 |[goldfish: peer selection using matrix completion in unstructured p2p network](https://arxiv.org/abs/2303.09761)|[goldfish](https://github.com/bx3/goldfish)|
 ## 2023-03-17
 |paper|code|
@@ -34,7 +47,6 @@
 |[offline learning of closed-loop deep brain stimulation controllers for parkinson disease treatment](https://arxiv.org/abs/2302.02477)|[vlbm](https://github.com/gaoqitong/vlbm)|
 |[synthetic ecg signal generation using probabilistic diffusion models](https://arxiv.org/abs/2303.02475)|[augmentation-of-ecg-training-dataset-with-cgan](https://github.com/mah533/augmentation-of-ecg-training-dataset-with-cgan)|
 |[impact: a toolchain for nonlinear model predictive control specification, prototyping, and deployment](https://arxiv.org/abs/2303.08850)|[impact](https://gitlab.kuleuven.be/meco-software/impact)|
-|[learning spatio-temporal aggregations for large-scale capacity expansion problems](https://arxiv.org/abs/2303.08996)|[iccps-2023](https://github.com/rahmankhorramfar91/iccps-2023)|
 |[robust data-driven safe control using density functions](https://arxiv.org/abs/2303.09004)|[ddc-safety](https://github.com/j-mzz/ddc-safety)|
 |[text-to-ecg: 12-lead electrocardiogram synthesis conditioned on clinical text reports](https://arxiv.org/abs/2303.09395)|[text_to_ecg](https://github.com/tclife/text_to_ecg)|
 |[tackling clutter in radar data -- label generation and detection using pointnet++](https://arxiv.org/abs/2303.09530)|[clutter-ds](https://github.com/kopp-j/clutter-ds)|
