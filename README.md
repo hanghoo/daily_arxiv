@@ -1,3 +1,9 @@
+## 2023-03-23
+|paper|code|
+|---|---|
+|[sdoanet: an efficient deep learning-based doa estimation network for imperfect array](https://arxiv.org/abs/2203.10231)|[sdoanet](https://github.com/chenpengseu/sdoanet)|
+|[learning spatio-temporal aggregations for large-scale capacity expansion problems](https://arxiv.org/abs/2303.08996)|[iccps-2023](https://github.com/rahmankhorramfar91/iccps-2023)|
+|[orthogonal non-negative matrix factorization: a maximum-entropy-principle approach](https://arxiv.org/abs/2210.02672)|[mep-orthogonal-nmf](https://github.com/salar96/mep-orthogonal-nmf)|
 ## 2023-03-22
 |paper|code|
 |---|---|
@@ -6,6 +12,8 @@
 |[integration of physics-based and data-driven models for hyperspectral image unmixing](https://arxiv.org/abs/2206.05508)|[awesome-hyperspectral-image-unmixing](https://github.com/xiuheng-wang/awesome-hyperspectral-image-unmixing)|
 |[viewpoint-driven formation control of airships for cooperative target tracking](https://arxiv.org/abs/2209.13040)|[airship-mpc](https://github.com/robot-perception-group/airship-mpc)|
 |[multi-resolution online deterministic annealing: a hierarchical and progressive learning architecture](https://arxiv.org/abs/2212.08189)|[onlinedeterministicannealing](https://github.com/mavridischristos/onlinedeterministicannealing)|
+|[learning model-free robust precoding for cooperative multibeam satellite communications](https://arxiv.org/abs/2303.11427)|[2302_learning_beamforming_code](https://github.com/steffengra/2302_learning_beamforming_code)|
+|[reducing transmission expansion by co-optimizing sizing of wind, solar, storage and grid connection capacity](https://arxiv.org/abs/2303.11586)|[genx](https://github.com/aneeshamanocha/genx)|
 |[lipschitz-bounded 1d convolutional neural networks using the cayley transform and the controllability gramian](https://arxiv.org/abs/2303.11835)|[1d-lipcnns](https://github.com/ppauli/1d-lipcnns)|
 |[local convergence of multi-agent systems towards triangular patterns](https://arxiv.org/abs/2303.11865)|[swarmsimpublic](https://github.com/dibernardogroup/swarmsimpublic)|
 ## 2023-03-21
