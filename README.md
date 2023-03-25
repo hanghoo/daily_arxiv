@@ -1,9 +1,23 @@
+## 2023-03-24
+|paper|code|
+|---|---|
+|[higher-order interactions shape collective dynamics differently in hypergraphs and simplicial complexes](https://arxiv.org/abs/2203.03060)|[higherorder_sync_promoted](https://github.com/maximelucas/higherorder_sync_promoted)|
+|[physical lidar simulation in real-time engine](https://arxiv.org/abs/2208.10295)|[Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim)|
+|[compositions of multiple control barrier functions under input constraints](https://arxiv.org/abs/2210.01354)|[phd-code](https://github.com/jbreeden-um/phd-code)|
+|[quantifying the safety of trajectories using peak-minimizing control](https://arxiv.org/abs/2303.11896)|[crash-safety](https://github.com/jarmill/crash-safety)|
+|[learning for online mixed-integer model predictive control with parametric optimality certificates](https://arxiv.org/abs/2303.12152)|[lampos](https://github.com/shn66/lampos)|
+|[cosys-airsim: a real-time simulation framework expanded for complex industrial applications](https://arxiv.org/abs/2303.13381)|[Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim)|
 ## 2023-03-23
 |paper|code|
 |---|---|
 |[sdoanet: an efficient deep learning-based doa estimation network for imperfect array](https://arxiv.org/abs/2203.10231)|[sdoanet](https://github.com/chenpengseu/sdoanet)|
 |[learning spatio-temporal aggregations for large-scale capacity expansion problems](https://arxiv.org/abs/2303.08996)|[iccps-2023](https://github.com/rahmankhorramfar91/iccps-2023)|
+|[robust output-lifted learning model predictive control](https://arxiv.org/abs/2303.12127)|[rolmpc](https://github.com/shn66/rolmpc)|
+|[data-driven control of positive linear systems using linear programming](https://arxiv.org/abs/2303.12242)|[data_driven_pos](https://github.com/jarmill/data_driven_pos)|
+|[distributed two-tier drl framework for cell-free network: association, beamforming and power allocation](https://arxiv.org/abs/2303.12479)|[dhdrl](https://github.com/kiven-ykw/dhdrl)|
+|[localization-based ofdm framework for ris-aided systems](https://arxiv.org/abs/2303.12763)|[ris-ofdm-loca-scheduling](https://github.com/lostinafro/ris-ofdm-loca-scheduling)|
 |[orthogonal non-negative matrix factorization: a maximum-entropy-principle approach](https://arxiv.org/abs/2210.02672)|[mep-orthogonal-nmf](https://github.com/salar96/mep-orthogonal-nmf)|
+|[a resource efficient implementation of the restconf protocol for openwrt systems](https://arxiv.org/abs/2303.12403)|[orc](https://github.com/mgranderath/orc)|
 ## 2023-03-22
 |paper|code|
 |---|---|
