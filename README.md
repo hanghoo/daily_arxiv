@@ -1,12 +1,14 @@
 ## 2023-03-24
 |paper|code|
 |---|---|
-|[higher-order interactions shape collective dynamics differently in hypergraphs and simplicial complexes](https://arxiv.org/abs/2203.03060)|[higherorder_sync_promoted](https://github.com/maximelucas/higherorder_sync_promoted)|
+|[higher-order interactions shape collective dynamics differently in hypergraphs and simplicial complexes](https://arxiv.org/abs/2203.03060)|[hoi_shape_sync_differently](https://github.com/maximelucas/hoi_shape_sync_differently)|
 |[physical lidar simulation in real-time engine](https://arxiv.org/abs/2208.10295)|[Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim)|
 |[compositions of multiple control barrier functions under input constraints](https://arxiv.org/abs/2210.01354)|[phd-code](https://github.com/jbreeden-um/phd-code)|
 |[quantifying the safety of trajectories using peak-minimizing control](https://arxiv.org/abs/2303.11896)|[crash-safety](https://github.com/jarmill/crash-safety)|
 |[learning for online mixed-integer model predictive control with parametric optimality certificates](https://arxiv.org/abs/2303.12152)|[lampos](https://github.com/shn66/lampos)|
+|[resilient trajectory tracking to partial loss of control authority over actuators with actuation delay](https://arxiv.org/abs/2303.12877)|[spacecraft-resilience](https://github.com/jean-baptistebouvier/spacecraft-resilience)|
 |[cosys-airsim: a real-time simulation framework expanded for complex industrial applications](https://arxiv.org/abs/2303.13381)|[Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim)|
+|[generative ai-aided optimization for ai-generated content (aigc) services in edge networks](https://arxiv.org/abs/2303.13052)|[agod](https://github.com/lizonghang/agod)|
 ## 2023-03-23
 |paper|code|
 |---|---|
