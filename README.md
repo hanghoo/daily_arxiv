@@ -1,9 +1,21 @@
+## 2023-03-28
+|paper|code|
+|---|---|
+|[wemac: women and emotion multi-modal affective computing dataset](https://arxiv.org/abs/2203.00456)|[wemac_dataset_speech_processing](https://github.com/bindi-uc3m/wemac_dataset_speech_processing)|
+|[unsupervised voice activity detection by modeling source and system information using zero frequency filtering](https://arxiv.org/abs/2206.13420)|[zff_vad](https://github.com/idiap/zff_vad)|
+|[model-free learning of optimal beamformers for passive irs-assisted sumrate maximization](https://arxiv.org/abs/2210.16712)|[zosga-irs](https://github.com/hassaanhashmi/zosga-irs)|
+|[tutorial: circuit-based electromagnetic transient simulation](https://arxiv.org/abs/2212.12368)|[tutorial-circuit-based-electromagnetic-transient-simulation](https://github.com/amritanshup7/tutorial-circuit-based-electromagnetic-transient-simulation)|
+|[low-complexity blind parameter estimation in wireless systems with noisy sparse signals](https://arxiv.org/abs/2302.14089)|[blind_and_nonparametric_estimators](https://github.com/iip-group/blind_and_nonparametric_estimators)|
+|[safe and sample-efficient reinforcement learning for clustered dynamic environments](https://arxiv.org/abs/2303.14265)|[SSA-RL](https://github.com/hychen-naza/SSA-RL)|
+|[dimensionality collapse: optimal measurement selection for low-error infinite-horizon forecasting](https://arxiv.org/abs/2303.15407)|[naumer_dimensionality_2022.jl](https://github.com/helmuthn/naumer_dimensionality_2022.jl)|
+|[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezha](https://github.com/steamgjk/nezha)|
+|[blockchain based resource governance for decentralized web environments](https://arxiv.org/abs/2301.06919)|[usagecontrol-decentraltrading](https://github.com/valeriogoretti/usagecontrol-decentraltrading)|
 ## 2023-03-27
 |paper|code|
 |---|---|
 |[latent signal models: learning compact representations of signal evolution for improved time-resolved, multi-contrast mri](https://arxiv.org/abs/2208.13003)|[latent_signal_models_mrm_2022](https://github.com/yaminarefeen/latent_signal_models_mrm_2022)|
 |[towards dynamic causal discovery with rare events: a nonparametric conditional independence test](https://arxiv.org/abs/2211.16596)|[l4dc2023-causality](https://github.com/kkulk/l4dc2023-causality)|
-|[transthoracic super-resolution ultrasound localization microscopy of myocardial vasculature in patients](https://arxiv.org/abs/2303.14003)|[srussoftware](https://github.com/jipengyan1995/srussoftware)|
+|[ensemble gaussian processes for adaptive autonomous driving on multi-friction surfaces](https://arxiv.org/abs/2303.13694)|[multisurface-racing](https://github.com/atomyks/multisurface-racing)|
 ## 2023-03-24
 |paper|code|
 |---|---|
@@ -13,8 +25,6 @@
 |[quantifying the safety of trajectories using peak-minimizing control](https://arxiv.org/abs/2303.11896)|[crash-safety](https://github.com/jarmill/crash-safety)|
 |[learning for online mixed-integer model predictive control with parametric optimality certificates](https://arxiv.org/abs/2303.12152)|[lampos](https://github.com/shn66/lampos)|
 |[resilient trajectory tracking to partial loss of control authority over actuators with actuation delay](https://arxiv.org/abs/2303.12877)|[spacecraft-resilience](https://github.com/jean-baptistebouvier/spacecraft-resilience)|
-|[cosys-airsim: a real-time simulation framework expanded for complex industrial applications](https://arxiv.org/abs/2303.13381)|[Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim)|
-|[generative ai-aided optimization for ai-generated content (aigc) services in edge networks](https://arxiv.org/abs/2303.13052)|[agod](https://github.com/lizonghang/agod)|
 ## 2023-03-23
 |paper|code|
 |---|---|
