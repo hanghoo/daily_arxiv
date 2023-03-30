@@ -1,3 +1,11 @@
+## 2023-03-29
+|paper|code|
+|---|---|
+|[dictionary learning for the almost-linear sparsity regime](https://arxiv.org/abs/2210.10855)|[spectral_dict_learn](https://github.com/sew347/spectral_dict_learn)|
+|[cosys-airsim: a real-time simulation framework expanded for complex industrial applications](https://arxiv.org/abs/2303.13381)|[Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim)|
+|[transthoracic super-resolution ultrasound localisation microscopy of myocardial vasculature in patients](https://arxiv.org/abs/2303.14003)|[srussoftware](https://github.com/jipengyan1995/srussoftware)|
+|[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
+|[generative ai-aided optimization for ai-generated content (aigc) services in edge networks](https://arxiv.org/abs/2303.13052)|[agod](https://github.com/lizonghang/agod)|
 ## 2023-03-28
 |paper|code|
 |---|---|
@@ -6,7 +14,10 @@
 |[model-free learning of optimal beamformers for passive irs-assisted sumrate maximization](https://arxiv.org/abs/2210.16712)|[zosga-irs](https://github.com/hassaanhashmi/zosga-irs)|
 |[tutorial: circuit-based electromagnetic transient simulation](https://arxiv.org/abs/2212.12368)|[tutorial-circuit-based-electromagnetic-transient-simulation](https://github.com/amritanshup7/tutorial-circuit-based-electromagnetic-transient-simulation)|
 |[low-complexity blind parameter estimation in wireless systems with noisy sparse signals](https://arxiv.org/abs/2302.14089)|[blind_and_nonparametric_estimators](https://github.com/iip-group/blind_and_nonparametric_estimators)|
+|[peak estimation of time delay systems using occupation measures](https://arxiv.org/abs/2303.12863)|[timedelay](https://github.com/jarmill/timedelay)|
 |[safe and sample-efficient reinforcement learning for clustered dynamic environments](https://arxiv.org/abs/2303.14265)|[SSA-RL](https://github.com/hychen-naza/SSA-RL)|
+|[safe hierarchical navigation in crowded dynamic uncertain environments](https://arxiv.org/abs/2303.14278)|[H-DAGap](https://github.com/hychen-naza/H-DAGap)|
+|[talos: a toolbox for spacecraft conceptual design](https://arxiv.org/abs/2303.14936)|[talos](https://github.com/lsdolab/talos)|
 |[dimensionality collapse: optimal measurement selection for low-error infinite-horizon forecasting](https://arxiv.org/abs/2303.15407)|[naumer_dimensionality_2022.jl](https://github.com/helmuthn/naumer_dimensionality_2022.jl)|
 |[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezha](https://github.com/steamgjk/nezha)|
 |[blockchain based resource governance for decentralized web environments](https://arxiv.org/abs/2301.06919)|[usagecontrol-decentraltrading](https://github.com/valeriogoretti/usagecontrol-decentraltrading)|
