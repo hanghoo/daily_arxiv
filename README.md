@@ -1,9 +1,8 @@
 ## 2023-03-31
 |paper|code|
 |---|---|
-|[sparse dynamical features generation, application to parkinson's disease diagnosis](https://arxiv.org/abs/2210.11624)|[phd_eeg](https://github.com/houssemmeg/phd_eeg)|
 |[data-driven robust backward reachable sets for set-theoretic model predictive control](https://arxiv.org/abs/2303.04749)|[data-driven-st-mpc](https://github.com/precysegroup/data-driven-st-mpc)|
-|[koopman-hopf hamilton-jacobi reachability and control](https://arxiv.org/abs/2303.11590)|[Koopman-Hopf](https://github.com/UCSD-SASLab/HopfReachability/tree/main/Koopman-Hopf)|
+|[koopman-hopf hamilton-jacobi reachability and control](https://arxiv.org/abs/2303.11590)|[hopfreachability](https://github.com/ucsd-saslab/hopfreachability)|
 |[spider-web generates coding algorithms with superior error tolerance and real-time information retrieval capacity](https://arxiv.org/abs/2204.02855)|[dnaspiderweb](https://github.com/haolingzhang/dnaspiderweb)|
 ## 2023-03-30
 |paper|code|
