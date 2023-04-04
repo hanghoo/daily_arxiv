@@ -1,3 +1,11 @@
+## 2023-04-03
+|paper|code|
+|---|---|
+|[overcoming bias: equivariant filter design for biased attitude estimation with online calibration](https://arxiv.org/abs/2209.12038)|[abc-eqf](https://github.com/aau-cns/abc-eqf)|
+|[bounded simplex-structured matrix factorization: algorithms, identifiability and applications](https://arxiv.org/abs/2209.12638)|[bssmf.jl](https://gitlab.com/vuthanho/bssmf.jl)|
+|[towards flexibility and interpretability of gaussian process state-space model](https://arxiv.org/abs/2301.08843)|[tgpssm](https://github.com/zhidilin/tgpssm)|
+|[exact characterization of the convex hulls of reachable sets](https://arxiv.org/abs/2303.17674)|[convex_hull_reachability](https://github.com/stanfordasl/convex_hull_reachability)|
+|[far from asymptopia](https://arxiv.org/abs/2205.03343)|[atomicpriors.jl](https://github.com/mcabbott/atomicpriors.jl)|
 ## 2023-03-31
 |paper|code|
 |---|---|
