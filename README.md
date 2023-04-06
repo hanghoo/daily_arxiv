@@ -1,3 +1,13 @@
+## 2023-04-05
+|paper|code|
+|---|---|
+|[attention-embedded quadratic network (qttention) for effective and interpretable bearing fault diagnosis](https://arxiv.org/abs/2206.00390)|[QCNN_for_bearing_diagnosis](https://github.com/asdvfghg/QCNN_for_bearing_diagnosis)|
+|[autoencoder based iterative modeling and multivariate time-series subsequence clustering algorithm](https://arxiv.org/abs/2209.04213)|[abimca](https://github.com/jokonu/abimca)|
+|[learning personalized models with clustered system identification](https://arxiv.org/abs/2304.01395)|[cluster-sysid](https://github.com/jd-anderson/cluster-sysid)|
+|[time-space-frequency feature fusion for 3-channel motor imagery classification](https://arxiv.org/abs/2304.01461)|[tsff](https://github.com/miaozhengqing/tsff)|
+|[arrhythmia classifier based on ultra-lightweight binary neural network](https://arxiv.org/abs/2304.01568)|[ecg_bnn_net](https://github.com/xpww/ecg_bnn_net)|
+|[async-hfl: efficient and robust asynchronous federated learning in hierarchical iot networks](https://arxiv.org/abs/2301.06646)|[async-hfl](https://github.com/orienfish/async-hfl)|
+|[virtual avatar stream: a cost-down approach to the metaverse experience](https://arxiv.org/abs/2304.01443)|[virtual-avatar](https://github.com/trip1elift/virtual-avatar)|
 ## 2023-04-04
 |paper|code|
 |---|---|
@@ -11,7 +21,6 @@
 |[on the optimal recovery of graph signals](https://arxiv.org/abs/2304.00474)|[orofgraphsignals](https://github.com/liaochunyang/orofgraphsignals)|
 |[combinatorial optimization enriched machine learning to solve the dynamic vehicle routing problem with time windows](https://arxiv.org/abs/2304.00789)|[euro-meets-neurips-2022](https://github.com/tumbais/euro-meets-neurips-2022)|
 |[pronto: preamble overhead reduction with neural networks for coarse synchronization](https://arxiv.org/abs/2112.10885)|[pronto](https://github.com/nasimsoltani/pronto)|
-|[graphtune: a learning-based graph generative model with tunable structural features](https://arxiv.org/abs/2201.11494)|[GraphTune](https://github.com/wkouw1082/GraphTune)|
 |[multi-layer state evolution under random convolutional design](https://arxiv.org/abs/2205.13503)|[conv-ml-amp](https://github.com/mdnls/conv-ml-amp)|
 |[amgc: adaptive match-based genomic compression algorithm](https://arxiv.org/abs/2304.01031)|[amgc](https://github.com/wj-inf/amgc)|
 ## 2023-04-03
