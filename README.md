@@ -1,6 +1,16 @@
+## 2023-04-06
+|paper|code|
+|---|---|
+|[design and motion planning for a reconfigurable robotic base](https://arxiv.org/abs/2206.15298)|[swerve_steering](https://github.com/leggedrobotics/swerve_steering)|
+|[bayesian model selection of lithium-ion battery models via bayesian quadrature](https://arxiv.org/abs/2210.17299)|[BayesianModelSelection](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
+|[peak estimation of time delay systems using occupation measures](https://arxiv.org/abs/2303.12863)|[timedelay](https://github.com/jarmill/timedelay)|
+|[a semi-supervised adaptive discriminative discretization method improving discrimination power of regularized naive bayes](https://arxiv.org/abs/2111.10983)|[Semi-supervised-Adaptive-Discriminative-Discretization-for-Naive-Bayes-classifier](https://github.com/shellpower96/Semi-supervised-Adaptive-Discriminative-Discretization-for-Naive-Bayes-classifier)|
+|[active tls stack fingerprinting: characterizing tls server deployments at scale](https://arxiv.org/abs/2206.13230)|[goscanner](https://github.com/tumi8/goscanner)|
+|[the optimality of word lengths. theoretical foundations and an empirical study](https://arxiv.org/abs/2208.10384)|[iql-research-project-21-22](https://github.com/iql-course/iql-research-project-21-22)|
 ## 2023-04-05
 |paper|code|
 |---|---|
+|[communication-efficient federated linear and deep generalized canonical correlation analysis](https://arxiv.org/abs/2109.12400)|[federated_max_var_gcca](https://github.com/XiaoFuLab/federated_max_var_gcca)|
 |[attention-embedded quadratic network (qttention) for effective and interpretable bearing fault diagnosis](https://arxiv.org/abs/2206.00390)|[QCNN_for_bearing_diagnosis](https://github.com/asdvfghg/QCNN_for_bearing_diagnosis)|
 |[autoencoder based iterative modeling and multivariate time-series subsequence clustering algorithm](https://arxiv.org/abs/2209.04213)|[abimca](https://github.com/jokonu/abimca)|
 |[learning personalized models with clustered system identification](https://arxiv.org/abs/2304.01395)|[cluster-sysid](https://github.com/jd-anderson/cluster-sysid)|
@@ -19,16 +29,18 @@
 |[managing cold-start in the serverless cloud with temporal convolutional networks](https://arxiv.org/abs/2304.00396)|[TCN4CLOUD](https://github.com/Cybonto/TCN4CLOUD)|
 |[deep graph unfolding for beamforming in mu-mimo interference networks](https://arxiv.org/abs/2304.00446)|[unrolled-wmmse-for-mu-mimo](https://github.com/archo48/unrolled-wmmse-for-mu-mimo)|
 |[on the optimal recovery of graph signals](https://arxiv.org/abs/2304.00474)|[orofgraphsignals](https://github.com/liaochunyang/orofgraphsignals)|
+|[online learning and control for data-augmented quadrotor model](https://arxiv.org/abs/2304.00503)|[mpc_quad_ros](https://github.com/smidmatej/mpc_quad_ros)|
 |[combinatorial optimization enriched machine learning to solve the dynamic vehicle routing problem with time windows](https://arxiv.org/abs/2304.00789)|[euro-meets-neurips-2022](https://github.com/tumbais/euro-meets-neurips-2022)|
+|[integrated decision-making and control for urban autonomous driving with traffic rules compliance](https://arxiv.org/abs/2304.01041)|[optimization-based-idmc_carla](https://github.com/hkust-jm/optimization-based-idmc_carla)|
 |[pronto: preamble overhead reduction with neural networks for coarse synchronization](https://arxiv.org/abs/2112.10885)|[pronto](https://github.com/nasimsoltani/pronto)|
 |[multi-layer state evolution under random convolutional design](https://arxiv.org/abs/2205.13503)|[conv-ml-amp](https://github.com/mdnls/conv-ml-amp)|
 |[amgc: adaptive match-based genomic compression algorithm](https://arxiv.org/abs/2304.01031)|[amgc](https://github.com/wj-inf/amgc)|
+|[quicstep: circumventing quic-based censorship](https://arxiv.org/abs/2304.01073)|[quicstep](https://github.com/inspire-group/quicstep)|
 ## 2023-04-03
 |paper|code|
 |---|---|
 |[overcoming bias: equivariant filter design for biased attitude estimation with online calibration](https://arxiv.org/abs/2209.12038)|[abc-eqf](https://github.com/aau-cns/abc-eqf)|
 |[bounded simplex-structured matrix factorization: algorithms, identifiability and applications](https://arxiv.org/abs/2209.12638)|[bssmf.jl](https://gitlab.com/vuthanho/bssmf.jl)|
-|[towards flexibility and interpretability of gaussian process state-space model](https://arxiv.org/abs/2301.08843)|[tgpssm](https://github.com/zhidilin/tgpssm)|
 |[exact characterization of the convex hulls of reachable sets](https://arxiv.org/abs/2303.17674)|[convex_hull_reachability](https://github.com/stanfordasl/convex_hull_reachability)|
 |[aerostack2: a software framework for developing multi-robot aerial systems](https://arxiv.org/abs/2303.18237)|[aerostack2](https://github.com/aerostack2/aerostack2)|
 |[far from asymptopia](https://arxiv.org/abs/2205.03343)|[atomicpriors.jl](https://github.com/mcabbott/atomicpriors.jl)|
