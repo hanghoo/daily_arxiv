@@ -1,3 +1,9 @@
+## 2023-04-10
+|paper|code|
+|---|---|
+|[humanlight: incentivizing ridesharing via human-centric deep reinforcement learning in traffic signal control](https://arxiv.org/abs/2304.03697)|[humanlight](https://github.com/dimvlachogiannis/humanlight)|
+|[a novel channel model for reconfigurable intelligent surfaces with consideration of polarization and switch impairments](https://arxiv.org/abs/2304.03713)|[matlab_ris_channelmodel](https://github.com/icefreeman123/matlab_ris_channelmodel)|
+|[quantum conformal prediction for reliable uncertainty quantification in quantum machine learning](https://arxiv.org/abs/2304.03398)|[quantum-cp](https://github.com/kclip/quantum-cp)|
 ## 2023-04-07
 |paper|code|
 |---|---|
