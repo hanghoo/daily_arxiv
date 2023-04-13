@@ -1,3 +1,10 @@
+## 2023-04-12
+|paper|code|
+|---|---|
+|[an offline risk-aware policy selection method for bayesian markov decision processes](https://arxiv.org/abs/2105.13431)|[evc](https://github.com/giorgioangel/evc)|
+|[model parameter identification via a hyperparameter optimization scheme for autonomous racing systems](https://arxiv.org/abs/2301.01470)|[mi-hpo](https://github.com/hynkis/mi-hpo)|
+|[self-stabilization: the implicit bias of gradient descent at the edge of stability](https://arxiv.org/abs/2209.15594)|[eos](https://github.com/adamian98/eos)|
+|[async-hfl: efficient and robust asynchronous federated learning in hierarchical iot networks](https://arxiv.org/abs/2301.06646)|[async-hfl](https://github.com/orienfish/async-hfl)|
 ## 2023-04-11
 |paper|code|
 |---|---|
