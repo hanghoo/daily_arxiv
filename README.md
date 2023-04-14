@@ -1,8 +1,16 @@
+## 2023-04-13
+|paper|code|
+|---|---|
+|[olia: an open-source digital lock-in amplifier](https://arxiv.org/abs/2211.08889)|[olia](https://github.com/openlockin/olia)|
+|[online legal driving behavior monitoring for autonomous driving](https://arxiv.org/abs/2212.04156)|[dotl](https://github.com/sotif-avlab/dotl)|
+|[compositional neural certificates for networked dynamical systems](https://arxiv.org/abs/2303.14564)|[neuriss](https://github.com/mit-realm/neuriss)|
+|[interpreting neural min-sum decoders](https://arxiv.org/abs/2205.10684)|[nams](https://github.com/sravan-ankireddy/nams)|
 ## 2023-04-12
 |paper|code|
 |---|---|
 |[an offline risk-aware policy selection method for bayesian markov decision processes](https://arxiv.org/abs/2105.13431)|[evc](https://github.com/giorgioangel/evc)|
 |[model parameter identification via a hyperparameter optimization scheme for autonomous racing systems](https://arxiv.org/abs/2301.01470)|[mi-hpo](https://github.com/hynkis/mi-hpo)|
+|[exact set-valued estimation using constrained convex generators for uncertain linear systems](https://arxiv.org/abs/2304.04826)|[CCGExactConvexHull](https://github.com/danielmsilvestre/CCGExactConvexHull)|
 |[self-stabilization: the implicit bias of gradient descent at the edge of stability](https://arxiv.org/abs/2209.15594)|[eos](https://github.com/adamian98/eos)|
 |[async-hfl: efficient and robust asynchronous federated learning in hierarchical iot networks](https://arxiv.org/abs/2301.06646)|[async-hfl](https://github.com/orienfish/async-hfl)|
 ## 2023-04-11
