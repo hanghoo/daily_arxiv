@@ -5,7 +5,10 @@
 |[square root lasso: well-posedness, lipschitz stability and the tuning trade off](https://arxiv.org/abs/2303.15588)|[srlasso_revolutions](https://github.com/asberk/srlasso_revolutions)|
 |[learning over all contracting and lipschitz closed-loops for partially-observed nonlinear systems](https://arxiv.org/abs/2304.06193)|[CDC2023-YoulaREN](https://github.com/nic-barbara/CDC2023-YoulaREN)|
 |[neural state-space models: empirical evaluation of uncertainty quantification](https://arxiv.org/abs/2304.06349)|[sysid-neural-unc](https://github.com/forgi86/sysid-neural-unc)|
+|[quantum search approaches to sampling-based motion planning](https://arxiv.org/abs/2304.06479)|[qrrt](https://github.com/pdlathrop/qrrt)|
+|[eegmatch: learning with incomplete labels for semi-supervised eeg-based cross-subject emotion recognition](https://arxiv.org/abs/2304.06496)|[eegmatch](https://github.com/kazabana/eegmatch)|
 |[multi-kernel correntropy-based orientation estimation of imus: gradient descent methods](https://arxiv.org/abs/2304.06548)|[mc_gd_imu](https://github.com/lsl-zsj/mc_gd_imu)|
+|[modeling cell size distribution with heterogeneous flux balance analysis](https://arxiv.org/abs/2304.06631)|[heterogeneous_fba](https://github.com/michielbusschaert/heterogeneous_fba)|
 ## 2023-04-13
 |paper|code|
 |---|---|
