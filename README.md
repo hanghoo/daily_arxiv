@@ -1,3 +1,15 @@
+## 2023-04-17
+|paper|code|
+|---|---|
+|[network-aware flexibility requests for distribution-level flexibility markets](https://arxiv.org/abs/2110.05983)|[flexrequest-creation](https://github.com/eleaprat/flexrequest-creation)|
+|[real-time neural-mpc: deep learning model predictive control for quadrotors and agile robotic platforms](https://arxiv.org/abs/2203.07747)|[ml-casadi](https://github.com/TUM-AAS/ml-casadi)|
+|[towards gain tuning for numerical kkl observers](https://arxiv.org/abs/2204.00318)|[learn_observe_KKL](https://github.com/monabf/learn_observe_KKL)|
+|[denoiser-based projections for 2-d super-resolution multi-reference alignment](https://arxiv.org/abs/2204.04754)|[denoiser_projection](https://github.com/jonathanshani/denoiser_projection)|
+|[cast: a toolchain for creating and characterizing realistic wireless network emulation scenarios](https://arxiv.org/abs/2208.03993)|[cast](https://github.com/wineslab/cast)|
+|[high resolution modeling and analysis of cryptocurrency mining's impact on power grids: carbon footprint, reliability, and electricity price](https://arxiv.org/abs/2212.14189)|[crypto_mining_impacts](https://github.com/tamu-engineering-research/crypto_mining_impacts)|
+|[a byte sequence is worth an image: cnn for file fragment classification using bit shift and n-gram embeddings](https://arxiv.org/abs/2304.06983)|[byte2image](https://github.com/wenyang001/byte2image)|
+|[compressing multidimensional weather and climate data into neural networks](https://arxiv.org/abs/2210.12538)|[nncompression](https://github.com/spcl/nncompression)|
+|[berlin v2x: a machine learning dataset from multiple vehicles and radio access technologies](https://arxiv.org/abs/2212.10343)|[BerlinV2X](https://github.com/fraunhoferhhi/BerlinV2X)|
 ## 2023-04-14
 |paper|code|
 |---|---|
