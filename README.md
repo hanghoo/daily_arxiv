@@ -1,3 +1,11 @@
+## 2023-04-18
+|paper|code|
+|---|---|
+|[optimization of hybrid power plants: when is a detailed electrolyzer model necessary?](https://arxiv.org/abs/2301.05310)|[detailed-electrolyzer-model](https://github.com/mtba-dtu/detailed-electrolyzer-model)|
+|[cilp: co-simulation based imitation learner for dynamic resource provisioning in cloud computing environments](https://arxiv.org/abs/2302.05630)|[cilp](https://github.com/imperial-qore/cilp)|
+|[data-driven method for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
+|[dimensionality collapse: optimal measurement selection for low-error infinite-horizon forecasting](https://arxiv.org/abs/2303.15407)|[naumer_dimensionality_2022.jl](https://github.com/helmuthn/naumer_dimensionality_2022.jl)|
+|[learning to predict arbitrary quantum processes](https://arxiv.org/abs/2210.14894)|[learning-quantum-process](https://github.com/hsinyuan-huang/learning-quantum-process)|
 ## 2023-04-17
 |paper|code|
 |---|---|
@@ -7,6 +15,7 @@
 |[denoiser-based projections for 2-d super-resolution multi-reference alignment](https://arxiv.org/abs/2204.04754)|[denoiser_projection](https://github.com/jonathanshani/denoiser_projection)|
 |[cast: a toolchain for creating and characterizing realistic wireless network emulation scenarios](https://arxiv.org/abs/2208.03993)|[cast](https://github.com/wineslab/cast)|
 |[high resolution modeling and analysis of cryptocurrency mining's impact on power grids: carbon footprint, reliability, and electricity price](https://arxiv.org/abs/2212.14189)|[crypto_mining_impacts](https://github.com/tamu-engineering-research/crypto_mining_impacts)|
+|[online recognition of incomplete gesture data to interface collaborative robots](https://arxiv.org/abs/2304.06777)|[uc2017_classification](https://github.com/miguelsimao/uc2017_classification)|
 |[a byte sequence is worth an image: cnn for file fragment classification using bit shift and n-gram embeddings](https://arxiv.org/abs/2304.06983)|[byte2image](https://github.com/wenyang001/byte2image)|
 |[compressing multidimensional weather and climate data into neural networks](https://arxiv.org/abs/2210.12538)|[nncompression](https://github.com/spcl/nncompression)|
 |[berlin v2x: a machine learning dataset from multiple vehicles and radio access technologies](https://arxiv.org/abs/2212.10343)|[BerlinV2X](https://github.com/fraunhoferhhi/BerlinV2X)|
