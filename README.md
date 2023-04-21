@@ -1,3 +1,13 @@
+## 2023-04-20
+|paper|code|
+|---|---|
+|[data-efficient deep reinforcement learning for attitude control of fixed-wing uavs: field experiments](https://arxiv.org/abs/2111.04153)|[rluav](https://github.com/eivindeb/rluav)|
+|[robust semantic communications with masked vq-vae enabled codebook](https://arxiv.org/abs/2206.04011)|[RobustSemanComm](https://github.com/hqyyqh888/RobustSemanComm)|
+|[toward robust manufacturing scheduling: stochastic job-shop scheduling](https://arxiv.org/abs/2206.09326)|[jobshop.jl](https://github.com/psorlab/jobshop.jl)|
+|[reachlipbnb: a branch-and-bound method for reachability analysis of neural autonomous systems using lipschitz bounds](https://arxiv.org/abs/2211.00608)|[reachlipbnb](https://github.com/o4lc/reachlipbnb)|
+|[optimizing carbon storage operations for long-term safety](https://arxiv.org/abs/2304.09352)|[optimizingcarbonstorage](https://github.com/yizhengw/optimizingcarbonstorage)|
+|[learning resource scheduling with high priority users using deep deterministic policy gradients](https://arxiv.org/abs/2304.09488)|[resourceallocation](https://github.com/steffengra/resourceallocation)|
+|[approximate non-linear model predictive control with safety-augmented neural networks](https://arxiv.org/abs/2304.09575)|[soeampc](https://github.com/hshose/soeampc)|
 ## 2023-04-19
 |paper|code|
 |---|---|
