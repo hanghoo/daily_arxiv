@@ -1,3 +1,11 @@
+## 2023-04-21
+|paper|code|
+|---|---|
+|[outlier detection of vital sign trajectories from covid-19 patients](https://arxiv.org/abs/2207.07572)|[outlier-detection-recap-data](https://github.com/sara-es/outlier-detection-recap-data)|
+|[ai-coherent data-driven forecasting model for a combined cycle power plant](https://arxiv.org/abs/2304.10009)|[AI-coherent-data-driven-forecasting-model-for-a-combined-cycle-power-plant](https://github.com/mirsayedshah/AI-coherent-data-driven-forecasting-model-for-a-combined-cycle-power-plant)|
+|[robust deep reinforcement learning scheduling via weight anchoring](https://arxiv.org/abs/2304.10176)|[dl_lottery](https://github.com/steffengra/dl_lottery)|
+|[fido2 the rescue? platform vs. roaming authentication on smartphones](https://arxiv.org/abs/2302.07777)|[fido2-the-smartphone](https://github.com/seemoo-lab/fido2-the-smartphone)|
+|[learning cellular coverage from real network configurations using gnns](https://arxiv.org/abs/2304.10328)|[gnn4ndosuppliment](https://github.com/bluelancer/gnn4ndosuppliment)|
 ## 2023-04-20
 |paper|code|
 |---|---|
