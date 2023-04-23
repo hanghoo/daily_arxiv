@@ -2,6 +2,7 @@
 |paper|code|
 |---|---|
 |[outlier detection of vital sign trajectories from covid-19 patients](https://arxiv.org/abs/2207.07572)|[outlier-detection-recap-data](https://github.com/sara-es/outlier-detection-recap-data)|
+|[latent-kalmannet: learned kalman filtering for tracking from high-dimensional signals](https://arxiv.org/abs/2304.07827)|[latent_kalmannet_tsp](https://github.com/kalmannet/latent_kalmannet_tsp)|
 |[ai-coherent data-driven forecasting model for a combined cycle power plant](https://arxiv.org/abs/2304.10009)|[AI-coherent-data-driven-forecasting-model-for-a-combined-cycle-power-plant](https://github.com/mirsayedshah/AI-coherent-data-driven-forecasting-model-for-a-combined-cycle-power-plant)|
 |[robust deep reinforcement learning scheduling via weight anchoring](https://arxiv.org/abs/2304.10176)|[dl_lottery](https://github.com/steffengra/dl_lottery)|
 |[fido2 the rescue? platform vs. roaming authentication on smartphones](https://arxiv.org/abs/2302.07777)|[fido2-the-smartphone](https://github.com/seemoo-lab/fido2-the-smartphone)|
@@ -16,6 +17,7 @@
 |[optimizing carbon storage operations for long-term safety](https://arxiv.org/abs/2304.09352)|[optimizingcarbonstorage](https://github.com/yizhengw/optimizingcarbonstorage)|
 |[learning resource scheduling with high priority users using deep deterministic policy gradients](https://arxiv.org/abs/2304.09488)|[resourceallocation](https://github.com/steffengra/resourceallocation)|
 |[approximate non-linear model predictive control with safety-augmented neural networks](https://arxiv.org/abs/2304.09575)|[soeampc](https://github.com/hshose/soeampc)|
+|[patching neural barrier functions using hamilton-jacobi reachability](https://arxiv.org/abs/2304.09850)|[hj-patch](https://github.com/ucsd-saslab/hj-patch)|
 ## 2023-04-19
 |paper|code|
 |---|---|
@@ -23,15 +25,18 @@
 |[towards best practice of interpreting deep learning models for eeg-based brain computer interfaces](https://arxiv.org/abs/2202.06948)|[Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI](https://github.com/cuijiancorbin/Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI)|
 |[covid19 reproduction number: credibility intervals by blockwise proximal monte carlo samplers](https://arxiv.org/abs/2203.09142)|[OpSiMorE](https://github.com/gfort-lab/OpSiMorE)|
 |[fault detection via occupation kernel principal component analysis](https://arxiv.org/abs/2303.11138)|[OKPCA](https://github.com/rlkamalapurkar/OKPCA)|
+|[optimal robust network design: formulations and algorithms for maximizing algebraic connectivity](https://arxiv.org/abs/2304.08571)|[laplacianopt.jl](https://github.com/harshangrjn/laplacianopt.jl)|
 |[a semi-supervised adaptive discriminative discretization method improving discrimination power of regularized naive bayes](https://arxiv.org/abs/2111.10983)|[Semi-supervised-Adaptive-Discriminative-Discretization-for-Naive-Bayes-classifier](https://github.com/shellpower96/Semi-supervised-Adaptive-Discriminative-Discretization-for-Naive-Bayes-classifier)|
 ## 2023-04-18
 |paper|code|
 |---|---|
+|[random access protocol with channel oracle enabled by a reconfigurable intelligent surface](https://arxiv.org/abs/2210.04230)|[ris-random-access-channel-oracle](https://github.com/victorcroisfelt/ris-random-access-channel-oracle)|
 |[optimization of hybrid power plants: when is a detailed electrolyzer model necessary?](https://arxiv.org/abs/2301.05310)|[detailed-electrolyzer-model](https://github.com/mtba-dtu/detailed-electrolyzer-model)|
 |[cilp: co-simulation based imitation learner for dynamic resource provisioning in cloud computing environments](https://arxiv.org/abs/2302.05630)|[cilp](https://github.com/imperial-qore/cilp)|
 |[data-driven method for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
 |[dimensionality collapse: optimal measurement selection for low-error infinite-horizon forecasting](https://arxiv.org/abs/2303.15407)|[naumer_dimensionality_2022.jl](https://github.com/helmuthn/naumer_dimensionality_2022.jl)|
 |[learning to predict arbitrary quantum processes](https://arxiv.org/abs/2210.14894)|[learning-quantum-process](https://github.com/hsinyuan-huang/learning-quantum-process)|
+|[remote procedure call as a managed system service](https://arxiv.org/abs/2304.07349)|[phoenix](https://github.com/phoenix-dataplane/phoenix)|
 ## 2023-04-17
 |paper|code|
 |---|---|
@@ -41,6 +46,7 @@
 |[denoiser-based projections for 2-d super-resolution multi-reference alignment](https://arxiv.org/abs/2204.04754)|[denoiser_projection](https://github.com/jonathanshani/denoiser_projection)|
 |[cast: a toolchain for creating and characterizing realistic wireless network emulation scenarios](https://arxiv.org/abs/2208.03993)|[cast](https://github.com/wineslab/cast)|
 |[high resolution modeling and analysis of cryptocurrency mining's impact on power grids: carbon footprint, reliability, and electricity price](https://arxiv.org/abs/2212.14189)|[crypto_mining_impacts](https://github.com/tamu-engineering-research/crypto_mining_impacts)|
+|[contingency analyses with warm starter using probabilistic graphical model](https://arxiv.org/abs/2304.06727)|[gridwarm](https://github.com/ohcindy/gridwarm)|
 |[online recognition of incomplete gesture data to interface collaborative robots](https://arxiv.org/abs/2304.06777)|[uc2017_classification](https://github.com/miguelsimao/uc2017_classification)|
 |[a byte sequence is worth an image: cnn for file fragment classification using bit shift and n-gram embeddings](https://arxiv.org/abs/2304.06983)|[byte2image](https://github.com/wenyang001/byte2image)|
 |[compressing multidimensional weather and climate data into neural networks](https://arxiv.org/abs/2210.12538)|[nncompression](https://github.com/spcl/nncompression)|
