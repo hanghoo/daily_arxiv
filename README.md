@@ -1,3 +1,22 @@
+## 2023-04-25
+|paper|code|
+|---|---|
+|[two-step reinforcement learning for model-free redesign of nonlinear optimal regulator](https://arxiv.org/abs/2103.03808)|[two-step-design](https://github.com/hori-group/two-step-design)|
+|[ultra lite convolutional neural network for fast automatic modulation classification in low-resource scenarios](https://arxiv.org/abs/2208.04659)|[ultra-lite-convolutional-neural-network-for-automatic-modulation-classification](https://github.com/beechburgpiestar/ultra-lite-convolutional-neural-network-for-automatic-modulation-classification)|
+|[score-based data generation for eeg spatial covariance matrices: towards boosting bci performance](https://arxiv.org/abs/2302.11410)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|[locality sensitive hashing via mechanical behavior](https://arxiv.org/abs/2304.06505)|[mechhs](https://github.com/elejeune11/mechhs)|
+|[how to control hydrodynamic force on fluidic pinball via deep reinforcement learning](https://arxiv.org/abs/2304.11526)|[How-to-Control-Hydrodynamic-Force](https://github.com/HDFengChina/How-to-Control-Hydrodynamic-Force)|
+|[identifying stochasticity in time-series with autoencoder-based content-aware 2d representation: application to black hole data](https://arxiv.org/abs/2304.11560)|[blackhole_1d_2d_label](https://github.com/csai-arc/blackhole_1d_2d_label)|
+|[a lightweight recurrent learning network for sustainable compressed sensing](https://arxiv.org/abs/2304.11674)|[csrn](https://github.com/c66yu/csrn)|
+|[device management and network connectivity as missing elements in tinyml landscape](https://arxiv.org/abs/2304.11669)|[FogML](https://github.com/tszydlo/FogML)|
+## 2023-04-24
+|paper|code|
+|---|---|
+|[smoothed separable nonnegative matrix factorization](https://arxiv.org/abs/2110.05528)|[smoothed-separable-nmf](https://gitlab.com/nnadisic/smoothed-separable-nmf)|
+|[transformers in time series: a survey](https://arxiv.org/abs/2202.07125)|[time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)|
+|[icsml: industrial control systems ml framework for native inference using iec 61131-3 code](https://arxiv.org/abs/2202.10075)|[icsml](https://github.com/momalab/icsml)|
+|[optimal robust network design: formulations and algorithms for maximizing algebraic connectivity](https://arxiv.org/abs/2304.08571)|[laplacianopt.jl](https://github.com/harshangrjn/laplacianopt.jl)|
+|[on the importance of exploration for real life learned algorithms](https://arxiv.org/abs/2304.10860)|[on_exploration](https://github.com/steffengra/on_exploration)|
 ## 2023-04-21
 |paper|code|
 |---|---|
@@ -6,6 +25,7 @@
 |[ai-coherent data-driven forecasting model for a combined cycle power plant](https://arxiv.org/abs/2304.10009)|[AI-coherent-data-driven-forecasting-model-for-a-combined-cycle-power-plant](https://github.com/mirsayedshah/AI-coherent-data-driven-forecasting-model-for-a-combined-cycle-power-plant)|
 |[robust deep reinforcement learning scheduling via weight anchoring](https://arxiv.org/abs/2304.10176)|[dl_lottery](https://github.com/steffengra/dl_lottery)|
 |[fido2 the rescue? platform vs. roaming authentication on smartphones](https://arxiv.org/abs/2302.07777)|[fido2-the-smartphone](https://github.com/seemoo-lab/fido2-the-smartphone)|
+|[htnet: dynamic wlan performance prediction using heterogenous temporal gnn](https://arxiv.org/abs/2304.10013)|[htnet](https://github.com/tedzhouhk/htnet)|
 |[learning cellular coverage from real network configurations using gnns](https://arxiv.org/abs/2304.10328)|[gnn4ndosuppliment](https://github.com/bluelancer/gnn4ndosuppliment)|
 ## 2023-04-20
 |paper|code|
@@ -18,6 +38,7 @@
 |[learning resource scheduling with high priority users using deep deterministic policy gradients](https://arxiv.org/abs/2304.09488)|[resourceallocation](https://github.com/steffengra/resourceallocation)|
 |[approximate non-linear model predictive control with safety-augmented neural networks](https://arxiv.org/abs/2304.09575)|[soeampc](https://github.com/hshose/soeampc)|
 |[patching neural barrier functions using hamilton-jacobi reachability](https://arxiv.org/abs/2304.09850)|[hj-patch](https://github.com/ucsd-saslab/hj-patch)|
+|[entropy estimation via uniformization](https://arxiv.org/abs/2304.09700)|[nfee](https://github.com/ziq-ao/nfee)|
 ## 2023-04-19
 |paper|code|
 |---|---|
