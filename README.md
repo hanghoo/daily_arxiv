@@ -1,20 +1,32 @@
+## 2023-04-27
+|paper|code|
+|---|---|
+|[online greedy identification of linear dynamical systems](https://arxiv.org/abs/2204.06375)|[greedy-identification](https://github.com/mb-29/greedy-identification)|
+|[computationally-efficient initialisation of gps: the generalised variogram method](https://arxiv.org/abs/2210.05394)|[generalised-variogram-method](https://github.com/games-uchile/generalised-variogram-method)|
+|[deep statistical solver for distribution system state estimation](https://arxiv.org/abs/2301.01835)|[deep-statistical-solver-for-distribution-system-state-estimation](https://github.com/tu-delft-ai-energy-lab/deep-statistical-solver-for-distribution-system-state-estimation)|
+|[quantifying the impact of data characteristics on the transferability of sleep stage scoring models](https://arxiv.org/abs/2304.06033)|[transferability_sleep](https://github.com/akaraspt/transferability_sleep)|
+|[system identification with copula entropy](https://arxiv.org/abs/2304.12922)|[sysid](https://github.com/majianthu/sysid)|
 ## 2023-04-26
 |paper|code|
 |---|---|
 |[data-driven modeling of noise time series with convolutional generative adversarial networks](https://arxiv.org/abs/2207.01110)|[noisegan](https://github.com/usnistgov/noisegan)|
 |[multi-stage warm started optimal motion planning for over-actuated mobile platforms](https://arxiv.org/abs/2207.14659)|[mwmp-matlab](https://github.com/spaceuma/mwmp-matlab)|
+|[elastic buildings: calibrated district-scale simulation of occupant-flexible campus operation for hybrid work optimization](https://arxiv.org/abs/2210.06124)|[elastic-buildings](https://github.com/buds-lab/elastic-buildings)|
+|[toward integrated sensing and communications in ieee 802.11bf wi-fi networks](https://arxiv.org/abs/2212.13930)|[sharpax](https://github.com/francescamen/sharpax)|
 |[blockchain based resource governance for decentralized web environments](https://arxiv.org/abs/2301.06919)|[usagecontrol-decentraltrading](https://github.com/valeriogoretti/usagecontrol-decentraltrading)|
 ## 2023-04-25
 |paper|code|
 |---|---|
 |[two-step reinforcement learning for model-free redesign of nonlinear optimal regulator](https://arxiv.org/abs/2103.03808)|[two-step-design](https://github.com/hori-group/two-step-design)|
 |[ultra lite convolutional neural network for fast automatic modulation classification in low-resource scenarios](https://arxiv.org/abs/2208.04659)|[ultra-lite-convolutional-neural-network-for-automatic-modulation-classification](https://github.com/beechburgpiestar/ultra-lite-convolutional-neural-network-for-automatic-modulation-classification)|
+|[energy-efficient cell-free massive mimo through sparse large-scale fading processing](https://arxiv.org/abs/2208.13552)|[sparse-lsfprocess-cfmmimo](https://github.com/shuaifeichen273/sparse-lsfprocess-cfmmimo)|
 |[score-based data generation for eeg spatial covariance matrices: towards boosting bci performance](https://arxiv.org/abs/2302.11410)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |[locality sensitive hashing via mechanical behavior](https://arxiv.org/abs/2304.06505)|[mechhs](https://github.com/elejeune11/mechhs)|
 |[model-free learning of optimal two-stage beamformers for passive irs-aided network design](https://arxiv.org/abs/2304.11464)|[zosga-irs](https://github.com/hassaanhashmi/zosga-irs)|
 |[how to control hydrodynamic force on fluidic pinball via deep reinforcement learning](https://arxiv.org/abs/2304.11526)|[How-to-Control-Hydrodynamic-Force](https://github.com/HDFengChina/How-to-Control-Hydrodynamic-Force)|
 |[identifying stochasticity in time-series with autoencoder-based content-aware 2d representation: application to black hole data](https://arxiv.org/abs/2304.11560)|[blackhole_1d_2d_label](https://github.com/csai-arc/blackhole_1d_2d_label)|
 |[a lightweight recurrent learning network for sustainable compressed sensing](https://arxiv.org/abs/2304.11674)|[csrn](https://github.com/c66yu/csrn)|
+|[collie: finding performance anomalies in rdma subsystems](https://arxiv.org/abs/2304.11467)|[collie](https://github.com/bytedance/collie)|
 |[device management and network connectivity as missing elements in tinyml landscape](https://arxiv.org/abs/2304.11669)|[FogML](https://github.com/tszydlo/FogML)|
 ## 2023-04-24
 |paper|code|
@@ -23,6 +35,7 @@
 |[transformers in time series: a survey](https://arxiv.org/abs/2202.07125)|[time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)|
 |[icsml: industrial control systems ml framework for native inference using iec 61131-3 code](https://arxiv.org/abs/2202.10075)|[icsml](https://github.com/momalab/icsml)|
 |[optimal robust network design: formulations and algorithms for maximizing algebraic connectivity](https://arxiv.org/abs/2304.08571)|[laplacianopt.jl](https://github.com/harshangrjn/laplacianopt.jl)|
+|[an orchestration framework for open system models of reconfigurable intelligent surfaces](https://arxiv.org/abs/2304.10858)|[self-configuring-orchestration](https://github.com/victorcroisfelt/self-configuring-orchestration)|
 |[on the importance of exploration for real life learned algorithms](https://arxiv.org/abs/2304.10860)|[on_exploration](https://github.com/steffengra/on_exploration)|
 ## 2023-04-21
 |paper|code|
