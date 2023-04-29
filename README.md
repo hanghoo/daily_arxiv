@@ -1,3 +1,11 @@
+## 2023-04-28
+|paper|code|
+|---|---|
+|[sequential bayesian inference for uncertain nonlinear dynamic systems: a tutorial](https://arxiv.org/abs/2201.08180)|[jsd-sbi](https://github.com/eth-windmil/jsd-sbi)|
+|[interpreting primal-dual algorithms for constrained multiagent reinforcement learning](https://arxiv.org/abs/2211.16069)|[multiagent-particle-envs](https://github.com/dtabas/multiagent-particle-envs)|
+|[spiking neural network decision feedback equalization for im/dd systems](https://arxiv.org/abs/2304.14152)|[snn-dfe](https://github.com/kit-cel/snn-dfe)|
+|[self-dual hadamard bent sequences](https://arxiv.org/abs/2203.16439)|[hadamard_bent](https://github.com/qomo-cheng/hadamard_bent)|
+|[randomized and exchangeable improvements of markov's, chebyshev's and chernoff's inequalities](https://arxiv.org/abs/2304.02611)|[randomized-markov](https://github.com/tmanole/randomized-markov)|
 ## 2023-04-27
 |paper|code|
 |---|---|
@@ -6,6 +14,7 @@
 |[deep statistical solver for distribution system state estimation](https://arxiv.org/abs/2301.01835)|[deep-statistical-solver-for-distribution-system-state-estimation](https://github.com/tu-delft-ai-energy-lab/deep-statistical-solver-for-distribution-system-state-estimation)|
 |[quantifying the impact of data characteristics on the transferability of sleep stage scoring models](https://arxiv.org/abs/2304.06033)|[transferability_sleep](https://github.com/akaraspt/transferability_sleep)|
 |[system identification with copula entropy](https://arxiv.org/abs/2304.12922)|[sysid](https://github.com/majianthu/sysid)|
+|[robust one-step estimation of impulsive time series](https://arxiv.org/abs/2304.13394)|[robust-one-step-estimation-of-impulsive-time-series](https://github.com/hrunvik/robust-one-step-estimation-of-impulsive-time-series)|
 ## 2023-04-26
 |paper|code|
 |---|---|
