@@ -1,3 +1,12 @@
+## 2023-05-01
+|paper|code|
+|---|---|
+|[clnet: complex input lightweight neural network designed for massive mimo csi feedback](https://arxiv.org/abs/2102.07507)|[CLNet](https://github.com/SIJIEJI/CLNet)|
+|[fairness in forecasting of observations of linear dynamical systems](https://arxiv.org/abs/2209.05274)|[Fairness-in-Learning-of-LDS](https://github.com/Quan-Zhou/Fairness-in-Learning-of-LDS)|
+|[distributed data-driven predictive control for cooperatively smoothing mixed traffic flow](https://arxiv.org/abs/2210.13171)|[distributed-deep-lcc](https://github.com/wangjw18/distributed-deep-lcc)|
+|[scatterformer: locally-invariant scattering transformer for patient-independent multispectral detection of epileptiform discharges](https://arxiv.org/abs/2304.14919)|[scatterformer](https://github.com/albertcheng19/scatterformer)|
+|[information theory inspired pattern analysis for time-series data](https://arxiv.org/abs/2302.11654)|[entropypipeline](https://github.com/yushan-huang/entropypipeline)|
+|[deepmad: mathematical architecture design for deep convolutional neural network](https://arxiv.org/abs/2303.02165)|[lightweight-neural-architecture-search](https://github.com/alibaba/lightweight-neural-architecture-search)|
 ## 2023-04-28
 |paper|code|
 |---|---|
@@ -20,7 +29,6 @@
 |---|---|
 |[data-driven modeling of noise time series with convolutional generative adversarial networks](https://arxiv.org/abs/2207.01110)|[noisegan](https://github.com/usnistgov/noisegan)|
 |[multi-stage warm started optimal motion planning for over-actuated mobile platforms](https://arxiv.org/abs/2207.14659)|[mwmp-matlab](https://github.com/spaceuma/mwmp-matlab)|
-|[elastic buildings: calibrated district-scale simulation of occupant-flexible campus operation for hybrid work optimization](https://arxiv.org/abs/2210.06124)|[elastic-buildings](https://github.com/buds-lab/elastic-buildings)|
 |[toward integrated sensing and communications in ieee 802.11bf wi-fi networks](https://arxiv.org/abs/2212.13930)|[sharpax](https://github.com/francescamen/sharpax)|
 |[blockchain based resource governance for decentralized web environments](https://arxiv.org/abs/2301.06919)|[usagecontrol-decentraltrading](https://github.com/valeriogoretti/usagecontrol-decentraltrading)|
 ## 2023-04-25
