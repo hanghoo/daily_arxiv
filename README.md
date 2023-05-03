@@ -1,3 +1,19 @@
+## 2023-05-02
+|paper|code|
+|---|---|
+|[controlling chaos in van der pol dynamics using signal-encoded deep learning](https://arxiv.org/abs/2112.14707)|[PIDOC](https://github.com/hanfengzhai/PIDOC)|
+|[latent signal models: learning compact representations of signal evolution for improved time-resolved, multi-contrast mri](https://arxiv.org/abs/2208.13003)|[latent_signal_models_mrm_2022](https://github.com/yaminarefeen/latent_signal_models_mrm_2022)|
+|[towards improving operation economics: a bilevel mip-based closed-loop predict-and-optimize framework for prescribing unit commitment](https://arxiv.org/abs/2208.13065)|[bilevel_mip_cpo](https://github.com/asxadf/bilevel_mip_cpo)|
+|[elastic buildings: calibrated district-scale simulation of occupant-flexible campus operation for hybrid work optimization](https://arxiv.org/abs/2210.06124)|[elastic-buildings](https://github.com/buds-lab/elastic-buildings)|
+|[modeling multivariate biosignals with graph neural networks and structured state space models](https://arxiv.org/abs/2211.11176)|[graphs4mer](https://github.com/tsy935/graphs4mer)|
+|[falsification of learning-based controllers through multi-fidelity bayesian optimization](https://arxiv.org/abs/2212.14118)|[mfbo-for-falsification](https://github.com/zahrashahrooei/mfbo-for-falsification)|
+|[point cloud forecasting as a proxy for 4d occupancy forecasting](https://arxiv.org/abs/2302.13130)|[4d-occ-forecasting](https://github.com/tarashakhurana/4d-occ-forecasting)|
+|[leveraging label non-uniformity for node classification in graph neural networks](https://arxiv.org/abs/2305.00139)|[label-non-uniformity-gnn](https://github.com/amblee0306/label-non-uniformity-gnn)|
+|[model-free motion planning of autonomous agents for complex tasks in partially observable environments](https://arxiv.org/abs/2305.00561)|[model-free_drl_lstm_on_pomdp_with_ldgba](https://github.com/junchaoli001/model-free_drl_lstm_on_pomdp_with_ldgba)|
+|[exploring proxying quic and http/3 for satellite communication](https://arxiv.org/abs/2205.01554)|[2022-ifip-nw-quic-proxies](https://github.com/kosekmi/2022-ifip-nw-quic-proxies)|
+|[implementing reinforcement learning datacenter congestion control in nvidia nics](https://arxiv.org/abs/2207.02295)|[rl-cc](https://github.com/benja263/rl-cc)|
+|[nvidia flare: federated learning from simulation to real-world](https://arxiv.org/abs/2210.13291)|[nvflare](https://github.com/nvidia/nvflare)|
+|[sok: pragmatic assessment of machine learning for network intrusion detection](https://arxiv.org/abs/2305.00550)|[pragmaticassessment](https://github.com/hihey54/pragmaticassessment)|
 ## 2023-05-01
 |paper|code|
 |---|---|
