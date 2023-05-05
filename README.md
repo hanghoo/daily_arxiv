@@ -1,3 +1,10 @@
+## 2023-05-04
+|paper|code|
+|---|---|
+|[tutorial: circuit-based electromagnetic transient simulation](https://arxiv.org/abs/2212.12368)|[tutorial-circuit-based-electromagnetic-transient-simulation](https://github.com/amritanshup7/tutorial-circuit-based-electromagnetic-transient-simulation)|
+|[avoiding discretization issues for nonlinear eigenvalue problems](https://arxiv.org/abs/2305.01691)|[infnep](https://github.com/mcolbrook/infnep)|
+|[schedule optimization for transiting exoplanet observations with nasa's pandora smallsat mission](https://arxiv.org/abs/2305.02285)|[pandora-scheduler](https://github.com/pandoramission/pandora-scheduler)|
+|[dns privacy with speed? evaluating dns over quic and its impact on web performance](https://arxiv.org/abs/2305.00790)|[2022-imc-dns-over-quic-web-performance](https://github.com/kosekmi/2022-imc-dns-over-quic-web-performance)|
 ## 2023-05-03
 |paper|code|
 |---|---|
@@ -5,6 +12,11 @@
 |[monge-kantorovich optimal transport through constrictions and flow-rate constraints](https://arxiv.org/abs/2212.14509)|[OMT-with-Flux-rate-Constraint](https://github.com/dytroshut/OMT-with-Flux-rate-Constraint)|
 |[recurrences reveal shared causal drivers of complex time series](https://arxiv.org/abs/2301.13516)|[shrec](https://github.com/williamgilpin/shrec)|
 |[how to control hydrodynamic force on fluidic pinball via deep reinforcement learning](https://arxiv.org/abs/2304.11526)|[How-to-Control-Hydrodynamic-Force](https://github.com/HDFengChina/How-to-Control-Hydrodynamic-Force)|
+|[distributed optimization for power systems with radial partitioning](https://arxiv.org/abs/2305.01032)|[dicarp](https://github.com/mehdi-karimi-math/dicarp)|
+|[traction control allocation employing vehicle motion feedback controller for four-wheel-independent-drive vehicle](https://arxiv.org/abs/2305.01251)|[formulacarmaker](https://github.com/sds-rc-fee-ctu-in-prague/formulacarmaker)|
+|[an improved yaw control algorithm for wind turbines via reinforcement learning](https://arxiv.org/abs/2305.01299)|[rl-yaw-control-algorithm-for-wind-turbines](https://github.com/albanpuech/rl-yaw-control-algorithm-for-wind-turbines)|
+|[network error logging: http archive analysis](https://arxiv.org/abs/2305.01249)|[nel-http-archive-analysis](https://github.com/kjerabek/nel-http-archive-analysis)|
+|[nelora-bench: a benchmark for neural-enhanced lora demodulation](https://arxiv.org/abs/2305.01573)|[nelora_dataset](https://github.com/daibiaoxuwu/nelora_dataset)|
 ## 2023-05-02
 |paper|code|
 |---|---|
@@ -16,7 +28,10 @@
 |[falsification of learning-based controllers through multi-fidelity bayesian optimization](https://arxiv.org/abs/2212.14118)|[mfbo-for-falsification](https://github.com/zahrashahrooei/mfbo-for-falsification)|
 |[point cloud forecasting as a proxy for 4d occupancy forecasting](https://arxiv.org/abs/2302.13130)|[4d-occ-forecasting](https://github.com/tarashakhurana/4d-occ-forecasting)|
 |[leveraging label non-uniformity for node classification in graph neural networks](https://arxiv.org/abs/2305.00139)|[label-non-uniformity-gnn](https://github.com/amblee0306/label-non-uniformity-gnn)|
+|[an evidential real-time multi-mode fault diagnosis approach based on broad learning system](https://arxiv.org/abs/2305.00169)|[multi-mode-fault-diagnosis-datasets-with-te-process](https://github.com/thufdd/multi-mode-fault-diagnosis-datasets-with-te-process)|
+|[non-linear phase-retrieval algorithms for x-ray propagation-based phase-contrast tomography](https://arxiv.org/abs/2305.00334)|[phasetorch](https://github.com/phasetorch/phasetorch)|
 |[model-free motion planning of autonomous agents for complex tasks in partially observable environments](https://arxiv.org/abs/2305.00561)|[model-free_drl_lstm_on_pomdp_with_ldgba](https://github.com/junchaoli001/model-free_drl_lstm_on_pomdp_with_ldgba)|
+|[adaptive sampling of algal blooms using autonomous underwater vehicle and satellite imagery: experimental validation in the baltic sea](https://arxiv.org/abs/2305.00774)|[gp4aes](https://github.com/joanafonsec/gp4aes)|
 |[exploring proxying quic and http/3 for satellite communication](https://arxiv.org/abs/2205.01554)|[2022-ifip-nw-quic-proxies](https://github.com/kosekmi/2022-ifip-nw-quic-proxies)|
 |[implementing reinforcement learning datacenter congestion control in nvidia nics](https://arxiv.org/abs/2207.02295)|[rl-cc](https://github.com/benja263/rl-cc)|
 |[nvidia flare: federated learning from simulation to real-world](https://arxiv.org/abs/2210.13291)|[nvflare](https://github.com/nvidia/nvflare)|
@@ -27,6 +42,7 @@
 |[clnet: complex input lightweight neural network designed for massive mimo csi feedback](https://arxiv.org/abs/2102.07507)|[CLNet](https://github.com/SIJIEJI/CLNet)|
 |[fairness in forecasting of observations of linear dynamical systems](https://arxiv.org/abs/2209.05274)|[Fairness-in-Learning-of-LDS](https://github.com/Quan-Zhou/Fairness-in-Learning-of-LDS)|
 |[distributed data-driven predictive control for cooperatively smoothing mixed traffic flow](https://arxiv.org/abs/2210.13171)|[distributed-deep-lcc](https://github.com/wangjw18/distributed-deep-lcc)|
+|[regret optimal control for uncertain stochastic systems](https://arxiv.org/abs/2304.14835)|[scenariosafeminregret](https://github.com/decodepfl/scenariosafeminregret)|
 |[scatterformer: locally-invariant scattering transformer for patient-independent multispectral detection of epileptiform discharges](https://arxiv.org/abs/2304.14919)|[scatterformer](https://github.com/albertcheng19/scatterformer)|
 |[information theory inspired pattern analysis for time-series data](https://arxiv.org/abs/2302.11654)|[entropypipeline](https://github.com/yushan-huang/entropypipeline)|
 |[deepmad: mathematical architecture design for deep convolutional neural network](https://arxiv.org/abs/2303.02165)|[lightweight-neural-architecture-search](https://github.com/alibaba/lightweight-neural-architecture-search)|
