@@ -1,3 +1,14 @@
+## 2023-05-05
+|paper|code|
+|---|---|
+|[fast adaptive regression-based model predictive control](https://arxiv.org/abs/2209.02448)|[fast-regression-mpc](https://github.com/ahmed-elliethy/fast-regression-mpc)|
+|[exploration policies for on-the-fly controller synthesis: a reinforcement learning approach](https://arxiv.org/abs/2210.05393)|[learning-synthesis](https://github.com/tdelgado00/learning-synthesis)|
+|[global performance guarantees for neural network models of ac power flow](https://arxiv.org/abs/2211.07125)|[verifystrongsdp](https://github.com/samchevalier/verifystrongsdp)|
+|[towards the decarbonization of the mobility sector: promoting renewable-based charging in green ride-sharing](https://arxiv.org/abs/2305.02419)|[green_ride-sharing](https://github.com/elispe/green_ride-sharing)|
+|[tackling universal properties of minimal trap spaces of boolean networks](https://arxiv.org/abs/2305.02442)|[cegar-bonesis](https://github.com/bnediction/cegar-bonesis)|
+|[rcp-rf: a comprehensive road-car-pedestrian risk management framework based on driving risk potential field](https://arxiv.org/abs/2305.02493)|[AV_risk_model](https://github.com/SH-Tan/AV_risk_model)|
+|[efficient and robust time-optimal trajectory planning and control for agile quadrotor flight](https://arxiv.org/abs/2305.02772)|[Fast-fly](https://github.com/BIT-KAUIS/Fast-fly)|
+|[conditional and residual methods in scalable coding for humans and machines](https://arxiv.org/abs/2305.02562)|[research](https://github.com/adeandrade/research)|
 ## 2023-05-04
 |paper|code|
 |---|---|
