@@ -39,10 +39,12 @@
 |[modeling multivariate biosignals with graph neural networks and structured state space models](https://arxiv.org/abs/2211.11176)|[graphs4mer](https://github.com/tsy935/graphs4mer)|
 |[falsification of learning-based controllers through multi-fidelity bayesian optimization](https://arxiv.org/abs/2212.14118)|[mfbo-for-falsification](https://github.com/zahrashahrooei/mfbo-for-falsification)|
 |[point cloud forecasting as a proxy for 4d occupancy forecasting](https://arxiv.org/abs/2302.13130)|[4d-occ-forecasting](https://github.com/tarashakhurana/4d-occ-forecasting)|
+|[improving gradient computation for differentiable physics simulation with contacts](https://arxiv.org/abs/2305.00092)|[diff_sim_improve_grads](https://github.com/desmondzhong/diff_sim_improve_grads)|
 |[leveraging label non-uniformity for node classification in graph neural networks](https://arxiv.org/abs/2305.00139)|[label-non-uniformity-gnn](https://github.com/amblee0306/label-non-uniformity-gnn)|
 |[an evidential real-time multi-mode fault diagnosis approach based on broad learning system](https://arxiv.org/abs/2305.00169)|[multi-mode-fault-diagnosis-datasets-with-te-process](https://github.com/thufdd/multi-mode-fault-diagnosis-datasets-with-te-process)|
 |[non-linear phase-retrieval algorithms for x-ray propagation-based phase-contrast tomography](https://arxiv.org/abs/2305.00334)|[phasetorch](https://github.com/phasetorch/phasetorch)|
 |[model-free motion planning of autonomous agents for complex tasks in partially observable environments](https://arxiv.org/abs/2305.00561)|[model-free_drl_lstm_on_pomdp_with_ldgba](https://github.com/junchaoli001/model-free_drl_lstm_on_pomdp_with_ldgba)|
+|[multi-scale transformer-based network for emotion recognition from multi physiological signals](https://arxiv.org/abs/2305.00769)|[EPiC-2023-ACII](https://github.com/vsl-team/EPiC-2023-ACII)|
 |[adaptive sampling of algal blooms using autonomous underwater vehicle and satellite imagery: experimental validation in the baltic sea](https://arxiv.org/abs/2305.00774)|[gp4aes](https://github.com/joanafonsec/gp4aes)|
 |[exploring proxying quic and http/3 for satellite communication](https://arxiv.org/abs/2205.01554)|[2022-ifip-nw-quic-proxies](https://github.com/kosekmi/2022-ifip-nw-quic-proxies)|
 |[implementing reinforcement learning datacenter congestion control in nvidia nics](https://arxiv.org/abs/2207.02295)|[rl-cc](https://github.com/benja263/rl-cc)|
