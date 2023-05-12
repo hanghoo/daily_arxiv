@@ -1,13 +1,23 @@
+## 2023-05-11
+|paper|code|
+|---|---|
+|[phaseaug: a differentiable augmentation for speech synthesis to simulate one-to-many mapping](https://arxiv.org/abs/2211.04610)|[phaseaug](https://github.com/mindslab-ai/phaseaug)|
+|[hybrid multi-agent deep reinforcement learning for autonomous mobility on demand systems](https://arxiv.org/abs/2212.07313)|[hybridmadrl-amod](https://github.com/tumbais/hybridmadrl-amod)|
+|[spiking neural networks in the alexiewicz topology: a new perspective on analysis and error bounds](https://arxiv.org/abs/2305.05772)|[alexsnn](https://github.com/lunglmayrmoser/alexsnn)|
+|[strategic latency reduction in blockchain peer-to-peer networks](https://arxiv.org/abs/2205.06837)|[geth_peri](https://github.com/weizhaot/geth_peri)|
+|[blockchain based resource governance for decentralized web environments](https://arxiv.org/abs/2301.06919)|[usagecontrol-decentraltrading](https://github.com/valeriogoretti/usagecontrol-decentraltrading)|
 ## 2023-05-10
 |paper|code|
 |---|---|
 |[robust information bottleneck for task-oriented communication with digital modulation](https://arxiv.org/abs/2209.10382)|[Discrete-TaskOriented-JSCC](https://github.com/SongjieXie/Discrete-TaskOriented-JSCC)|
 |[gaussian process deconvolution](https://arxiv.org/abs/2305.04871)|[gaussian-process-deconvolution](https://github.com/games-uchile/gaussian-process-deconvolution)|
+|[impact of climate simulation resolutions on future energy system reliability assessment: a texas case study](https://arxiv.org/abs/2305.04929)|[climateresolutionpowerreliability](https://github.com/tamu-engineering-research/climateresolutionpowerreliability)|
 |[bistatic mimo radar sensing of specularly reflecting surfaces for wireless power transfer](https://arxiv.org/abs/2305.05002)|[bistatic-mimo-radar-sensing](https://gitlab.com/baenshy/bistatic-mimo-radar-sensing)|
 |[3dinvnet: a deep learning-based 3d ground-penetrating radar data inversion](https://arxiv.org/abs/2305.05425)|[3dinvnet](https://github.com/qiqi-dai/3dinvnet)|
 |[optimal energy system scheduling using a constraint-aware reinforcement learning algorithm](https://arxiv.org/abs/2305.05484)|[Energy-management-MIP-Deep-Reinforcement-Learning](https://github.com/ShengrenHou/Energy-management-MIP-Deep-Reinforcement-Learning)|
 |[towards building the federated gpt: federated instruction tuning](https://arxiv.org/abs/2305.05644)|[federatedgpt-shepherd](https://github.com/jayzhang42/federatedgpt-shepherd)|
 |[randomized and exchangeable improvements of markov's, chebyshev's and chernoff's inequalities](https://arxiv.org/abs/2304.02611)|[randomized-markov](https://github.com/tmanole/randomized-markov)|
+|[xmasq: low-overhead container overlay network based on ebpf](https://arxiv.org/abs/2305.05455)|[xmasq](https://github.com/nothepeople/xmasq)|
 ## 2023-05-09
 |paper|code|
 |---|---|
