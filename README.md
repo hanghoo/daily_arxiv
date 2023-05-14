@@ -10,6 +10,7 @@
 |[pseudo-hamiltonian system identification](https://arxiv.org/abs/2305.06920)|[phsi](https://github.com/sigurho/phsi)|
 |[scor: software-defined constrained optimal routing platform for sdn](https://arxiv.org/abs/1607.03243)|[SCOR](https://github.com/layeghy/SCOR)|
 |[e-graphsage: a graph neural network based intrusion detection system for iot](https://arxiv.org/abs/2103.16329)|[E-GraphSAGE](https://github.com/waimorris/E-GraphSAGE)|
+|[the netmob23 dataset: a high-resolution multi-region service-level mobile data traffic cartography](https://arxiv.org/abs/2305.06933)|[netmob2023challenge](https://github.com/nds-group/netmob2023challenge)|
 ## 2023-05-11
 |paper|code|
 |---|---|
