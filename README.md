@@ -1,3 +1,11 @@
+## 2023-05-15
+|paper|code|
+|---|---|
+|[transformers in time series: a survey](https://arxiv.org/abs/2202.07125)|[time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review)|
+|[hierarchical bayesian modelling for knowledge transfer across engineering fleets via multitask learning](https://arxiv.org/abs/2204.12404)|[engineeringpatternrecognition](https://github.com/labull/engineeringpatternrecognition)|
+|[over-the-air computation with multiple receivers: a space-time approach](https://arxiv.org/abs/2208.11751)|[space-time-ota](https://github.com/ymalitsky/space-time-ota)|
+|[probabilistic traversability model for risk-aware motion planning in off-road environments](https://arxiv.org/abs/2210.00153)|[mppi_numba](https://github.com/mit-acl/mppi_numba)|
+|[a simulator for fully-actuated uavs](https://arxiv.org/abs/2305.07228)|[aircraft-simulator-matlab](https://github.com/keipour/aircraft-simulator-matlab)|
 ## 2023-05-12
 |paper|code|
 |---|---|
@@ -6,7 +14,6 @@
 |[a unified algorithmic framework for distributed adaptive signal and feature fusion problems -- part ii: convergence properties](https://arxiv.org/abs/2208.09088)|[DASF_toolbox](https://github.com/AlexanderBertrandLab/DASF_toolbox)|
 |[optimal tracking strategies in a turbulent flow](https://arxiv.org/abs/2305.04677)|[optimal-tracking-strategies-in-a-turbulent-flow](https://github.com/calascibetta-chiara/optimal-tracking-strategies-in-a-turbulent-flow)|
 |[a generalizable physics-informed learning framework for risk probability estimation](https://arxiv.org/abs/2305.06432)|[pipe-l4dc](https://github.com/jacobwang925/pipe-l4dc)|
-|[slicertms: interactive real-time visualization of transcranial magnetic stimulation using augmented reality and deep learning](https://arxiv.org/abs/2305.06459)|[SlicerTMS](https://github.com/lorifranke/SlicerTMS)|
 |[pseudo-hamiltonian system identification](https://arxiv.org/abs/2305.06920)|[phsi](https://github.com/sigurho/phsi)|
 |[scor: software-defined constrained optimal routing platform for sdn](https://arxiv.org/abs/1607.03243)|[SCOR](https://github.com/layeghy/SCOR)|
 |[e-graphsage: a graph neural network based intrusion detection system for iot](https://arxiv.org/abs/2103.16329)|[E-GraphSAGE](https://github.com/waimorris/E-GraphSAGE)|
