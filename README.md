@@ -1,3 +1,15 @@
+## 2023-05-16
+|paper|code|
+|---|---|
+|[control strategies for autonomous vehicles](https://arxiv.org/abs/2011.08729)|[Self_Driving_Car_Trajectory_Tracking](https://github.com/Tinker-Twins/Self_Driving_Car_Trajectory_Tracking)|
+|[proximally optimal predictive control algorithm for path tracking of self-driving cars](https://arxiv.org/abs/2103.13240)|[Self_Driving_Car_Trajectory_Tracking](https://github.com/Tinker-Twins/Self_Driving_Car_Trajectory_Tracking)|
+|[compositional learning of dynamical system models using port-hamiltonian neural networks](https://arxiv.org/abs/2212.00893)|[compositional_port_hamiltonian_nns](https://github.com/cyrusneary/compositional_port_hamiltonian_nns)|
+|[locality sensitive hashing via mechanical behavior](https://arxiv.org/abs/2304.06505)|[mechhs](https://github.com/elejeune11/mechhs)|
+|[slicertms: interactive real-time visualization of transcranial magnetic stimulation using augmented reality and deep learning](https://arxiv.org/abs/2305.06459)|[SlicerTMS](https://github.com/lorifranke/SlicerTMS)|
+|[accelerated algorithms for nonlinear matrix decomposition with the relu function](https://arxiv.org/abs/2305.08687)|[relu-nmd](https://gitlab.com/ngillis/relu-nmd)|
+|[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
+|[detection and mitigation of byzantine attacks in distributed training](https://arxiv.org/abs/2208.08085)|[aspis](https://github.com/kkonstantinidis/aspis)|
+|[your router is my prober: measuring ipv6 networks via icmp rate limiting side channels](https://arxiv.org/abs/2210.13088)|[ivantage](https://github.com/ivantage-ndss23/ivantage)|
 ## 2023-05-15
 |paper|code|
 |---|---|
@@ -5,7 +17,14 @@
 |[hierarchical bayesian modelling for knowledge transfer across engineering fleets via multitask learning](https://arxiv.org/abs/2204.12404)|[engineeringpatternrecognition](https://github.com/labull/engineeringpatternrecognition)|
 |[over-the-air computation with multiple receivers: a space-time approach](https://arxiv.org/abs/2208.11751)|[space-time-ota](https://github.com/ymalitsky/space-time-ota)|
 |[probabilistic traversability model for risk-aware motion planning in off-road environments](https://arxiv.org/abs/2210.00153)|[mppi_numba](https://github.com/mit-acl/mppi_numba)|
+|[active sensing for two-sided beam alignment and reflection design using ping-pong pilots](https://arxiv.org/abs/2305.07130)|[active-sensing-beam-alignment](https://github.com/taojiang-github/active-sensing-beam-alignment)|
 |[a simulator for fully-actuated uavs](https://arxiv.org/abs/2305.07228)|[aircraft-simulator-matlab](https://github.com/keipour/aircraft-simulator-matlab)|
+|[scaling laws of dynamic high-capacity ride-sharing](https://arxiv.org/abs/2305.07236)|[ride-sharing-simulator](https://github.com/hku-smart-mobility-lab/ride-sharing-simulator)|
+|[differentially private set-based estimation using zonotopes](https://arxiv.org/abs/2305.07407)|[differentially-private-set-based-estimation-using-zonotopes](https://github.com/mohammed-dawoud/differentially-private-set-based-estimation-using-zonotopes)|
+|[prenas: preferred one-shot learning towards efficient neural architecture search](https://arxiv.org/abs/2304.14636)|[prenas](https://github.com/tinyvision/prenas)|
+|[improved upper and lower bounds on the capacity of the binary deletion channel](https://arxiv.org/abs/2305.07156)|[bdc_upper_bounds](https://github.com/ittai-rubinstein/bdc_upper_bounds)|
+|[learning to code on graphs for topological interference management](https://arxiv.org/abs/2305.07186)|[learning-to-code-on-graphs](https://github.com/zhiweishan/learning-to-code-on-graphs)|
+|[adaptive and flexible model-based ai for deep receivers in dynamic channels](https://arxiv.org/abs/2305.07309)|[facilitating-adaptation-deep-receivers](https://github.com/tomerraviv95/facilitating-adaptation-deep-receivers)|
 ## 2023-05-12
 |paper|code|
 |---|---|
