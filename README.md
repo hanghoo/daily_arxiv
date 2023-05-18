@@ -1,3 +1,13 @@
+## 2023-05-17
+|paper|code|
+|---|---|
+|[fairness in forecasting of observations of linear dynamical systems](https://arxiv.org/abs/2209.05274)|[Fairness-in-Learning-of-LDS](https://github.com/Quan-Zhou/Fairness-in-Learning-of-LDS)|
+|[supervisory control for dynamic feature configuration in product lines](https://arxiv.org/abs/2211.07382)|[tecs_ple](https://github.com/sbthuijsman/tecs_ple)|
+|[analysis and detectability of offline data poisoning attacks on linear dynamical systems](https://arxiv.org/abs/2211.08804)|[poisoning-data-driven-controllers](https://github.com/rssalessio/poisoning-data-driven-controllers)|
+|[automated reachability analysis of neural network-controlled systems via adaptive polytopes](https://arxiv.org/abs/2212.07553)|[automatedreach](https://github.com/o4lc/automatedreach)|
+|[policy evaluation in decentralized pomdps with belief sharing](https://arxiv.org/abs/2302.04151)|[decpomdp_policy_evaluation_w-belief_sharing](https://github.com/asl-epfl/decpomdp_policy_evaluation_w-belief_sharing)|
+|[guaranteed dynamic scheduling of ultra-reliable low-latency traffic via conformal prediction](https://arxiv.org/abs/2302.07675)|[online_cp_urllc](https://github.com/kclip/online_cp_urllc)|
+|[graph reinforcement learning for network control via bi-level optimization](https://arxiv.org/abs/2305.09129)|[graph-rl-for-network-optimization](https://github.com/danielegammelli/graph-rl-for-network-optimization)|
 ## 2023-05-16
 |paper|code|
 |---|---|
@@ -6,6 +16,7 @@
 |[compositional learning of dynamical system models using port-hamiltonian neural networks](https://arxiv.org/abs/2212.00893)|[compositional_port_hamiltonian_nns](https://github.com/cyrusneary/compositional_port_hamiltonian_nns)|
 |[locality sensitive hashing via mechanical behavior](https://arxiv.org/abs/2304.06505)|[mechhs](https://github.com/elejeune11/mechhs)|
 |[slicertms: interactive real-time visualization of transcranial magnetic stimulation using augmented reality and deep learning](https://arxiv.org/abs/2305.06459)|[SlicerTMS](https://github.com/lorifranke/SlicerTMS)|
+|[acromonk: a minimalist underactuated brachiating robot](https://arxiv.org/abs/2305.08373)|[acromonk](https://github.com/dfki-ric-underactuated-lab/acromonk)|
 |[accelerated algorithms for nonlinear matrix decomposition with the relu function](https://arxiv.org/abs/2305.08687)|[relu-nmd](https://gitlab.com/ngillis/relu-nmd)|
 |[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
 |[detection and mitigation of byzantine attacks in distributed training](https://arxiv.org/abs/2208.08085)|[aspis](https://github.com/kkonstantinidis/aspis)|
