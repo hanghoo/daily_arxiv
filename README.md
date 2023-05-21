@@ -7,6 +7,7 @@
 |[a measure of the complexity of neural representations based on partial information decomposition](https://arxiv.org/abs/2209.10438)|[nninfo](https://github.com/priesemann-group/nninfo)|
 |[synchronizing many filesystems in near linear time](https://arxiv.org/abs/2302.09666)|[algebraic-reconciler](https://github.com/csirmaz/algebraic-reconciler)|
 |[deir: efficient and robust exploration through discriminative-model-based episodic intrinsic rewards](https://arxiv.org/abs/2304.10770)|[deir](https://github.com/swan-utokyo/deir)|
+|[an intelligent sdwn routing algorithm based on network situational awareness and deep reinforcement learning](https://arxiv.org/abs/2305.10441)|[drl-pponsa](https://github.com/guetye/drl-pponsa)|
 ## 2023-05-18
 |paper|code|
 |---|---|
@@ -22,6 +23,7 @@
 ## 2023-05-17
 |paper|code|
 |---|---|
+|[on the convergence of inexact gradient descent with controlled synchronization steps](https://arxiv.org/abs/2208.07797)|[inexact-gradient-descent](https://github.com/Sandushan/inexact-gradient-descent)|
 |[fairness in forecasting of observations of linear dynamical systems](https://arxiv.org/abs/2209.05274)|[Fairness-in-Learning-of-LDS](https://github.com/Quan-Zhou/Fairness-in-Learning-of-LDS)|
 |[supervisory control for dynamic feature configuration in product lines](https://arxiv.org/abs/2211.07382)|[tecs_ple](https://github.com/sbthuijsman/tecs_ple)|
 |[analysis and detectability of offline data poisoning attacks on linear dynamical systems](https://arxiv.org/abs/2211.08804)|[poisoning-data-driven-controllers](https://github.com/rssalessio/poisoning-data-driven-controllers)|
