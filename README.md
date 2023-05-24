@@ -1,10 +1,26 @@
+## 2023-05-23
+|paper|code|
+|---|---|
+|[gradient-based learning of discrete structured measurement operators for signal recovery](https://arxiv.org/abs/2202.03391)|[glodismo](https://github.com/josauder/glodismo)|
+|[machine learning-based csi feedback with variable length in fdd massive mimo](https://arxiv.org/abs/2204.04723)|[ml-based-csi-feedback](https://github.com/matteonerini/ml-based-csi-feedback)|
+|[on discrete symmetries of robotics systems: a group-theoretic and data-driven analysis](https://arxiv.org/abs/2302.10433)|[robotequivariantnn](https://github.com/danfoa/robotequivariantnn)|
+|[synthetic ecg signal generation using probabilistic diffusion models](https://arxiv.org/abs/2303.02475)|[augmentation-of-ecg-training-dataset-with-cgan](https://github.com/mah533/augmentation-of-ecg-training-dataset-with-cgan)|
+|[appliance detection using very low-frequency smart meter time series](https://arxiv.org/abs/2305.10352)|[ApplianceDetectionBenchmark](https://github.com/adrienpetralia/ApplianceDetectionBenchmark)|
+|[classification utility, fairness, and compactness via tunable information bottleneck and r\'enyi measures](https://arxiv.org/abs/2206.10043)|[rfib-code](https://github.com/agronowski/rfib-code)|
+|[commodity-specific triads in the dutch inter-industry production network](https://arxiv.org/abs/2305.12179)|[numetris](https://github.com/marsmdk/numetris)|
+|[quantum key distribution with minimal qubit transmission based on multiqubit greenberger horne zeilinger state](https://arxiv.org/abs/2305.12725)|[GHZ-QKD-Simulation](https://github.com/HasanTasdiq/GHZ-QKD-Simulation)|
+|[evaluating prompt-based question answering for object prediction in the open research knowledge graph](https://arxiv.org/abs/2305.12900)|[thesis_work](https://github.com/as18cia/thesis_work)|
 ## 2023-05-22
 |paper|code|
 |---|---|
+|[joint distribution of distance and angles in finite wireless networks](https://arxiv.org/abs/2203.13510)|[joint_pdf_dist_angles](https://github.com/franmarve/joint_pdf_dist_angles)|
 |[online decision making for trading wind energy](https://arxiv.org/abs/2209.02009)|[online-trading-wind-energy](https://github.com/miguel897/online-trading-wind-energy)|
 |[grid-free harmonic retrieval and model order selection using deep convolutional neural networks](https://arxiv.org/abs/2211.04846)|[deepest-demo](https://huggingface.co/spaces/EMS-TU-Ilmenau/deepest-demo)|
 |[koopman-hopf hamilton-jacobi reachability and control](https://arxiv.org/abs/2303.11590)|[hopfreachability](https://github.com/ucsd-saslab/hopfreachability)|
 |[reconciling high accuracy, cost-efficiency, and low latency of inference serving systems](https://arxiv.org/abs/2304.10892)|[infadapter](https://github.com/reconfigurable-ml-pipeline/infadapter)|
+|[leveraging chatgpt for power system programming tasks](https://arxiv.org/abs/2305.11202)|[chatgpt-for-power-system-programming-tasks](https://github.com/bigdogmanluo/chatgpt-for-power-system-programming-tasks)|
+|[project-based learning for robot control theory: a robot operating system (ros) based approach](https://arxiv.org/abs/2305.11279)|[pbl_robot_control](https://github.com/sfarzan/pbl_robot_control)|
+|[parameter-efficient learning for text-to-speech accent adaptation](https://arxiv.org/abs/2305.11320)|[PEL-TTS](https://github.com/TTS-Research/PEL-TTS)|
 |[marginalized beam search algorithms for hierarchical hmms](https://arxiv.org/abs/2305.11752)|[mbs](https://github.com/chunxxc/mbs)|
 ## 2023-05-19
 |paper|code|
