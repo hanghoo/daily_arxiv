@@ -1,3 +1,15 @@
+## 2023-05-25
+|paper|code|
+|---|---|
+|[network-aware flexibility requests for distribution-level flexibility markets](https://arxiv.org/abs/2110.05983)|[flexrequest-creation](https://github.com/eleaprat/flexrequest-creation)|
+|[poisson multi-bernoulli mixture filter with general target-generated measurements and arbitrary clutter](https://arxiv.org/abs/2210.12983)|[MTT](https://github.com/Agarciafernandez/MTT)|
+|[cooperative distributed mpc via decentralized real-time optimization: implementation results for robot formations](https://arxiv.org/abs/2301.07960)|[dmpc_rto](https://github.com/optcon/dmpc_rto)|
+|[sliced-wasserstein on symmetric positive definite matrices for m/eeg signals](https://arxiv.org/abs/2303.05798)|[spdsw](https://github.com/clbonet/spdsw)|
+|[slicertms: interactive real-time visualization of transcranial magnetic stimulation using augmented reality and deep learning](https://arxiv.org/abs/2305.06459)|[SlicerTMS](https://github.com/lorifranke/SlicerTMS)|
+|[guessing winning policies in ltl synthesis by semantic learning](https://arxiv.org/abs/2305.15109)|[benchmarks](https://github.com/SYNTCOMP/benchmarks)|
+|[stochastic unrolled federated learning](https://arxiv.org/abs/2305.15371)|[fed-surf](https://github.com/smrhadou/fed-surf)|
+|[infoshape: task-based neural data shaping via mutual information](https://arxiv.org/abs/2210.15034)|[mine-pytorch](https://github.com/billywu1029/mine-pytorch)|
+|[selection for short-term empowerment accelerates the evolution of homeostatic neural cellular automata](https://arxiv.org/abs/2305.15220)|[empowered-nca-ii](https://github.com/caitlingrasso/empowered-nca-ii)|
 ## 2023-05-24
 |paper|code|
 |---|---|
@@ -12,6 +24,7 @@
 |[on discrete symmetries of robotics systems: a group-theoretic and data-driven analysis](https://arxiv.org/abs/2302.10433)|[robotequivariantnn](https://github.com/danfoa/robotequivariantnn)|
 |[synthetic ecg signal generation using probabilistic diffusion models](https://arxiv.org/abs/2303.02475)|[augmentation-of-ecg-training-dataset-with-cgan](https://github.com/mah533/augmentation-of-ecg-training-dataset-with-cgan)|
 |[appliance detection using very low-frequency smart meter time series](https://arxiv.org/abs/2305.10352)|[ApplianceDetectionBenchmark](https://github.com/adrienpetralia/ApplianceDetectionBenchmark)|
+|[thraws: a novel dataset for thermal hotspots detection in raw sentinel-2 data](https://arxiv.org/abs/2305.11891)|[pyraws](https://github.com/esa-philab/pyraws)|
 |[classification utility, fairness, and compactness via tunable information bottleneck and r\'enyi measures](https://arxiv.org/abs/2206.10043)|[rfib-code](https://github.com/agronowski/rfib-code)|
 |[commodity-specific triads in the dutch inter-industry production network](https://arxiv.org/abs/2305.12179)|[numetris](https://github.com/marsmdk/numetris)|
 |[quantum key distribution with minimal qubit transmission based on multiqubit greenberger horne zeilinger state](https://arxiv.org/abs/2305.12725)|[GHZ-QKD-Simulation](https://github.com/HasanTasdiq/GHZ-QKD-Simulation)|
@@ -24,7 +37,6 @@
 |[grid-free harmonic retrieval and model order selection using deep convolutional neural networks](https://arxiv.org/abs/2211.04846)|[deepest-demo](https://huggingface.co/spaces/EMS-TU-Ilmenau/deepest-demo)|
 |[koopman-hopf hamilton-jacobi reachability and control](https://arxiv.org/abs/2303.11590)|[hopfreachability](https://github.com/ucsd-saslab/hopfreachability)|
 |[reconciling high accuracy, cost-efficiency, and low latency of inference serving systems](https://arxiv.org/abs/2304.10892)|[infadapter](https://github.com/reconfigurable-ml-pipeline/infadapter)|
-|[leveraging chatgpt for power system programming tasks](https://arxiv.org/abs/2305.11202)|[chatgpt-for-power-system-programming-tasks](https://github.com/bigdogmanluo/chatgpt-for-power-system-programming-tasks)|
 |[project-based learning for robot control theory: a robot operating system (ros) based approach](https://arxiv.org/abs/2305.11279)|[pbl_robot_control](https://github.com/sfarzan/pbl_robot_control)|
 |[parameter-efficient learning for text-to-speech accent adaptation](https://arxiv.org/abs/2305.11320)|[PEL-TTS](https://github.com/TTS-Research/PEL-TTS)|
 |[marginalized beam search algorithms for hierarchical hmms](https://arxiv.org/abs/2305.11752)|[mbs](https://github.com/chunxxc/mbs)|
