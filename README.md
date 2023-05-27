@@ -1,14 +1,24 @@
+## 2023-05-26
+|paper|code|
+|---|---|
+|[data assimilation networks](https://arxiv.org/abs/2010.09694)|[dan_james](https://gitlab.com/aniti-data-assimilation/dan_james)|
+|[qcm-sgm+: improved quantized compressed sensing with score-based generative models](https://arxiv.org/abs/2302.00919)|[qcs-sgm-plus](https://github.com/mengxiangming/qcs-sgm-plus)|
+|[a framework for leveraging chatgpt on programming tasks in energy systems](https://arxiv.org/abs/2305.11202)|[chatgpt-for-power-system-programming-tasks](https://github.com/bigdogmanluo/chatgpt-for-power-system-programming-tasks)|
+|[trend-based sac beam control method with zero-shot in superconducting linear accelerator](https://arxiv.org/abs/2305.13869)|[tbsac](https://github.com/elivisc/tbsac)|
+|[deep learning-enabled mcmc for probabilistic state estimation in district heating grids](https://arxiv.org/abs/2305.15445)|[dnn_mcmc4dh](https://github.com/eins-tuda/dnn_mcmc4dh)|
 ## 2023-05-25
 |paper|code|
 |---|---|
 |[network-aware flexibility requests for distribution-level flexibility markets](https://arxiv.org/abs/2110.05983)|[flexrequest-creation](https://github.com/eleaprat/flexrequest-creation)|
-|[poisson multi-bernoulli mixture filter with general target-generated measurements and arbitrary clutter](https://arxiv.org/abs/2210.12983)|[MTT](https://github.com/Agarciafernandez/MTT)|
+|[poisson multi-bernoulli mixture filter with general target-generated measurements and arbitrary clutter](https://arxiv.org/abs/2210.12983)|[extented-target-pmbm-filter-independent-clutter-sources](https://github.com/yuhsuansia/extented-target-pmbm-filter-independent-clutter-sources)|
 |[cooperative distributed mpc via decentralized real-time optimization: implementation results for robot formations](https://arxiv.org/abs/2301.07960)|[dmpc_rto](https://github.com/optcon/dmpc_rto)|
 |[sliced-wasserstein on symmetric positive definite matrices for m/eeg signals](https://arxiv.org/abs/2303.05798)|[spdsw](https://github.com/clbonet/spdsw)|
 |[slicertms: interactive real-time visualization of transcranial magnetic stimulation using augmented reality and deep learning](https://arxiv.org/abs/2305.06459)|[SlicerTMS](https://github.com/lorifranke/SlicerTMS)|
 |[guessing winning policies in ltl synthesis by semantic learning](https://arxiv.org/abs/2305.15109)|[benchmarks](https://github.com/SYNTCOMP/benchmarks)|
 |[stochastic unrolled federated learning](https://arxiv.org/abs/2305.15371)|[fed-surf](https://github.com/smrhadou/fed-surf)|
-|[infoshape: task-based neural data shaping via mutual information](https://arxiv.org/abs/2210.15034)|[mine-pytorch](https://github.com/billywu1029/mine-pytorch)|
+|[safety-aware semi-end-to-end coordinated decision model for voltage regulation in active distribution network](https://arxiv.org/abs/2305.15395)|[se2e_dataset](https://github.com/sanglinwei/se2e_dataset)|
+|[infoshape: task-based neural data shaping via mutual information](https://arxiv.org/abs/2210.15034)|[infoshape](https://github.com/billywu1029/infoshape)|
+|[directed message passing based on attention for prediction of molecular properties](https://arxiv.org/abs/2305.14819)|[d-gats](https://github.com/gongchen-1995/d-gats)|
 |[selection for short-term empowerment accelerates the evolution of homeostatic neural cellular automata](https://arxiv.org/abs/2305.15220)|[empowered-nca-ii](https://github.com/caitlingrasso/empowered-nca-ii)|
 ## 2023-05-24
 |paper|code|
