@@ -1,3 +1,13 @@
+## 2023-05-29
+|paper|code|
+|---|---|
+|[bandit submodular maximization for multi-robot coordination in unpredictable and partially observable environments](https://arxiv.org/abs/2305.12795)|[bandit-sequential-greedy](https://github.com/um-iral/bandit-sequential-greedy)|
+|[value of information analysis for rationalising information gathering in building energy analysis](https://arxiv.org/abs/2305.16117)|[bsim23-voi-examples](https://github.com/eeci/bsim23-voi-examples)|
+|[a reminder of its brittleness: language reward shaping may hinder learning for instruction following agents](https://arxiv.org/abs/2305.16621)|[brittleness_of_lrs](https://github.com/sino-huang/brittleness_of_lrs)|
+|[modulate your spectrum in self-supervised learning](https://arxiv.org/abs/2305.16789)|[intl](https://github.com/winci-ai/intl)|
+|[the representation jensen-shannon divergence](https://arxiv.org/abs/2305.16446)|[representationjsd](https://github.com/uk-cliplab/representationjsd)|
+|[computation of reliability statistics for finite samples of success-failure experiments](https://arxiv.org/abs/2305.16578)|[relistats](https://github.com/sanjaymjoshi/relistats)|
+|[communication-efficient reinforcement learning in swarm robotic networks for maze exploration](https://arxiv.org/abs/2305.17087)|[mazecommrl](https://github.com/herolab-uga/mazecommrl)|
 ## 2023-05-26
 |paper|code|
 |---|---|
