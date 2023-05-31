@@ -1,3 +1,17 @@
+## 2023-05-30
+|paper|code|
+|---|---|
+|[traffic simulator for multibeam satellite communication systems](https://arxiv.org/abs/2007.07148)|[Satellite-Traffic-Simulator](https://github.com/hayder-hussein/Satellite-Traffic-Simulator)|
+|[heterps: distributed deep learning with reinforcement learning based scheduling in heterogeneous environments](https://arxiv.org/abs/2111.10635)|[Paddle](https://github.com/PaddlePaddle/Paddle)|
+|[exploring self-attention mechanisms for speech separation](https://arxiv.org/abs/2202.02884)|[speechbrain](https://github.com/speechbrain/speechbrain)|
+|[unsupervised reward shaping for a robotic sequential picking task from visual observations in a logistics scenario](https://arxiv.org/abs/2209.12350)|[bootstrapping-rl-4-sequential-picking](https://github.com/vittoriogiammarino/bootstrapping-rl-4-sequential-picking)|
+|[ensemble gaussian processes for adaptive autonomous driving on multi-friction surfaces](https://arxiv.org/abs/2303.13694)|[multisurface-racing](https://github.com/atomyks/multisurface-racing)|
+|[a hybrid quantum-classical approach based on the hadamard transform for the convolutional layer](https://arxiv.org/abs/2305.17510)|[icml2023-ht](https://github.com/phy710/icml2023-ht)|
+|[pulse shape discrimination based on the tempotron: a powerful classifier on gpu](https://arxiv.org/abs/2305.18205)|[TempotronGPU](https://github.com/HaoranLiu507/TempotronGPU)|
+|[crisp: curriculum based sequential neural decoders for polar code family](https://arxiv.org/abs/2210.00313)|[neural_polar_decoder](https://github.com/hebbarashwin/neural_polar_decoder)|
+|[diffusion model based posterior sampling for noisy linear inverse problems](https://arxiv.org/abs/2211.12343)|[dmps](https://github.com/mengxiangming/dmps)|
+|[dime: maximizing mutual information by a difference of matrix-based entropies](https://arxiv.org/abs/2301.08164)|[DiME](https://github.com/uk-cliplab/DiME)|
+|[on probability shaping for 5g mimo wireless channel with realistic ldpc codes](https://arxiv.org/abs/2303.02598)|[on-probabilistic-qam-shaping-for-5g-mimo-wireless-channel-with-realistic-ldpc-codes](https://github.com/eugenbobrov/on-probabilistic-qam-shaping-for-5g-mimo-wireless-channel-with-realistic-ldpc-codes)|
 ## 2023-05-29
 |paper|code|
 |---|---|
@@ -5,6 +19,7 @@
 |[value of information analysis for rationalising information gathering in building energy analysis](https://arxiv.org/abs/2305.16117)|[bsim23-voi-examples](https://github.com/eeci/bsim23-voi-examples)|
 |[a reminder of its brittleness: language reward shaping may hinder learning for instruction following agents](https://arxiv.org/abs/2305.16621)|[brittleness_of_lrs](https://github.com/sino-huang/brittleness_of_lrs)|
 |[modulate your spectrum in self-supervised learning](https://arxiv.org/abs/2305.16789)|[intl](https://github.com/winci-ai/intl)|
+|[distributionally robust linear quadratic control](https://arxiv.org/abs/2305.17037)|[dr-control](https://github.com/rao-epfl/dr-control)|
 |[the representation jensen-shannon divergence](https://arxiv.org/abs/2305.16446)|[representationjsd](https://github.com/uk-cliplab/representationjsd)|
 |[computation of reliability statistics for finite samples of success-failure experiments](https://arxiv.org/abs/2305.16578)|[relistats](https://github.com/sanjaymjoshi/relistats)|
 |[communication-efficient reinforcement learning in swarm robotic networks for maze exploration](https://arxiv.org/abs/2305.17087)|[mazecommrl](https://github.com/herolab-uga/mazecommrl)|
