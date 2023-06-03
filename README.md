@@ -1,3 +1,17 @@
+## 2023-06-02
+|paper|code|
+|---|---|
+|[total controllability analysis discovers explainable drugs for covid-19 treatment](https://arxiv.org/abs/2206.02970)|[control-hubs](https://github.com/network-control-lab/control-hubs)|
+|[stability verification of neural network controllers using mixed-integer programming](https://arxiv.org/abs/2206.13374)|[evanqp](https://github.com/predict-epfl/evanqp)|
+|[structural optimization of factor graphs for symbol detection via continuous clustering and machine learning](https://arxiv.org/abs/2211.11406)|[factor_graph_structural_opt](https://github.com/kit-cel/factor_graph_structural_opt)|
+|[no driver, no regulation? --online legal driving behavior monitoring for self-driving vehicles](https://arxiv.org/abs/2212.04156)|[dotl](https://github.com/sotif-avlab/dotl)|
+|[temporal logic motion planning with convex optimization via graphs of convex sets](https://arxiv.org/abs/2301.07773)|[ltl_gcs](https://github.com/vincekurtz/ltl_gcs)|
+|[unearthing insights into mars: unsupervised source separation with limited data](https://arxiv.org/abs/2301.11981)|[insight_src_sep](https://github.com/alisiahkoohi/insight_src_sep)|
+|[modeling cell size distribution with heterogeneous flux balance analysis](https://arxiv.org/abs/2304.06631)|[heterogeneous_fba](https://github.com/michielbusschaert/heterogeneous_fba)|
+|[conditionally strongly log-concave generative models](https://arxiv.org/abs/2306.00181)|[wcrg](https://github.com/elempereur/wcrg)|
+|[on tilted losses in machine learning: theory and applications](https://arxiv.org/abs/2109.06141)|[TERM](https://github.com/litian96/TERM)|
+|[outsourcing control requires control complexity](https://arxiv.org/abs/2209.01418)|[learningrequiresintinf](https://github.com/carlottalanger/learningrequiresintinf)|
+|[criteria tell you more than ratings: criteria preference-aware light graph convolution for effective multi-criteria recommendation](https://arxiv.org/abs/2305.18885)|[cpa-lgc-recbole](https://github.com/jindeok/cpa-lgc-recbole)|
 ## 2023-06-01
 |paper|code|
 |---|---|
@@ -18,9 +32,11 @@
 |[variational gaussian filtering via wasserstein gradient flows](https://arxiv.org/abs/2303.06398)|[wasserstein-flow-filter](https://github.com/hanyas/wasserstein-flow-filter)|
 |[on the optimal recovery of graph signals](https://arxiv.org/abs/2304.00474)|[orofgraphsignals](https://github.com/liaochunyang/orofgraphsignals)|
 |[e-panns: sound recognition using efficient pre-trained audio neural networks](https://arxiv.org/abs/2305.18665)|[e-panns](https://github.com/arshdeep-singh-boparai/e-panns)|
+|[large car-following data based on lyft level-5 open dataset: following autonomous vehicles vs. human-driven vehicles](https://arxiv.org/abs/2305.18921)|[car-following-dataset-hv-vs-av](https://github.com/romainlitud/car-following-dataset-hv-vs-av)|
 |[the representation jensen-r\'enyi divergence](https://arxiv.org/abs/2112.01583)|[jensen-renyi-divergence](https://github.com/uk-cliplab/jensen-renyi-divergence)|
 |[distributed inference over linear models using alternating gaussian belief propagation](https://arxiv.org/abs/2210.09808)|[FactorGraph.jl](https://github.com/mcosovic/FactorGraph.jl)|
 |[structured model selection via $\ell_1-\ell_2$ optimization](https://arxiv.org/abs/2305.17467)|[nonconvexsparsecyclicrecovery](https://github.com/linanzhang/nonconvexsparsecyclicrecovery)|
+|[cn2f: a cloud-native cellular network framework](https://arxiv.org/abs/2305.18778)|[core](https://github.com/cn2f/core)|
 |[how does information bottleneck help deep learning?](https://arxiv.org/abs/2305.18887)|[information-bottleneck](https://github.com/xu-ji/information-bottleneck)|
 |[design and implementation of intelligent packet filtering in iot microcontroller-based devices](https://arxiv.org/abs/2305.19214)|[t800](https://github.com/c2dc/t800)|
 |[ambient diffusion: learning clean distributions from corrupted data](https://arxiv.org/abs/2305.19256)|[ambient-diffusion](https://github.com/giannisdaras/ambient-diffusion)|
@@ -37,6 +53,7 @@
 |[optimal resource allocation with delay guarantees for network slicing in disaggregated ran](https://arxiv.org/abs/2305.17321)|[paper-fgkcj-2023](https://github.com/labora-inf-ufg/paper-fgkcj-2023)|
 |[new cycle-based formulation, cost function, and heuristics for dc opf based controlled islanding](https://arxiv.org/abs/2305.17672)|[power_network_clustering](https://github.com/ityuryukanov/power_network_clustering)|
 |[online causation monitoring of signal temporal logic](https://arxiv.org/abs/2305.17754)|[stl-causation-monitor](https://github.com/choshina/stl-causation-monitor)|
+|[structured neural-pi control with end-to-end stability and output tracking guarantees](https://arxiv.org/abs/2305.17777)|[mimo-neural-pi](https://github.com/wenqi-cui/mimo-neural-pi)|
 |[pulse shape discrimination based on the tempotron: a powerful classifier on gpu](https://arxiv.org/abs/2305.18205)|[TempotronGPU](https://github.com/HaoranLiu507/TempotronGPU)|
 |[crisp: curriculum based sequential neural decoders for polar code family](https://arxiv.org/abs/2210.00313)|[neural_polar_decoder](https://github.com/hebbarashwin/neural_polar_decoder)|
 |[diffusion model based posterior sampling for noisy linear inverse problems](https://arxiv.org/abs/2211.12343)|[dmps](https://github.com/mengxiangming/dmps)|
