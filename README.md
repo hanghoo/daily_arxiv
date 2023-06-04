@@ -1,7 +1,6 @@
 ## 2023-06-02
 |paper|code|
 |---|---|
-|[total controllability analysis discovers explainable drugs for covid-19 treatment](https://arxiv.org/abs/2206.02970)|[control-hubs](https://github.com/network-control-lab/control-hubs)|
 |[stability verification of neural network controllers using mixed-integer programming](https://arxiv.org/abs/2206.13374)|[evanqp](https://github.com/predict-epfl/evanqp)|
 |[structural optimization of factor graphs for symbol detection via continuous clustering and machine learning](https://arxiv.org/abs/2211.11406)|[factor_graph_structural_opt](https://github.com/kit-cel/factor_graph_structural_opt)|
 |[no driver, no regulation? --online legal driving behavior monitoring for self-driving vehicles](https://arxiv.org/abs/2212.04156)|[dotl](https://github.com/sotif-avlab/dotl)|
@@ -9,6 +8,7 @@
 |[unearthing insights into mars: unsupervised source separation with limited data](https://arxiv.org/abs/2301.11981)|[insight_src_sep](https://github.com/alisiahkoohi/insight_src_sep)|
 |[modeling cell size distribution with heterogeneous flux balance analysis](https://arxiv.org/abs/2304.06631)|[heterogeneous_fba](https://github.com/michielbusschaert/heterogeneous_fba)|
 |[conditionally strongly log-concave generative models](https://arxiv.org/abs/2306.00181)|[wcrg](https://github.com/elempereur/wcrg)|
+|[graph neural networks-based user pairing in wireless communication systems](https://arxiv.org/abs/2306.00717)|[userpairing](https://github.com/sharanmourya/userpairing)|
 |[on tilted losses in machine learning: theory and applications](https://arxiv.org/abs/2109.06141)|[TERM](https://github.com/litian96/TERM)|
 |[outsourcing control requires control complexity](https://arxiv.org/abs/2209.01418)|[learningrequiresintinf](https://github.com/carlottalanger/learningrequiresintinf)|
 |[criteria tell you more than ratings: criteria preference-aware light graph convolution for effective multi-criteria recommendation](https://arxiv.org/abs/2305.18885)|[cpa-lgc-recbole](https://github.com/jindeok/cpa-lgc-recbole)|
@@ -31,6 +31,7 @@
 |[invertible kernel pca with random fourier features](https://arxiv.org/abs/2303.05043)|[invertible_kernel_PCA](https://github.com/dgedon/invertible_kernel_PCA)|
 |[variational gaussian filtering via wasserstein gradient flows](https://arxiv.org/abs/2303.06398)|[wasserstein-flow-filter](https://github.com/hanyas/wasserstein-flow-filter)|
 |[on the optimal recovery of graph signals](https://arxiv.org/abs/2304.00474)|[orofgraphsignals](https://github.com/liaochunyang/orofgraphsignals)|
+|[identification of stormwater control strategies and their associated uncertainties using bayesian optimization](https://arxiv.org/abs/2305.18630)|[baeopt](https://github.com/klabum/baeopt)|
 |[e-panns: sound recognition using efficient pre-trained audio neural networks](https://arxiv.org/abs/2305.18665)|[e-panns](https://github.com/arshdeep-singh-boparai/e-panns)|
 |[large car-following data based on lyft level-5 open dataset: following autonomous vehicles vs. human-driven vehicles](https://arxiv.org/abs/2305.18921)|[car-following-dataset-hv-vs-av](https://github.com/romainlitud/car-following-dataset-hv-vs-av)|
 |[the representation jensen-r\'enyi divergence](https://arxiv.org/abs/2112.01583)|[jensen-renyi-divergence](https://github.com/uk-cliplab/jensen-renyi-divergence)|
