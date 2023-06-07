@@ -1,8 +1,24 @@
+## 2023-06-06
+|paper|code|
+|---|---|
+|[sparse tree search optimality guarantees in pomdps with continuous observation spaces](https://arxiv.org/abs/1910.04332)|[SparseSampling.jl](https://github.com/JuliaPOMDP/SparseSampling.jl)|
+|[california test system (cats): a geographically accurate test system based on the california grid](https://arxiv.org/abs/2210.04351)|[cats-californiatestsystem](https://github.com/wispo-pop/cats-californiatestsystem)|
+|[multiagent rollout with reshuffling for warehouse robots path planning](https://arxiv.org/abs/2211.08201)|[multi-agent-rollout](https://github.com/will-em/multi-agent-rollout)|
+|[adaptive whitening in neural populations with gain-modulating interneurons](https://arxiv.org/abs/2301.11955)|[frame_whitening](https://github.com/lyndond/frame_whitening)|
+|[data augmentation for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
+|[autorl hyperparameter landscapes](https://arxiv.org/abs/2304.02396)|[autorl-landscape](https://github.com/automl/autorl-landscape)|
+|[optimal resource allocation with delay guarantees for network slicing in disaggregated ran](https://arxiv.org/abs/2305.17321)|[paper-fgkcj-2023](https://github.com/labora-inf-ufg/paper-fgkcj-2023)|
+|[on optimal caching and model multiplexing for large model inference](https://arxiv.org/abs/2306.02003)|[llm-caching-multiplexing](https://github.com/ying1123/llm-caching-multiplexing)|
+|[fine-tuning language models with advantage-induced policy alignment](https://arxiv.org/abs/2306.02231)|[rlhf-apa](https://github.com/microsoft/rlhf-apa)|
+|[subspacenet: deep learning-aided subspace methods for doa estimation](https://arxiv.org/abs/2306.02271)|[subspacenet](https://github.com/shlezingerlab/subspacenet)|
+|[decentralized sgd and average-direction sam are asymptotically equivalent](https://arxiv.org/abs/2306.02913)|[icml-2023-dsgd-and-sam](https://github.com/raiden-zhu/icml-2023-dsgd-and-sam)|
+|[infoshape: task-based neural data shaping via mutual information](https://arxiv.org/abs/2210.15034)|[infoshape](https://github.com/billywu1029/infoshape)|
 ## 2023-06-05
 |paper|code|
 |---|---|
 |[swl-adapt: an unsupervised domain adaptation model with sample weight learning for cross-user wearable human activity recognition](https://arxiv.org/abs/2212.00724)|[SWL-Adapt](https://github.com/Rxannro/SWL-Adapt)|
 |[safe environmental envelopes of discrete systems](https://arxiv.org/abs/2306.01025)|[transitional-robustness](https://github.com/cmu-soda/transitional-robustness)|
+|[average aoi minimization for energy harvesting relay-aided status update network using deep reinforcement learning](https://arxiv.org/abs/2306.01251)|[relay-selection-based-on-dqn](https://github.com/sinyu104/relay-selection-based-on-dqn)|
 |[mutatenn: mutation testing of image recognition models deployed on hardware accelerators](https://arxiv.org/abs/2306.01697)|[mutatenn](https://github.com/luludak/mutatenn)|
 |[bayes-optimal limits in structured pca, and how to reach them](https://arxiv.org/abs/2210.01237)|[structured-pca-](https://github.com/fcamilli95/structured-pca-)|
 |[probably anytime-safe stochastic combinatorial semi-bandits](https://arxiv.org/abs/2301.13393)|[passcsb](https://github.com/y-hou/passcsb)|
