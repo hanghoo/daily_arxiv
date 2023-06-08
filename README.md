@@ -1,3 +1,15 @@
+## 2023-06-07
+|paper|code|
+|---|---|
+|[drl-based energy-efficient baseband function deployments for service-oriented open ran](https://arxiv.org/abs/2212.12055)|[Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN](https://github.com/OCEAN-98/Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN)|
+|[a persistent-excitation-free method for system disturbance estimation using concurrent learning](https://arxiv.org/abs/2304.05693)|[code_tcas_2023_zhang](https://github.com/zhang-zengjie/code_tcas_2023_zhang)|
+|[an evidential real-time multi-mode fault diagnosis approach based on broad learning system](https://arxiv.org/abs/2305.00169)|[multi-mode-fault-diagnosis-datasets-with-te-process](https://github.com/thufdd/multi-mode-fault-diagnosis-datasets-with-te-process)|
+|[lora backscatter communications: temporal, spectral, and error performance analysis](https://arxiv.org/abs/2306.02323)|[lora-backscatter-communications-temperal-spectral-and-error-performance-analysis](https://github.com/slingovie/lora-backscatter-communications-temperal-spectral-and-error-performance-analysis)|
+|[under-counted tensor completion with neural incorporation of attributes](https://arxiv.org/abs/2306.03273)|[undercounted-tensor-completion](https://github.com/shahanaibrahimosu/undercounted-tensor-completion)|
+|[deep learning from crowdsourced labels: coupled cross-entropy minimization, identifiability, and regularization](https://arxiv.org/abs/2306.03288)|[end-to-end-crowdsourcing](https://github.com/shahanaibrahimosu/end-to-end-crowdsourcing)|
+|[criteria tell you more than ratings: criteria preference-aware light graph convolution for effective multi-criteria recommendation](https://arxiv.org/abs/2305.18885)|[cpa-lgc-recbole](https://github.com/jindeok/cpa-lgc-recbole)|
+|[how can we train deep learning models across clouds and continents? an experimental study](https://arxiv.org/abs/2306.03163)|[hivemind-multi-cloud](https://github.com/cirquit/hivemind-multi-cloud)|
+|[estimating conditional mutual information for dynamic feature selection](https://arxiv.org/abs/2306.03301)|[dime](https://github.com/suinleelab/dime)|
 ## 2023-06-06
 |paper|code|
 |---|---|
@@ -8,11 +20,15 @@
 |[data augmentation for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
 |[autorl hyperparameter landscapes](https://arxiv.org/abs/2304.02396)|[autorl-landscape](https://github.com/automl/autorl-landscape)|
 |[optimal resource allocation with delay guarantees for network slicing in disaggregated ran](https://arxiv.org/abs/2305.17321)|[paper-fgkcj-2023](https://github.com/labora-inf-ufg/paper-fgkcj-2023)|
+|[fast and interpretable nonlocal neural networks for image denoising via group-sparse convolutional dictionary learning](https://arxiv.org/abs/2306.01950)|[groupcdl-tip](https://github.com/nikopj/groupcdl-tip)|
 |[on optimal caching and model multiplexing for large model inference](https://arxiv.org/abs/2306.02003)|[llm-caching-multiplexing](https://github.com/ying1123/llm-caching-multiplexing)|
-|[fine-tuning language models with advantage-induced policy alignment](https://arxiv.org/abs/2306.02231)|[rlhf-apa](https://github.com/microsoft/rlhf-apa)|
+|[why we should report the details in subjective evaluation of tts more rigorously](https://arxiv.org/abs/2306.02044)|[subjectiveevaluation](https://github.com/d223302/subjectiveevaluation)|
 |[subspacenet: deep learning-aided subspace methods for doa estimation](https://arxiv.org/abs/2306.02271)|[subspacenet](https://github.com/shlezingerlab/subspacenet)|
 |[decentralized sgd and average-direction sam are asymptotically equivalent](https://arxiv.org/abs/2306.02913)|[icml-2023-dsgd-and-sam](https://github.com/raiden-zhu/icml-2023-dsgd-and-sam)|
+|[frequency regulation with storage: on losses and profits](https://arxiv.org/abs/2306.02987)|[cost-of-frequency-regulation-through-electricity-storage](https://github.com/lauinger/cost-of-frequency-regulation-through-electricity-storage)|
 |[infoshape: task-based neural data shaping via mutual information](https://arxiv.org/abs/2210.15034)|[infoshape](https://github.com/billywu1029/infoshape)|
+|[admm-based detector for large-scale mimo code-domain noma systems](https://arxiv.org/abs/2306.02032)|[admm-based-detector-for-noma](https://github.com/vikas2020-del/admm-based-detector-for-noma)|
+|[modeling tor network growth by extrapolating consensus data](https://arxiv.org/abs/2306.02934)|[torsynth](https://github.com/cdoepmann/torsynth)|
 ## 2023-06-05
 |paper|code|
 |---|---|
