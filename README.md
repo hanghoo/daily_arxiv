@@ -1,3 +1,13 @@
+## 2023-06-08
+|paper|code|
+|---|---|
+|[heterps: distributed deep learning with reinforcement learning based scheduling in heterogeneous environments](https://arxiv.org/abs/2111.10635)|[Paddle](https://github.com/PaddlePaddle/Paddle)|
+|[learning to suggest breaks: sustainable optimization of long-term user engagement](https://arxiv.org/abs/2211.13585)|[suggest-breaks](https://github.com/edensaig/suggest-breaks)|
+|[fine-tuning language models with advantage-induced policy alignment](https://arxiv.org/abs/2306.02231)|[rlhf-apa](https://github.com/microsoft/rlhf-apa)|
+|[one-dimensional deep image prior for curve fitting of s-parameters from electromagnetic solvers](https://arxiv.org/abs/2306.04001)|[curvefitting-dip](https://github.com/sriram-ravula/curvefitting-dip)|
+|[energy-based assessment and driving behavior of acc systems and humans inside platoons](https://arxiv.org/abs/2306.04476)|[ACC_Energy_Assessment](https://github.com/TheocharisAp/ACC_Energy_Assessment)|
+|[a measure of the complexity of neural representations based on partial information decomposition](https://arxiv.org/abs/2209.10438)|[nninfo](https://github.com/priesemann-group/nninfo)|
+|[multimodal learning without labeled multimodal data: guarantees and applications](https://arxiv.org/abs/2306.04539)|[pid](https://github.com/pliang279/pid)|
 ## 2023-06-07
 |paper|code|
 |---|---|
@@ -7,6 +17,7 @@
 |[lora backscatter communications: temporal, spectral, and error performance analysis](https://arxiv.org/abs/2306.02323)|[lora-backscatter-communications-temperal-spectral-and-error-performance-analysis](https://github.com/slingovie/lora-backscatter-communications-temperal-spectral-and-error-performance-analysis)|
 |[under-counted tensor completion with neural incorporation of attributes](https://arxiv.org/abs/2306.03273)|[undercounted-tensor-completion](https://github.com/shahanaibrahimosu/undercounted-tensor-completion)|
 |[deep learning from crowdsourced labels: coupled cross-entropy minimization, identifiability, and regularization](https://arxiv.org/abs/2306.03288)|[end-to-end-crowdsourcing](https://github.com/shahanaibrahimosu/end-to-end-crowdsourcing)|
+|[managing wildfire risk and promoting equity through optimal configuration of networked microgrids](https://arxiv.org/abs/2306.03325)|[optimal-microgrid-configuration](https://github.com/wispo-pop/optimal-microgrid-configuration)|
 |[criteria tell you more than ratings: criteria preference-aware light graph convolution for effective multi-criteria recommendation](https://arxiv.org/abs/2305.18885)|[cpa-lgc-recbole](https://github.com/jindeok/cpa-lgc-recbole)|
 |[how can we train deep learning models across clouds and continents? an experimental study](https://arxiv.org/abs/2306.03163)|[hivemind-multi-cloud](https://github.com/cirquit/hivemind-multi-cloud)|
 |[estimating conditional mutual information for dynamic feature selection](https://arxiv.org/abs/2306.03301)|[dime](https://github.com/suinleelab/dime)|
