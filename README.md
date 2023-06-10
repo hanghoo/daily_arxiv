@@ -1,3 +1,14 @@
+## 2023-06-09
+|paper|code|
+|---|---|
+|[predictive control barrier functions for online safety critical control](https://arxiv.org/abs/2204.00208)|[phd-code](https://github.com/jbreeden-um/phd-code)|
+|[classification of stress via ambulatory ecg and gsr data](https://arxiv.org/abs/2208.04705)|[embc_release](https://github.com/zacdair/embc_release)|
+|[validation of the reference impedance in multiline calibration with stepped impedance standards](https://arxiv.org/abs/2209.09163)|[verification-multiline-trl-calibration](https://github.com/ZiadHatab/verification-multiline-trl-calibration)|
+|[an adaptive and robust deep learning framework for thz ultra-massive mimo channel estimation](https://arxiv.org/abs/2211.15939)|[FPN-OAMP-THz-Channel-Estimation](https://github.com/wyuaq/FPN-OAMP-THz-Channel-Estimation)|
+|[safety-critical control for systems with impulsive actuators and dwell time constraints](https://arxiv.org/abs/2303.10243)|[phd-code](https://github.com/jbreeden-um/phd-code)|
+|[toward more accurate and generalizable brain deformation estimators for traumatic brain injury detection with unsupervised domain adaptation](https://arxiv.org/abs/2306.05255)|[drca-mlhm](https://github.com/xzhan96-stf/drca-mlhm)|
+|[power allocation algorithms for massive mimo systems with multi-antenna users](https://arxiv.org/abs/2201.08068)|[Power-Allocation-Algorithms-for-Massive-MIMO-Systems-with-Multi-Antenna-Users](https://github.com/eugenbobrov/Power-Allocation-Algorithms-for-Massive-MIMO-Systems-with-Multi-Antenna-Users)|
+|[learning to maximize mutual information for dynamic feature selection](https://arxiv.org/abs/2301.00557)|[dynamic-selection](https://github.com/iancovert/dynamic-selection)|
 ## 2023-06-08
 |paper|code|
 |---|---|
@@ -5,6 +16,7 @@
 |[learning to suggest breaks: sustainable optimization of long-term user engagement](https://arxiv.org/abs/2211.13585)|[suggest-breaks](https://github.com/edensaig/suggest-breaks)|
 |[fine-tuning language models with advantage-induced policy alignment](https://arxiv.org/abs/2306.02231)|[rlhf-apa](https://github.com/microsoft/rlhf-apa)|
 |[one-dimensional deep image prior for curve fitting of s-parameters from electromagnetic solvers](https://arxiv.org/abs/2306.04001)|[curvefitting-dip](https://github.com/sriram-ravula/curvefitting-dip)|
+|[model-based deep learning](https://arxiv.org/abs/2306.04469)|[mbdl_book](https://github.com/shlezingerlab/mbdl_book)|
 |[energy-based assessment and driving behavior of acc systems and humans inside platoons](https://arxiv.org/abs/2306.04476)|[ACC_Energy_Assessment](https://github.com/TheocharisAp/ACC_Energy_Assessment)|
 |[a measure of the complexity of neural representations based on partial information decomposition](https://arxiv.org/abs/2209.10438)|[nninfo](https://github.com/priesemann-group/nninfo)|
 |[multimodal learning without labeled multimodal data: guarantees and applications](https://arxiv.org/abs/2306.04539)|[pid](https://github.com/pliang279/pid)|
