@@ -18,7 +18,6 @@
 |[fine-tuning language models with advantage-induced policy alignment](https://arxiv.org/abs/2306.02231)|[rlhf-apa](https://github.com/microsoft/rlhf-apa)|
 |[one-dimensional deep image prior for curve fitting of s-parameters from electromagnetic solvers](https://arxiv.org/abs/2306.04001)|[curvefitting-dip](https://github.com/sriram-ravula/curvefitting-dip)|
 |[model-based deep learning](https://arxiv.org/abs/2306.04469)|[mbdl_book](https://github.com/shlezingerlab/mbdl_book)|
-|[energy-based assessment and driving behavior of acc systems and humans inside platoons](https://arxiv.org/abs/2306.04476)|[ACC_Energy_Assessment](https://github.com/TheocharisAp/ACC_Energy_Assessment)|
 |[a measure of the complexity of neural representations based on partial information decomposition](https://arxiv.org/abs/2209.10438)|[nninfo](https://github.com/priesemann-group/nninfo)|
 |[multimodal learning without labeled multimodal data: guarantees and applications](https://arxiv.org/abs/2306.04539)|[pid](https://github.com/pliang279/pid)|
 ## 2023-06-07
