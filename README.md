@@ -1,3 +1,10 @@
+## 2023-06-12
+|paper|code|
+|---|---|
+|[predictive safety filter using system level synthesis](https://arxiv.org/abs/2212.02111)|[SLS_safety_filter](https://gitlab.ethz.ch/ics/SLS_safety_filter)|
+|[hrtf upsampling with a generative adversarial network using a gnomonic equiangular projection](https://arxiv.org/abs/2306.05812)|[hrtf-upsampling-with-a-generative-adversarial-network-using-a-gnomonic-equiangular-projection](https://github.com/ahogg/hrtf-upsampling-with-a-generative-adversarial-network-using-a-gnomonic-equiangular-projection)|
+|[fair queuing aware congestion control](https://arxiv.org/abs/2206.10561)|[fair-queuing-aware-congestion-control](https://github.com/muxamilian/fair-queuing-aware-congestion-control)|
+|[correlative information maximization: a biologically plausible approach to supervised deep neural networks without weight symmetry](https://arxiv.org/abs/2306.04810)|[Supervised-CorInfoMax](https://github.com/BariscanBozkurt/Supervised-CorInfoMax)|
 ## 2023-06-09
 |paper|code|
 |---|---|
