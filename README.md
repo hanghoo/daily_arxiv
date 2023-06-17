@@ -1,3 +1,15 @@
+## 2023-06-16
+|paper|code|
+|---|---|
+|[bounding the distance to unsafe sets with convex optimization](https://arxiv.org/abs/2110.14047)|[distance](https://github.com/jarmill/distance)|
+|[hierarchical dirichlet process based gamma mixture modelling for terahertz band wireless communication channels](https://arxiv.org/abs/2205.03812)|[DPGMM-Channel-Modelling](https://github.com/erhankarakoca/DPGMM-Channel-Modelling)|
+|[bayesian optimization of sampling densities in mri](https://arxiv.org/abs/2209.07170)|[bindings-nufft-pytorch](https://github.com/albangossard/bindings-nufft-pytorch)|
+|[diffusion-based conditional ecg generation with structured state space models](https://arxiv.org/abs/2301.08227)|[sssd-ecg](https://github.com/ai4healthuol/sssd-ecg)|
+|[koopman-inspired implicit backward reachable sets for unknown nonlinear systems](https://arxiv.org/abs/2306.07113)|[koopmanbrs](https://github.com/haldunbalim/koopmanbrs)|
+|[federated learning-based vehicle trajectory prediction against cyberattacks](https://arxiv.org/abs/2306.08566)|[fl-tp](https://github.com/codertylor/fl-tp)|
+|[towards trustworthy seizure onset detection using workflow notes](https://arxiv.org/abs/2306.08728)|[eeg_robustness](https://github.com/khaledsaab/eeg_robustness)|
+|[scalable resource management for dynamic mec: an unsupervised link-output graph neural network approach](https://arxiv.org/abs/2306.08938)|[LOGNN](https://github.com/UNIC-Lab/LOGNN)|
+|[optimal exploration for model-based rl in nonlinear systems](https://arxiv.org/abs/2306.09210)|[nonlinear_sysid_for_control](https://github.com/ajwagen/nonlinear_sysid_for_control)|
 ## 2023-06-14
 |paper|code|
 |---|---|
