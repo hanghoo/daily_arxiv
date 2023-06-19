@@ -6,10 +6,14 @@
 |[bayesian optimization of sampling densities in mri](https://arxiv.org/abs/2209.07170)|[bindings-nufft-pytorch](https://github.com/albangossard/bindings-nufft-pytorch)|
 |[diffusion-based conditional ecg generation with structured state space models](https://arxiv.org/abs/2301.08227)|[sssd-ecg](https://github.com/ai4healthuol/sssd-ecg)|
 |[koopman-inspired implicit backward reachable sets for unknown nonlinear systems](https://arxiv.org/abs/2306.07113)|[koopmanbrs](https://github.com/haldunbalim/koopmanbrs)|
+|[carbon emissions and sustainability of launching 5g mobile networks in china](https://arxiv.org/abs/2306.08337)|[sustainability_5g](https://github.com/tong89/sustainability_5g)|
+|[low-complexity steered response power mapping based on low-rank and sparse interpolation](https://arxiv.org/abs/2306.08514)|[lr-sp-int-srp](https://github.com/tdietzen/lr-sp-int-srp)|
 |[federated learning-based vehicle trajectory prediction against cyberattacks](https://arxiv.org/abs/2306.08566)|[fl-tp](https://github.com/codertylor/fl-tp)|
 |[towards trustworthy seizure onset detection using workflow notes](https://arxiv.org/abs/2306.08728)|[eeg_robustness](https://github.com/khaledsaab/eeg_robustness)|
 |[scalable resource management for dynamic mec: an unsupervised link-output graph neural network approach](https://arxiv.org/abs/2306.08938)|[LOGNN](https://github.com/UNIC-Lab/LOGNN)|
 |[optimal exploration for model-based rl in nonlinear systems](https://arxiv.org/abs/2306.09210)|[nonlinear_sysid_for_control](https://github.com/ajwagen/nonlinear_sysid_for_control)|
+|[safeguarding data in multimodal ai: a differentially private approach to clip training](https://arxiv.org/abs/2306.08173)|[dpclip](https://github.com/dpclip/dpclip)|
+|[in search of netunicorn: a data-collection platform to develop generalizable ml models for network security problems](https://arxiv.org/abs/2306.08853)|[netunicorn-library](https://github.com/netunicorn/netunicorn-library)|
 ## 2023-06-14
 |paper|code|
 |---|---|
