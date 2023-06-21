@@ -1,16 +1,28 @@
+## 2023-06-19
+|paper|code|
+|---|---|
+|[state aggregation for distributed value iteration in dynamic programming](https://arxiv.org/abs/2303.10675)|[distributed_traffic_routing](https://github.com/nikovert/distributed_traffic_routing)|
+|[quadswarm: a modular multi-quadrotor simulator for deep reinforcement learning with direct thrust control](https://arxiv.org/abs/2306.09537)|[quad-swarm-rl](https://github.com/zhehui-huang/quad-swarm-rl)|
+|[a testbed for carbon-aware applications and systems](https://arxiv.org/abs/2306.09774)|[vessim](https://github.com/dos-group/vessim)|
+|[super-resolution radar imaging with sparse arrays using a deep neural network trained with enhanced virtual data](https://arxiv.org/abs/2306.09839)|[sparse-array-radar-imaging](https://github.com/christianschuessler/sparse-array-radar-imaging)|
+|[augmenting rule-based dns censorship detection at scale with machine learning](https://arxiv.org/abs/2302.02031)|[automated-dns-censorship](https://github.com/noise-lab/automated-dns-censorship)|
+|[prenas: preferred one-shot learning towards efficient neural architecture search](https://arxiv.org/abs/2304.14636)|[prenas](https://github.com/tinyvision/prenas)|
+|[fedstellar: a platform for decentralized federated learning](https://arxiv.org/abs/2306.09750)|[fedstellar](https://github.com/enriquetomasmb/fedstellar)|
+|[mementohash: a stateful, minimal memory, best performing consistent hash algorithm](https://arxiv.org/abs/2306.09783)|[java-consistent-hashing-algorithms](https://github.com/supsi-dti-isin/java-consistent-hashing-algorithms)|
 ## 2023-06-16
 |paper|code|
 |---|---|
 |[bounding the distance to unsafe sets with convex optimization](https://arxiv.org/abs/2110.14047)|[distance](https://github.com/jarmill/distance)|
 |[hierarchical dirichlet process based gamma mixture modelling for terahertz band wireless communication channels](https://arxiv.org/abs/2205.03812)|[DPGMM-Channel-Modelling](https://github.com/erhankarakoca/DPGMM-Channel-Modelling)|
-|[bayesian optimization of sampling densities in mri](https://arxiv.org/abs/2209.07170)|[bindings-nufft-pytorch](https://github.com/albangossard/bindings-nufft-pytorch)|
+|[closed-form global optimization of beyond diagonal reconfigurable intelligent surfaces](https://arxiv.org/abs/2211.06117)|[optimization-of-bdris](https://github.com/matteonerini/optimization-of-bdris)|
 |[diffusion-based conditional ecg generation with structured state space models](https://arxiv.org/abs/2301.08227)|[sssd-ecg](https://github.com/ai4healthuol/sssd-ecg)|
 |[koopman-inspired implicit backward reachable sets for unknown nonlinear systems](https://arxiv.org/abs/2306.07113)|[koopmanbrs](https://github.com/haldunbalim/koopmanbrs)|
 |[carbon emissions and sustainability of launching 5g mobile networks in china](https://arxiv.org/abs/2306.08337)|[sustainability_5g](https://github.com/tong89/sustainability_5g)|
 |[low-complexity steered response power mapping based on low-rank and sparse interpolation](https://arxiv.org/abs/2306.08514)|[lr-sp-int-srp](https://github.com/tdietzen/lr-sp-int-srp)|
 |[federated learning-based vehicle trajectory prediction against cyberattacks](https://arxiv.org/abs/2306.08566)|[fl-tp](https://github.com/codertylor/fl-tp)|
 |[towards trustworthy seizure onset detection using workflow notes](https://arxiv.org/abs/2306.08728)|[eeg_robustness](https://github.com/khaledsaab/eeg_robustness)|
-|[scalable resource management for dynamic mec: an unsupervised link-output graph neural network approach](https://arxiv.org/abs/2306.08938)|[LOGNN](https://github.com/UNIC-Lab/LOGNN)|
+|[two-way semantic transmission of images without feedback](https://arxiv.org/abs/2306.08903)|[TW-SemanticComm](https://github.com/Kiven-ykw/TW-SemanticComm)|
+|[audio tagging on an embedded hardware platform](https://arxiv.org/abs/2306.09106)|[ai4s-embedded](https://github.com/gbibbo/ai4s-embedded)|
 |[optimal exploration for model-based rl in nonlinear systems](https://arxiv.org/abs/2306.09210)|[nonlinear_sysid_for_control](https://github.com/ajwagen/nonlinear_sysid_for_control)|
 |[safeguarding data in multimodal ai: a differentially private approach to clip training](https://arxiv.org/abs/2306.08173)|[dpclip](https://github.com/dpclip/dpclip)|
 |[in search of netunicorn: a data-collection platform to develop generalizable ml models for network security problems](https://arxiv.org/abs/2306.08853)|[netunicorn-library](https://github.com/netunicorn/netunicorn-library)|
