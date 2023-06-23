@@ -1,7 +1,18 @@
+## 2023-06-22
+|paper|code|
+|---|---|
+|[logical zonotopes: a set representation for the formal verification of boolean functions](https://arxiv.org/abs/2210.08596)|[Logical-Zonotope](https://github.com/aalanwar/Logical-Zonotope)|
+|[space-time design for deep joint source channel coding of images over mimo channels](https://arxiv.org/abs/2210.16985)|[st_jscc](https://github.com/aprilbian/st_jscc)|
+|[mutatenn: mutation testing of image recognition models deployed on hardware accelerators](https://arxiv.org/abs/2306.01697)|[mutatenn](https://github.com/luludak/mutatenn)|
+|[a graphical modeling language for artificial intelligence applications in automation systems](https://arxiv.org/abs/2306.11767)|[gml-aiaas](https://github.com/schiesem/gml-aiaas)|
+|[predicting strategic energy storage behaviors](https://arxiv.org/abs/2306.11872)|[predicting-strategic-energy-storage-behaviors](https://github.com/alwaysbyx/predicting-strategic-energy-storage-behaviors)|
+|[probabilistic qos-aware placement of vnf chains at the edge](https://arxiv.org/abs/1906.00197)|[EdgeUsher](https://github.com/di-unipi-socc/EdgeUsher)|
+|[high throughput open-source implementation of wi-fi 6 and wimax ldpc encoder and decoder](https://arxiv.org/abs/2306.12063)|[yaldpc](https://github.com/talenik/yaldpc)|
+|[recoil: parallel rans decoding with decoder-adaptive scalability](https://arxiv.org/abs/2306.12141)|[recoil](https://github.com/lin-toto/recoil)|
 ## 2023-06-21
 |paper|code|
 |---|---|
-|[distributed set-based observers using diffusion strategies](https://arxiv.org/abs/2003.10347)|[Distributed-Set-Based-Observers-Using-Diffusion-Strategy](https://github.com/aalanwar/Distributed-Set-Based-Observers-Using-Diffusion-Strategy)|
+|[distributed set-based observers using diffusion strategies](https://arxiv.org/abs/2003.10347)|[distributed-set-based-observers-using-diffusion-strategies](https://github.com/aalanwar/distributed-set-based-observers-using-diffusion-strategies)|
 |[whiplash gradient descent dynamics](https://arxiv.org/abs/2203.02140)|[Whiplash](https://github.com/SubhransuSekharBhattacharjee-01/Whiplash)|
 |[scale dependencies and self-similar models with wavelet scattering spectra](https://arxiv.org/abs/2204.10177)|[scattering_spectra](https://github.com/rudymorel/scattering_spectra)|
 |[multi-agent multi-target path planning in markov decision processes](https://arxiv.org/abs/2205.15841)|[Multi-agent-Multi-target-path-planning-in-MDPs](https://github.com/farhadnawaz/Multi-agent-Multi-target-path-planning-in-MDPs)|
