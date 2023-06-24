@@ -1,3 +1,9 @@
+## 2023-06-23
+|paper|code|
+|---|---|
+|[signal inpainting from fourier magnitudes](https://arxiv.org/abs/2210.15951)|[inpainting-fourier](https://github.com/louis-bahrman/inpainting-fourier)|
+|[polynomial logical zonotopes: a set representation for reachability analysis of logical systems](https://arxiv.org/abs/2306.12508)|[Logical-Zonotope](https://github.com/aalanwar/Logical-Zonotope)|
+|[pykoopman: a python package for data-driven approximation of the koopman operator](https://arxiv.org/abs/2306.12962)|[pykoopman](https://github.com/dynamicslab/pykoopman)|
 ## 2023-06-22
 |paper|code|
 |---|---|
