@@ -3,6 +3,7 @@
 |---|---|
 |[signal inpainting from fourier magnitudes](https://arxiv.org/abs/2210.15951)|[inpainting-fourier](https://github.com/louis-bahrman/inpainting-fourier)|
 |[polynomial logical zonotopes: a set representation for reachability analysis of logical systems](https://arxiv.org/abs/2306.12508)|[Logical-Zonotope](https://github.com/aalanwar/Logical-Zonotope)|
+|[robustneuralnetworks.jl: a package for machine learning and data-driven control with certified robustness](https://arxiv.org/abs/2306.12612)|[RobustNeuralNetworks.jl](https://github.com/acfr/RobustNeuralNetworks.jl)|
 |[pykoopman: a python package for data-driven approximation of the koopman operator](https://arxiv.org/abs/2306.12962)|[pykoopman](https://github.com/dynamicslab/pykoopman)|
 ## 2023-06-22
 |paper|code|
@@ -14,7 +15,6 @@
 |[predicting strategic energy storage behaviors](https://arxiv.org/abs/2306.11872)|[predicting-strategic-energy-storage-behaviors](https://github.com/alwaysbyx/predicting-strategic-energy-storage-behaviors)|
 |[probabilistic qos-aware placement of vnf chains at the edge](https://arxiv.org/abs/1906.00197)|[EdgeUsher](https://github.com/di-unipi-socc/EdgeUsher)|
 |[high throughput open-source implementation of wi-fi 6 and wimax ldpc encoder and decoder](https://arxiv.org/abs/2306.12063)|[yaldpc](https://github.com/talenik/yaldpc)|
-|[recoil: parallel rans decoding with decoder-adaptive scalability](https://arxiv.org/abs/2306.12141)|[recoil](https://github.com/lin-toto/recoil)|
 ## 2023-06-21
 |paper|code|
 |---|---|
