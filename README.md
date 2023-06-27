@@ -1,3 +1,8 @@
+## 2023-06-26
+|paper|code|
+|---|---|
+|[dlkoopman: a deep learning software package for koopman theory](https://arxiv.org/abs/2211.08992)|[dlkoopman](https://github.com/galoisinc/dlkoopman)|
+|[necessary and sufficient graphical conditions for optimal adjustment sets in causal graphical models with hidden variables](https://arxiv.org/abs/2102.10324)|[tigramite](https://github.com/jakobrunge/tigramite)|
 ## 2023-06-23
 |paper|code|
 |---|---|
@@ -29,6 +34,7 @@
 |[bayesian optimization of sampling densities in mri](https://arxiv.org/abs/2209.07170)|[bindings-nufft-pytorch](https://github.com/albangossard/bindings-nufft-pytorch)|
 |[circuit analysis using monotone+skew splitting](https://arxiv.org/abs/2211.14010)|[circuit-analysis-using-monotone-skew-splitting](https://github.com/ThomasChaffey/circuit-analysis-using-monotone-skew-splitting)|
 |[drl-based energy-efficient baseband function deployments for service-oriented open ran](https://arxiv.org/abs/2212.12055)|[Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN](https://github.com/OCEAN-98/Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN)|
+|[short-length ssvep data extension by a novel generative adversarial networks based framework](https://arxiv.org/abs/2301.05599)|[tegan](https://github.com/yudongpan/tegan)|
 |[deep comparisons of neural networks from the eegnet family](https://arxiv.org/abs/2302.08797)|[bionic_apps](https://github.com/kolcs/bionic_apps)|
 |[variational gaussian filtering via wasserstein gradient flows](https://arxiv.org/abs/2303.06398)|[wasserstein-flow-filter](https://github.com/hanyas/wasserstein-flow-filter)|
 |[delayed resilient trajectory tracking after partial loss of control authority over actuators](https://arxiv.org/abs/2303.12877)|[spacecraft-resilience](https://github.com/jean-baptistebouvier/spacecraft-resilience)|
