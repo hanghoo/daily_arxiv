@@ -1,3 +1,13 @@
+## 2023-06-28
+|paper|code|
+|---|---|
+|[sinr: deconvolving circular sas images using implicit neural representations](https://arxiv.org/abs/2204.10428)|[csas_deconvolution_inr](https://github.com/awreed/csas_deconvolution_inr)|
+|[real-time motion planning and decision-making for a group of differential drive robots under connectivity constraints using robust mpc and mixed-integer programming](https://arxiv.org/abs/2206.00097)|[mas_mpc_mip_ita](https://gitlab.com/caregnato_neto_open/mas_mpc_mip_ita)|
+|[on controller tuning with time-varying bayesian optimization](https://arxiv.org/abs/2207.11120)|[uitvbo](https://github.com/brunzema/uitvbo)|
+|[data-driven blind synchronization and interference rejection for digital communication signals](https://arxiv.org/abs/2209.04871)|[scss_sync](https://github.com/rfchallenge/scss_sync)|
+|[on neural architectures for deep learning-based source separation of co-channel ofdm signals](https://arxiv.org/abs/2303.06438)|[scss_ofdmarchitecture](https://github.com/rfchallenge/scss_ofdmarchitecture)|
+|[statistical component separation for targeted signal recovery in noisy mixtures](https://arxiv.org/abs/2306.15012)|[stat_comp_sep](https://github.com/bregaldo/stat_comp_sep)|
+|[llmzip: lossless text compression using large language models](https://arxiv.org/abs/2306.04050)|[LLMzip](https://github.com/vcskaushik/LLMzip)|
 ## 2023-06-27
 |paper|code|
 |---|---|
@@ -11,6 +21,7 @@
 |[domain adaptive decision trees: implications for accuracy and fairness](https://arxiv.org/abs/2302.13846)|[domain-adaptive-trees](https://github.com/nobias-project/domain-adaptive-trees)|
 |[compression with bayesian implicit neural representations](https://arxiv.org/abs/2305.19185)|[combiner](https://github.com/cambridge-mlg/combiner)|
 |[recoil: parallel rans decoding with decoder-adaptive scalability](https://arxiv.org/abs/2306.12141)|[recoil](https://github.com/lin-toto/recoil)|
+|[towards greener data centers via programmable data plane](https://arxiv.org/abs/2306.13983)|[p4green](https://github.com/gareging/p4green)|
 ## 2023-06-26
 |paper|code|
 |---|---|
