@@ -1,3 +1,11 @@
+## 2023-06-29
+|paper|code|
+|---|---|
+|[adaptive observers for biophysical neuronal circuits](https://arxiv.org/abs/2111.02176)|[online-learning](https://github.com/thiagoburghi/online-learning)|
+|[occupant-oriented demand response with multi-zone thermal building control](https://arxiv.org/abs/2301.03376)|[conrol-results](https://github.com/occupant-oriented-demand-response/conrol-results)|
+|[differentially private distributed estimation and learning](https://arxiv.org/abs/2306.15865)|[dp-distributed-estimation](https://github.com/papachristoumarios/dp-distributed-estimation)|
+|[understanding a version of multivariate symmetric uncertainty to assist in feature selection](https://arxiv.org/abs/1709.08730)|[package=msu](https://cran.r-project.org/package=msu)|
+|[on information captured by neural networks: connections with memorization and generalization](https://arxiv.org/abs/2306.15918)|[aws-cv-unique-information](https://github.com/awslabs/aws-cv-unique-information)|
 ## 2023-06-28
 |paper|code|
 |---|---|
@@ -7,7 +15,9 @@
 |[data-driven blind synchronization and interference rejection for digital communication signals](https://arxiv.org/abs/2209.04871)|[scss_sync](https://github.com/rfchallenge/scss_sync)|
 |[on neural architectures for deep learning-based source separation of co-channel ofdm signals](https://arxiv.org/abs/2303.06438)|[scss_ofdmarchitecture](https://github.com/rfchallenge/scss_ofdmarchitecture)|
 |[statistical component separation for targeted signal recovery in noisy mixtures](https://arxiv.org/abs/2306.15012)|[stat_comp_sep](https://github.com/bregaldo/stat_comp_sep)|
+|[a mixed-integer approach for motion planning of nonholonomic robots under visible light communication constraints](https://arxiv.org/abs/2306.15590)|[milp_vlc_motion_planning](https://gitlab.com/caregnato_neto_open/milp_vlc_motion_planning)|
 |[llmzip: lossless text compression using large language models](https://arxiv.org/abs/2306.04050)|[LLMzip](https://github.com/vcskaushik/LLMzip)|
+|[ethp2psim: evaluating and deploying privacy-enhanced peer-to-peer routing protocols for the ethereum network](https://arxiv.org/abs/2306.15024)|[ethp2psim](https://github.com/ferencberes/ethp2psim)|
 ## 2023-06-27
 |paper|code|
 |---|---|
