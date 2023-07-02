@@ -3,6 +3,8 @@
 |---|---|
 |[noise detection with spectator qubits and quantum feature engineering](https://arxiv.org/abs/2103.13018)|[QFEND](https://github.com/akramyoussry/QFEND)|
 |[assessing the performance of 1d-convolution neural networks to predict concentration of mixture components from raman spectra](https://arxiv.org/abs/2306.16621)|[ramix](https://github.com/dexterantonio/ramix)|
+|[experience transfer for robust direct data-driven control](https://arxiv.org/abs/2306.16973)|[rddc](https://github.com/data-science-in-mechanical-engineering/rddc)|
+|[accurate pet reconstruction from reduced set of measurements based on gmm](https://arxiv.org/abs/2306.17028)|[accurate-pet-reconstruction-from-reduced-set-of-measurements-based-on-gmm](https://github.com/tm2005/accurate-pet-reconstruction-from-reduced-set-of-measurements-based-on-gmm)|
 |[mvpipe: enabling lightweight updates and fast convergence in hierarchical heavy hitter detection](https://arxiv.org/abs/2107.05954)|[MVPipe](https://github.com/Grace-TL/MVPipe)|
 |[tokenization and the noiseless channel](https://arxiv.org/abs/2306.16842)|[tokenization-scorer](https://github.com/zouharvi/tokenization-scorer)|
 ## 2023-06-29
@@ -10,8 +12,13 @@
 |---|---|
 |[adaptive observers for biophysical neuronal circuits](https://arxiv.org/abs/2111.02176)|[online-learning](https://github.com/thiagoburghi/online-learning)|
 |[occupant-oriented demand response with multi-zone thermal building control](https://arxiv.org/abs/2301.03376)|[conrol-results](https://github.com/occupant-oriented-demand-response/conrol-results)|
+|[ai-generated incentive mechanism and full-duplex semantic communications for information sharing](https://arxiv.org/abs/2303.01896)|[semsharing](https://github.com/hongyangdu/semsharing)|
+|[ecg-qa: a comprehensive question answering dataset combined with electrocardiogram](https://arxiv.org/abs/2306.15681)|[ecg-qa](https://github.com/jwoo5/ecg-qa)|
 |[differentially private distributed estimation and learning](https://arxiv.org/abs/2306.15865)|[dp-distributed-estimation](https://github.com/papachristoumarios/dp-distributed-estimation)|
+|[data-driven approach for diagnostic analysis of dynamic bottlenecks in serial manufacturing systems](https://arxiv.org/abs/2306.16120)|[2023_bottleneck_diagnosis_arxiv](https://github.com/nikolaiwest/2023_bottleneck_diagnosis_arxiv)|
 |[understanding a version of multivariate symmetric uncertainty to assist in feature selection](https://arxiv.org/abs/1709.08730)|[package=msu](https://cran.r-project.org/package=msu)|
+|[impact of user privacy and mobility on edge offloading](https://arxiv.org/abs/2306.15740)|[offloading](https://github.com/labora-inf-ufg/offloading)|
+|[on graph uncertainty principle and eigenvector delocalization](https://arxiv.org/abs/2306.15810)|[uncertainty-delocalization](https://github.com/erebrova/uncertainty-delocalization)|
 |[on information captured by neural networks: connections with memorization and generalization](https://arxiv.org/abs/2306.15918)|[aws-cv-unique-information](https://github.com/awslabs/aws-cv-unique-information)|
 ## 2023-06-28
 |paper|code|
