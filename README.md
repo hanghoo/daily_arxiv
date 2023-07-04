@@ -1,3 +1,11 @@
+## 2023-07-03
+|paper|code|
+|---|---|
+|[sample average approximation for stochastic programming with equality constraints](https://arxiv.org/abs/2206.09963)|[stochasticedl](https://github.com/stanfordasl/stochasticedl)|
+|[team: a parameter-free algorithm to teach collaborative robots motions from user demonstrations](https://arxiv.org/abs/2209.06940)|[team](https://github.com/SchindlerReGIS/team)|
+|[learning bilinear models of actuated koopman generators from partially-observed trajectories](https://arxiv.org/abs/2209.09977)|[koopmangeneratorem](https://github.com/samotto1/koopmangeneratorem)|
+|[root tracking for rate-distortion: approximating a solution curve with higher implicit multivariate derivatives](https://arxiv.org/abs/2206.11369)|[rtrd](https://github.com/shlomiag/rtrd)|
+|[securing name resolution in the iot: dns over coap](https://arxiv.org/abs/2207.07486)|[aiodnsprox](https://github.com/anr-bmbf-pivot/aiodnsprox)|
 ## 2023-06-30
 |paper|code|
 |---|---|
