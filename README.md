@@ -1,3 +1,12 @@
+## 2023-07-04
+|paper|code|
+|---|---|
+|[a lego-brick approach to coding for network communication](https://arxiv.org/abs/2211.07208)|[lego-brick](https://github.com/nadimgh/lego-brick)|
+|[propagation of linear uncertainties through multiline thru-reflect-line calibration](https://arxiv.org/abs/2301.09126)|[uncertainty-multiline-trl-calibration](https://github.com/ZiadHatab/uncertainty-multiline-trl-calibration)|
+|[towards domain generalization for ecg and eeg classification: algorithms and benchmarks](https://arxiv.org/abs/2303.11338)|[biodg](https://github.com/aristotelisballas/biodg)|
+|[synthesizing control laws from data using sum-of-squares optimization](https://arxiv.org/abs/2307.01089)|[data-clf](https://github.com/jbramburger/data-clf)|
+|[nancy: an efficient parallel network calculus library](https://arxiv.org/abs/2205.11449)|[nancy](https://github.com/rzippo/nancy)|
+|[decision-oriented two-parameter fisher information sensitivity using symplectic decomposition](https://arxiv.org/abs/2207.12077)|[symplecticfishersensitivity](https://github.com/longitude-jyang/symplecticfishersensitivity)|
 ## 2023-07-03
 |paper|code|
 |---|---|
@@ -10,6 +19,7 @@
 |paper|code|
 |---|---|
 |[noise detection with spectator qubits and quantum feature engineering](https://arxiv.org/abs/2103.13018)|[QFEND](https://github.com/akramyoussry/QFEND)|
+|[losing control of your network? try resilience theory](https://arxiv.org/abs/2306.16588)|[network-resilience](https://github.com/jean-baptistebouvier/network-resilience)|
 |[assessing the performance of 1d-convolution neural networks to predict concentration of mixture components from raman spectra](https://arxiv.org/abs/2306.16621)|[ramix](https://github.com/dexterantonio/ramix)|
 |[experience transfer for robust direct data-driven control](https://arxiv.org/abs/2306.16973)|[rddc](https://github.com/data-science-in-mechanical-engineering/rddc)|
 |[accurate pet reconstruction from reduced set of measurements based on gmm](https://arxiv.org/abs/2306.17028)|[accurate-pet-reconstruction-from-reduced-set-of-measurements-based-on-gmm](https://github.com/tm2005/accurate-pet-reconstruction-from-reduced-set-of-measurements-based-on-gmm)|
