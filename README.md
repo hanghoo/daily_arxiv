@@ -7,6 +7,7 @@
 |[synthesizing control laws from data using sum-of-squares optimization](https://arxiv.org/abs/2307.01089)|[data-clf](https://github.com/jbramburger/data-clf)|
 |[nancy: an efficient parallel network calculus library](https://arxiv.org/abs/2205.11449)|[nancy](https://github.com/rzippo/nancy)|
 |[decision-oriented two-parameter fisher information sensitivity using symplectic decomposition](https://arxiv.org/abs/2207.12077)|[symplecticfishersensitivity](https://github.com/longitude-jyang/symplecticfishersensitivity)|
+|[worth of knowledge in deep learning](https://arxiv.org/abs/2307.00712)|[worth_of_knowledge](https://github.com/woshixuhao/worth_of_knowledge)|
 ## 2023-07-03
 |paper|code|
 |---|---|
