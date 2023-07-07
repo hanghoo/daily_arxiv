@@ -1,19 +1,34 @@
+## 2023-07-06
+|paper|code|
+|---|---|
+|[towards safe autonomous driving policies using a neuro-symbolic deep reinforcement learning approach](https://arxiv.org/abs/2307.01316)|[safe-reinforcement-learning-using-symbolic-logical-programming-for-autonomous-highway-driving](https://github.com/cav-research-lab/safe-reinforcement-learning-using-symbolic-logical-programming-for-autonomous-highway-driving)|
+|[d\'em\'elange, d\'econvolution et d\'ebruitage conjoints d'un mod\`ele convolutif parcimonieux avec d\'erive instrumentale, par p\'enalisation de rapports de normes ou quasi-normes liss\'ees (pendantss)](https://arxiv.org/abs/2307.01761)|[pendantss](https://github.com/paulzhengfr/pendantss)|
+|[an overview of the net playground -- a heterogeneous, multi-functional network test bed](https://arxiv.org/abs/2307.02239)|[net-playground](https://gitlab.com/paulteck/net-playground)|
+|[deep generation of heterogeneous networks](https://arxiv.org/abs/2206.12336)|[hgen](https://github.com/lingchen0331/hgen)|
+|[on probability shaping for 5g mimo wireless channel with realistic ldpc codes](https://arxiv.org/abs/2303.02598)|[on-probabilistic-qam-shaping-for-5g-mimo-wireless-channel-with-realistic-ldpc-codes](https://github.com/eugenbobrov/on-probabilistic-qam-shaping-for-5g-mimo-wireless-channel-with-realistic-ldpc-codes)|
+|[conditional and residual methods in scalable coding for humans and machines](https://arxiv.org/abs/2305.02562)|[research](https://github.com/adeandrade/research)|
+|[a neural collapse perspective on feature evolution in graph neural networks](https://arxiv.org/abs/2307.01951)|[gnn_collapse](https://github.com/kvignesh1420/gnn_collapse)|
+|[age of information analysis in shared edge computing servers](https://arxiv.org/abs/2307.02166)|[aoi_edge_computing](https://github.com/signetlabdei/aoi_edge_computing)|
+|[set learning for accurate and calibrated models](https://arxiv.org/abs/2307.02245)|[oko](https://github.com/lukasmut/oko)|
 ## 2023-07-04
 |paper|code|
 |---|---|
 |[a lego-brick approach to coding for network communication](https://arxiv.org/abs/2211.07208)|[lego-brick](https://github.com/nadimgh/lego-brick)|
+|[interaction-aware motion planning for autonomous vehicles with multi-modal obstacle uncertainties in multi-vehicle scenarios](https://arxiv.org/abs/2212.11819)|[interaction-safety-aware-motion-planning](https://github.com/jianzhou1212/interaction-safety-aware-motion-planning)|
 |[propagation of linear uncertainties through multiline thru-reflect-line calibration](https://arxiv.org/abs/2301.09126)|[uncertainty-multiline-trl-calibration](https://github.com/ZiadHatab/uncertainty-multiline-trl-calibration)|
 |[towards domain generalization for ecg and eeg classification: algorithms and benchmarks](https://arxiv.org/abs/2303.11338)|[biodg](https://github.com/aristotelisballas/biodg)|
 |[synthesizing control laws from data using sum-of-squares optimization](https://arxiv.org/abs/2307.01089)|[data-clf](https://github.com/jbramburger/data-clf)|
 |[nancy: an efficient parallel network calculus library](https://arxiv.org/abs/2205.11449)|[nancy](https://github.com/rzippo/nancy)|
 |[decision-oriented two-parameter fisher information sensitivity using symplectic decomposition](https://arxiv.org/abs/2207.12077)|[symplecticfishersensitivity](https://github.com/longitude-jyang/symplecticfishersensitivity)|
 |[worth of knowledge in deep learning](https://arxiv.org/abs/2307.00712)|[worth_of_knowledge](https://github.com/woshixuhao/worth_of_knowledge)|
+|[engage: explanation guided data augmentation for graph representation learning](https://arxiv.org/abs/2307.01053)|[engage](https://github.com/sycny/engage)|
 ## 2023-07-03
 |paper|code|
 |---|---|
 |[sample average approximation for stochastic programming with equality constraints](https://arxiv.org/abs/2206.09963)|[stochasticedl](https://github.com/stanfordasl/stochasticedl)|
 |[team: a parameter-free algorithm to teach collaborative robots motions from user demonstrations](https://arxiv.org/abs/2209.06940)|[team](https://github.com/SchindlerReGIS/team)|
 |[learning bilinear models of actuated koopman generators from partially-observed trajectories](https://arxiv.org/abs/2209.09977)|[koopmangeneratorem](https://github.com/samotto1/koopmangeneratorem)|
+|[role of single particle motility statistics on efficiency of targeted delivery of micro-robot swarms](https://arxiv.org/abs/2306.17578)|[micro-robotic-simulations](https://github.com/akshatha-jagadish/micro-robotic-simulations)|
 |[root tracking for rate-distortion: approximating a solution curve with higher implicit multivariate derivatives](https://arxiv.org/abs/2206.11369)|[rtrd](https://github.com/shlomiag/rtrd)|
 |[securing name resolution in the iot: dns over coap](https://arxiv.org/abs/2207.07486)|[aiodnsprox](https://github.com/anr-bmbf-pivot/aiodnsprox)|
 ## 2023-06-30
