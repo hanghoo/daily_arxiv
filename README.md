@@ -1,3 +1,18 @@
+## 2023-07-07
+|paper|code|
+|---|---|
+|[tube-certified trajectory tracking for nonlinear systems with robust control contraction metrics](https://arxiv.org/abs/2109.04453)|[robust_ccm_tube](https://github.com/boranzhao/robust_ccm_tube)|
+|[deep-lcc: data-enabled predictive leading cruise control in mixed traffic flow](https://arxiv.org/abs/2203.10639)|[deep-lcc](https://github.com/soc-ucsd/deep-lcc)|
+|[model- and acceleration-based pursuit controller for high-performance autonomous racing](https://arxiv.org/abs/2209.04346)|[map-controller](https://github.com/eth-pbl/map-controller)|
+|[survey on lagrangian relaxation for milp: importance, challenges, historical review, recent advancements, and opportunities](https://arxiv.org/abs/2301.00573)|[SLBLR](https://github.com/ProfBragin/SLBLR)|
+|[renewable energy management in smart home environment via forecast embedded scheduling based on recurrent trend predictive neural network](https://arxiv.org/abs/2307.01622)|[Recurrent-Trend-Predictive-Neural-Network](https://github.com/mertnakip/Recurrent-Trend-Predictive-Neural-Network)|
+|[alpcah: sample-wise heteroscedastic pca with tail singular value regularization](https://arxiv.org/abs/2307.02745)|[alpcah](https://github.com/javiersc1/alpcah)|
+|[risk-averse trajectory optimization via sample average approximation](https://arxiv.org/abs/2307.03167)|[riskaversetrajopt](https://github.com/stanfordasl/riskaversetrajopt)|
+|[semi-device-dependent blind quantum tomography](https://arxiv.org/abs/2006.03069)|[blind-quantum-tomography](https://gitlab.com/wilkensJ/blind-quantum-tomography)|
+|[version control of speaker recognition systems](https://arxiv.org/abs/2007.12069)|[SpeakerVerSim](https://github.com/wq2012/SpeakerVerSim)|
+|[position-based machine learning propagation loss model enabling fast digital twins of wireless networks in ns-3](https://arxiv.org/abs/2302.11539)|[ml-propagation-loss-model](https://gitlab.com/inesctec-ns3/ml-propagation-loss-model)|
+|[fast and multi-aspect mining of complex time-stamped event streams](https://arxiv.org/abs/2303.03789)|[cubescope](https://github.com/kotanakm/cubescope)|
+|[on the noise sensitivity of the randomized svd](https://arxiv.org/abs/2305.17435)|[randomized-svd-code](https://github.com/eladromanov/randomized-svd-code)|
 ## 2023-07-06
 |paper|code|
 |---|---|
