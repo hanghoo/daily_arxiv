@@ -1,3 +1,11 @@
+## 2023-07-10
+|paper|code|
+|---|---|
+|[deep optimal transport for domain adaptation on spd manifolds](https://arxiv.org/abs/2201.05745)|[deep-optimal-transport-for-domain-adaptation-on-spd-manifolds](https://github.com/geometricbci/deep-optimal-transport-for-domain-adaptation-on-spd-manifolds)|
+|[model- and acceleration-based pursuit controller for high-performance autonomous racing](https://arxiv.org/abs/2209.04346)|[map-controller](https://github.com/eth-pbl/map-controller)|
+|[avoiding post-processing with event-based detection in biomedical signals](https://arxiv.org/abs/2209.11007)|[eventnet](https://github.com/n1xu5/eventnet)|
+|[on discrete symmetries of robotics systems: a group-theoretic and data-driven analysis](https://arxiv.org/abs/2302.10433)|[morphosymm](https://github.com/danfoa/morphosymm)|
+|[nancy: an efficient parallel network calculus library](https://arxiv.org/abs/2205.11449)|[nancy](https://github.com/rzippo/nancy)|
 ## 2023-07-07
 |paper|code|
 |---|---|
@@ -26,7 +34,6 @@
 |[a neural collapse perspective on feature evolution in graph neural networks](https://arxiv.org/abs/2307.01951)|[gnn_collapse](https://github.com/kvignesh1420/gnn_collapse)|
 |[instantaneous wireless robotic node localization using collaborative direction of arrival](https://arxiv.org/abs/2307.01956)|[cdoa-localization](https://github.com/herolab-uga/cdoa-localization)|
 |[age of information analysis in shared edge computing servers](https://arxiv.org/abs/2307.02166)|[aoi_edge_computing](https://github.com/signetlabdei/aoi_edge_computing)|
-|[set learning for accurate and calibrated models](https://arxiv.org/abs/2307.02245)|[oko](https://github.com/lukasmut/oko)|
 |[darkhorse: a udp-based framework to improve the latency of tor onion services](https://arxiv.org/abs/2307.02429)|[tor-with-spoofing](https://github.com/malazad/tor-with-spoofing)|
 ## 2023-07-04
 |paper|code|
