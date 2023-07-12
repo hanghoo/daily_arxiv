@@ -1,3 +1,12 @@
+## 2023-07-11
+|paper|code|
+|---|---|
+|[superstabilizing control of discrete-time arx models under error in variables](https://arxiv.org/abs/2210.14893)|[eiv_arx](https://github.com/jarmill/eiv_arx)|
+|[quantum search approaches to sampling-based motion planning](https://arxiv.org/abs/2304.06479)|[qrrt](https://github.com/pdlathrop/qrrt)|
+|[decentralized sgd and average-direction sam are asymptotically equivalent](https://arxiv.org/abs/2306.02913)|[icml-2023-dsgd-and-sam](https://github.com/raiden-zhu/icml-2023-dsgd-and-sam)|
+|[neural abstraction-based controller synthesis and deployment](https://arxiv.org/abs/2307.03783)|[neural-representation](https://github.com/msalamati/neural-representation)|
+|[manifold filter-combine networks](https://arxiv.org/abs/2307.04056)|[mfcn](https://github.com/krishnaswamylab/mfcn)|
+|[set learning for accurate and calibrated models](https://arxiv.org/abs/2307.02245)|[oko](https://github.com/lukasmut/oko)|
 ## 2023-07-10
 |paper|code|
 |---|---|
@@ -5,7 +14,8 @@
 |[model- and acceleration-based pursuit controller for high-performance autonomous racing](https://arxiv.org/abs/2209.04346)|[map-controller](https://github.com/eth-pbl/map-controller)|
 |[avoiding post-processing with event-based detection in biomedical signals](https://arxiv.org/abs/2209.11007)|[eventnet](https://github.com/n1xu5/eventnet)|
 |[on discrete symmetries of robotics systems: a group-theoretic and data-driven analysis](https://arxiv.org/abs/2302.10433)|[morphosymm](https://github.com/danfoa/morphosymm)|
-|[nancy: an efficient parallel network calculus library](https://arxiv.org/abs/2205.11449)|[nancy](https://github.com/rzippo/nancy)|
+|[exact recovery of the support of piecewise constant images via total variation regularization](https://arxiv.org/abs/2307.03709)|[2023-support-recovery-tv](https://github.com/rpetit/2023-support-recovery-tv)|
+|[nancy: an efficient parallel network calculus library](https://arxiv.org/abs/2205.11449)|[softx-d-22-00130](https://github.com/elseviersoftwarex/softx-d-22-00130)|
 ## 2023-07-07
 |paper|code|
 |---|---|
