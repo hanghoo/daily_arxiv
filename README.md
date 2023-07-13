@@ -1,12 +1,23 @@
+## 2023-07-12
+|paper|code|
+|---|---|
+|[estimating the convex hull of the image of a set with smooth boundary: error bounds and applications](https://arxiv.org/abs/2302.13970)|[convex-hull-estimation](https://github.com/stanfordasl/convex-hull-estimation)|
+|[super-resolution radar imaging with sparse arrays using a deep neural network trained with enhanced virtual data](https://arxiv.org/abs/2306.09839)|[sparse-array-radar-imaging](https://github.com/christianschuessler/sparse-array-radar-imaging)|
+|[pegasus simulator: an isaac sim framework for multiple aerial vehicles simulation](https://arxiv.org/abs/2307.05263)|[PegasusSimulator](https://github.com/PegasusSimulator/PegasusSimulator)|
+|[tsdownsample: high-performance time series downsampling for scalable visualization](https://arxiv.org/abs/2307.05389)|[tsdownsample](https://github.com/predict-idlab/tsdownsample)|
 ## 2023-07-11
 |paper|code|
 |---|---|
+|[grid-free mimo beam alignment through site-specific deep learning](https://arxiv.org/abs/2209.08198)|[dlgf](https://github.com/yuqiangheng/dlgf)|
 |[superstabilizing control of discrete-time arx models under error in variables](https://arxiv.org/abs/2210.14893)|[eiv_arx](https://github.com/jarmill/eiv_arx)|
 |[quantum search approaches to sampling-based motion planning](https://arxiv.org/abs/2304.06479)|[qrrt](https://github.com/pdlathrop/qrrt)|
 |[decentralized sgd and average-direction sam are asymptotically equivalent](https://arxiv.org/abs/2306.02913)|[icml-2023-dsgd-and-sam](https://github.com/raiden-zhu/icml-2023-dsgd-and-sam)|
 |[neural abstraction-based controller synthesis and deployment](https://arxiv.org/abs/2307.03783)|[neural-representation](https://github.com/msalamati/neural-representation)|
+|[optimizing task waiting times in dynamic vehicle routing](https://arxiv.org/abs/2307.03984)|[mdvrp-optimal-policy](https://github.com/arminsadeghi/mdvrp-optimal-policy)|
 |[manifold filter-combine networks](https://arxiv.org/abs/2307.04056)|[mfcn](https://github.com/krishnaswamylab/mfcn)|
+|[spoofing-resilient lidar-gps factor graph localization with chimera authentication](https://arxiv.org/abs/2307.04692)|[chimera_fgo](https://github.com/stanford-navlab/chimera_fgo)|
 |[set learning for accurate and calibrated models](https://arxiv.org/abs/2307.02245)|[oko](https://github.com/lukasmut/oko)|
+|[secrets revealed in container images: an internet-wide study on occurrence and impact](https://arxiv.org/abs/2307.03958)|[docker-secret-analysis](https://github.com/comsys/docker-secret-analysis)|
 ## 2023-07-10
 |paper|code|
 |---|---|
@@ -25,7 +36,6 @@
 |[renewable energy management in smart home environment via forecast embedded scheduling based on recurrent trend predictive neural network](https://arxiv.org/abs/2307.01622)|[Recurrent-Trend-Predictive-Neural-Network](https://github.com/mertnakip/Recurrent-Trend-Predictive-Neural-Network)|
 |[alpcah: sample-wise heteroscedastic pca with tail singular value regularization](https://arxiv.org/abs/2307.02745)|[alpcah](https://github.com/javiersc1/alpcah)|
 |[risk-averse trajectory optimization via sample average approximation](https://arxiv.org/abs/2307.03167)|[riskaversetrajopt](https://github.com/stanfordasl/riskaversetrajopt)|
-|[semi-device-dependent blind quantum tomography](https://arxiv.org/abs/2006.03069)|[blind-quantum-tomography](https://gitlab.com/wilkensJ/blind-quantum-tomography)|
 |[version control of speaker recognition systems](https://arxiv.org/abs/2007.12069)|[SpeakerVerSim](https://github.com/wq2012/SpeakerVerSim)|
 |[deep reinforcement learning for orchestrating cost-aware reconfigurations of vrans](https://arxiv.org/abs/2208.05282)|[larv_datasets](https://github.com/fahriwm/larv_datasets)|
 |[position-based machine learning propagation loss model enabling fast digital twins of wireless networks in ns-3](https://arxiv.org/abs/2302.11539)|[ml-propagation-loss-model](https://gitlab.com/inesctec-ns3/ml-propagation-loss-model)|
