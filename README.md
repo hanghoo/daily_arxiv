@@ -1,3 +1,12 @@
+## 2023-07-14
+|paper|code|
+|---|---|
+|[semantic information recovery in wireless networks](https://arxiv.org/abs/2204.13366)|[sinfony](https://github.com/ant-uni-bremen/sinfony)|
+|[iterative convex optimization for model predictive control with discrete-time high-order control barrier functions](https://arxiv.org/abs/2210.04361)|[iterative-mpc-dhocbf](https://github.com/shockleo/iterative-mpc-dhocbf)|
+|[human biophysics as network weights: conditional generative models for dynamic simulation](https://arxiv.org/abs/2211.01856)|[biomime](https://github.com/shihan-ma/biomime)|
+|[towards safe autonomous driving policies using a neuro-symbolic deep reinforcement learning approach](https://arxiv.org/abs/2307.01316)|[safe-reinforcement-learning-using-symbolic-logical-programming-for-autonomous-highway-driving](https://github.com/cav-research-lab/safe-reinforcement-learning-using-symbolic-logical-programming-for-autonomous-highway-driving)|
+|[limsim: a long-term interactive multi-scenario traffic simulator](https://arxiv.org/abs/2307.06648)|[LimSim](https://github.com/PJLab-ADG/LimSim)|
+|[meta-state-space learning: an identification approach for stochastic dynamical systems](https://arxiv.org/abs/2307.06675)|[metass-code-repo](https://github.com/gerbenbeintema/metass-code-repo)|
 ## 2023-07-13
 |paper|code|
 |---|---|
@@ -6,6 +15,9 @@
 |[dsse: a drone swarm search environment](https://arxiv.org/abs/2307.06240)|[drone-swarm-search](https://github.com/pfe-embraer/drone-swarm-search)|
 |[semi-device-dependent blind quantum tomography](https://arxiv.org/abs/2006.03069)|[blind-quantum-tomography](https://gitlab.com/wilkensJ/blind-quantum-tomography)|
 |[fundamental limits for sensor-based robot control](https://arxiv.org/abs/2202.00129)|[performance-limits](https://github.com/irom-lab/performance-limits)|
+|[a worldwide look into mobile access networks through the eyes of amigos](https://arxiv.org/abs/2209.04129)|[mobile-testbed](https://github.com/svarvel/mobile-testbed)|
+|[introducing packet-level analysis in programmable data planes to advance network intrusion detection](https://arxiv.org/abs/2307.05936)|[p4ddle](https://github.com/risingfbk/p4ddle)|
+|[a linear algebraic framework for dynamic scheduling over memory-equipped quantum networks](https://arxiv.org/abs/2307.06009)|[dynschedsimulator_journal](https://github.com/pfittipaldi/dynschedsimulator_journal)|
 ## 2023-07-12
 |paper|code|
 |---|---|
