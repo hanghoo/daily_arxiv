@@ -7,6 +7,7 @@
 |[towards safe autonomous driving policies using a neuro-symbolic deep reinforcement learning approach](https://arxiv.org/abs/2307.01316)|[safe-reinforcement-learning-using-symbolic-logical-programming-for-autonomous-highway-driving](https://github.com/cav-research-lab/safe-reinforcement-learning-using-symbolic-logical-programming-for-autonomous-highway-driving)|
 |[limsim: a long-term interactive multi-scenario traffic simulator](https://arxiv.org/abs/2307.06648)|[LimSim](https://github.com/PJLab-ADG/LimSim)|
 |[meta-state-space learning: an identification approach for stochastic dynamical systems](https://arxiv.org/abs/2307.06675)|[metass-code-repo](https://github.com/gerbenbeintema/metass-code-repo)|
+|[hypergraph-based fast distributed ac power flow optimization](https://arxiv.org/abs/2307.06728)|[rapidPF](https://github.com/xinliang-dai/rapidPF)|
 ## 2023-07-13
 |paper|code|
 |---|---|
