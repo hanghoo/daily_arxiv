@@ -7,7 +7,6 @@
 |[towards safe autonomous driving policies using a neuro-symbolic deep reinforcement learning approach](https://arxiv.org/abs/2307.01316)|[safe-reinforcement-learning-using-symbolic-logical-programming-for-autonomous-highway-driving](https://github.com/cav-research-lab/safe-reinforcement-learning-using-symbolic-logical-programming-for-autonomous-highway-driving)|
 |[limsim: a long-term interactive multi-scenario traffic simulator](https://arxiv.org/abs/2307.06648)|[LimSim](https://github.com/PJLab-ADG/LimSim)|
 |[meta-state-space learning: an identification approach for stochastic dynamical systems](https://arxiv.org/abs/2307.06675)|[metass-code-repo](https://github.com/gerbenbeintema/metass-code-repo)|
-|[hypergraph-based fast distributed ac power flow optimization](https://arxiv.org/abs/2307.06728)|[rapidPF](https://github.com/xinliang-dai/rapidPF)|
 ## 2023-07-13
 |paper|code|
 |---|---|
@@ -34,7 +33,6 @@
 |[quantum search approaches to sampling-based motion planning](https://arxiv.org/abs/2304.06479)|[qrrt](https://github.com/pdlathrop/qrrt)|
 |[decentralized sgd and average-direction sam are asymptotically equivalent](https://arxiv.org/abs/2306.02913)|[icml-2023-dsgd-and-sam](https://github.com/raiden-zhu/icml-2023-dsgd-and-sam)|
 |[neural abstraction-based controller synthesis and deployment](https://arxiv.org/abs/2307.03783)|[neural-representation](https://github.com/msalamati/neural-representation)|
-|[optimizing task waiting times in dynamic vehicle routing](https://arxiv.org/abs/2307.03984)|[mdvrp-optimal-policy](https://github.com/arminsadeghi/mdvrp-optimal-policy)|
 |[manifold filter-combine networks](https://arxiv.org/abs/2307.04056)|[mfcn](https://github.com/krishnaswamylab/mfcn)|
 |[spoofing-resilient lidar-gps factor graph localization with chimera authentication](https://arxiv.org/abs/2307.04692)|[chimera_fgo](https://github.com/stanford-navlab/chimera_fgo)|
 |[set learning for accurate and calibrated models](https://arxiv.org/abs/2307.02245)|[oko](https://github.com/lukasmut/oko)|
