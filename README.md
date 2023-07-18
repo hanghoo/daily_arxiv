@@ -1,3 +1,9 @@
+## 2023-07-17
+|paper|code|
+|---|---|
+|[traction control allocation employing vehicle motion feedback controller for four-wheel-independent-drive vehicle](https://arxiv.org/abs/2305.01251)|[formulacarmaker](https://github.com/sds-rc-fee-ctu-in-prague/formulacarmaker)|
+|[optimizing task waiting times in dynamic vehicle routing](https://arxiv.org/abs/2307.03984)|[mdvrp-optimal-policy](https://github.com/arminsadeghi/mdvrp-optimal-policy)|
+|[hypergraph-based fast distributed ac power flow optimization](https://arxiv.org/abs/2307.06728)|[rapidPF](https://github.com/xinliang-dai/rapidPF)|
 ## 2023-07-14
 |paper|code|
 |---|---|
