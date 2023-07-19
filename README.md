@@ -1,3 +1,19 @@
+## 2023-07-18
+|paper|code|
+|---|---|
+|[the time-freezing reformulation for numerical optimal control of complementarity lagrangian systems with state jumps](https://arxiv.org/abs/2111.06759)|[nosnoc](https://github.com/nurkanovic/nosnoc)|
+|[wifi based distance estimation using supervised machine learning](https://arxiv.org/abs/2208.07190)|[wifi-fingerprint](https://github.com/kahramankostas/wifi-fingerprint)|
+|[multi-target tracking with transferable convolutional neural networks](https://arxiv.org/abs/2210.15539)|[mtt](https://github.com/damowerko/mtt)|
+|[graph neural networks on spd manifolds for motor imagery classification: a perspective from the time-frequency analysis](https://arxiv.org/abs/2211.02641)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|[robust data-driven predictive control of unknown nonlinear systems using reachability analysis](https://arxiv.org/abs/2211.05867)|[Data-Driven-Predictive-Control](https://github.com/aalanwar/Data-Driven-Predictive-Control)|
+|[closed-form control with spike coding networks](https://arxiv.org/abs/2212.12887)|[scn_estimation_and_control](https://github.com/fsslijkhuis/scn_estimation_and_control)|
+|[learning to reconstruct signals from binary measurements](https://arxiv.org/abs/2303.08691)|[ssbm](https://github.com/tachella/ssbm)|
+|[source-free domain adaptation with temporal imputation for time series data](https://arxiv.org/abs/2307.07542)|[mapu_sfda_ts](https://github.com/mohamedr002/mapu_sfda_ts)|
+|[harpa: high-rate phase association with travel time neural fields](https://arxiv.org/abs/2307.07572)|[phase_association](https://github.com/dadacheng/phase_association)|
+|[negative probabilities in gene regulatory networks](https://arxiv.org/abs/2307.07738)|[negative-probability-forward-backward](https://github.com/dytroshut/negative-probability-forward-backward)|
+|[gradient-free training of neural odes for system identification and control using ensemble kalman inversion](https://arxiv.org/abs/2307.07882)|[eki-neural-ode](https://gitlab.com/computationalscience/eki-neural-ode)|
+|[the netmob23 dataset: a high-resolution multi-region service-level mobile data traffic cartography](https://arxiv.org/abs/2305.06933)|[netmob2023challenge](https://github.com/nds-group/netmob2023challenge)|
+|[for one-shot decoding: unsupervised deep learning-based polar decoder](https://arxiv.org/abs/2307.08004)|[Unsupervised_NN_Polar_Decoder](https://github.com/Huiying-Song/Unsupervised_NN_Polar_Decoder)|
 ## 2023-07-17
 |paper|code|
 |---|---|
