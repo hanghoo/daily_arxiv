@@ -1,3 +1,17 @@
+## 2023-07-19
+|paper|code|
+|---|---|
+|[on the convergence of inexact gradient descent with controlled synchronization steps](https://arxiv.org/abs/2208.07797)|[inexact-gradient-descent](https://github.com/Sandushan/inexact-gradient-descent)|
+|[towards dynamic causal discovery with rare events: a nonparametric conditional independence test](https://arxiv.org/abs/2211.16596)|[l4dc2023-causality](https://github.com/kkulk/l4dc2023-causality)|
+|[propagation of linear uncertainties through multiline thru-reflect-line calibration](https://arxiv.org/abs/2301.09126)|[uncertainty-multiline-trl-calibration](https://github.com/ZiadHatab/uncertainty-multiline-trl-calibration)|
+|[gaussian process deconvolution](https://arxiv.org/abs/2305.04871)|[gaussian-process-deconvolution](https://github.com/games-uchile/gaussian-process-deconvolution)|
+|[3dinvnet: a deep learning-based 3d ground-penetrating radar data inversion](https://arxiv.org/abs/2305.05425)|[3dinvnet](https://github.com/qiqi-dai/3dinvnet)|
+|[classification with incoherent kernel dictionary learning](https://arxiv.org/abs/2307.08796)|[incoherent-kernel-dictionary-learning](https://github.com/denisilie94/incoherent-kernel-dictionary-learning)|
+|[reduced kernel dictionary learning](https://arxiv.org/abs/2307.08798)|[rkdl](https://github.com/denisilie94/rkdl)|
+|[application of bert in wind power forecasting-teletraan's solution in baidu kdd cup 2022](https://arxiv.org/abs/2307.09248)|[kdd2022-baidu](https://github.com/longxingtan/kdd2022-baidu)|
+|[deepcabac: a universal compression algorithm for deep neural networks](https://arxiv.org/abs/1907.11900)|[DeepCABAC](https://github.com/fraunhoferhhi/DeepCABAC)|
+|[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
+|[enhancing network slicing architectures with machine learning, security, sustainability and experimental networks integration](https://arxiv.org/abs/2307.09151)|[sfi2-energy-sustainability](https://github.com/romoreira/sfi2-energy-sustainability)|
 ## 2023-07-18
 |paper|code|
 |---|---|
@@ -10,16 +24,21 @@
 |[learning to reconstruct signals from binary measurements](https://arxiv.org/abs/2303.08691)|[ssbm](https://github.com/tachella/ssbm)|
 |[source-free domain adaptation with temporal imputation for time series data](https://arxiv.org/abs/2307.07542)|[mapu_sfda_ts](https://github.com/mohamedr002/mapu_sfda_ts)|
 |[harpa: high-rate phase association with travel time neural fields](https://arxiv.org/abs/2307.07572)|[phase_association](https://github.com/dadacheng/phase_association)|
+|[home energy management with dynamic tariffs and tiered peak power charges](https://arxiv.org/abs/2307.07580)|[home-energy-management](https://github.com/cvxgrp/home-energy-management)|
 |[negative probabilities in gene regulatory networks](https://arxiv.org/abs/2307.07738)|[negative-probability-forward-backward](https://github.com/dytroshut/negative-probability-forward-backward)|
 |[gradient-free training of neural odes for system identification and control using ensemble kalman inversion](https://arxiv.org/abs/2307.07882)|[eki-neural-ode](https://gitlab.com/computationalscience/eki-neural-ode)|
 |[the netmob23 dataset: a high-resolution multi-region service-level mobile data traffic cartography](https://arxiv.org/abs/2305.06933)|[netmob2023challenge](https://github.com/nds-group/netmob2023challenge)|
-|[for one-shot decoding: unsupervised deep learning-based polar decoder](https://arxiv.org/abs/2307.08004)|[Unsupervised_NN_Polar_Decoder](https://github.com/Huiying-Song/Unsupervised_NN_Polar_Decoder)|
+|[secure middlebox-assisted quic](https://arxiv.org/abs/2307.08543)|[2023-ifip-nw-smaq](https://github.com/kosekmi/2023-ifip-nw-smaq)|
+|[externally validating the iotdevid device identification methodology using the cic iot 2022 dataset](https://arxiv.org/abs/2307.08679)|[iotdevid-cic](https://github.com/kahramankostas/iotdevid-cic)|
 ## 2023-07-17
 |paper|code|
 |---|---|
 |[traction control allocation employing vehicle motion feedback controller for four-wheel-independent-drive vehicle](https://arxiv.org/abs/2305.01251)|[formulacarmaker](https://github.com/sds-rc-fee-ctu-in-prague/formulacarmaker)|
 |[optimizing task waiting times in dynamic vehicle routing](https://arxiv.org/abs/2307.03984)|[mdvrp-optimal-policy](https://github.com/arminsadeghi/mdvrp-optimal-policy)|
 |[hypergraph-based fast distributed ac power flow optimization](https://arxiv.org/abs/2307.06728)|[rapidPF](https://github.com/xinliang-dai/rapidPF)|
+|[value-gradient iteration with quadratic approximate value functions](https://arxiv.org/abs/2307.07086)|[vgi](https://github.com/cvxgrp/vgi)|
+|[an online learning analysis of minimax adaptive control](https://arxiv.org/abs/2307.07268)|[minimaxadaptivecontrolregret](https://github.com/venkatramanrenganathan/minimaxadaptivecontrolregret)|
+|[verification of quantum systems using barrier certificates](https://arxiv.org/abs/2307.07307)|[quantum-barrier-certificates](https://github.com/marco-lewis/quantum-barrier-certificates)|
 ## 2023-07-14
 |paper|code|
 |---|---|
