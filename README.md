@@ -1,3 +1,10 @@
+## 2023-07-20
+|paper|code|
+|---|---|
+|[viser: a tractable solution concept for games with information asymmetry](https://arxiv.org/abs/2307.09652)|[viser](https://github.com/jermcmahan/viser)|
+|[alpaserve: statistical multiplexing with model parallelism for deep learning serving](https://arxiv.org/abs/2302.11665)|[mms](https://github.com/alpa-projects/mms)|
+|[sionna rt: differentiable ray tracing for radio propagation modeling](https://arxiv.org/abs/2303.11103)|[diff-rt](https://github.com/nvlabs/diff-rt)|
+|[genkl: an iterative framework for resolving label ambiguity and label non-conformity in web images via a new generalized kl divergence](https://arxiv.org/abs/2307.09810)|[genkl](https://github.com/codetopaper/genkl)|
 ## 2023-07-19
 |paper|code|
 |---|---|
@@ -6,8 +13,10 @@
 |[propagation of linear uncertainties through multiline thru-reflect-line calibration](https://arxiv.org/abs/2301.09126)|[uncertainty-multiline-trl-calibration](https://github.com/ZiadHatab/uncertainty-multiline-trl-calibration)|
 |[gaussian process deconvolution](https://arxiv.org/abs/2305.04871)|[gaussian-process-deconvolution](https://github.com/games-uchile/gaussian-process-deconvolution)|
 |[3dinvnet: a deep learning-based 3d ground-penetrating radar data inversion](https://arxiv.org/abs/2305.05425)|[3dinvnet](https://github.com/qiqi-dai/3dinvnet)|
+|[parametric and state estimation of stationary mems-imus: a tutorial](https://arxiv.org/abs/2307.08571)|[multiple-mems-imus-estimation](https://github.com/ansfl/multiple-mems-imus-estimation)|
 |[classification with incoherent kernel dictionary learning](https://arxiv.org/abs/2307.08796)|[incoherent-kernel-dictionary-learning](https://github.com/denisilie94/incoherent-kernel-dictionary-learning)|
 |[reduced kernel dictionary learning](https://arxiv.org/abs/2307.08798)|[rkdl](https://github.com/denisilie94/rkdl)|
+|[radar-stda: a high-performance spatial-temporal denoising autoencoder for interference mitigation of fmcw radars](https://arxiv.org/abs/2307.09063)|[rd_map_temporal_spatial_denoising_autoencoder](https://github.com/guanrunwei/rd_map_temporal_spatial_denoising_autoencoder)|
 |[application of bert in wind power forecasting-teletraan's solution in baidu kdd cup 2022](https://arxiv.org/abs/2307.09248)|[kdd2022-baidu](https://github.com/longxingtan/kdd2022-baidu)|
 |[deepcabac: a universal compression algorithm for deep neural networks](https://arxiv.org/abs/1907.11900)|[DeepCABAC](https://github.com/fraunhoferhhi/DeepCABAC)|
 |[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
@@ -15,7 +24,7 @@
 ## 2023-07-18
 |paper|code|
 |---|---|
-|[the time-freezing reformulation for numerical optimal control of complementarity lagrangian systems with state jumps](https://arxiv.org/abs/2111.06759)|[nosnoc](https://github.com/nurkanovic/nosnoc)|
+|[the time-freezing reformulation for numerical optimal control of complementarity lagrangian systems with state jumps](https://arxiv.org/abs/2111.06759)|[nosnoc](https://github.com/freyjo/nosnoc)|
 |[wifi based distance estimation using supervised machine learning](https://arxiv.org/abs/2208.07190)|[wifi-fingerprint](https://github.com/kahramankostas/wifi-fingerprint)|
 |[multi-target tracking with transferable convolutional neural networks](https://arxiv.org/abs/2210.15539)|[mtt](https://github.com/damowerko/mtt)|
 |[graph neural networks on spd manifolds for motor imagery classification: a perspective from the time-frequency analysis](https://arxiv.org/abs/2211.02641)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
