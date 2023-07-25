@@ -1,3 +1,11 @@
+## 2023-07-24
+|paper|code|
+|---|---|
+|[lrh-net: a multi-level knowledge distillation approach for low-resource heart network](https://arxiv.org/abs/2204.08000)|[lrh-net](https://github.com/ekansh09/lrh-net)|
+|[successive linear approximation vbi for joint sparse signal recovery and dynamic grid parameters estimation](https://arxiv.org/abs/2307.09149)|[sla-vbi](https://github.com/zju-xwk/sla-vbi)|
+|[neural operators for delay-compensating control of hyperbolic pides](https://arxiv.org/abs/2307.11436)|[no_hyperbolic_delay](https://github.com/jingzhang-jz/no_hyperbolic_delay)|
+|[transferability of convolutional neural networks in stationary learning tasks](https://arxiv.org/abs/2307.11588)|[mtt](https://github.com/damowerko/mtt)|
+|[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
 ## 2023-07-21
 |paper|code|
 |---|---|
@@ -13,6 +21,7 @@
 ## 2023-07-20
 |paper|code|
 |---|---|
+|[dreamr: diffusion-driven counterfactual explanation for functional mri](https://arxiv.org/abs/2307.09547)|[dreamr](https://github.com/icon-lab/dreamr)|
 |[viser: a tractable solution concept for games with information asymmetry](https://arxiv.org/abs/2307.09652)|[viser](https://github.com/jermcmahan/viser)|
 |[alpaserve: statistical multiplexing with model parallelism for deep learning serving](https://arxiv.org/abs/2302.11665)|[mms](https://github.com/alpa-projects/mms)|
 |[sionna rt: differentiable ray tracing for radio propagation modeling](https://arxiv.org/abs/2303.11103)|[diff-rt](https://github.com/nvlabs/diff-rt)|
@@ -33,7 +42,6 @@
 |[radar-stda: a high-performance spatial-temporal denoising autoencoder for interference mitigation of fmcw radars](https://arxiv.org/abs/2307.09063)|[rd_map_temporal_spatial_denoising_autoencoder](https://github.com/guanrunwei/rd_map_temporal_spatial_denoising_autoencoder)|
 |[application of bert in wind power forecasting-teletraan's solution in baidu kdd cup 2022](https://arxiv.org/abs/2307.09248)|[kdd2022-baidu](https://github.com/longxingtan/kdd2022-baidu)|
 |[deepcabac: a universal compression algorithm for deep neural networks](https://arxiv.org/abs/1907.11900)|[DeepCABAC](https://github.com/fraunhoferhhi/DeepCABAC)|
-|[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
 |[enhancing network slicing architectures with machine learning, security, sustainability and experimental networks integration](https://arxiv.org/abs/2307.09151)|[sfi2-energy-sustainability](https://github.com/romoreira/sfi2-energy-sustainability)|
 ## 2023-07-18
 |paper|code|
