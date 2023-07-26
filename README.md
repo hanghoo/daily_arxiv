@@ -1,3 +1,20 @@
+## 2023-07-25
+|paper|code|
+|---|---|
+|[nilm as a regression versus classification problem: the importance of thresholding](https://arxiv.org/abs/2010.16050)|[better_nilm](https://github.com/UCA-Datalab/better_nilm)|
+|[(stochastic) model predictive control -- a simulation example](https://arxiv.org/abs/2101.12020)|[smpc_example](https://github.com/tim283/smpc_example)|
+|[trumpets: injective flows for inference and inverse problems](https://arxiv.org/abs/2102.10461)|[trumpets](https://github.com/swing-research/trumpets)|
+|[self-supervised learning for human activity recognition using 700,000 person-days of wearable data](https://arxiv.org/abs/2206.02909)|[ssl-wearables](https://github.com/OxWearables/ssl-wearables)|
+|[deep injective prior for inverse scattering](https://arxiv.org/abs/2301.03092)|[scattering_injective_prior](https://github.com/swing-research/scattering_injective_prior)|
+|[exact characterization of the convex hulls of reachable sets](https://arxiv.org/abs/2303.17674)|[convex_hull_reachability](https://github.com/stanfordasl/convex_hull_reachability)|
+|[towards autonomous system: flexible modular production system enhanced with large language model agents](https://arxiv.org/abs/2304.14721)|[gpt4industrialautomation](https://github.com/yuchenxia/gpt4industrialautomation)|
+|[self-supervised learning for time series analysis: taxonomy, progress, and prospects](https://arxiv.org/abs/2306.10125)|[Awesome-SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS)|
+|[deep unfolded simulated bifurcation for massive mimo signal detection](https://arxiv.org/abs/2306.16264)|[unfolded_simbif](https://github.com/s-takabe/unfolded_simbif)|
+|[remote bio-sensing: open source benchmark framework for fair evaluation of rppg](https://arxiv.org/abs/2307.12644)|[rppg](https://github.com/remotebiosensing/rppg)|
+|[concept-based explainability for an eeg transformer model](https://arxiv.org/abs/2307.12745)|[tcav-bendr](https://github.com/andersgmadsen/tcav-bendr)|
+|[implementing reinforcement learning datacenter congestion control in nvidia nics](https://arxiv.org/abs/2207.02295)|[rl-cc](https://github.com/benja263/rl-cc)|
+|[knowledge-based intent modeling for next generation cellular networks](https://arxiv.org/abs/2302.08544)|[intentrdfproject](https://github.com/kashifme224/intentrdfproject)|
+|[corrfl: correlation-based neural network architecture for unavailability concerns in a heterogeneous iot environment](https://arxiv.org/abs/2307.12149)|[CorrFL](https://github.com/Western-OC2-Lab/CorrFL)|
 ## 2023-07-24
 |paper|code|
 |---|---|
@@ -6,6 +23,7 @@
 |[neural operators for delay-compensating control of hyperbolic pides](https://arxiv.org/abs/2307.11436)|[no_hyperbolic_delay](https://github.com/jingzhang-jz/no_hyperbolic_delay)|
 |[transferability of convolutional neural networks in stationary learning tasks](https://arxiv.org/abs/2307.11588)|[mtt](https://github.com/damowerko/mtt)|
 |[adjacent-bits-swapped polar codes: a new code construction to speed up polarization](https://arxiv.org/abs/2202.04454)|[abs-polar](https://github.com/plumjelly/abs-polar)|
+|[mitigating communications threats in decentralized federated learning through moving target defense](https://arxiv.org/abs/2307.11730)|[fedstellar](https://github.com/enriquetomasmb/fedstellar)|
 ## 2023-07-21
 |paper|code|
 |---|---|
