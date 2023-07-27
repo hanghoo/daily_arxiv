@@ -1,3 +1,15 @@
+## 2023-07-26
+|paper|code|
+|---|---|
+|[noise detection with spectator qubits and quantum feature engineering](https://arxiv.org/abs/2103.13018)|[QFEND](https://github.com/akramyoussry/QFEND)|
+|[denoising noisy neural networks: a bayesian approach with compensation](https://arxiv.org/abs/2105.10699)|[NoisyNN](https://github.com/lynshao/NoisyNN)|
+|[real-time neural-mpc: deep learning model predictive control for quadrotors and agile robotic platforms](https://arxiv.org/abs/2203.07747)|[ml-casadi](https://github.com/TUM-AAS/ml-casadi)|
+|[bounded simplex-structured matrix factorization: algorithms, identifiability and applications](https://arxiv.org/abs/2209.12638)|[bssmf.jl](https://gitlab.com/vuthanho/bssmf.jl)|
+|[a switching gaussian process latent force model for the identification of mechanical systems with a discontinuous nonlinearity](https://arxiv.org/abs/2303.03858)|[switching-gplfm](https://github.com/l-marino/switching-gplfm)|
+|[differentially private distributed estimation and learning](https://arxiv.org/abs/2306.15865)|[dp-distributed-estimation](https://github.com/papachristoumarios/dp-distributed-estimation)|
+|[optimizing task waiting times in dynamic vehicle routing](https://arxiv.org/abs/2307.03984)|[mdvrp-optimal-policy](https://github.com/arminsadeghi/mdvrp-optimal-policy)|
+|[adaptive regularized zero-forcing beamforming in massive mimo with multi-antenna users](https://arxiv.org/abs/2107.00853)|[Adaptive-Regularized-Zero-Forcing-Beamforming-in-Massive-MIMO-with-Multi-Antenna-Users](https://github.com/eugenbobrov/Adaptive-Regularized-Zero-Forcing-Beamforming-in-Massive-MIMO-with-Multi-Antenna-Users)|
+|[network traffic classification based on single flow time series analysis](https://arxiv.org/abs/2307.13434)|[classificationbasedonsfts](https://github.com/koumajos/classificationbasedonsfts)|
 ## 2023-07-25
 |paper|code|
 |---|---|
@@ -15,6 +27,7 @@
 |[implementing reinforcement learning datacenter congestion control in nvidia nics](https://arxiv.org/abs/2207.02295)|[rl-cc](https://github.com/benja263/rl-cc)|
 |[knowledge-based intent modeling for next generation cellular networks](https://arxiv.org/abs/2302.08544)|[intentrdfproject](https://github.com/kashifme224/intentrdfproject)|
 |[corrfl: correlation-based neural network architecture for unavailability concerns in a heterogeneous iot environment](https://arxiv.org/abs/2307.12149)|[CorrFL](https://github.com/Western-OC2-Lab/CorrFL)|
+|[in search of maximum non-overlapping codes](https://arxiv.org/abs/2307.12593)|[nono-codes](https://github.com/magdevska/nono-codes)|
 ## 2023-07-24
 |paper|code|
 |---|---|
@@ -33,7 +46,6 @@
 |[novel batch active learning approach and its application to synthetic aperture radar datasets](https://arxiv.org/abs/2307.10495)|[sar_bal](https://github.com/chapman20j/sar_bal)|
 |[differentially flat learning-based model predictive control using a stability, state, and input constraining safety filter](https://arxiv.org/abs/2307.10541)|[fmpc_socp](https://github.com/utiasdsl/fmpc_socp)|
 |[can information flows suggest targets for interventions in neural circuits?](https://arxiv.org/abs/2111.05299)|[ann-info-flow](https://github.com/praveenv253/ann-info-flow)|
-|[tsn-flextest: flexible tsn measurement testbed (extended version)](https://arxiv.org/abs/2211.10413)|[tsn-testbed](https://github.com/5gcampus/tsn-testbed)|
 |[chamelemon: shifting measurement attention as network state changes](https://arxiv.org/abs/2301.00615)|[chamelemon](https://github.com/chamelemoncode/chamelemon)|
 |[data-driven latency probability prediction for wireless networks: focusing on tail probabilities](https://arxiv.org/abs/2307.10648)|[wireless-pr3d](https://github.com/samiemostafavi/wireless-pr3d)|
 ## 2023-07-20
