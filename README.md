@@ -1,3 +1,16 @@
+## 2023-07-27
+|paper|code|
+|---|---|
+|[towards safer self-driving through great pain (physically adversarial intelligent networks)](https://arxiv.org/abs/2003.10662)|[PAIN](https://github.com/piyushgupta221/PAIN)|
+|[multi-target tracking with transferable convolutional neural networks](https://arxiv.org/abs/2210.15539)|[mtt](https://github.com/damowerko/mtt)|
+|[on discrete symmetries of robotics systems: a group-theoretic and data-driven analysis](https://arxiv.org/abs/2302.10433)|[morphosymm](https://github.com/danfoa/morphosymm)|
+|[manifold filter-combine networks](https://arxiv.org/abs/2307.04056)|[mfcn](https://github.com/krishnaswamylab/mfcn)|
+|[limsim: a long-term interactive multi-scenario traffic simulator](https://arxiv.org/abs/2307.06648)|[LimSim](https://github.com/PJLab-ADG/LimSim)|
+|[learning to design analog circuits to meet threshold specifications](https://arxiv.org/abs/2307.13861)|[circuit-synthesis](https://github.com/indylab/circuit-synthesis)|
+|[a constraint enforcement deep reinforcement learning framework for optimal energy storage systems dispatch](https://arxiv.org/abs/2307.14304)|[Energy-management-MIP-Deep-Reinforcement-Learning](https://github.com/ShengrenHou/Energy-management-MIP-Deep-Reinforcement-Learning)|
+|[teal: learning-accelerated optimization of wan traffic engineering](https://arxiv.org/abs/2210.13763)|[teal](https://github.com/harvard-cns/teal)|
+|[tsn-flextest: flexible tsn measurement testbed (extended version)](https://arxiv.org/abs/2211.10413)|[tsn-testbed](https://github.com/5gcampus/tsn-testbed)|
+|[quantifying & modeling multimodal interactions: an information decomposition framework](https://arxiv.org/abs/2302.12247)|[pid](https://github.com/pliang279/pid)|
 ## 2023-07-26
 |paper|code|
 |---|---|
@@ -5,9 +18,11 @@
 |[denoising noisy neural networks: a bayesian approach with compensation](https://arxiv.org/abs/2105.10699)|[NoisyNN](https://github.com/lynshao/NoisyNN)|
 |[real-time neural-mpc: deep learning model predictive control for quadrotors and agile robotic platforms](https://arxiv.org/abs/2203.07747)|[ml-casadi](https://github.com/TUM-AAS/ml-casadi)|
 |[bounded simplex-structured matrix factorization: algorithms, identifiability and applications](https://arxiv.org/abs/2209.12638)|[bssmf.jl](https://gitlab.com/vuthanho/bssmf.jl)|
+|[easpace: enhanced action space for policy transfer](https://arxiv.org/abs/2212.03540)|[easpace](https://github.com/zero8319/easpace)|
 |[a switching gaussian process latent force model for the identification of mechanical systems with a discontinuous nonlinearity](https://arxiv.org/abs/2303.03858)|[switching-gplfm](https://github.com/l-marino/switching-gplfm)|
 |[differentially private distributed estimation and learning](https://arxiv.org/abs/2306.15865)|[dp-distributed-estimation](https://github.com/papachristoumarios/dp-distributed-estimation)|
 |[optimizing task waiting times in dynamic vehicle routing](https://arxiv.org/abs/2307.03984)|[mdvrp-optimal-policy](https://github.com/arminsadeghi/mdvrp-optimal-policy)|
+|[a new method for identifying weather-induced power system stress using shadow prices](https://arxiv.org/abs/2307.13520)|[stressful-weather](https://github.com/koen-vg/stressful-weather)|
 |[adaptive regularized zero-forcing beamforming in massive mimo with multi-antenna users](https://arxiv.org/abs/2107.00853)|[Adaptive-Regularized-Zero-Forcing-Beamforming-in-Massive-MIMO-with-Multi-Antenna-Users](https://github.com/eugenbobrov/Adaptive-Regularized-Zero-Forcing-Beamforming-in-Massive-MIMO-with-Multi-Antenna-Users)|
 |[network traffic classification based on single flow time series analysis](https://arxiv.org/abs/2307.13434)|[classificationbasedonsfts](https://github.com/koumajos/classificationbasedonsfts)|
 ## 2023-07-25
