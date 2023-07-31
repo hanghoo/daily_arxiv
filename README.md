@@ -17,7 +17,6 @@
 |[a constraint enforcement deep reinforcement learning framework for optimal energy storage systems dispatch](https://arxiv.org/abs/2307.14304)|[Energy-management-MIP-Deep-Reinforcement-Learning](https://github.com/ShengrenHou/Energy-management-MIP-Deep-Reinforcement-Learning)|
 |[teal: learning-accelerated optimization of wan traffic engineering](https://arxiv.org/abs/2210.13763)|[teal](https://github.com/harvard-cns/teal)|
 |[tsn-flextest: flexible tsn measurement testbed (extended version)](https://arxiv.org/abs/2211.10413)|[tsn-testbed](https://github.com/5gcampus/tsn-testbed)|
-|[quantifying & modeling multimodal interactions: an information decomposition framework](https://arxiv.org/abs/2302.12247)|[pid](https://github.com/pliang279/pid)|
 ## 2023-07-26
 |paper|code|
 |---|---|
