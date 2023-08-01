@@ -1,8 +1,16 @@
+## 2023-07-31
+|paper|code|
+|---|---|
+|[learning provably stabilizing neural controllers for discrete-time stochastic systems](https://arxiv.org/abs/2210.05304)|[neural_martingales](https://github.com/mlech26l/neural_martingales)|
+|[learning nonlinear projections for reduced-order modeling of dynamical systems using constrained autoencoders](https://arxiv.org/abs/2307.15288)|[romnet_chaos2023](https://github.com/grmacchio/romnet_chaos2023)|
+|[securing name resolution in the iot: dns over coap](https://arxiv.org/abs/2207.07486)|[aiodnsprox](https://github.com/anr-bmbf-pivot/aiodnsprox)|
+|[dime: maximizing mutual information by a difference of matrix-based entropies](https://arxiv.org/abs/2301.08164)|[DiME](https://github.com/uk-cliplab/DiME)|
+|[quantifying & modeling multimodal interactions: an information decomposition framework](https://arxiv.org/abs/2302.12247)|[pid](https://github.com/pliang279/pid)|
+|[secure middlebox-assisted quic](https://arxiv.org/abs/2307.08543)|[2023-ifip-nw-smaq](https://github.com/kosekmi/2023-ifip-nw-smaq)|
 ## 2023-07-28
 |paper|code|
 |---|---|
 |[bayesian algorithms for kronecker-structured sparse vector recovery with application to irs-mimo channel estimation](https://arxiv.org/abs/2307.14719)|[journalkrosbl](https://github.com/yanbinhe/journalkrosbl)|
-|[matnilm: multi-appliance-task non-intrusive load monitoring with limited labeled data](https://arxiv.org/abs/2307.14778)|[matnilm](https://github.com/jxiong22/matnilm)|
 |[learning transfer operators by kernel density estimation](https://arxiv.org/abs/2210.03124)|[fpoperatorde](https://github.com/sudamphy/fpoperatorde)|
 |[multi-objective deep reinforcement learning for mobile edge computing](https://arxiv.org/abs/2307.14346)|[mec_morl_multipolicy](https://github.com/gracefulning/mec_morl_multipolicy)|
 ## 2023-07-27
