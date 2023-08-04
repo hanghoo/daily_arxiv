@@ -1,3 +1,12 @@
+## 2023-08-03
+|paper|code|
+|---|---|
+|[models of human preference for learning reward functions](https://arxiv.org/abs/2206.02231)|[regret_based_reward_learning](https://github.com/stephanehk/regret_based_reward_learning)|
+|[differentially private distributed estimation and learning](https://arxiv.org/abs/2306.15865)|[dp-distributed-estimation](https://github.com/papachristoumarios/dp-distributed-estimation)|
+|[bayesian algorithms for kronecker-structured sparse vector recovery with application to irs-mimo channel estimation](https://arxiv.org/abs/2307.14719)|[journalkrosbl](https://github.com/yanbinhe/journalkrosbl)|
+|[approximate model-based shielding for safe reinforcement learning](https://arxiv.org/abs/2308.00707)|[ambs](https://github.com/sacktock/ambs)|
+|[can we transfer noise patterns? an multi-environment spectrum analysis model using generated cases](https://arxiv.org/abs/2308.01138)|[cnst](https://github.com/magnomic/cnst)|
+|[llms4ol: large language models for ontology learning](https://arxiv.org/abs/2307.16648)|[llms4ol](https://github.com/hamedbabaei/llms4ol)|
 ## 2023-08-02
 |paper|code|
 |---|---|
@@ -23,7 +32,7 @@
 |---|---|
 |[learning provably stabilizing neural controllers for discrete-time stochastic systems](https://arxiv.org/abs/2210.05304)|[neural_martingales](https://github.com/mlech26l/neural_martingales)|
 |[learning nonlinear projections for reduced-order modeling of dynamical systems using constrained autoencoders](https://arxiv.org/abs/2307.15288)|[romnet_chaos2023](https://github.com/grmacchio/romnet_chaos2023)|
-|[securing name resolution in the iot: dns over coap](https://arxiv.org/abs/2207.07486)|[aiodnsprox](https://github.com/anr-bmbf-pivot/aiodnsprox)|
+|[securing name resolution in the iot: dns over coap](https://arxiv.org/abs/2207.07486)|[Artifacts-CoNEXT23-DoC](https://github.com/anr-bmbf-pivot/Artifacts-CoNEXT23-DoC)|
 |[dime: maximizing mutual information by a difference of matrix-based entropies](https://arxiv.org/abs/2301.08164)|[DiME](https://github.com/uk-cliplab/DiME)|
 |[quantifying & modeling multimodal interactions: an information decomposition framework](https://arxiv.org/abs/2302.12247)|[pid](https://github.com/pliang279/pid)|
 |[secure middlebox-assisted quic](https://arxiv.org/abs/2307.08543)|[2023-ifip-nw-smaq](https://github.com/kosekmi/2023-ifip-nw-smaq)|
