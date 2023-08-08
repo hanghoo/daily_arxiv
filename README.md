@@ -1,3 +1,12 @@
+## 2023-08-07
+|paper|code|
+|---|---|
+|[motion-robust free-running cardiovascular mri](https://arxiv.org/abs/2308.02088)|[motion-robust-CMR](https://github.com/syedmurtazaarshad/motion-robust-CMR)|
+|[differentiable adaptive short-time fourier transform with respect to the window length](https://arxiv.org/abs/2308.02418)|[dstft](https://github.com/maxime-leiber/dstft)|
+|[multimodal indoor localisation in parkinson's disease for detecting medication use: observational pilot study in a free-living setting](https://arxiv.org/abs/2308.02419)|[Multihead-Dual-Convolutional-Self-Attention](https://github.com/ferdianjovan/Multihead-Dual-Convolutional-Self-Attention)|
+|[differentiable short-time fourier transform with respect to the hop length](https://arxiv.org/abs/2308.02421)|[dstft](https://github.com/maxime-leiber/dstft)|
+|[securing name resolution in the iot: dns over coap](https://arxiv.org/abs/2207.07486)|[Artifacts-CoNEXT23-DoC](https://github.com/anr-bmbf-pivot/Artifacts-CoNEXT23-DoC)|
+|[automl4etc: automated neural architecture search for real-world encrypted traffic classification](https://arxiv.org/abs/2308.02182)|[automl4etc](https://github.com/orangeuw/automl4etc)|
 ## 2023-08-03
 |paper|code|
 |---|---|
