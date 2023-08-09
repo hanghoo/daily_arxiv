@@ -1,10 +1,26 @@
+## 2023-08-08
+|paper|code|
+|---|---|
+|[model parameter identification via a hyperparameter optimization scheme for autonomous racing systems](https://arxiv.org/abs/2301.01470)|[mi-hpo](https://github.com/hynkis/mi-hpo)|
+|[l-seqsleepnet: whole-cycle long sequence modelling for automatic sleep staging](https://arxiv.org/abs/2301.03441)|[l-seqsleepnet](https://github.com/pquochuy/l-seqsleepnet)|
+|[interval reachability of nonlinear dynamical systems with neural network controllers](https://arxiv.org/abs/2301.07912)|[l4dc2023_nncontrollerreachability](https://github.com/gtfactslab/l4dc2023_nncontrollerreachability)|
+|[dca: delayed charging attack on the electric shared mobility system](https://arxiv.org/abs/2302.01972)|[dca_simulator](https://github.com/sguo28/dca_simulator)|
+|[koopman-hopf hamilton-jacobi reachability and control](https://arxiv.org/abs/2303.11590)|[hopfreachability](https://github.com/ucsd-saslab/hopfreachability)|
+|[successive pose estimation and beam tracking for mmwave vehicular communication systems](https://arxiv.org/abs/2307.16117)|[Fast-CFEAR-Radar-Odometry](https://github.com/Star-sunny/Fast-CFEAR-Radar-Odometry)|
+|[branched latent neural operators](https://arxiv.org/abs/2308.02599)|[blno.jl](https://github.com/stanfordcbcl/blno.jl)|
+|[k-band: self-supervised mri reconstruction via stochastic gradient descent over k-space subsets](https://arxiv.org/abs/2308.02958)|[k-band](https://github.com/mikgroup/k-band)|
+|[p4testgen: an extensible test oracle for p4](https://arxiv.org/abs/2211.15300)|[p4c](https://github.com/p4lang/p4c)|
 ## 2023-08-07
 |paper|code|
 |---|---|
+|[$\mathcal{n}$ipm-hlsp: an efficient interior-point method for hierarchical least-squares programs](https://arxiv.org/abs/2106.13602)|[nipm-hlsp](https://github.com/pfeiffer-kai/nipm-hlsp)|
 |[motion-robust free-running cardiovascular mri](https://arxiv.org/abs/2308.02088)|[motion-robust-CMR](https://github.com/syedmurtazaarshad/motion-robust-CMR)|
+|[design space exploration on efficient and accurate human pose estimation from sparse imu-sensing](https://arxiv.org/abs/2308.02397)|[dse-sparse-imu](https://github.com/itiv-kit/dse-sparse-imu)|
 |[differentiable adaptive short-time fourier transform with respect to the window length](https://arxiv.org/abs/2308.02418)|[dstft](https://github.com/maxime-leiber/dstft)|
 |[multimodal indoor localisation in parkinson's disease for detecting medication use: observational pilot study in a free-living setting](https://arxiv.org/abs/2308.02419)|[Multihead-Dual-Convolutional-Self-Attention](https://github.com/ferdianjovan/Multihead-Dual-Convolutional-Self-Attention)|
 |[differentiable short-time fourier transform with respect to the hop length](https://arxiv.org/abs/2308.02421)|[dstft](https://github.com/maxime-leiber/dstft)|
+|[hypertension detection from high-dimensional representation of photoplethysmogram signals](https://arxiv.org/abs/2308.02425)|[hypertension_ppg](https://github.com/navidhasanzadeh/hypertension_ppg)|
+|[contrastive self-supervised learning based approach for patient similarity: a case study on atrial fibrillation detection from ppg signal](https://arxiv.org/abs/2308.02433)|[simsig](https://github.com/subangkar/simsig)|
 |[securing name resolution in the iot: dns over coap](https://arxiv.org/abs/2207.07486)|[Artifacts-CoNEXT23-DoC](https://github.com/anr-bmbf-pivot/Artifacts-CoNEXT23-DoC)|
 |[automl4etc: automated neural architecture search for real-world encrypted traffic classification](https://arxiv.org/abs/2308.02182)|[automl4etc](https://github.com/orangeuw/automl4etc)|
 ## 2023-08-03
