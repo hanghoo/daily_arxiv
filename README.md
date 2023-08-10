@@ -1,3 +1,8 @@
+## 2023-08-09
+|paper|code|
+|---|---|
+|[rtsnet: learning to smooth in partially known state-space models](https://arxiv.org/abs/2110.04717)|[rtsnet_tsp](https://github.com/kalmannet/rtsnet_tsp)|
+|[communication-efficient decentralized multi-agent reinforcement learning for cooperative adaptive cruise control](https://arxiv.org/abs/2308.02345)|[macacc](https://github.com/dongchen06/macacc)|
 ## 2023-08-08
 |paper|code|
 |---|---|
@@ -5,8 +10,7 @@
 |[l-seqsleepnet: whole-cycle long sequence modelling for automatic sleep staging](https://arxiv.org/abs/2301.03441)|[l-seqsleepnet](https://github.com/pquochuy/l-seqsleepnet)|
 |[interval reachability of nonlinear dynamical systems with neural network controllers](https://arxiv.org/abs/2301.07912)|[l4dc2023_nncontrollerreachability](https://github.com/gtfactslab/l4dc2023_nncontrollerreachability)|
 |[dca: delayed charging attack on the electric shared mobility system](https://arxiv.org/abs/2302.01972)|[dca_simulator](https://github.com/sguo28/dca_simulator)|
-|[koopman-hopf hamilton-jacobi reachability and control](https://arxiv.org/abs/2303.11590)|[hopfreachability](https://github.com/ucsd-saslab/hopfreachability)|
-|[successive pose estimation and beam tracking for mmwave vehicular communication systems](https://arxiv.org/abs/2307.16117)|[Fast-CFEAR-Radar-Odometry](https://github.com/Star-sunny/Fast-CFEAR-Radar-Odometry)|
+|[successive pose estimation and beam tracking for mmwave vehicular communication systems](https://arxiv.org/abs/2307.16117)|[Fast-CFEAR-Radar-Odometry](https://github.com/Cen-Liu/Fast-CFEAR-Radar-Odometry)|
 |[branched latent neural operators](https://arxiv.org/abs/2308.02599)|[blno.jl](https://github.com/stanfordcbcl/blno.jl)|
 |[k-band: self-supervised mri reconstruction via stochastic gradient descent over k-space subsets](https://arxiv.org/abs/2308.02958)|[k-band](https://github.com/mikgroup/k-band)|
 |[p4testgen: an extensible test oracle for p4](https://arxiv.org/abs/2211.15300)|[p4c](https://github.com/p4lang/p4c)|
@@ -22,7 +26,6 @@
 |[hypertension detection from high-dimensional representation of photoplethysmogram signals](https://arxiv.org/abs/2308.02425)|[hypertension_ppg](https://github.com/navidhasanzadeh/hypertension_ppg)|
 |[contrastive self-supervised learning based approach for patient similarity: a case study on atrial fibrillation detection from ppg signal](https://arxiv.org/abs/2308.02433)|[simsig](https://github.com/subangkar/simsig)|
 |[securing name resolution in the iot: dns over coap](https://arxiv.org/abs/2207.07486)|[Artifacts-CoNEXT23-DoC](https://github.com/anr-bmbf-pivot/Artifacts-CoNEXT23-DoC)|
-|[automl4etc: automated neural architecture search for real-world encrypted traffic classification](https://arxiv.org/abs/2308.02182)|[automl4etc](https://github.com/orangeuw/automl4etc)|
 ## 2023-08-03
 |paper|code|
 |---|---|
