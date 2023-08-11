@@ -1,8 +1,19 @@
+## 2023-08-10
+|paper|code|
+|---|---|
+|[online distributed algorithm for optimal power flow problem with regret analysis](https://arxiv.org/abs/2212.03921)|[online_distributed_OPF](https://github.com/darknorth0/online_distributed_OPF)|
+|[emergence of the svd as an interpretable factorization in deep learning for inverse problems](https://arxiv.org/abs/2301.07820)|[descrambling-nn](https://github.com/shashanksule/descrambling-nn)|
+|[koopman-hopf hamilton-jacobi reachability and control](https://arxiv.org/abs/2303.11590)|[hopfreachability](https://github.com/ucsd-saslab/hopfreachability)|
+|[low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/abs/2305.02041)|[subspace_descent_over_SPD_manifold](https://github.com/yogeshd-iitk/subspace_descent_over_SPD_manifold)|
+|[ftmrate: collision-immune distance-based data rate selection for ieee 802.11 networks](https://arxiv.org/abs/2304.10140)|[ftmrate](https://github.com/ml4wifi-devs/ftmrate)|
+|[automl4etc: automated neural architecture search for real-world encrypted traffic classification](https://arxiv.org/abs/2308.02182)|[automl4etc](https://github.com/orangeuw/automl4etc)|
 ## 2023-08-09
 |paper|code|
 |---|---|
+|[practical and rigorous uncertainty bounds for gaussian process regression](https://arxiv.org/abs/2105.02796)|[uncertaintybounds21](https://github.com/data-science-in-mechanical-engineering/uncertaintybounds21)|
 |[rtsnet: learning to smooth in partially known state-space models](https://arxiv.org/abs/2110.04717)|[rtsnet_tsp](https://github.com/kalmannet/rtsnet_tsp)|
 |[communication-efficient decentralized multi-agent reinforcement learning for cooperative adaptive cruise control](https://arxiv.org/abs/2308.02345)|[macacc](https://github.com/dongchen06/macacc)|
+|[quantum and quantum-inspired stereographic k nearest-neighbour clustering](https://arxiv.org/abs/2308.03949)|[stereographic-quantum-embedding-clustering](https://github.com/alonsoviladomat/stereographic-quantum-embedding-clustering)|
 ## 2023-08-08
 |paper|code|
 |---|---|
@@ -12,6 +23,7 @@
 |[dca: delayed charging attack on the electric shared mobility system](https://arxiv.org/abs/2302.01972)|[dca_simulator](https://github.com/sguo28/dca_simulator)|
 |[successive pose estimation and beam tracking for mmwave vehicular communication systems](https://arxiv.org/abs/2307.16117)|[Fast-CFEAR-Radar-Odometry](https://github.com/Cen-Liu/Fast-CFEAR-Radar-Odometry)|
 |[branched latent neural operators](https://arxiv.org/abs/2308.02599)|[blno.jl](https://github.com/stanfordcbcl/blno.jl)|
+|[group-$k$ consistent measurement set maximization via maximum clique over k-uniform hypergraphs for robust multi-robot map merging](https://arxiv.org/abs/2308.02674)|[gkcm](https://bitbucket.org/jmangelson/gkcm)|
 |[k-band: self-supervised mri reconstruction via stochastic gradient descent over k-space subsets](https://arxiv.org/abs/2308.02958)|[k-band](https://github.com/mikgroup/k-band)|
 |[p4testgen: an extensible test oracle for p4](https://arxiv.org/abs/2211.15300)|[p4c](https://github.com/p4lang/p4c)|
 ## 2023-08-07
