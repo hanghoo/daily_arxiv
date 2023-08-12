@@ -1,3 +1,10 @@
+## 2023-08-11
+|paper|code|
+|---|---|
+|[power system anomaly detection and classification utilizing wls-ekf state estimation and machine learning](https://arxiv.org/abs/2209.12629)|[anomaly_identification](https://github.com/mile888/anomaly_identification)|
+|[cosys-airsim: a real-time simulation framework expanded for complex industrial applications](https://arxiv.org/abs/2303.13381)|[Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim)|
+|[predicting strategic energy storage behaviors](https://arxiv.org/abs/2306.11872)|[predicting-strategic-energy-storage-behaviors](https://github.com/alwaysbyx/predicting-strategic-energy-storage-behaviors)|
+|[ndn4ivc: a framework for simulating and testing of applications in vehicular named data networking](https://arxiv.org/abs/2107.00715)|[ndn4ivc](https://github.com/insert-br/ndn4ivc)|
 ## 2023-08-10
 |paper|code|
 |---|---|
