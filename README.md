@@ -4,7 +4,11 @@
 |[power system anomaly detection and classification utilizing wls-ekf state estimation and machine learning](https://arxiv.org/abs/2209.12629)|[anomaly_identification](https://github.com/mile888/anomaly_identification)|
 |[cosys-airsim: a real-time simulation framework expanded for complex industrial applications](https://arxiv.org/abs/2303.13381)|[Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim)|
 |[predicting strategic energy storage behaviors](https://arxiv.org/abs/2306.11872)|[predicting-strategic-energy-storage-behaviors](https://github.com/alwaysbyx/predicting-strategic-energy-storage-behaviors)|
+|[match-based solution of general parametric eigenvalue problems](https://arxiv.org/abs/2308.05335)|[pevp_match](https://github.com/pradovera/pevp_match)|
+|[deep generative models for unsupervised delamination detection using guided waves](https://arxiv.org/abs/2308.05350)|[anovae-delamshm](https://github.com/mahindrautela/anovae-delamshm)|
 |[ndn4ivc: a framework for simulating and testing of applications in vehicular named data networking](https://arxiv.org/abs/2107.00715)|[ndn4ivc](https://github.com/insert-br/ndn4ivc)|
+|[direct telemetry access](https://arxiv.org/abs/2202.02270)|[dta](https://github.com/jonlanglet/dta)|
+|[information decomposition reveals hidden high-order contributions to temporal irreversibility](https://arxiv.org/abs/2308.05664)|[fastdmf](https://gitlab.com/concog/fastdmf)|
 ## 2023-08-10
 |paper|code|
 |---|---|
@@ -12,6 +16,7 @@
 |[emergence of the svd as an interpretable factorization in deep learning for inverse problems](https://arxiv.org/abs/2301.07820)|[descrambling-nn](https://github.com/shashanksule/descrambling-nn)|
 |[koopman-hopf hamilton-jacobi reachability and control](https://arxiv.org/abs/2303.11590)|[hopfreachability](https://github.com/ucsd-saslab/hopfreachability)|
 |[low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/abs/2305.02041)|[subspace_descent_over_SPD_manifold](https://github.com/yogeshd-iitk/subspace_descent_over_SPD_manifold)|
+|[striking the right balance: three-dimensional ocean sound speed field reconstruction using tensor neural networks](https://arxiv.org/abs/2308.04930)|[tensor-neural-network](https://github.com/oceanstarlab/tensor-neural-network)|
 |[ftmrate: collision-immune distance-based data rate selection for ieee 802.11 networks](https://arxiv.org/abs/2304.10140)|[ftmrate](https://github.com/ml4wifi-devs/ftmrate)|
 |[automl4etc: automated neural architecture search for real-world encrypted traffic classification](https://arxiv.org/abs/2308.02182)|[automl4etc](https://github.com/orangeuw/automl4etc)|
 ## 2023-08-09
