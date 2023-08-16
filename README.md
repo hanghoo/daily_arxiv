@@ -1,3 +1,12 @@
+## 2023-08-15
+|paper|code|
+|---|---|
+|[chance constrained stochastic optimal control for linear systems with time varying random plant parameters](https://arxiv.org/abs/2210.09468)|[shawnpriore-time-varying-plant](https://github.com/unm-hscl/shawnpriore-time-varying-plant)|
+|[chance constrained stochastic optimal control for linear systems with a time varying random control matrix](https://arxiv.org/abs/2302.01863)|[shawnpriore-random-control-matrix](https://github.com/unm-hscl/shawnpriore-random-control-matrix)|
+|[project-based learning for robot control theory: a robot operating system (ros) based approach](https://arxiv.org/abs/2305.11279)|[pbl_robot_control](https://github.com/sfarzan/pbl_robot_control)|
+|[decentralized sgd and average-direction sam are asymptotically equivalent](https://arxiv.org/abs/2306.02913)|[icml-2023-dsgd-and-sam](https://github.com/raiden-zhu/icml-2023-dsgd-and-sam)|
+|[can we transfer noise patterns? a multi-environment spectrum analysis model using generated cases](https://arxiv.org/abs/2308.01138)|[cnst](https://github.com/magnomic/cnst)|
+|[on the power of gradual network alignment using dual-perception similarities](https://arxiv.org/abs/2201.10945)|[grad-align-full](https://github.com/jindeok/grad-align-full)|
 ## 2023-08-14
 |paper|code|
 |---|---|
@@ -5,6 +14,7 @@
 |[exploring operational flexibility of active distribution networks with low observability](https://arxiv.org/abs/2304.04192)|[flexibility_under_low_observability](https://github.com/tu-delft-ai-energy-lab/flexibility_under_low_observability)|
 |[a thru-free multiline calibration](https://arxiv.org/abs/2305.03597)|[thru-free-multiline-calibration](https://github.com/ZiadHatab/thru-free-multiline-calibration)|
 |[unlocking the diagnostic potential of ecg through knowledge transfer from cardiac mri](https://arxiv.org/abs/2308.05764)|[mmcl-ecg-cmr](https://github.com/oetu/mmcl-ecg-cmr)|
+|[the impact of overall optimization on warehouse automation](https://arxiv.org/abs/2308.06036)|[aope-sim](https://github.com/16444take/aope-sim)|
 |[a law of data separation in deep learning](https://arxiv.org/abs/2210.17020)|[re-equi-sepa](https://github.com/dadacheng/re-equi-sepa)|
 ## 2023-08-11
 |paper|code|
