@@ -1,11 +1,18 @@
+## 2023-08-16
+|paper|code|
+|---|---|
+|[selective noise suppression methods using random svpwm to shape the noise spectrum of pmsms](https://arxiv.org/abs/2302.08053)|[SNS-in-random-SVPWM](https://github.com/IoaJianWen/SNS-in-random-SVPWM)|
+|[soy: an efficient milp solver for piecewise-affine systems](https://arxiv.org/abs/2303.13697)|[soy](https://github.com/stanford-centaur/soy)|
+|[rigorous dynamical mean field theory for stochastic gradient descent methods](https://arxiv.org/abs/2210.06591)|[rigorous-dynamical-mean-field-theory](https://github.com/spoc-group/rigorous-dynamical-mean-field-theory)|
 ## 2023-08-15
 |paper|code|
 |---|---|
 |[chance constrained stochastic optimal control for linear systems with time varying random plant parameters](https://arxiv.org/abs/2210.09468)|[shawnpriore-time-varying-plant](https://github.com/unm-hscl/shawnpriore-time-varying-plant)|
-|[chance constrained stochastic optimal control for linear systems with a time varying random control matrix](https://arxiv.org/abs/2302.01863)|[shawnpriore-random-control-matrix](https://github.com/unm-hscl/shawnpriore-random-control-matrix)|
+|[chance constrained stochastic optimal control for linear systems with a time varying random control matrix](https://arxiv.org/abs/2302.01863)|[shawnpriore-random-control](https://github.com/unm-hscl/shawnpriore-random-control)|
 |[project-based learning for robot control theory: a robot operating system (ros) based approach](https://arxiv.org/abs/2305.11279)|[pbl_robot_control](https://github.com/sfarzan/pbl_robot_control)|
 |[decentralized sgd and average-direction sam are asymptotically equivalent](https://arxiv.org/abs/2306.02913)|[icml-2023-dsgd-and-sam](https://github.com/raiden-zhu/icml-2023-dsgd-and-sam)|
 |[can we transfer noise patterns? a multi-environment spectrum analysis model using generated cases](https://arxiv.org/abs/2308.01138)|[cnst](https://github.com/magnomic/cnst)|
+|[large-scale environment mapping and immersive human-robot interaction for agricultural mobile robot teleoperation](https://arxiv.org/abs/2308.07231)|[enhance-sfm](https://github.com/liutao1126/enhance-sfm)|
 |[on the power of gradual network alignment using dual-perception similarities](https://arxiv.org/abs/2201.10945)|[grad-align-full](https://github.com/jindeok/grad-align-full)|
 ## 2023-08-14
 |paper|code|
@@ -24,6 +31,7 @@
 |[predicting strategic energy storage behaviors](https://arxiv.org/abs/2306.11872)|[predicting-strategic-energy-storage-behaviors](https://github.com/alwaysbyx/predicting-strategic-energy-storage-behaviors)|
 |[match-based solution of general parametric eigenvalue problems](https://arxiv.org/abs/2308.05335)|[pevp_match](https://github.com/pradovera/pevp_match)|
 |[deep generative models for unsupervised delamination detection using guided waves](https://arxiv.org/abs/2308.05350)|[anovae-delamshm](https://github.com/mahindrautela/anovae-delamshm)|
+|[audioldm 2: learning holistic audio generation with self-supervised pretraining](https://arxiv.org/abs/2308.05734)|[AudioLDM2](https://github.com/haoheliu/AudioLDM2)|
 |[ndn4ivc: a framework for simulating and testing of applications in vehicular named data networking](https://arxiv.org/abs/2107.00715)|[ndn4ivc](https://github.com/insert-br/ndn4ivc)|
 |[direct telemetry access](https://arxiv.org/abs/2202.02270)|[dta](https://github.com/jonlanglet/dta)|
 |[information decomposition reveals hidden high-order contributions to temporal irreversibility](https://arxiv.org/abs/2308.05664)|[fastdmf](https://gitlab.com/concog/fastdmf)|
