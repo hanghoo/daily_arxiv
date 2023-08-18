@@ -1,3 +1,8 @@
+## 2023-08-17
+|paper|code|
+|---|---|
+|[a reinforcement learning approach for performance-aware reduction in power consumption of data center compute nodes](https://arxiv.org/abs/2308.08069)|[generalized_rl_anl](https://github.com/akhileshraj91/generalized_rl_anl)|
+|[safety filter design for neural network systems via convex optimization](https://arxiv.org/abs/2308.08086)|[nn-system-psf](https://github.com/shaoruchen/nn-system-psf)|
 ## 2023-08-16
 |paper|code|
 |---|---|
