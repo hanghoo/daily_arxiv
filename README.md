@@ -3,12 +3,14 @@
 |---|---|
 |[a reinforcement learning approach for performance-aware reduction in power consumption of data center compute nodes](https://arxiv.org/abs/2308.08069)|[generalized_rl_anl](https://github.com/akhileshraj91/generalized_rl_anl)|
 |[safety filter design for neural network systems via convex optimization](https://arxiv.org/abs/2308.08086)|[nn-system-psf](https://github.com/shaoruchen/nn-system-psf)|
+|[quaternary neural belief propagation decoding of quantum ldpc codes with overcomplete check matrices](https://arxiv.org/abs/2308.08208)|[quantum-neural-bp4-demo](https://github.com/kit-cel/quantum-neural-bp4-demo)|
 ## 2023-08-16
 |paper|code|
 |---|---|
 |[selective noise suppression methods using random svpwm to shape the noise spectrum of pmsms](https://arxiv.org/abs/2302.08053)|[SNS-in-random-SVPWM](https://github.com/IoaJianWen/SNS-in-random-SVPWM)|
 |[soy: an efficient milp solver for piecewise-affine systems](https://arxiv.org/abs/2303.13697)|[soy](https://github.com/stanford-centaur/soy)|
 |[rigorous dynamical mean field theory for stochastic gradient descent methods](https://arxiv.org/abs/2210.06591)|[rigorous-dynamical-mean-field-theory](https://github.com/spoc-group/rigorous-dynamical-mean-field-theory)|
+|[rifo: pushing the efficiency of programmable packet schedulers](https://arxiv.org/abs/2308.07442)|[rifo](https://github.com/mostafaei/rifo)|
 ## 2023-08-15
 |paper|code|
 |---|---|
