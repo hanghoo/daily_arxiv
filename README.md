@@ -20,7 +20,6 @@
 |[decentralized sgd and average-direction sam are asymptotically equivalent](https://arxiv.org/abs/2306.02913)|[icml-2023-dsgd-and-sam](https://github.com/raiden-zhu/icml-2023-dsgd-and-sam)|
 |[can we transfer noise patterns? a multi-environment spectrum analysis model using generated cases](https://arxiv.org/abs/2308.01138)|[cnst](https://github.com/magnomic/cnst)|
 |[large-scale environment mapping and immersive human-robot interaction for agricultural mobile robot teleoperation](https://arxiv.org/abs/2308.07231)|[enhance-sfm](https://github.com/liutao1126/enhance-sfm)|
-|[on the power of gradual network alignment using dual-perception similarities](https://arxiv.org/abs/2201.10945)|[grad-align-full](https://github.com/jindeok/grad-align-full)|
 ## 2023-08-14
 |paper|code|
 |---|---|
