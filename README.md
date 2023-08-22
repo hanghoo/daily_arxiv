@@ -1,3 +1,13 @@
+## 2023-08-21
+|paper|code|
+|---|---|
+|[distributed control of descriptor networks: a convex procedure for augmented sparsity](https://arxiv.org/abs/2109.05954)|[CONPRAS](https://github.com/AndreiSperila/CONPRAS)|
+|[towards best practice of interpreting deep learning models for eeg-based brain computer interfaces](https://arxiv.org/abs/2202.06948)|[Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI](https://github.com/cuijiancorbin/Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI)|
+|[data-driven input reconstruction and experimental validation](https://arxiv.org/abs/2203.02827)|[polydome](https://github.com/PREDICT-EPFL/polydome)|
+|[a reminder of its brittleness: language reward shaping may hinder learning for instruction following agents](https://arxiv.org/abs/2305.16621)|[brittleness_of_lrs](https://github.com/sino-huang/brittleness_of_lrs)|
+|[comprehensive training and evaluation on deep reinforcement learning for automated driving in various simulated driving maneuvers](https://arxiv.org/abs/2306.11466)|[drlcarsim-paper](https://github.com/alaineman/drlcarsim-paper)|
+|[remote bio-sensing: open source benchmark framework for fair evaluation of rppg](https://arxiv.org/abs/2307.12644)|[rppg](https://github.com/remotebiosensing/rppg)|
+|[on the power of gradual network alignment using dual-perception similarities](https://arxiv.org/abs/2201.10945)|[grad-align-full](https://github.com/jindeok/grad-align-full)|
 ## 2023-08-17
 |paper|code|
 |---|---|
