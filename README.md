@@ -1,3 +1,12 @@
+## 2023-08-22
+|paper|code|
+|---|---|
+|[parallel faceted imaging in radio interferometry via proximal splitting (faceted hypersara): ii. code and real data proof of concept](https://arxiv.org/abs/2209.07604)|[faceted-hypersara](https://github.com/basp-group/faceted-hypersara)|
+|[graph neural networks on spd manifolds for motor imagery classification: a perspective from the time-frequency analysis](https://arxiv.org/abs/2211.02641)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|[arrhythmia classifier based on ultra-lightweight binary neural network](https://arxiv.org/abs/2304.01568)|[ecg_bnn_net](https://github.com/xpww/ecg_bnn_net)|
+|[comprehensively analyzing the impact of cyberattacks on power grids](https://arxiv.org/abs/2305.09390)|[wattson](https://github.com/fkie-cad/wattson)|
+|[what is the impact of releasing code with publications? statistics from the machine learning, robotics, and control communities](https://arxiv.org/abs/2308.10008)|[code-release](https://github.com/utiasDSL/code-release)|
+|[entropy estimation via uniformization](https://arxiv.org/abs/2304.09700)|[nfee](https://github.com/ziq-ao/nfee)|
 ## 2023-08-21
 |paper|code|
 |---|---|
@@ -7,6 +16,8 @@
 |[a reminder of its brittleness: language reward shaping may hinder learning for instruction following agents](https://arxiv.org/abs/2305.16621)|[brittleness_of_lrs](https://github.com/sino-huang/brittleness_of_lrs)|
 |[comprehensive training and evaluation on deep reinforcement learning for automated driving in various simulated driving maneuvers](https://arxiv.org/abs/2306.11466)|[drlcarsim-paper](https://github.com/alaineman/drlcarsim-paper)|
 |[remote bio-sensing: open source benchmark framework for fair evaluation of rppg](https://arxiv.org/abs/2307.12644)|[rppg](https://github.com/remotebiosensing/rppg)|
+|[ensemble kalman filters with resampling](https://arxiv.org/abs/2308.08751)|[enkf-with-resampling](https://github.com/jiajun-bao/enkf-with-resampling)|
+|[swinjscc: taming swin transformer for deep joint source-channel coding](https://arxiv.org/abs/2308.09361)|[swinjscc](https://github.com/semcomm/swinjscc)|
 |[on the power of gradual network alignment using dual-perception similarities](https://arxiv.org/abs/2201.10945)|[grad-align-full](https://github.com/jindeok/grad-align-full)|
 ## 2023-08-17
 |paper|code|
