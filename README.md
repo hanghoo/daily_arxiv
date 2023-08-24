@@ -1,12 +1,23 @@
+## 2023-08-23
+|paper|code|
+|---|---|
+|[learning to learn graph topologies](https://arxiv.org/abs/2110.09807)|[l2g-neurips2021](https://github.com/xpuoxford/l2g-neurips2021)|
+|[tightly integrated motion classification and state estimation in foot-mounted navigation systems](https://arxiv.org/abs/2305.09363)|[filterbanks](https://gitlab.liu.se/open-shoe/filterbanks)|
+|[csm-h-r: an automatic context reasoning framework for interoperable intelligent systems and privacy protection](https://arxiv.org/abs/2308.11066)|[csm-h-r](https://github.com/songhui01/csm-h-r)|
 ## 2023-08-22
 |paper|code|
 |---|---|
+|[mixed-integer linear programming approaches for tree partitioning of power networks](https://arxiv.org/abs/2110.07000)|[tree-partitioning](https://github.com/leonlan/tree-partitioning)|
 |[parallel faceted imaging in radio interferometry via proximal splitting (faceted hypersara): ii. code and real data proof of concept](https://arxiv.org/abs/2209.07604)|[faceted-hypersara](https://github.com/basp-group/faceted-hypersara)|
+|[a unified multi-task semantic communication system for multimodal data](https://arxiv.org/abs/2209.07689)|[t-udeepsc](https://github.com/zhang-guangyi/t-udeepsc)|
 |[graph neural networks on spd manifolds for motor imagery classification: a perspective from the time-frequency analysis](https://arxiv.org/abs/2211.02641)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|[multidimensional graph neural networks for wireless communications](https://arxiv.org/abs/2212.11531)|[mdgnn](https://github.com/lsj-buaa/mdgnn)|
 |[arrhythmia classifier based on ultra-lightweight binary neural network](https://arxiv.org/abs/2304.01568)|[ecg_bnn_net](https://github.com/xpww/ecg_bnn_net)|
 |[comprehensively analyzing the impact of cyberattacks on power grids](https://arxiv.org/abs/2305.09390)|[wattson](https://github.com/fkie-cad/wattson)|
+|[diffcharge: generating ev charging scenarios via a denoising diffusion model](https://arxiv.org/abs/2308.09857)|[diffcharge](https://github.com/lsy-cython/diffcharge)|
 |[what is the impact of releasing code with publications? statistics from the machine learning, robotics, and control communities](https://arxiv.org/abs/2308.10008)|[code-release](https://github.com/utiasDSL/code-release)|
 |[entropy estimation via uniformization](https://arxiv.org/abs/2304.09700)|[nfee](https://github.com/ziq-ao/nfee)|
+|[learning and communications co-design for remote inference systems: feature length selection and transmission scheduling](https://arxiv.org/abs/2308.10094)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
 ## 2023-08-21
 |paper|code|
 |---|---|
@@ -15,6 +26,7 @@
 |[data-driven input reconstruction and experimental validation](https://arxiv.org/abs/2203.02827)|[polydome](https://github.com/PREDICT-EPFL/polydome)|
 |[a reminder of its brittleness: language reward shaping may hinder learning for instruction following agents](https://arxiv.org/abs/2305.16621)|[brittleness_of_lrs](https://github.com/sino-huang/brittleness_of_lrs)|
 |[comprehensive training and evaluation on deep reinforcement learning for automated driving in various simulated driving maneuvers](https://arxiv.org/abs/2306.11466)|[drlcarsim-paper](https://github.com/alaineman/drlcarsim-paper)|
+|[online learning for robust voltage control under uncertain grid topology](https://arxiv.org/abs/2306.16674)|[voltctrl](https://github.com/chrisyeh96/voltctrl)|
 |[remote bio-sensing: open source benchmark framework for fair evaluation of rppg](https://arxiv.org/abs/2307.12644)|[rppg](https://github.com/remotebiosensing/rppg)|
 |[ensemble kalman filters with resampling](https://arxiv.org/abs/2308.08751)|[enkf-with-resampling](https://github.com/jiajun-bao/enkf-with-resampling)|
 |[swinjscc: taming swin transformer for deep joint source-channel coding](https://arxiv.org/abs/2308.09361)|[swinjscc](https://github.com/semcomm/swinjscc)|
