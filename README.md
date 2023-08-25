@@ -1,9 +1,18 @@
+## 2023-08-24
+|paper|code|
+|---|---|
+|[a thru-free multiline calibration](https://arxiv.org/abs/2305.03597)|[thru-free-multiline-calibration](https://github.com/ZiadHatab/thru-free-multiline-calibration)|
+|[compressed sensing: a discrete optimization approach](https://arxiv.org/abs/2306.04647)|[discretecompressedsensing.jl](https://github.com/nicholasjohnson2020/discretecompressedsensing.jl)|
+|[system identification using the signed cumulative distribution transform in structural health monitoring applications](https://arxiv.org/abs/2308.12259)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
 ## 2023-08-23
 |paper|code|
 |---|---|
+|[safe learning mpc with limited model knowledge and data](https://arxiv.org/abs/2004.00759)|[wasserstein-nonlinear-mpc](https://github.com/aaronkandel/wasserstein-nonlinear-mpc)|
 |[learning to learn graph topologies](https://arxiv.org/abs/2110.09807)|[l2g-neurips2021](https://github.com/xpuoxford/l2g-neurips2021)|
 |[tightly integrated motion classification and state estimation in foot-mounted navigation systems](https://arxiv.org/abs/2305.09363)|[filterbanks](https://gitlab.liu.se/open-shoe/filterbanks)|
 |[csm-h-r: an automatic context reasoning framework for interoperable intelligent systems and privacy protection](https://arxiv.org/abs/2308.11066)|[csm-h-r](https://github.com/songhui01/csm-h-r)|
+|[iterative risk-constrained model predictive control: a data-driven distributionally robust approach](https://arxiv.org/abs/2308.11510)|[dr-irmpc](https://github.com/alirezazolanvari/dr-irmpc)|
+|[information content and maximum entropy of compartmental systems in equilibrium](https://arxiv.org/abs/2308.10956)|[entropy_and_complexity_in_eq](https://github.com/goujou/entropy_and_complexity_in_eq)|
 ## 2023-08-22
 |paper|code|
 |---|---|
