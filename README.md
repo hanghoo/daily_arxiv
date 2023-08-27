@@ -7,6 +7,7 @@
 |[conformal prediction regions for time series using linear complementarity programming](https://arxiv.org/abs/2304.01075)|[timeparamcpscores](https://github.com/earnedkibbles58/timeparamcpscores)|
 |[dh-ptam: a deep hybrid stereo events-frames parallel tracking and mapping system](https://arxiv.org/abs/2306.01891)|[dh-ptam](https://github.com/abanobsoliman/dh-ptam)|
 |[robust regret optimal control](https://arxiv.org/abs/2307.14297)|[Robust_Regret_Optimal_Control](https://github.com/jliu879/Robust_Regret_Optimal_Control)|
+|[safe non-stochastic control of linear dynamical systems](https://arxiv.org/abs/2308.12395)|[non-stochastic-control](https://github.com/um-iral/non-stochastic-control)|
 ## 2023-08-24
 |paper|code|
 |---|---|
