@@ -34,7 +34,6 @@
 |[a unified multi-task semantic communication system for multimodal data](https://arxiv.org/abs/2209.07689)|[t-udeepsc](https://github.com/zhang-guangyi/t-udeepsc)|
 |[graph neural networks on spd manifolds for motor imagery classification: a perspective from the time-frequency analysis](https://arxiv.org/abs/2211.02641)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |[multidimensional graph neural networks for wireless communications](https://arxiv.org/abs/2212.11531)|[mdgnn](https://github.com/lsj-buaa/mdgnn)|
-|[arrhythmia classifier based on ultra-lightweight binary neural network](https://arxiv.org/abs/2304.01568)|[ecg_bnn_net](https://github.com/xpww/ecg_bnn_net)|
 |[comprehensively analyzing the impact of cyberattacks on power grids](https://arxiv.org/abs/2305.09390)|[wattson](https://github.com/fkie-cad/wattson)|
 |[diffcharge: generating ev charging scenarios via a denoising diffusion model](https://arxiv.org/abs/2308.09857)|[diffcharge](https://github.com/lsy-cython/diffcharge)|
 |[what is the impact of releasing code with publications? statistics from the machine learning, robotics, and control communities](https://arxiv.org/abs/2308.10008)|[code-release](https://github.com/utiasDSL/code-release)|
