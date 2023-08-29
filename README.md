@@ -1,3 +1,13 @@
+## 2023-08-28
+|paper|code|
+|---|---|
+|[early stopping for deep image prior](https://arxiv.org/abs/2112.06074)|[early_stopping_for_dip](https://github.com/sun-umn/early_stopping_for_dip)|
+|[learning to control autonomous fleets from observation via offline reinforcement learning](https://arxiv.org/abs/2302.14833)|[offline-rl-amod](https://github.com/carolinssc/offline-rl-amod)|
+|[arrhythmia classifier based on ultra-lightweight binary neural network](https://arxiv.org/abs/2304.01568)|[ecg_bnn_net](https://github.com/xpww/ecg_bnn_net)|
+|[parameter-efficient learning for text-to-speech accent adaptation](https://arxiv.org/abs/2305.11320)|[PEL-TTS](https://github.com/TTS-Research/PEL-TTS)|
+|[a multi-dimensional deep structured state space approach to speech enhancement using small-footprint models](https://arxiv.org/abs/2306.00331)|[s4nd-u-net_speech_enhancement](https://github.com/kuray107/s4nd-u-net_speech_enhancement)|
+|[consensus on lie groups for the riemannian center of mass](https://arxiv.org/abs/2308.08054)|[rcm-consensus-lie-group](https://github.com/spencerkraisler/rcm-consensus-lie-group)|
+|[in-context learning for model-free system identification](https://arxiv.org/abs/2308.13380)|[sysid-transformers](https://github.com/forgi86/sysid-transformers)|
 ## 2023-08-25
 |paper|code|
 |---|---|
@@ -24,6 +34,7 @@
 |[learning to learn graph topologies](https://arxiv.org/abs/2110.09807)|[l2g-neurips2021](https://github.com/xpuoxford/l2g-neurips2021)|
 |[tightly integrated motion classification and state estimation in foot-mounted navigation systems](https://arxiv.org/abs/2305.09363)|[filterbanks](https://gitlab.liu.se/open-shoe/filterbanks)|
 |[csm-h-r: an automatic context reasoning framework for interoperable intelligent systems and privacy protection](https://arxiv.org/abs/2308.11066)|[csm-h-r](https://github.com/songhui01/csm-h-r)|
+|[graph neural network-enhanced expectation propagation algorithm for mimo turbo receivers](https://arxiv.org/abs/2308.11335)|[GNN-enhanced-EP-for-Turbo-MIMO](https://github.com/STARainZ/GNN-enhanced-EP-for-Turbo-MIMO)|
 |[iterative risk-constrained model predictive control: a data-driven distributionally robust approach](https://arxiv.org/abs/2308.11510)|[dr-irmpc](https://github.com/alirezazolanvari/dr-irmpc)|
 |[information content and maximum entropy of compartmental systems in equilibrium](https://arxiv.org/abs/2308.10956)|[entropy_and_complexity_in_eq](https://github.com/goujou/entropy_and_complexity_in_eq)|
 ## 2023-08-22
