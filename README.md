@@ -1,12 +1,25 @@
+## 2023-08-30
+|paper|code|
+|---|---|
+|[fundamentals of wobbling and hardware impairments-aware air-to-ground channel model](https://arxiv.org/abs/2205.10957)|[Wobbling-HI-Drones](https://github.com/mbanagar/Wobbling-HI-Drones)|
+|[towards domain generalization for ecg and eeg classification: algorithms and benchmarks](https://arxiv.org/abs/2303.11338)|[biodg](https://github.com/aristotelisballas/biodg)|
+|[on optimal caching and model multiplexing for large model inference](https://arxiv.org/abs/2306.02003)|[llm-caching-multiplexing](https://github.com/ying1123/llm-caching-multiplexing)|
+|[towards quantitative precision for ecg analysis: leveraging state space models, self-supervision and patient metadata](https://arxiv.org/abs/2308.15291)|[ssm_ecg](https://github.com/tmehari/ssm_ecg)|
+|[ridgeless regression with random features](https://arxiv.org/abs/2205.00477)|[ridgeless-regression-with-random-features](https://github.com/superlj666/ridgeless-regression-with-random-features)|
+|[towards an ai-enabled connected industry: agv communication and sensor measurement datasets](https://arxiv.org/abs/2301.03364)|[ai4mobile-industrial](https://github.com/fraunhoferhhi/ai4mobile-industrial)|
 ## 2023-08-29
 |paper|code|
 |---|---|
 |[logical zonotopes: a set representation for the formal verification of boolean functions](https://arxiv.org/abs/2210.08596)|[Logical-Zonotope](https://github.com/aalanwar/Logical-Zonotope)|
 |[safety filter design for neural network systems via convex optimization](https://arxiv.org/abs/2308.08086)|[nn-system-psf](https://github.com/shaoruchen/nn-system-psf)|
 |[self-supervised scalable deep compressed sensing](https://arxiv.org/abs/2308.13777)|[scnet](https://github.com/guaishou74851/scnet)|
+|[a comparative conflict resolution dataset derived from argoverse-2: scenarios with vs. without autonomous vehicles](https://arxiv.org/abs/2308.13839)|[conflict_resolution_dataset](https://github.com/romainlitud/conflict_resolution_dataset)|
 |[a comparison of neural networks for wireless channel prediction](https://arxiv.org/abs/2308.14020)|[channel_prediction_dnn](https://github.com/osst3224/channel_prediction_dnn)|
 |[task-aware machine unlearning and its application in load forecasting](https://arxiv.org/abs/2308.14412)|[task_aware_machine_unlearning](https://github.com/xuwkk/task_aware_machine_unlearning)|
+|[on the statistical relation of ultra-reliable wireless and location estimation](https://arxiv.org/abs/2308.14416)|[localization-and-reliability-in-urllc](https://github.com/tobiaskallehauge/localization-and-reliability-in-urllc)|
 |[federated learning for 5g base station traffic forecasting](https://arxiv.org/abs/2211.15220)|[federated-time-series-forecasting](https://github.com/vperifan/federated-time-series-forecasting)|
+|[fast and low-memory compressive sensing algorithms for low tucker-rank tensor approximation from streamed measurements](https://arxiv.org/abs/2308.13709)|[leave_one_out_recovery](https://github.com/cahaselby/leave_one_out_recovery)|
+|[a spatially non-stationary fading channel model for simulation and (semi-) analytical study of elaa-mimo](https://arxiv.org/abs/2308.13858)|[non-stationary-fading-channel-model](https://github.com/elaa-mimo/non-stationary-fading-channel-model)|
 ## 2023-08-28
 |paper|code|
 |---|---|
