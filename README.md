@@ -1,3 +1,9 @@
+## 2023-08-31
+|paper|code|
+|---|---|
+|[global performance guarantees for localized model predictive control](https://arxiv.org/abs/2303.11264)|[localizedmpcperformance](https://github.com/flyingpeach/localizedmpcperformance)|
+|[on low-rank trace regression under general sampling distribution](https://arxiv.org/abs/1904.08576)|[cv-impute](https://github.com/mohsenbayati/cv-impute)|
+|[active tls stack fingerprinting: characterizing tls server deployments at scale](https://arxiv.org/abs/2206.13230)|[goscanner](https://github.com/tumi8/goscanner)|
 ## 2023-08-30
 |paper|code|
 |---|---|
