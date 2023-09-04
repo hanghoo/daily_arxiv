@@ -2,12 +2,19 @@
 |paper|code|
 |---|---|
 |[principled pruning of bayesian neural networks through variational free energy minimization](https://arxiv.org/abs/2210.09134)|[principledpruningbnn](https://github.com/biaslab/principledpruningbnn)|
+|[identifiable specializations for ode models](https://arxiv.org/abs/2308.16273)|[identifiable-specializations-for-ode-models](https://github.com/alexeyovchinnikov/identifiable-specializations-for-ode-models)|
+|[phonmatchnet: phoneme-guided zero-shot keyword spotting for user-defined keywords](https://arxiv.org/abs/2308.16511)|[phonmatchnet](https://github.com/ncsoft/phonmatchnet)|
+|[time-varying quasi-closed-phase analysis for accurate formant tracking in speech signals](https://arxiv.org/abs/2308.16540)|[ftrack](https://github.com/njaygowda/ftrack)|
+|[non-standard power grid frequency statistics in asia, australia, and europe](https://arxiv.org/abs/2308.16842)|[non-standard-power-grid-frequency-statistics-in-asia-australia-and-europe](https://github.com/xinyiwenv/non-standard-power-grid-frequency-statistics-in-asia-australia-and-europe)|
 ## 2023-08-31
 |paper|code|
 |---|---|
+|[artificial potential field-based path planning for cluttered environments](https://arxiv.org/abs/2210.17482)|[apf](https://github.com/m-diab/apf)|
 |[global performance guarantees for localized model predictive control](https://arxiv.org/abs/2303.11264)|[localizedmpcperformance](https://github.com/flyingpeach/localizedmpcperformance)|
+|[experimental validation of an explicit flatness-based mpc design for quadcopter position tracking](https://arxiv.org/abs/2308.15946)|[explicitmpc-for-quadcopters](https://gitlab.com/huuthinh.do0421/explicitmpc-for-quadcopters)|
 |[on low-rank trace regression under general sampling distribution](https://arxiv.org/abs/1904.08576)|[cv-impute](https://github.com/mohsenbayati/cv-impute)|
 |[active tls stack fingerprinting: characterizing tls server deployments at scale](https://arxiv.org/abs/2206.13230)|[goscanner](https://github.com/tumi8/goscanner)|
+|[quic library hunter: identifying server libraries across the internet](https://arxiv.org/abs/2308.15841)|[libraries](https://github.com/quic-hunter/libraries)|
 ## 2023-08-30
 |paper|code|
 |---|---|
