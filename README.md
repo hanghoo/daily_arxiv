@@ -1,3 +1,11 @@
+## 2023-09-04
+|paper|code|
+|---|---|
+|[validation of the reference impedance in multiline calibration with stepped impedance standards](https://arxiv.org/abs/2209.09163)|[verification-multiline-trl-calibration](https://github.com/ZiadHatab/verification-multiline-trl-calibration)|
+|[neural augmented kalman filtering with bollinger bands for pairs trading](https://arxiv.org/abs/2210.15448)|[kalmanbot_icassp23](https://github.com/kalmannet/kalmanbot_icassp23)|
+|[csm-h-r: a context modeling framework in supporting reasoning automation for interoperable intelligent systems and privacy protection](https://arxiv.org/abs/2308.11066)|[csm-h-r](https://github.com/songhui01/csm-h-r)|
+|[an energy-aware approach to design self-adaptive ai-based applications on the edge](https://arxiv.org/abs/2309.00022)|[self-adaptive-moop](https://gitlab.com/sustainable-continuum-monitoring/self-adaptive-moop)|
+|[from prediction markets to interpretable collective intelligence](https://arxiv.org/abs/2204.13424)|[collective-intelligence-research](https://github.com/nicknick85/collective-intelligence-research)|
 ## 2023-09-01
 |paper|code|
 |---|---|
