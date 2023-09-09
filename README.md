@@ -1,15 +1,25 @@
+## 2023-09-08
+|paper|code|
+|---|---|
+|[proper learning of linear dynamical systems as a non-commutative polynomial optimisation problem](https://arxiv.org/abs/2002.01444)|[proper-learning-of-lds](https://github.com/quan-zhou/proper-learning-of-lds)|
+|[models of human preference for learning reward functions](https://arxiv.org/abs/2206.02231)|[regret_based_reward_learning](https://github.com/stephanehk/regret_based_reward_learning)|
+|[cutting medusa's path -- tackling kill-chains with quantum computing](https://arxiv.org/abs/2211.13740)|[Quantum-Vuln-Analysis](https://github.com/Quantum-Village/Quantum-Vuln-Analysis)|
+|[watch this space: securing satellite communication through resilient transmitter fingerprinting](https://arxiv.org/abs/2305.06947)|[SatIQ](https://github.com/ssloxford/SatIQ)|
+|[dynamic causal graph convolutional network for traffic prediction](https://arxiv.org/abs/2306.07019)|[DCGCN](https://github.com/MonBG/DCGCN)|
 ## 2023-09-07
 |paper|code|
 |---|---|
 |[load modulation for backscatter communication: channel capacity and near-capacity schemes](https://arxiv.org/abs/2207.08100)|[backscatteratcapacity](https://github.com/grdu/backscatteratcapacity)|
 |[manifold filter-combine networks](https://arxiv.org/abs/2307.04056)|[mfcn](https://github.com/krishnaswamylab/mfcn)|
 |[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
+|[uncertainty quantification in deep learning based kalman filters](https://arxiv.org/abs/2309.03058)|[Uncertainty-extraction-in-Model-Based-DL](https://github.com/yonatandn/Uncertainty-extraction-in-Model-Based-DL)|
 |[quisp: a quantum internet simulation package](https://arxiv.org/abs/2112.07093)|[quisp](https://github.com/sfc-aqua/quisp)|
 |[spherical and hyperbolic toric topology-based codes on graph embedding for ising mrf models: classical and quantum topology machine learning](https://arxiv.org/abs/2307.15778)|[classical-and-quantum-topology-ml-toric-spherical](https://github.com/lcrypto/classical-and-quantum-topology-ml-toric-spherical)|
 ## 2023-09-06
 |paper|code|
 |---|---|
 |[generalized minimum error entropy for adaptive filtering](https://arxiv.org/abs/2109.03463)|[Generalized-minimum-error-entropy-for-robust-learning](https://github.com/Asmallorange123/Generalized-minimum-error-entropy-for-robust-learning)|
+|[ma-vae: multi-head attention-based variational autoencoder approach for anomaly detection in multivariate time-series applied to automotive endurance powertrain testing](https://arxiv.org/abs/2309.02253)|[ma-vae](https://github.com/lcs-crr/ma-vae)|
 ## 2023-09-04
 |paper|code|
 |---|---|
