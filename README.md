@@ -6,6 +6,7 @@
 |[cutting medusa's path -- tackling kill-chains with quantum computing](https://arxiv.org/abs/2211.13740)|[Quantum-Vuln-Analysis](https://github.com/Quantum-Village/Quantum-Vuln-Analysis)|
 |[watch this space: securing satellite communication through resilient transmitter fingerprinting](https://arxiv.org/abs/2305.06947)|[SatIQ](https://github.com/ssloxford/SatIQ)|
 |[dynamic causal graph convolutional network for traffic prediction](https://arxiv.org/abs/2306.07019)|[DCGCN](https://github.com/MonBG/DCGCN)|
+|[cpu frequency scheduling of real-time applications on embedded devices with temporal encoding-based deep reinforcement learning](https://arxiv.org/abs/2309.03779)|[tinyagent](https://github.com/coladog/tinyagent)|
 ## 2023-09-07
 |paper|code|
 |---|---|
@@ -19,6 +20,7 @@
 |paper|code|
 |---|---|
 |[generalized minimum error entropy for adaptive filtering](https://arxiv.org/abs/2109.03463)|[Generalized-minimum-error-entropy-for-robust-learning](https://github.com/Asmallorange123/Generalized-minimum-error-entropy-for-robust-learning)|
+|[towards efficient modeling and inference in multi-dimensional gaussian process state-space models](https://arxiv.org/abs/2309.01074)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
 |[ma-vae: multi-head attention-based variational autoencoder approach for anomaly detection in multivariate time-series applied to automotive endurance powertrain testing](https://arxiv.org/abs/2309.02253)|[ma-vae](https://github.com/lcs-crr/ma-vae)|
 ## 2023-09-04
 |paper|code|
