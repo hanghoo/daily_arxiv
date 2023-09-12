@@ -1,3 +1,11 @@
+## 2023-09-11
+|paper|code|
+|---|---|
+|[computationally efficient data-driven discovery and linear representation of nonlinear systems for control](https://arxiv.org/abs/2309.04074)|[koopman-control-no-decoder](https://github.com/tiwari-research-group/koopman-control-no-decoder)|
+|[data-driven classification of low-power communication signals by an unauthenticated user using a software-defined radio](https://arxiv.org/abs/2309.04088)|[jammingsdr](https://github.com/minds-code/jammingsdr)|
+|[learning zero-sum linear quadratic games with improved sample complexity](https://arxiv.org/abs/2309.04272)|[zero-sum-lq-games](https://github.com/wujiduan/zero-sum-lq-games)|
+|[simwisense: simultaneous multi-subject activity classification through wi-fi signals](https://arxiv.org/abs/2304.00057)|[simwisense](https://github.com/kfoysalhaque/simwisense)|
+|[prista-net: deep iterative shrinkage thresholding network for coded diffraction patterns phase retrieval](https://arxiv.org/abs/2309.04171)|[prista-net](https://github.com/liuaxou/prista-net)|
 ## 2023-09-08
 |paper|code|
 |---|---|
@@ -12,6 +20,7 @@
 |---|---|
 |[load modulation for backscatter communication: channel capacity and near-capacity schemes](https://arxiv.org/abs/2207.08100)|[backscatteratcapacity](https://github.com/grdu/backscatteratcapacity)|
 |[manifold filter-combine networks](https://arxiv.org/abs/2307.04056)|[mfcn](https://github.com/krishnaswamylab/mfcn)|
+|[distributed variational inference for online supervised learning](https://arxiv.org/abs/2309.02606)|[distributed-mapping](https://github.com/pptx/distributed-mapping)|
 |[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
 |[uncertainty quantification in deep learning based kalman filters](https://arxiv.org/abs/2309.03058)|[Uncertainty-extraction-in-Model-Based-DL](https://github.com/yonatandn/Uncertainty-extraction-in-Model-Based-DL)|
 |[quisp: a quantum internet simulation package](https://arxiv.org/abs/2112.07093)|[quisp](https://github.com/sfc-aqua/quisp)|
@@ -22,6 +31,7 @@
 |[generalized minimum error entropy for adaptive filtering](https://arxiv.org/abs/2109.03463)|[Generalized-minimum-error-entropy-for-robust-learning](https://github.com/Asmallorange123/Generalized-minimum-error-entropy-for-robust-learning)|
 |[towards efficient modeling and inference in multi-dimensional gaussian process state-space models](https://arxiv.org/abs/2309.01074)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
 |[ma-vae: multi-head attention-based variational autoencoder approach for anomaly detection in multivariate time-series applied to automotive endurance powertrain testing](https://arxiv.org/abs/2309.02253)|[ma-vae](https://github.com/lcs-crr/ma-vae)|
+|[reasoning over the air: a reasoning-based implicit semantic-aware communication framework](https://arxiv.org/abs/2306.11229)|[isac](https://github.com/yiwei-liao/isac)|
 ## 2023-09-04
 |paper|code|
 |---|---|
