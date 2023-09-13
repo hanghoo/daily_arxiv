@@ -1,3 +1,19 @@
+## 2023-09-12
+|paper|code|
+|---|---|
+|[hermes: hybrid error-corrector model with inclusion of external signals for nonstationary fashion time series](https://arxiv.org/abs/2202.03224)|[hermes](https://github.com/etidav/hermes)|
+|[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
+|[efficient ecg-based atrial fibrillation detection via parameterised hypercomplex neural networks](https://arxiv.org/abs/2211.02678)|[hypercomplexecg](https://github.com/leibniz-future-lab/hypercomplexecg)|
+|[task-oriented communication for edge video analytics](https://arxiv.org/abs/2211.14049)|[tocom-tem](https://github.com/shaojiawei07/tocom-tem)|
+|[physics-informed neural networks for prognostics and health management of lithium-ion batteries](https://arxiv.org/abs/2301.00776)|[PINN-Battery-Prognostics](https://github.com/WenPengfei0823/PINN-Battery-Prognostics)|
+|[audioldm: text-to-audio generation with latent diffusion models](https://arxiv.org/abs/2301.12503)|[AudioLDM](https://github.com/haoheliu/AudioLDM)|
+|[efficient lqr-cbf-rrt*: safe and optimal motion planning](https://arxiv.org/abs/2304.00790)|[lqr_cbf_rrtstar](https://github.com/mingyucai/lqr_cbf_rrtstar)|
+|[learning personalized models with clustered system identification](https://arxiv.org/abs/2304.01395)|[cluster-sysid](https://github.com/jd-anderson/cluster-sysid)|
+|[an online learning analysis of minimax adaptive control](https://arxiv.org/abs/2307.07268)|[minimaxadaptivecontrolregret](https://github.com/venkatramanrenganathan/minimaxadaptivecontrolregret)|
+|[deep metric learning for the hemodynamics inference with electrocardiogram signals](https://arxiv.org/abs/2308.04650)|[ssldml](https://github.com/mandiehyewon/ssldml)|
+|[audioldm 2: learning holistic audio generation with self-supervised pretraining](https://arxiv.org/abs/2308.05734)|[AudioLDM2](https://github.com/haoheliu/AudioLDM2)|
+|[global convergence of receding-horizon policy search in learning estimator designs](https://arxiv.org/abs/2309.04831)|[learningkf](https://github.com/xiangyuan-zhang/learningkf)|
+|[avars -- alleviating unexpected urban road traffic congestion using uavs](https://arxiv.org/abs/2309.04976)|[avars](https://github.com/guojyjy/avars)|
 ## 2023-09-11
 |paper|code|
 |---|---|
