@@ -1,3 +1,8 @@
+## 2023-09-13
+|paper|code|
+|---|---|
+|[task-oriented communication for multi-device cooperative edge inference](https://arxiv.org/abs/2109.00172)|[vddib-sr](https://github.com/shaojiawei07/vddib-sr)|
+|[strategic latency reduction in blockchain peer-to-peer networks](https://arxiv.org/abs/2205.06837)|[geth_peri](https://github.com/weizhaot/geth_peri)|
 ## 2023-09-12
 |paper|code|
 |---|---|
@@ -14,6 +19,7 @@
 |[audioldm 2: learning holistic audio generation with self-supervised pretraining](https://arxiv.org/abs/2308.05734)|[AudioLDM2](https://github.com/haoheliu/AudioLDM2)|
 |[global convergence of receding-horizon policy search in learning estimator designs](https://arxiv.org/abs/2309.04831)|[learningkf](https://github.com/xiangyuan-zhang/learningkf)|
 |[avars -- alleviating unexpected urban road traffic congestion using uavs](https://arxiv.org/abs/2309.04976)|[avars](https://github.com/guojyjy/avars)|
+|[perceptual adjustment queries and an inverted measurement paradigm for low-rank metric learning](https://arxiv.org/abs/2309.04626)|[paq](https://github.com/austinxu87/paq)|
 ## 2023-09-11
 |paper|code|
 |---|---|
