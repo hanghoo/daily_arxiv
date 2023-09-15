@@ -1,8 +1,25 @@
+## 2023-09-14
+|paper|code|
+|---|---|
+|[a spectral analysis of graph neural networks on dense and sparse graphs](https://arxiv.org/abs/2211.03231)|[gnn_community_detection](https://github.com/nhuang37/gnn_community_detection)|
+|[interaction-aware motion planning for autonomous vehicles with multi-modal obstacle uncertainty predictions](https://arxiv.org/abs/2212.11819)|[interaction-safety-aware-motion-planning](https://github.com/jianzhou1212/interaction-safety-aware-motion-planning)|
+|[optimization of hybrid power plants: when is a detailed electrolyzer model necessary?](https://arxiv.org/abs/2301.05310)|[detailed-electrolyzer-model](https://github.com/mtba-dtu/detailed-electrolyzer-model)|
+|[robust optimal control for nonlinear systems with parametric uncertainties via system level synthesis](https://arxiv.org/abs/2304.00752)|[nonlinear-parametric-SLS](https://gitlab.ethz.ch/ics/nonlinear-parametric-SLS)|
+|[processing natural language on embedded devices: how well do modern models perform?](https://arxiv.org/abs/2304.11520)|[nlp-on-embedded-devices](https://github.com/cps2rl/nlp-on-embedded-devices)|
+|[nuv-doa: nuv prior-based bayesian sparse reconstruction with spatial filtering for super-resolution doa estimation](https://arxiv.org/abs/2309.03114)|[ICASSP24-NUV-DoA](https://github.com/MengyuanZha0/ICASSP24-NUV-DoA)|
+|[a reinforcement learning approach for robotic unloading from visual observations](https://arxiv.org/abs/2309.06621)|[rl-for-unloading-from-pixels](https://github.com/vittoriogiammarino/rl-for-unloading-from-pixels)|
+|[a worker-task specialization model for crowdsourcing: efficient inference and fundamental limits](https://arxiv.org/abs/2111.12550)|[dtype](https://github.com/iids88/dtype)|
+|[multiple-access channel coding with non-signaling correlations](https://arxiv.org/abs/2206.10968)|[mac_ns_lp](https://github.com/pferme/mac_ns_lp)|
 ## 2023-09-13
 |paper|code|
 |---|---|
 |[task-oriented communication for multi-device cooperative edge inference](https://arxiv.org/abs/2109.00172)|[vddib-sr](https://github.com/shaojiawei07/vddib-sr)|
+|[reinforcement learning for supply chain attacks against frequency and voltage control](https://arxiv.org/abs/2309.05814)|[rl-cps-attacks](https://github.com/amrmsab/rl-cps-attacks)|
+|[ensemble-based modeling abstractions for modern self-optimizing systems](https://arxiv.org/abs/2309.05823)|[ml-deeco-security-isola](https://github.com/smartarch/ml-deeco-security-isola)|
+|[trust-region neural moving horizon estimation for robots](https://arxiv.org/abs/2309.05955)|[tr-neuromhe](https://github.com/binghengnus/tr-neuromhe)|
 |[strategic latency reduction in blockchain peer-to-peer networks](https://arxiv.org/abs/2205.06837)|[geth_peri](https://github.com/weizhaot/geth_peri)|
+|[concurrent composition for interactive differential privacy with adaptive privacy-loss parameters](https://arxiv.org/abs/2309.05901)|[concurrent-composition](https://github.com/concurrent-composition/concurrent-composition)|
+|[chebyshev particles](https://arxiv.org/abs/2309.06373)|[chebyshevparticles](https://github.com/986876245/chebyshevparticles)|
 ## 2023-09-12
 |paper|code|
 |---|---|
@@ -19,12 +36,16 @@
 |[audioldm 2: learning holistic audio generation with self-supervised pretraining](https://arxiv.org/abs/2308.05734)|[AudioLDM2](https://github.com/haoheliu/AudioLDM2)|
 |[global convergence of receding-horizon policy search in learning estimator designs](https://arxiv.org/abs/2309.04831)|[learningkf](https://github.com/xiangyuan-zhang/learningkf)|
 |[avars -- alleviating unexpected urban road traffic congestion using uavs](https://arxiv.org/abs/2309.04976)|[avars](https://github.com/guojyjy/avars)|
+|[secure set-based state estimation for linear systems under adversarial attacks on sensors](https://arxiv.org/abs/2309.05075)|[Secure-Set-Based-Estimation](https://github.com/aalanwar/Secure-Set-Based-Estimation)|
+|[ecg-based estimation of respiratory modulation of av nodal conduction during atrial fibrillation](https://arxiv.org/abs/2309.05458)|[ecg-based_estimation_of_respiratory_modulation_of_av_nodal_conduction_during_atrial_fibrillation](https://github.com/plappertf/ecg-based_estimation_of_respiratory_modulation_of_av_nodal_conduction_during_atrial_fibrillation)|
+|[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
 |[perceptual adjustment queries and an inverted measurement paradigm for low-rank metric learning](https://arxiv.org/abs/2309.04626)|[paq](https://github.com/austinxu87/paq)|
 ## 2023-09-11
 |paper|code|
 |---|---|
 |[computationally efficient data-driven discovery and linear representation of nonlinear systems for control](https://arxiv.org/abs/2309.04074)|[koopman-control-no-decoder](https://github.com/tiwari-research-group/koopman-control-no-decoder)|
 |[data-driven classification of low-power communication signals by an unauthenticated user using a software-defined radio](https://arxiv.org/abs/2309.04088)|[jammingsdr](https://github.com/minds-code/jammingsdr)|
+|[robust online estimation of biophysical neural circuits](https://arxiv.org/abs/2309.04210)|[robust-neuron-estimation](https://github.com/rjzs/robust-neuron-estimation)|
 |[learning zero-sum linear quadratic games with improved sample complexity](https://arxiv.org/abs/2309.04272)|[zero-sum-lq-games](https://github.com/wujiduan/zero-sum-lq-games)|
 |[simwisense: simultaneous multi-subject activity classification through wi-fi signals](https://arxiv.org/abs/2304.00057)|[simwisense](https://github.com/kfoysalhaque/simwisense)|
 |[prista-net: deep iterative shrinkage thresholding network for coded diffraction patterns phase retrieval](https://arxiv.org/abs/2309.04171)|[prista-net](https://github.com/liuaxou/prista-net)|
