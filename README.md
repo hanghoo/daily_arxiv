@@ -1,3 +1,16 @@
+## 2023-09-15
+|paper|code|
+|---|---|
+|[toward reliable signals decoding for electroencephalogram: a benchmark study to eegnex](https://arxiv.org/abs/2207.12369)|[eegnex](https://github.com/chenxiachan/eegnex)|
+|[mahtm: a multi-agent framework for hierarchical transactive microgrids](https://arxiv.org/abs/2303.08447)|[rl-energy-management](https://github.com/nicosquare/rl-energy-management)|
+|[ungar $\unicode{x2013}$ a c++ framework for real-time optimal control using template metaprogramming](https://arxiv.org/abs/2309.06783)|[ungar](https://github.com/fdevinc/ungar)|
+|[adaptive kalmannet: data-driven kalman filter with fast adaptation](https://arxiv.org/abs/2309.07016)|[adaptive-knet-icassp24](https://github.com/kalmannet/adaptive-knet-icassp24)|
+|[self-supervised blind source separation via multi-encoder autoencoders](https://arxiv.org/abs/2309.07138)|[self-supervised-bss-via-multi-encoder-ae](https://github.com/webstah/self-supervised-bss-via-multi-encoder-ae)|
+|[predicting survival time of ball bearings in the presence of censoring](https://arxiv.org/abs/2309.07188)|[ball-bearing-survival](https://github.com/thecml/ball-bearing-survival)|
+|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[a densenet-based method for decoding auditory spatial attention with eeg](https://arxiv.org/abs/2309.07690)|[asad_densenet](https://github.com/xuxiran/asad_densenet)|
+|[safe and accelerated deep reinforcement learning-based o-ran slicing: a hybrid transfer learning approach](https://arxiv.org/abs/2309.07265)|[tl-aided-drl](https://github.com/ahmadnagib/tl-aided-drl)|
+|[influence robustness of nodes in multiplex networks against attacks](https://arxiv.org/abs/2309.07617)|[MultiCoreRank](https://github.com/Boqian-Ma/MultiCoreRank)|
 ## 2023-09-14
 |paper|code|
 |---|---|
@@ -7,6 +20,8 @@
 |[robust optimal control for nonlinear systems with parametric uncertainties via system level synthesis](https://arxiv.org/abs/2304.00752)|[nonlinear-parametric-SLS](https://gitlab.ethz.ch/ics/nonlinear-parametric-SLS)|
 |[processing natural language on embedded devices: how well do modern models perform?](https://arxiv.org/abs/2304.11520)|[nlp-on-embedded-devices](https://github.com/cps2rl/nlp-on-embedded-devices)|
 |[nuv-doa: nuv prior-based bayesian sparse reconstruction with spatial filtering for super-resolution doa estimation](https://arxiv.org/abs/2309.03114)|[ICASSP24-NUV-DoA](https://github.com/MengyuanZha0/ICASSP24-NUV-DoA)|
+|[bayesian topology inference on partially known networks from input-output pairs](https://arxiv.org/abs/2309.06532)|[inference_langevin](https://github.com/tenceto/inference_langevin)|
+|[homothetic tube model predictive control with multi-step predictors](https://arxiv.org/abs/2309.06591)|[homotheticmpcmultistep](https://github.com/decodepfl/homotheticmpcmultistep)|
 |[a reinforcement learning approach for robotic unloading from visual observations](https://arxiv.org/abs/2309.06621)|[rl-for-unloading-from-pixels](https://github.com/vittoriogiammarino/rl-for-unloading-from-pixels)|
 |[a worker-task specialization model for crowdsourcing: efficient inference and fundamental limits](https://arxiv.org/abs/2111.12550)|[dtype](https://github.com/iids88/dtype)|
 |[multiple-access channel coding with non-signaling correlations](https://arxiv.org/abs/2206.10968)|[mac_ns_lp](https://github.com/pferme/mac_ns_lp)|
