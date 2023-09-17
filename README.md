@@ -6,7 +6,11 @@
 |[ungar $\unicode{x2013}$ a c++ framework for real-time optimal control using template metaprogramming](https://arxiv.org/abs/2309.06783)|[ungar](https://github.com/fdevinc/ungar)|
 |[adaptive kalmannet: data-driven kalman filter with fast adaptation](https://arxiv.org/abs/2309.07016)|[adaptive-knet-icassp24](https://github.com/kalmannet/adaptive-knet-icassp24)|
 |[self-supervised blind source separation via multi-encoder autoencoders](https://arxiv.org/abs/2309.07138)|[self-supervised-bss-via-multi-encoder-ae](https://github.com/webstah/self-supervised-bss-via-multi-encoder-ae)|
+|[pypvroof: a python package for extracting the characteristics of rooftop pv installations using remote sensing data](https://arxiv.org/abs/2309.07143)|[pypvroof](https://github.com/gabrielkasmi/pypvroof)|
+|[a strong and simple deep learning baseline for bci mi decoding](https://arxiv.org/abs/2309.07159)|[eegsimpleconv](https://github.com/elouayas/eegsimpleconv)|
 |[predicting survival time of ball bearings in the presence of censoring](https://arxiv.org/abs/2309.07188)|[ball-bearing-survival](https://github.com/thecml/ball-bearing-survival)|
+|[grid-aware on-route fast-charging infrastructure planning for battery electric bus with equity considerations: a case study in south king county](https://arxiv.org/abs/2309.07422)|[kingcounty_24_node_virtual_power_grid](https://github.com/xinyi-0724/kingcounty_24_node_virtual_power_grid)|
+|[learning tube-certified control using robust contraction metrics](https://arxiv.org/abs/2309.07443)|[nnrccm](https://github.com/viveksharmaaa/nnrccm)|
 |[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
 |[a densenet-based method for decoding auditory spatial attention with eeg](https://arxiv.org/abs/2309.07690)|[asad_densenet](https://github.com/xuxiran/asad_densenet)|
 |[safe and accelerated deep reinforcement learning-based o-ran slicing: a hybrid transfer learning approach](https://arxiv.org/abs/2309.07265)|[tl-aided-drl](https://github.com/ahmadnagib/tl-aided-drl)|
@@ -39,6 +43,7 @@
 |paper|code|
 |---|---|
 |[hermes: hybrid error-corrector model with inclusion of external signals for nonstationary fashion time series](https://arxiv.org/abs/2202.03224)|[hermes](https://github.com/etidav/hermes)|
+|[efficient and scalable parametric high-order portfolios design via the skew-t distribution](https://arxiv.org/abs/2206.02412)|[highOrderPortfolios](https://github.com/dppalomar/highOrderPortfolios)|
 |[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
 |[efficient ecg-based atrial fibrillation detection via parameterised hypercomplex neural networks](https://arxiv.org/abs/2211.02678)|[hypercomplexecg](https://github.com/leibniz-future-lab/hypercomplexecg)|
 |[task-oriented communication for edge video analytics](https://arxiv.org/abs/2211.14049)|[tocom-tem](https://github.com/shaojiawei07/tocom-tem)|
