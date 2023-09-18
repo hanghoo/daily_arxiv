@@ -11,7 +11,6 @@
 |[predicting survival time of ball bearings in the presence of censoring](https://arxiv.org/abs/2309.07188)|[ball-bearing-survival](https://github.com/thecml/ball-bearing-survival)|
 |[grid-aware on-route fast-charging infrastructure planning for battery electric bus with equity considerations: a case study in south king county](https://arxiv.org/abs/2309.07422)|[kingcounty_24_node_virtual_power_grid](https://github.com/xinyi-0724/kingcounty_24_node_virtual_power_grid)|
 |[learning tube-certified control using robust contraction metrics](https://arxiv.org/abs/2309.07443)|[nnrccm](https://github.com/viveksharmaaa/nnrccm)|
-|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
 |[a densenet-based method for decoding auditory spatial attention with eeg](https://arxiv.org/abs/2309.07690)|[asad_densenet](https://github.com/xuxiran/asad_densenet)|
 |[safe and accelerated deep reinforcement learning-based o-ran slicing: a hybrid transfer learning approach](https://arxiv.org/abs/2309.07265)|[tl-aided-drl](https://github.com/ahmadnagib/tl-aided-drl)|
 |[influence robustness of nodes in multiplex networks against attacks](https://arxiv.org/abs/2309.07617)|[MultiCoreRank](https://github.com/Boqian-Ma/MultiCoreRank)|
@@ -35,7 +34,6 @@
 |[task-oriented communication for multi-device cooperative edge inference](https://arxiv.org/abs/2109.00172)|[vddib-sr](https://github.com/shaojiawei07/vddib-sr)|
 |[reinforcement learning for supply chain attacks against frequency and voltage control](https://arxiv.org/abs/2309.05814)|[rl-cps-attacks](https://github.com/amrmsab/rl-cps-attacks)|
 |[ensemble-based modeling abstractions for modern self-optimizing systems](https://arxiv.org/abs/2309.05823)|[ml-deeco-security-isola](https://github.com/smartarch/ml-deeco-security-isola)|
-|[trust-region neural moving horizon estimation for robots](https://arxiv.org/abs/2309.05955)|[tr-neuromhe](https://github.com/binghengnus/tr-neuromhe)|
 |[strategic latency reduction in blockchain peer-to-peer networks](https://arxiv.org/abs/2205.06837)|[geth_peri](https://github.com/weizhaot/geth_peri)|
 |[concurrent composition for interactive differential privacy with adaptive privacy-loss parameters](https://arxiv.org/abs/2309.05901)|[concurrent-composition](https://github.com/concurrent-composition/concurrent-composition)|
 |[chebyshev particles](https://arxiv.org/abs/2309.06373)|[chebyshevparticles](https://github.com/986876245/chebyshevparticles)|
