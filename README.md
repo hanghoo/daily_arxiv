@@ -1,8 +1,21 @@
+## 2023-09-18
+|paper|code|
+|---|---|
+|[validation of the reference impedance in multiline calibration with stepped impedance standards](https://arxiv.org/abs/2209.09163)|[verification-multiline-trl-calibration](https://github.com/ZiadHatab/verification-multiline-trl-calibration)|
+|[closed loop bci system for cybathlon 2020](https://arxiv.org/abs/2212.04172)|[GoPar](https://github.com/kolcs/GoPar)|
+|[unconstrained parametrization of dissipative and contracting neural ordinary differential equations](https://arxiv.org/abs/2304.02976)|[noderen](https://github.com/decodepfl/noderen)|
+|[optimization algorithm synthesis based on integral quadratic constraints: a tutorial](https://arxiv.org/abs/2306.00565)|[Algorithm-Synthesis](https://github.com/CarstenScherer/Algorithm-Synthesis)|
+|[sustainability assessment of low earth orbit (leo) satellite broadband mega-constellations](https://arxiv.org/abs/2309.02338)|[saleos](https://github.com/bonface-osoro/saleos)|
+|[trust-region neural moving horizon estimation for robots](https://arxiv.org/abs/2309.05955)|[tr-neuromhe](https://github.com/binghengnus/tr-neuromhe)|
+|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[gaussian processes with linear multiple kernel: spectrum design and distributed learning for multi-dimensional data](https://arxiv.org/abs/2309.08201)|[distributed-gsm](https://github.com/richardcsuwandi/distributed-gsm)|
+|[deep nonnegative matrix factorization with beta divergences](https://arxiv.org/abs/2309.08249)|[deep-kl-nmf-public](https://github.com/vleplat/deep-kl-nmf-public)|
 ## 2023-09-15
 |paper|code|
 |---|---|
 |[toward reliable signals decoding for electroencephalogram: a benchmark study to eegnex](https://arxiv.org/abs/2207.12369)|[eegnex](https://github.com/chenxiachan/eegnex)|
 |[mahtm: a multi-agent framework for hierarchical transactive microgrids](https://arxiv.org/abs/2303.08447)|[rl-energy-management](https://github.com/nicosquare/rl-energy-management)|
+|[empirical individual state observability](https://arxiv.org/abs/2304.14313)|[eiso](https://github.com/bencellini/eiso)|
 |[ungar $\unicode{x2013}$ a c++ framework for real-time optimal control using template metaprogramming](https://arxiv.org/abs/2309.06783)|[ungar](https://github.com/fdevinc/ungar)|
 |[adaptive kalmannet: data-driven kalman filter with fast adaptation](https://arxiv.org/abs/2309.07016)|[adaptive-knet-icassp24](https://github.com/kalmannet/adaptive-knet-icassp24)|
 |[self-supervised blind source separation via multi-encoder autoencoders](https://arxiv.org/abs/2309.07138)|[self-supervised-bss-via-multi-encoder-ae](https://github.com/webstah/self-supervised-bss-via-multi-encoder-ae)|
@@ -17,11 +30,13 @@
 ## 2023-09-14
 |paper|code|
 |---|---|
+|[is channel estimation necessary to select phase-shifts for ris-assisted massive mimo?](https://arxiv.org/abs/2106.09770)|[ris-massive-mimo](https://github.com/emilbjornson/ris-massive-mimo)|
 |[a spectral analysis of graph neural networks on dense and sparse graphs](https://arxiv.org/abs/2211.03231)|[gnn_community_detection](https://github.com/nhuang37/gnn_community_detection)|
 |[interaction-aware motion planning for autonomous vehicles with multi-modal obstacle uncertainty predictions](https://arxiv.org/abs/2212.11819)|[interaction-safety-aware-motion-planning](https://github.com/jianzhou1212/interaction-safety-aware-motion-planning)|
 |[optimization of hybrid power plants: when is a detailed electrolyzer model necessary?](https://arxiv.org/abs/2301.05310)|[detailed-electrolyzer-model](https://github.com/mtba-dtu/detailed-electrolyzer-model)|
 |[robust optimal control for nonlinear systems with parametric uncertainties via system level synthesis](https://arxiv.org/abs/2304.00752)|[nonlinear-parametric-SLS](https://gitlab.ethz.ch/ics/nonlinear-parametric-SLS)|
 |[processing natural language on embedded devices: how well do modern models perform?](https://arxiv.org/abs/2304.11520)|[nlp-on-embedded-devices](https://github.com/cps2rl/nlp-on-embedded-devices)|
+|[reactive landing controller for quadruped robots](https://arxiv.org/abs/2305.07748)|[reactive_landing_controller](https://github.com/iit-dlslab/reactive_landing_controller)|
 |[nuv-doa: nuv prior-based bayesian sparse reconstruction with spatial filtering for super-resolution doa estimation](https://arxiv.org/abs/2309.03114)|[ICASSP24-NUV-DoA](https://github.com/MengyuanZha0/ICASSP24-NUV-DoA)|
 |[bayesian topology inference on partially known networks from input-output pairs](https://arxiv.org/abs/2309.06532)|[inference_langevin](https://github.com/tenceto/inference_langevin)|
 |[homothetic tube model predictive control with multi-step predictors](https://arxiv.org/abs/2309.06591)|[homotheticmpcmultistep](https://github.com/decodepfl/homotheticmpcmultistep)|
