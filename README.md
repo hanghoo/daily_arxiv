@@ -1,3 +1,12 @@
+## 2023-09-19
+|paper|code|
+|---|---|
+|[proper learning of linear dynamical systems as a non-commutative polynomial optimisation problem](https://arxiv.org/abs/2002.01444)|[proper-learning-of-lds](https://github.com/quan-zhou/proper-learning-of-lds)|
+|[subgroup fairness in two-sided markets](https://arxiv.org/abs/2106.02702)|[fairness-in-two-sided-markets](https://github.com/quan-zhou/fairness-in-two-sided-markets)|
+|[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
+|[stable and safe reinforcement learning via a barrier-lyapunov actor-critic approach](https://arxiv.org/abs/2304.04066)|[a-barrier-lyapunov-actor-critic-reinforcement-learning-approach-for-safe-and-stable-control](https://github.com/liqunzhao/a-barrier-lyapunov-actor-critic-reinforcement-learning-approach-for-safe-and-stable-control)|
+|[scaling the time and fourier domains to align periodically and their convolution](https://arxiv.org/abs/2309.09645)|[fxt](https://github.com/flatmax/fxt)|
+|[vontss: vmf based semi-supervised neural topic modeling with optimal transport](https://arxiv.org/abs/2307.01226)|[vONTSS](https://github.com/xuweijieshuai/vONTSS)|
 ## 2023-09-18
 |paper|code|
 |---|---|
@@ -6,7 +15,6 @@
 |[unconstrained parametrization of dissipative and contracting neural ordinary differential equations](https://arxiv.org/abs/2304.02976)|[noderen](https://github.com/decodepfl/noderen)|
 |[optimization algorithm synthesis based on integral quadratic constraints: a tutorial](https://arxiv.org/abs/2306.00565)|[Algorithm-Synthesis](https://github.com/CarstenScherer/Algorithm-Synthesis)|
 |[sustainability assessment of low earth orbit (leo) satellite broadband mega-constellations](https://arxiv.org/abs/2309.02338)|[saleos](https://github.com/bonface-osoro/saleos)|
-|[trust-region neural moving horizon estimation for robots](https://arxiv.org/abs/2309.05955)|[tr-neuromhe](https://github.com/binghengnus/tr-neuromhe)|
 |[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
 |[gaussian processes with linear multiple kernel: spectrum design and distributed learning for multi-dimensional data](https://arxiv.org/abs/2309.08201)|[distributed-gsm](https://github.com/richardcsuwandi/distributed-gsm)|
 |[deep nonnegative matrix factorization with beta divergences](https://arxiv.org/abs/2309.08249)|[deep-kl-nmf-public](https://github.com/vleplat/deep-kl-nmf-public)|
@@ -25,7 +33,6 @@
 |[grid-aware on-route fast-charging infrastructure planning for battery electric bus with equity considerations: a case study in south king county](https://arxiv.org/abs/2309.07422)|[kingcounty_24_node_virtual_power_grid](https://github.com/xinyi-0724/kingcounty_24_node_virtual_power_grid)|
 |[learning tube-certified control using robust contraction metrics](https://arxiv.org/abs/2309.07443)|[nnrccm](https://github.com/viveksharmaaa/nnrccm)|
 |[a densenet-based method for decoding auditory spatial attention with eeg](https://arxiv.org/abs/2309.07690)|[asad_densenet](https://github.com/xuxiran/asad_densenet)|
-|[safe and accelerated deep reinforcement learning-based o-ran slicing: a hybrid transfer learning approach](https://arxiv.org/abs/2309.07265)|[tl-aided-drl](https://github.com/ahmadnagib/tl-aided-drl)|
 |[influence robustness of nodes in multiplex networks against attacks](https://arxiv.org/abs/2309.07617)|[MultiCoreRank](https://github.com/Boqian-Ma/MultiCoreRank)|
 ## 2023-09-14
 |paper|code|
