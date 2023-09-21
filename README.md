@@ -1,3 +1,16 @@
+## 2023-09-20
+|paper|code|
+|---|---|
+|[dissipativity and integral quadratic constraints, tailored computational robustness tests for complex interconnections](https://arxiv.org/abs/2105.07401)|[Robust-invariance-with-integral-quadratic-constraints](https://github.com/CarstenScherer/Robust-invariance-with-integral-quadratic-constraints)|
+|[trajectory pmb filters for extended object tracking using belief propagation](https://arxiv.org/abs/2207.10164)|[trajectory-pmb-eot-bp](https://github.com/yuhsuansia/trajectory-pmb-eot-bp)|
+|[electrocardioguard: preventing patient misidentification in electrocardiogram databases through neural networks](https://arxiv.org/abs/2306.06196)|[electrocardioguard](https://github.com/captaintrojan/electrocardioguard)|
+|[trust-region neural moving horizon estimation for robots](https://arxiv.org/abs/2309.05955)|[tr-neuromhe](https://github.com/binghengnus/tr-neuromhe)|
+|[a new method of modeling the multi-stage decision-making process of crt using machine learning with uncertainty quantification](https://arxiv.org/abs/2309.08415)|[crt_multistageml_uncertainty](https://github.com/miilab-mtu/crt_multistageml_uncertainty)|
+|[unsupervised speech enhancement with diffusion-based generative models](https://arxiv.org/abs/2309.10450)|[sgmse](https://github.com/sp-uhh/sgmse)|
+|[learning adaptive safety for multi-agent systems](https://arxiv.org/abs/2309.10657)|[learning_adaptive_safety](https://github.com/luigiberducci/learning_adaptive_safety)|
+|[chamelemon: shifting measurement attention as network state changes](https://arxiv.org/abs/2301.00615)|[chamelemon](https://github.com/chamelemoncode/chamelemon)|
+|[safe and accelerated deep reinforcement learning-based o-ran slicing: a hybrid transfer learning approach](https://arxiv.org/abs/2309.07265)|[tl-aided-drl](https://github.com/ahmadnagib/tl-aided-drl)|
+|[towards energy-aware federated traffic prediction for cellular networks](https://arxiv.org/abs/2309.10645)|[federated-time-series-forecasting](https://github.com/vperifan/federated-time-series-forecasting)|
 ## 2023-09-19
 |paper|code|
 |---|---|
@@ -5,8 +18,14 @@
 |[subgroup fairness in two-sided markets](https://arxiv.org/abs/2106.02702)|[fairness-in-two-sided-markets](https://github.com/quan-zhou/fairness-in-two-sided-markets)|
 |[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
 |[stable and safe reinforcement learning via a barrier-lyapunov actor-critic approach](https://arxiv.org/abs/2304.04066)|[a-barrier-lyapunov-actor-critic-reinforcement-learning-approach-for-safe-and-stable-control](https://github.com/liqunzhao/a-barrier-lyapunov-actor-critic-reinforcement-learning-approach-for-safe-and-stable-control)|
+|[observability of hypergraphs](https://arxiv.org/abs/2304.04883)|[observability-of-hypergraphs](https://github.com/jpickard1/observability-of-hypergraphs)|
+|[distributionally robust cvar-based safety filtering for motion planning in uncertain environments](https://arxiv.org/abs/2309.08821)|[dr-cvar-safety_filtering](https://github.com/tsummerslab/dr-cvar-safety_filtering)|
+|[forward invariance in neural network controlled systems](https://arxiv.org/abs/2309.09043)|[harapanahalli_lcss2024](https://github.com/gtfactslab/harapanahalli_lcss2024)|
+|[efficient belief road map for planning under uncertainty](https://arxiv.org/abs/2309.09344)|[vimp](https://github.com/hzyu17/vimp)|
+|[frequency estimation using complex-valued shifted window transformer](https://arxiv.org/abs/2309.09352)|[spectral-super-resolution-swin](https://github.com/josiahwsmith10/spectral-super-resolution-swin)|
 |[scaling the time and fourier domains to align periodically and their convolution](https://arxiv.org/abs/2309.09645)|[fxt](https://github.com/flatmax/fxt)|
 |[vontss: vmf based semi-supervised neural topic modeling with optimal transport](https://arxiv.org/abs/2307.01226)|[vONTSS](https://github.com/xuweijieshuai/vONTSS)|
+|[rifl: a reliable link layer network protocol for data center communication](https://arxiv.org/abs/2309.08696)|[rifl](https://github.com/qianfengclarkshen/rifl)|
 ## 2023-09-18
 |paper|code|
 |---|---|
@@ -14,9 +33,10 @@
 |[closed loop bci system for cybathlon 2020](https://arxiv.org/abs/2212.04172)|[GoPar](https://github.com/kolcs/GoPar)|
 |[unconstrained parametrization of dissipative and contracting neural ordinary differential equations](https://arxiv.org/abs/2304.02976)|[noderen](https://github.com/decodepfl/noderen)|
 |[optimization algorithm synthesis based on integral quadratic constraints: a tutorial](https://arxiv.org/abs/2306.00565)|[Algorithm-Synthesis](https://github.com/CarstenScherer/Algorithm-Synthesis)|
-|[sustainability assessment of low earth orbit (leo) satellite broadband mega-constellations](https://arxiv.org/abs/2309.02338)|[saleos](https://github.com/bonface-osoro/saleos)|
 |[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[transmusic: a transformer-aided subspace method for doa estimation with low-resolution adcs](https://arxiv.org/abs/2309.08174)|[transformer_music](https://github.com/jijunkai/transformer_music)|
 |[gaussian processes with linear multiple kernel: spectrum design and distributed learning for multi-dimensional data](https://arxiv.org/abs/2309.08201)|[distributed-gsm](https://github.com/richardcsuwandi/distributed-gsm)|
+|[automated multi-drugs administration during total intravenous anesthesia using multi-model predictive control](https://arxiv.org/abs/2309.08229)|[tiva_drug_control](https://github.com/bobaubouin/tiva_drug_control)|
 |[deep nonnegative matrix factorization with beta divergences](https://arxiv.org/abs/2309.08249)|[deep-kl-nmf-public](https://github.com/vleplat/deep-kl-nmf-public)|
 ## 2023-09-15
 |paper|code|
