@@ -1,3 +1,14 @@
+## 2023-09-21
+|paper|code|
+|---|---|
+|[online learning of the transfer matrix of dynamic scattering media: wavefront shaping meets multidimensional time series](https://arxiv.org/abs/2210.04033)|[online_learning_tm](https://github.com/labogigan/online_learning_tm)|
+|[powermodelsada: a framework for solving optimal power flow using distributed algorithms](https://arxiv.org/abs/2304.00639)|[powermodelsada.jl](https://github.com/mkhraijah/powermodelsada.jl)|
+|[sustainability assessment of low earth orbit (leo) satellite broadband mega-constellations](https://arxiv.org/abs/2309.02338)|[saleos](https://github.com/bonface-osoro/saleos)|
+|[practical probabilistic model-based deep reinforcement learning by integrating dropout uncertainty and trajectory sampling](https://arxiv.org/abs/2309.11089)|[DPETS](https://github.com/mrjun123/DPETS)|
+|[multi-step model predictive safety filters: reducing chattering by increasing the prediction horizon](https://arxiv.org/abs/2309.11453)|[safe-control-gym](https://github.com/federico-pizarrobejarano/safe-control-gym)|
+|[on the formation of min-weight codewords of polar/pac codes and its applications](https://arxiv.org/abs/2111.08843)|[Error-Coefficient-reduced-Polar-PAC-Codes](https://github.com/mohammad-rowshan/Error-Coefficient-reduced-Polar-PAC-Codes)|
+|[towards disentangling information paths with coded resnext](https://arxiv.org/abs/2202.05343)|[coded-resnext](https://github.com/avranasa/coded-resnext)|
+|[routenet-fermi: network modeling with graph neural networks](https://arxiv.org/abs/2212.12070)|[bnnetsimulator](https://github.com/bnn-upc/bnnetsimulator)|
 ## 2023-09-20
 |paper|code|
 |---|---|
@@ -24,6 +35,7 @@
 |[efficient belief road map for planning under uncertainty](https://arxiv.org/abs/2309.09344)|[vimp](https://github.com/hzyu17/vimp)|
 |[frequency estimation using complex-valued shifted window transformer](https://arxiv.org/abs/2309.09352)|[spectral-super-resolution-swin](https://github.com/josiahwsmith10/spectral-super-resolution-swin)|
 |[scaling the time and fourier domains to align periodically and their convolution](https://arxiv.org/abs/2309.09645)|[fxt](https://github.com/flatmax/fxt)|
+|[prompt a robot to walk with large language models](https://arxiv.org/abs/2309.09969)|[prompt2walk](https://github.com/HybridRobotics/prompt2walk)|
 |[vontss: vmf based semi-supervised neural topic modeling with optimal transport](https://arxiv.org/abs/2307.01226)|[vONTSS](https://github.com/xuweijieshuai/vONTSS)|
 |[rifl: a reliable link layer network protocol for data center communication](https://arxiv.org/abs/2309.08696)|[rifl](https://github.com/qianfengclarkshen/rifl)|
 ## 2023-09-18
