@@ -1,14 +1,30 @@
+## 2023-09-22
+|paper|code|
+|---|---|
+|[density planner: minimizing collision risk in motion planning with dynamic obstacles using density-based reachability](https://arxiv.org/abs/2210.02131)|[density_planner](https://github.com/MIT-REALM/density_planner)|
+|[renewable-based charging in green ride-sharing](https://arxiv.org/abs/2305.02419)|[green_ride-sharing](https://github.com/elispe/green_ride-sharing)|
+|[an f-ratio-based method for estimating the number of active sources in meg](https://arxiv.org/abs/2306.05892)|[fratio-based-method-for-source-enumeration](https://github.com/amita-giri/fratio-based-method-for-source-enumeration)|
+|[limitations in odour recognition and generalisation in a neuromorphic olfactory circuit](https://arxiv.org/abs/2309.11555)|[eplnetwork_imamcleland2020](https://github.com/biomachinelearning/eplnetwork_imamcleland2020)|
+|[drift control of high-dimensional rbm: a computational method based on neural networks](https://arxiv.org/abs/2309.11651)|[rbmsolver](https://github.com/nian-si/rbmsolver)|
+|[a class-weighted supervised contrastive learning long-tailed bearing fault diagnosis approach using quadratic neural network](https://arxiv.org/abs/2309.11717)|[CCQNet](https://github.com/yuweien1120/CCQNet)|
+|[dictionary attack on imu-based gait authentication](https://arxiv.org/abs/2309.11766)|[dictionaryattackonimugait](https://github.com/rajeshjnu2006/dictionaryattackonimugait)|
+|[multimodal transformers for wireless communications: a case study in beam prediction](https://arxiv.org/abs/2309.11811)|[deepsense6g_tii](https://github.com/itu-ai-ml-in-5g-challenge/deepsense6g_tii)|
+|[statistical mechanics of the maximum-average submatrix problem](https://arxiv.org/abs/2303.05237)|[Maximum-Average-Submatrix](https://github.com/SPOC-group/Maximum-Average-Submatrix)|
+|[quantum conformal prediction for reliable uncertainty quantification in quantum machine learning](https://arxiv.org/abs/2304.03398)|[quantum-cp](https://github.com/kclip/quantum-cp)|
 ## 2023-09-21
 |paper|code|
 |---|---|
 |[online learning of the transfer matrix of dynamic scattering media: wavefront shaping meets multidimensional time series](https://arxiv.org/abs/2210.04033)|[online_learning_tm](https://github.com/labogigan/online_learning_tm)|
 |[powermodelsada: a framework for solving optimal power flow using distributed algorithms](https://arxiv.org/abs/2304.00639)|[powermodelsada.jl](https://github.com/mkhraijah/powermodelsada.jl)|
 |[sustainability assessment of low earth orbit (leo) satellite broadband mega-constellations](https://arxiv.org/abs/2309.02338)|[saleos](https://github.com/bonface-osoro/saleos)|
+|[actively learning reinforcement learning: a stochastic optimal control approach](https://arxiv.org/abs/2309.10831)|[active-learning-reinforcement-learning](https://github.com/msramada/active-learning-reinforcement-learning)|
+|[guarantees on robot system performance using stochastic simulation rollouts](https://arxiv.org/abs/2309.10874)|[performance_guarantees](https://github.com/stanfordmsl/performance_guarantees)|
 |[practical probabilistic model-based deep reinforcement learning by integrating dropout uncertainty and trajectory sampling](https://arxiv.org/abs/2309.11089)|[DPETS](https://github.com/mrjun123/DPETS)|
 |[multi-step model predictive safety filters: reducing chattering by increasing the prediction horizon](https://arxiv.org/abs/2309.11453)|[safe-control-gym](https://github.com/federico-pizarrobejarano/safe-control-gym)|
 |[on the formation of min-weight codewords of polar/pac codes and its applications](https://arxiv.org/abs/2111.08843)|[Error-Coefficient-reduced-Polar-PAC-Codes](https://github.com/mohammad-rowshan/Error-Coefficient-reduced-Polar-PAC-Codes)|
 |[towards disentangling information paths with coded resnext](https://arxiv.org/abs/2202.05343)|[coded-resnext](https://github.com/avranasa/coded-resnext)|
 |[routenet-fermi: network modeling with graph neural networks](https://arxiv.org/abs/2212.12070)|[bnnetsimulator](https://github.com/bnn-upc/bnnetsimulator)|
+|[stein variational guided model predictive path integral control: proposal and experiments with fast maneuvering vehicles](https://arxiv.org/abs/2309.11040)|[proj-svg_mppi](https://github.com/kohonda/proj-svg_mppi)|
 ## 2023-09-20
 |paper|code|
 |---|---|
@@ -19,8 +35,10 @@
 |[a new method of modeling the multi-stage decision-making process of crt using machine learning with uncertainty quantification](https://arxiv.org/abs/2309.08415)|[crt_multistageml_uncertainty](https://github.com/miilab-mtu/crt_multistageml_uncertainty)|
 |[unsupervised speech enhancement with diffusion-based generative models](https://arxiv.org/abs/2309.10450)|[sgmse](https://github.com/sp-uhh/sgmse)|
 |[learning adaptive safety for multi-agent systems](https://arxiv.org/abs/2309.10657)|[learning_adaptive_safety](https://github.com/luigiberducci/learning_adaptive_safety)|
+|[interval signal temporal logic from natural inclusion functions](https://arxiv.org/abs/2309.10686)|[baird_lcss2024](https://github.com/gtfactslab/baird_lcss2024)|
 |[chamelemon: shifting measurement attention as network state changes](https://arxiv.org/abs/2301.00615)|[chamelemon](https://github.com/chamelemoncode/chamelemon)|
 |[safe and accelerated deep reinforcement learning-based o-ran slicing: a hybrid transfer learning approach](https://arxiv.org/abs/2309.07265)|[tl-aided-drl](https://github.com/ahmadnagib/tl-aided-drl)|
+|[evaluating the benefits: quantifying the effects of tcp options, quic, and cdns on throughput](https://arxiv.org/abs/2309.10516)|[active-tcp-and-quic-measurements](https://github.com/tumi8/active-tcp-and-quic-measurements)|
 |[towards energy-aware federated traffic prediction for cellular networks](https://arxiv.org/abs/2309.10645)|[federated-time-series-forecasting](https://github.com/vperifan/federated-time-series-forecasting)|
 ## 2023-09-19
 |paper|code|
@@ -50,6 +68,7 @@
 |[gaussian processes with linear multiple kernel: spectrum design and distributed learning for multi-dimensional data](https://arxiv.org/abs/2309.08201)|[distributed-gsm](https://github.com/richardcsuwandi/distributed-gsm)|
 |[automated multi-drugs administration during total intravenous anesthesia using multi-model predictive control](https://arxiv.org/abs/2309.08229)|[tiva_drug_control](https://github.com/bobaubouin/tiva_drug_control)|
 |[deep nonnegative matrix factorization with beta divergences](https://arxiv.org/abs/2309.08249)|[deep-kl-nmf-public](https://github.com/vleplat/deep-kl-nmf-public)|
+|[the multi-cluster fluctuating two-ray fading model](https://arxiv.org/abs/2212.02448)|[mftr-fading-channel-model](https://github.com/josedavidvega/mftr-fading-channel-model)|
 ## 2023-09-15
 |paper|code|
 |---|---|
