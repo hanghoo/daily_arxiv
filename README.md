@@ -2,13 +2,16 @@
 |paper|code|
 |---|---|
 |[density planner: minimizing collision risk in motion planning with dynamic obstacles using density-based reachability](https://arxiv.org/abs/2210.02131)|[density_planner](https://github.com/MIT-REALM/density_planner)|
-|[renewable-based charging in green ride-sharing](https://arxiv.org/abs/2305.02419)|[green_ride-sharing](https://github.com/elispe/green_ride-sharing)|
+|[deep sound-field denoiser: optically-measured sound-field denoising using deep neural network](https://arxiv.org/abs/2304.14923)|[deep-sound-field-denoiser](https://github.com/nttcslab/deep-sound-field-denoiser)|
+|[renewable-based charging in green ride-sharing](https://arxiv.org/abs/2305.02419)|[renewableev](https://github.com/elispe/renewableev)|
+|[smart: self-morphing adaptive replanning tree](https://arxiv.org/abs/2305.06487)|[smart](https://github.com/zongyuanshen/smart)|
 |[an f-ratio-based method for estimating the number of active sources in meg](https://arxiv.org/abs/2306.05892)|[fratio-based-method-for-source-enumeration](https://github.com/amita-giri/fratio-based-method-for-source-enumeration)|
 |[limitations in odour recognition and generalisation in a neuromorphic olfactory circuit](https://arxiv.org/abs/2309.11555)|[eplnetwork_imamcleland2020](https://github.com/biomachinelearning/eplnetwork_imamcleland2020)|
 |[drift control of high-dimensional rbm: a computational method based on neural networks](https://arxiv.org/abs/2309.11651)|[rbmsolver](https://github.com/nian-si/rbmsolver)|
 |[a class-weighted supervised contrastive learning long-tailed bearing fault diagnosis approach using quadratic neural network](https://arxiv.org/abs/2309.11717)|[CCQNet](https://github.com/yuweien1120/CCQNet)|
 |[dictionary attack on imu-based gait authentication](https://arxiv.org/abs/2309.11766)|[dictionaryattackonimugait](https://github.com/rajeshjnu2006/dictionaryattackonimugait)|
 |[multimodal transformers for wireless communications: a case study in beam prediction](https://arxiv.org/abs/2309.11811)|[deepsense6g_tii](https://github.com/itu-ai-ml-in-5g-challenge/deepsense6g_tii)|
+|[regret and conservatism of constrained stochastic model predictive control](https://arxiv.org/abs/2309.12190)|[regret-and-conservatism-of-smpc](https://github.com/mpfefferk/regret-and-conservatism-of-smpc)|
 |[statistical mechanics of the maximum-average submatrix problem](https://arxiv.org/abs/2303.05237)|[Maximum-Average-Submatrix](https://github.com/SPOC-group/Maximum-Average-Submatrix)|
 |[quantum conformal prediction for reliable uncertainty quantification in quantum machine learning](https://arxiv.org/abs/2304.03398)|[quantum-cp](https://github.com/kclip/quantum-cp)|
 ## 2023-09-21
@@ -33,6 +36,7 @@
 |[electrocardioguard: preventing patient misidentification in electrocardiogram databases through neural networks](https://arxiv.org/abs/2306.06196)|[electrocardioguard](https://github.com/captaintrojan/electrocardioguard)|
 |[trust-region neural moving horizon estimation for robots](https://arxiv.org/abs/2309.05955)|[tr-neuromhe](https://github.com/binghengnus/tr-neuromhe)|
 |[a new method of modeling the multi-stage decision-making process of crt using machine learning with uncertainty quantification](https://arxiv.org/abs/2309.08415)|[crt_multistageml_uncertainty](https://github.com/miilab-mtu/crt_multistageml_uncertainty)|
+|[mixed graph signal analysis of joint image denoising / interpolation](https://arxiv.org/abs/2309.10114)|[icassp24-joint](https://github.com/sybernix/icassp24-joint)|
 |[unsupervised speech enhancement with diffusion-based generative models](https://arxiv.org/abs/2309.10450)|[sgmse](https://github.com/sp-uhh/sgmse)|
 |[learning adaptive safety for multi-agent systems](https://arxiv.org/abs/2309.10657)|[learning_adaptive_safety](https://github.com/luigiberducci/learning_adaptive_safety)|
 |[interval signal temporal logic from natural inclusion functions](https://arxiv.org/abs/2309.10686)|[baird_lcss2024](https://github.com/gtfactslab/baird_lcss2024)|
