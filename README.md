@@ -1,3 +1,10 @@
+## 2023-09-27
+|paper|code|
+|---|---|
+|[team: a parameter-free algorithm to teach collaborative robots motions from user demonstrations](https://arxiv.org/abs/2209.06940)|[team](https://github.com/SchindlerReGIS/team)|
+|[learning nonlinear projections for reduced-order modeling of dynamical systems using constrained autoencoders](https://arxiv.org/abs/2307.15288)|[romnet_chaos2023](https://github.com/grmacchio/romnet_chaos2023)|
+|[joint communication and computation framework for goal-oriented semantic communication with distortion rate resilience](https://arxiv.org/abs/2309.14587)|[drgo-semcom](https://github.com/skyd-semantic/drgo-semcom)|
+|[effective multi-agent deep reinforcement learning control with relative entropy regularization](https://arxiv.org/abs/2309.14727)|[MACDPP](https://github.com/AdrienLin1/MACDPP)|
 ## 2023-09-26
 |paper|code|
 |---|---|
@@ -12,8 +19,16 @@
 |[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
 |[bgf-yolo: enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection](https://arxiv.org/abs/2309.12585)|[bgf-yolo](https://github.com/mkang315/bgf-yolo)|
 |[multi-agent reach-avoid games: two attackers versus one defender and mixed integer programming](https://arxiv.org/abs/2309.13155)|[MARAG](https://github.com/Hu-Hanyang/MARAG)|
+|[multi-static isac in cell-free massive mimo: precoder design and privacy assessment](https://arxiv.org/abs/2309.13368)|[globecom2023](https://github.com/isabella-gomes/globecom2023)|
 |[finding order in chaos: a novel data augmentation method for time series in contrastive learning](https://arxiv.org/abs/2309.13439)|[Finding_Order_in_Chaos](https://github.com/eth-siplab/Finding_Order_in_Chaos)|
+|[dnn-danm: a high-accuracy two-dimensional doa estimation method using practical ris](https://arxiv.org/abs/2309.13856)|[dnn-danm](https://github.com/chenpengseu/dnn-danm)|
+|[single-antenna jammers in mimo-ofdm can resemble multi-antenna jammers](https://arxiv.org/abs/2309.14059)|[ofdm-jammer](https://github.com/iip-group/ofdm-jammer)|
+|[target controllability and target observability of structured network systems](https://arxiv.org/abs/2309.14263)|[targetctrb](https://github.com/montanariarthur/targetctrb)|
 |[partition and code: learning how to compress graphs](https://arxiv.org/abs/2107.01952)|[PnC](https://github.com/gbouritsas/PnC)|
+|[cloudy forecast: how predictable is communication latency in the cloud?](https://arxiv.org/abs/2309.13169)|[unh-clt](https://github.com/unh-distsys/unh-clt)|
+|[zdns: a fast dns toolkit for internet measurement](https://arxiv.org/abs/2309.13495)|[zdns](https://github.com/zmap/zdns)|
+|[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
+|[ecn with quic: challenges in the wild](https://arxiv.org/abs/2309.14273)|[quic-ecn-measurements](https://github.com/comsys/quic-ecn-measurements)|
 ## 2023-09-25
 |paper|code|
 |---|---|
