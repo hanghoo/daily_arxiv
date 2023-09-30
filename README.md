@@ -1,3 +1,11 @@
+## 2023-09-29
+|paper|code|
+|---|---|
+|[motion-robust free-running cardiovascular mri](https://arxiv.org/abs/2308.02088)|[motion-robust-CMR](https://github.com/syedmurtazaarshad/motion-robust-CMR)|
+|[multi-static isac in cell-free massive mimo: precoder design and privacy assessment](https://arxiv.org/abs/2309.13368)|[globecom2023](https://github.com/isabella-gomes/globecom2023)|
+|[learning large-scale mtp$_2$ gaussian graphical models via bridge-block decomposition](https://arxiv.org/abs/2309.13405)|[mtp2-bbd](https://github.com/xiwen1997/mtp2-bbd)|
+|[a physics informed machine learning method for power system model parameter optimization](https://arxiv.org/abs/2309.16579)|[power-system-parameter-optimization](https://github.com/georgkordowich/power-system-parameter-optimization)|
+|[set learning for accurate and calibrated models](https://arxiv.org/abs/2307.02245)|[oko](https://github.com/lukasmut/oko)|
 ## 2023-09-28
 |paper|code|
 |---|---|
@@ -11,8 +19,11 @@
 |---|---|
 |[team: a parameter-free algorithm to teach collaborative robots motions from user demonstrations](https://arxiv.org/abs/2209.06940)|[team](https://github.com/SchindlerReGIS/team)|
 |[learning nonlinear projections for reduced-order modeling of dynamical systems using constrained autoencoders](https://arxiv.org/abs/2307.15288)|[romnet_chaos2023](https://github.com/grmacchio/romnet_chaos2023)|
+|[continuous-time control synthesis under nested signal temporal logic specifications](https://arxiv.org/abs/2309.14347)|[stlt](https://github.com/xiaotankth/stlt)|
 |[joint communication and computation framework for goal-oriented semantic communication with distortion rate resilience](https://arxiv.org/abs/2309.14587)|[drgo-semcom](https://github.com/skyd-semantic/drgo-semcom)|
 |[effective multi-agent deep reinforcement learning control with relative entropy regularization](https://arxiv.org/abs/2309.14727)|[MACDPP](https://github.com/AdrienLin1/MACDPP)|
+|[estimating webrtc video qoe metrics without using application headers](https://arxiv.org/abs/2306.01194)|[vcaml](https://github.com/noise-lab/vcaml)|
+|[ptperf: on the performance evaluation of tor pluggable transports](https://arxiv.org/abs/2309.14856)|[ptperf](https://github.com/zeya2u9/ptperf)|
 ## 2023-09-26
 |paper|code|
 |---|---|
