@@ -3,18 +3,20 @@
 |---|---|
 |[motion-robust free-running cardiovascular mri](https://arxiv.org/abs/2308.02088)|[motion-robust-CMR](https://github.com/syedmurtazaarshad/motion-robust-CMR)|
 |[multi-static isac in cell-free massive mimo: precoder design and privacy assessment](https://arxiv.org/abs/2309.13368)|[globecom2023](https://github.com/isabella-gomes/globecom2023)|
-|[learning large-scale mtp$_2$ gaussian graphical models via bridge-block decomposition](https://arxiv.org/abs/2309.13405)|[mtp2-bbd](https://github.com/xiwen1997/mtp2-bbd)|
+|[optimal receive filter design for misaligned over-the-air computation](https://arxiv.org/abs/2309.16033)|[filteraircomp](https://github.com/henrikhellstrom93/filteraircomp)|
 |[a physics informed machine learning method for power system model parameter optimization](https://arxiv.org/abs/2309.16579)|[power-system-parameter-optimization](https://github.com/georgkordowich/power-system-parameter-optimization)|
 |[set learning for accurate and calibrated models](https://arxiv.org/abs/2307.02245)|[oko](https://github.com/lukasmut/oko)|
+|[geometry of sensitivity: twice sampling and hybrid clipping in differential privacy with optimal gaussian noise and application to deep learning](https://arxiv.org/abs/2309.02672)|[twice_sampling_and_hybrid_clipping](https://github.com/hanshen-xiao/twice_sampling_and_hybrid_clipping)|
+|[efficient computation of the quantum rate-distortion function](https://arxiv.org/abs/2309.15919)|[efficient-qrd](https://github.com/kerry-he/efficient-qrd)|
 ## 2023-09-28
 |paper|code|
 |---|---|
-|[robust model predictive control with polytopic model uncertainty through system level synthesis](https://arxiv.org/abs/2203.11375)|[lumped-uncertainty-sls-mpc](https://github.com/shaoruchen/lumped-uncertainty-sls-mpc)|
+|[robust model predictive control with polytopic model uncertainty through system level synthesis](https://arxiv.org/abs/2203.11375)|[polytopic-slsmpc](https://github.com/shaoruchen/polytopic-slsmpc)|
 |[lqr-cbf-rrt*: safe and optimal motion planning](https://arxiv.org/abs/2304.00790)|[lqr_cbf_rrtstar](https://github.com/mingyucai/lqr_cbf_rrtstar)|
 |[risk-averse trajectory optimization via sample average approximation](https://arxiv.org/abs/2307.03167)|[riskaversetrajopt](https://github.com/stanfordasl/riskaversetrajopt)|
 |[data-driven identification of parametric governing equations of dynamical systems using the signed cumulative distribution transform](https://arxiv.org/abs/2308.12259)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
 |[fully adaptive time-varying wave-shape model: applications in biomedical signal processing](https://arxiv.org/abs/2309.15211)|[tvwse](https://github.com/joaquinr-uner/tvwse)|
-|[scaling representation learning from ubiquitous ecg with state-space models](https://arxiv.org/abs/2309.15292)|[tiles](https://github.com/klean2050/tiles)|
+|[scaling representation learning from ubiquitous ecg with state-space models](https://arxiv.org/abs/2309.15292)|[tiles_ecg_model](https://github.com/klean2050/tiles_ecg_model)|
 |[investigating the changes in bold responses during viewing of images with varied complexity: an fmri time-series based analysis on human vision](https://arxiv.org/abs/2309.15495)|[fmri-time-series-classification](https://github.com/naveen7102/fmri-time-series-classification)|
 ## 2023-09-27
 |paper|code|
