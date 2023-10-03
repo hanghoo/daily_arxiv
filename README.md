@@ -1,3 +1,12 @@
+## 2023-10-02
+|paper|code|
+|---|---|
+|[toward a certified greedy loewner framework with minimal sampling](https://arxiv.org/abs/2303.01015)|[greedy-loewner](https://github.com/pradovera/greedy-loewner)|
+|[stable and safe reinforcement learning via a barrier-lyapunov actor-critic approach](https://arxiv.org/abs/2304.04066)|[a-barrier-lyapunov-actor-critic-reinforcement-learning-approach-for-safe-and-stable-control](https://github.com/liqunzhao/a-barrier-lyapunov-actor-critic-reinforcement-learning-approach-for-safe-and-stable-control)|
+|[optimal tracking strategies in a turbulent flow](https://arxiv.org/abs/2305.04677)|[optimal-tracking-strategies-in-a-turbulent-flow](https://github.com/calascibetta-chiara/optimal-tracking-strategies-in-a-turbulent-flow)|
+|[verification of quantum systems using barrier certificates](https://arxiv.org/abs/2307.07307)|[quantum-barrier-certificates](https://github.com/marco-lewis/quantum-barrier-certificates)|
+|[learning large-scale mtp$_2$ gaussian graphical models via bridge-block decomposition](https://arxiv.org/abs/2309.13405)|[mtp2-bbd](https://github.com/xiwen1997/mtp2-bbd)|
+|[adversarial imitation learning from visual observations using latent information](https://arxiv.org/abs/2309.17371)|[ail_from_visual_obs](https://github.com/vittoriogiammarino/ail_from_visual_obs)|
 ## 2023-09-29
 |paper|code|
 |---|---|
