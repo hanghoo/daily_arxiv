@@ -1,3 +1,15 @@
+## 2023-10-03
+|paper|code|
+|---|---|
+|[an optical control environment for benchmarking reinforcement learning algorithms](https://arxiv.org/abs/2203.12114)|[reinforcement-learning-pulse-stacking](https://github.com/walleclipse/reinforcement-learning-pulse-stacking)|
+|[fully proprioceptive slip-velocity-aware state estimation for mobile robots via invariant kalman filtering and disturbance observer](https://arxiv.org/abs/2209.15140)|[slip_detection_dob](https://github.com/umich-curly/slip_detection_dob)|
+|[sequential sum-of-squares programming for analysis of nonlinear systems](https://arxiv.org/abs/2210.02142)|[bisosprob](https://github.com/tcunis/bisosprob)|
+|[short-length ssvep data extension by a novel generative adversarial networks based framework](https://arxiv.org/abs/2301.05599)|[tegan](https://github.com/yudongpan/tegan)|
+|[branched latent neural maps](https://arxiv.org/abs/2308.02599)|[blno.jl](https://github.com/stanfordcbcl/blno.jl)|
+|[optimal control of grid-interfacing inverters with current magnitude limits](https://arxiv.org/abs/2310.00473)|[Current-Magnitude-Limited-Inverter-Control](https://github.com/TragerJoswig-Jones/Current-Magnitude-Limited-Inverter-Control)|
+|[fairly extreme: minimizing outages equitably](https://arxiv.org/abs/2310.01348)|[FairlyExtreme](https://github.com/kaarthiksundar/FairlyExtreme)|
+|[revisiting minimum description length complexity in overparameterized models](https://arxiv.org/abs/2006.10189)|[mdl-complexity](https://github.com/csinva/mdl-complexity)|
+|[minimising the expected posterior entropy yields optimal summary statistics](https://arxiv.org/abs/2206.02340)|[summaries](https://github.com/tillahoffmann/summaries)|
 ## 2023-10-02
 |paper|code|
 |---|---|
@@ -11,7 +23,6 @@
 |paper|code|
 |---|---|
 |[motion-robust free-running cardiovascular mri](https://arxiv.org/abs/2308.02088)|[motion-robust-CMR](https://github.com/syedmurtazaarshad/motion-robust-CMR)|
-|[multi-static isac in cell-free massive mimo: precoder design and privacy assessment](https://arxiv.org/abs/2309.13368)|[globecom2023](https://github.com/isabella-gomes/globecom2023)|
 |[optimal receive filter design for misaligned over-the-air computation](https://arxiv.org/abs/2309.16033)|[filteraircomp](https://github.com/henrikhellstrom93/filteraircomp)|
 |[a physics informed machine learning method for power system model parameter optimization](https://arxiv.org/abs/2309.16579)|[power-system-parameter-optimization](https://github.com/georgkordowich/power-system-parameter-optimization)|
 |[set learning for accurate and calibrated models](https://arxiv.org/abs/2307.02245)|[oko](https://github.com/lukasmut/oko)|
