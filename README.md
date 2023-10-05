@@ -1,3 +1,13 @@
+## 2023-10-04
+|paper|code|
+|---|---|
+|[distributed control of descriptor networks: a convex procedure for augmented sparsity](https://arxiv.org/abs/2109.05954)|[CONPRAS](https://github.com/AndreiSperila/CONPRAS)|
+|[stability constrained reinforcement learning for decentralized real-time voltage control](https://arxiv.org/abs/2209.07669)|[stable-ddpg-for-voltage-control](https://github.com/jiefeng-cse/stable-ddpg-for-voltage-control)|
+|[local convergence of multi-agent systems towards triangular patterns](https://arxiv.org/abs/2303.11865)|[swarmsimpublic](https://github.com/dibernardogroup/swarmsimpublic)|
+|[maximum likelihood based phase-retrieval using fresnel propagation forward models with optional constraints](https://arxiv.org/abs/2305.00334)|[phasetorch](https://github.com/phasetorch/phasetorch)|
+|[rcs-yolo: a fast and high-accuracy object detector for brain tumor detection](https://arxiv.org/abs/2307.16412)|[rcs-yolo](https://github.com/mkang315/rcs-yolo)|
+|[multi-static isac in cell-free massive mimo: precoder design and privacy assessment](https://arxiv.org/abs/2309.13368)|[globecom2023](https://github.com/isabella-gomes/globecom2023)|
+|[the representation jensen-shannon divergence](https://arxiv.org/abs/2305.16446)|[representationjsd](https://github.com/uk-cliplab/representationjsd)|
 ## 2023-10-03
 |paper|code|
 |---|---|
@@ -10,6 +20,7 @@
 |[fairly extreme: minimizing outages equitably](https://arxiv.org/abs/2310.01348)|[FairlyExtreme](https://github.com/kaarthiksundar/FairlyExtreme)|
 |[revisiting minimum description length complexity in overparameterized models](https://arxiv.org/abs/2006.10189)|[mdl-complexity](https://github.com/csinva/mdl-complexity)|
 |[minimising the expected posterior entropy yields optimal summary statistics](https://arxiv.org/abs/2206.02340)|[summaries](https://github.com/tillahoffmann/summaries)|
+|[mining java memory errors using subjective interesting subgroups with hierarchical targets](https://arxiv.org/abs/2310.00781)|[sca-miner](https://github.com/remilyoucef/sca-miner)|
 ## 2023-10-02
 |paper|code|
 |---|---|
@@ -18,6 +29,9 @@
 |[optimal tracking strategies in a turbulent flow](https://arxiv.org/abs/2305.04677)|[optimal-tracking-strategies-in-a-turbulent-flow](https://github.com/calascibetta-chiara/optimal-tracking-strategies-in-a-turbulent-flow)|
 |[verification of quantum systems using barrier certificates](https://arxiv.org/abs/2307.07307)|[quantum-barrier-certificates](https://github.com/marco-lewis/quantum-barrier-certificates)|
 |[learning large-scale mtp$_2$ gaussian graphical models via bridge-block decomposition](https://arxiv.org/abs/2309.13405)|[mtp2-bbd](https://github.com/xiwen1997/mtp2-bbd)|
+|[agent coordination via contextual regression (agentconcur) for data center flexibility](https://arxiv.org/abs/2309.16792)|[agentconcur](https://github.com/wdvorkin/agentconcur)|
+|[an mcts-drl based obstacle and occlusion avoidance methodology in robotic follow-ahead applications](https://arxiv.org/abs/2309.16884)|[follow-ahead-ros](https://github.com/saharleisiazar/follow-ahead-ros)|
+|[uxsim: an open source macroscopic and mesoscopic traffic simulator in python -- a technical overview](https://arxiv.org/abs/2309.17114)|[uxsim](https://github.com/toruseo/uxsim)|
 |[adversarial imitation learning from visual observations using latent information](https://arxiv.org/abs/2309.17371)|[ail_from_visual_obs](https://github.com/vittoriogiammarino/ail_from_visual_obs)|
 ## 2023-09-29
 |paper|code|
