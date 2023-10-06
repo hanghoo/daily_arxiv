@@ -1,3 +1,12 @@
+## 2023-10-05
+|paper|code|
+|---|---|
+|[data-driven predictive tracking control based on koopman operators](https://arxiv.org/abs/2208.12000)|[ktmpc](https://github.com/autosysproj/ktmpc)|
+|[learning adaptive safety for multi-agent systems](https://arxiv.org/abs/2309.10657)|[learning_adaptive_safety](https://github.com/luigiberducci/learning_adaptive_safety)|
+|[on the financial consequences of simplified battery sizing models without considering operational details](https://arxiv.org/abs/2310.02494)|[community-battery-sizing-study](https://github.com/nam-dinh-codes/community-battery-sizing-study)|
+|[path weight sampling: exact monte carlo computation of the mutual information between stochastic trajectories](https://arxiv.org/abs/2203.03461)|[pathweightsampling.jl](https://github.com/manuel-rhdt/pathweightsampling.jl)|
+|[raynet: a simulation platform for developing reinforcement learning-driven network protocols](https://arxiv.org/abs/2302.04519)|[raynet](https://github.com/giacomoni/raynet)|
+|[local max-entropy and free energy principles, belief diffusions and their singularities](https://arxiv.org/abs/2310.02946)|[topos](https://github.com/opeltre/topos)|
 ## 2023-10-04
 |paper|code|
 |---|---|
@@ -15,15 +24,19 @@
 |[fully proprioceptive slip-velocity-aware state estimation for mobile robots via invariant kalman filtering and disturbance observer](https://arxiv.org/abs/2209.15140)|[slip_detection_dob](https://github.com/umich-curly/slip_detection_dob)|
 |[sequential sum-of-squares programming for analysis of nonlinear systems](https://arxiv.org/abs/2210.02142)|[bisosprob](https://github.com/tcunis/bisosprob)|
 |[short-length ssvep data extension by a novel generative adversarial networks based framework](https://arxiv.org/abs/2301.05599)|[tegan](https://github.com/yudongpan/tegan)|
-|[branched latent neural maps](https://arxiv.org/abs/2308.02599)|[blno.jl](https://github.com/stanfordcbcl/blno.jl)|
+|[branched latent neural maps](https://arxiv.org/abs/2308.02599)|[blnm.jl](https://github.com/stanfordcbcl/blnm.jl)|
+|[learning state-augmented policies for information routing in communication networks](https://arxiv.org/abs/2310.00248)|[state-augmeted-information-routing](https://github.com/sourajitdas/state-augmeted-information-routing)|
+|[an efficient algorithm for clustered multi-task compressive sensing](https://arxiv.org/abs/2310.00420)|[multics](https://github.com/al5250/multics)|
 |[optimal control of grid-interfacing inverters with current magnitude limits](https://arxiv.org/abs/2310.00473)|[Current-Magnitude-Limited-Inverter-Control](https://github.com/TragerJoswig-Jones/Current-Magnitude-Limited-Inverter-Control)|
 |[fairly extreme: minimizing outages equitably](https://arxiv.org/abs/2310.01348)|[FairlyExtreme](https://github.com/kaarthiksundar/FairlyExtreme)|
 |[revisiting minimum description length complexity in overparameterized models](https://arxiv.org/abs/2006.10189)|[mdl-complexity](https://github.com/csinva/mdl-complexity)|
 |[minimising the expected posterior entropy yields optimal summary statistics](https://arxiv.org/abs/2206.02340)|[summaries](https://github.com/tillahoffmann/summaries)|
+|[task-aware distributed source coding under dynamic bandwidth](https://arxiv.org/abs/2305.15523)|[task-aware-distributed-source-coding](https://github.com/utaustin-swarmlab/task-aware-distributed-source-coding)|
 |[mining java memory errors using subjective interesting subgroups with hierarchical targets](https://arxiv.org/abs/2310.00781)|[sca-miner](https://github.com/remilyoucef/sca-miner)|
 ## 2023-10-02
 |paper|code|
 |---|---|
+|[accelerated motion correction with deep generative diffusion models](https://arxiv.org/abs/2211.00199)|[motion_score_mri](https://github.com/utcsilab/motion_score_mri)|
 |[toward a certified greedy loewner framework with minimal sampling](https://arxiv.org/abs/2303.01015)|[greedy-loewner](https://github.com/pradovera/greedy-loewner)|
 |[stable and safe reinforcement learning via a barrier-lyapunov actor-critic approach](https://arxiv.org/abs/2304.04066)|[a-barrier-lyapunov-actor-critic-reinforcement-learning-approach-for-safe-and-stable-control](https://github.com/liqunzhao/a-barrier-lyapunov-actor-critic-reinforcement-learning-approach-for-safe-and-stable-control)|
 |[optimal tracking strategies in a turbulent flow](https://arxiv.org/abs/2305.04677)|[optimal-tracking-strategies-in-a-turbulent-flow](https://github.com/calascibetta-chiara/optimal-tracking-strategies-in-a-turbulent-flow)|
@@ -32,6 +45,7 @@
 |[agent coordination via contextual regression (agentconcur) for data center flexibility](https://arxiv.org/abs/2309.16792)|[agentconcur](https://github.com/wdvorkin/agentconcur)|
 |[an mcts-drl based obstacle and occlusion avoidance methodology in robotic follow-ahead applications](https://arxiv.org/abs/2309.16884)|[follow-ahead-ros](https://github.com/saharleisiazar/follow-ahead-ros)|
 |[uxsim: an open source macroscopic and mesoscopic traffic simulator in python -- a technical overview](https://arxiv.org/abs/2309.17114)|[uxsim](https://github.com/toruseo/uxsim)|
+|[a framework and a python-package for real-time nmpc parameters settings](https://arxiv.org/abs/2309.17238)|[mpc_tuner](https://github.com/mazenalamir/mpc_tuner)|
 |[adversarial imitation learning from visual observations using latent information](https://arxiv.org/abs/2309.17371)|[ail_from_visual_obs](https://github.com/vittoriogiammarino/ail_from_visual_obs)|
 ## 2023-09-29
 |paper|code|
