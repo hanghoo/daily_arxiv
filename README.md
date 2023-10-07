@@ -1,7 +1,17 @@
+## 2023-10-06
+|paper|code|
+|---|---|
+|[accoustate: auto-annotation of imu-generated activity signatures under smart infrastructure](https://arxiv.org/abs/2112.06651)|[acconotate](https://github.com/stilllearningsoumya/acconotate)|
+|[distributed decentralized receding horizon control for very large-scale networks with application to satellite mega-constellations](https://arxiv.org/abs/2209.14951)|[tudat-matlab-thrust-feedback](https://github.com/decenter2021/tudat-matlab-thrust-feedback)|
+|[conditional generative models for simulation of emg during naturalistic movements](https://arxiv.org/abs/2211.01856)|[biomime](https://github.com/shihan-ma/biomime)|
+|[drl-based energy-efficient baseband function deployments for service-oriented open ran](https://arxiv.org/abs/2212.12055)|[Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN](https://github.com/OCEAN-98/Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN)|
+|[learning and communications co-design for remote inference systems: feature length selection and transmission scheduling](https://arxiv.org/abs/2308.10094)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
+|[procedural text mining with large language models](https://arxiv.org/abs/2310.03376)|[proc-tm](https://github.com/jd-coderepos/proc-tm)|
 ## 2023-10-05
 |paper|code|
 |---|---|
 |[data-driven predictive tracking control based on koopman operators](https://arxiv.org/abs/2208.12000)|[ktmpc](https://github.com/autosysproj/ktmpc)|
+|[navigating out-of-distribution electricity load forecasting during covid-19: benchmarking energy load forecasting models without and with continual learning](https://arxiv.org/abs/2309.04296)|[ood_electricity_forecasting_during_covid-19](https://github.com/aprbw/ood_electricity_forecasting_during_covid-19)|
 |[learning adaptive safety for multi-agent systems](https://arxiv.org/abs/2309.10657)|[learning_adaptive_safety](https://github.com/luigiberducci/learning_adaptive_safety)|
 |[on the financial consequences of simplified battery sizing models without considering operational details](https://arxiv.org/abs/2310.02494)|[community-battery-sizing-study](https://github.com/nam-dinh-codes/community-battery-sizing-study)|
 |[path weight sampling: exact monte carlo computation of the mutual information between stochastic trajectories](https://arxiv.org/abs/2203.03461)|[pathweightsampling.jl](https://github.com/manuel-rhdt/pathweightsampling.jl)|
