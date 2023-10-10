@@ -5,8 +5,11 @@
 |[distributed decentralized receding horizon control for very large-scale networks with application to satellite mega-constellations](https://arxiv.org/abs/2209.14951)|[tudat-matlab-thrust-feedback](https://github.com/decenter2021/tudat-matlab-thrust-feedback)|
 |[conditional generative models for simulation of emg during naturalistic movements](https://arxiv.org/abs/2211.01856)|[biomime](https://github.com/shihan-ma/biomime)|
 |[drl-based energy-efficient baseband function deployments for service-oriented open ran](https://arxiv.org/abs/2212.12055)|[Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN](https://github.com/OCEAN-98/Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN)|
+|[algorithm for finding new identifiable reparametrizations of parametric odes](https://arxiv.org/abs/2310.03057)|[new-identifiable-reparametrizations](https://github.com/alexeyovchinnikov/new-identifiable-reparametrizations)|
 |[learning and communications co-design for remote inference systems: feature length selection and transmission scheduling](https://arxiv.org/abs/2308.10094)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
 |[procedural text mining with large language models](https://arxiv.org/abs/2310.03376)|[proc-tm](https://github.com/jd-coderepos/proc-tm)|
+|[supervising smart home device interactions: a profile-based firewall approach](https://arxiv.org/abs/2310.03510)|[smart-home-firewall](https://github.com/franklin5168/smart-home-firewall)|
+|[a high-performance design, implementation, deployment, and evaluation of the slim fly network](https://arxiv.org/abs/2310.03742)|[opensm](https://github.com/spcl/opensm)|
 ## 2023-10-05
 |paper|code|
 |---|---|
