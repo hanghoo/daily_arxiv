@@ -1,3 +1,36 @@
+## 2023-10-11
+|paper|code|
+|---|---|
+|[distributed control of descriptor networks: a convex procedure for augmented sparsity](https://arxiv.org/abs/2109.05954)|[CONPRAS](https://github.com/AndreiSperila/CONPRAS)|
+|[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
+|[quantum search approaches to sampling-based motion planning](https://arxiv.org/abs/2304.06479)|[qrrt](https://github.com/pdlathrop/qrrt)|
+|[tiny-ppg: a lightweight deep neural network for real-time detection of motion artifacts in photoplethysmogram signals on edge devices](https://arxiv.org/abs/2305.03308)|[tiny-ppg](https://github.com/sztu-wearable/tiny-ppg)|
+|[branched latent neural maps](https://arxiv.org/abs/2308.02599)|[blnm.jl](https://github.com/stanfordcbcl/blnm.jl)|
+|[s4sleep: elucidating the design space of deep-learning-based sleep stage classification models](https://arxiv.org/abs/2310.06715)|[s4sleep](https://github.com/ai4healthuol/s4sleep)|
+|[a high-performance design, implementation, deployment, and evaluation of the slim fly network](https://arxiv.org/abs/2310.03742)|[opensm](https://github.com/spcl/opensm)|
+|[assessing the impact of a supervised classification filter on flow-based hybrid network anomaly detection](https://arxiv.org/abs/2310.06656)|[hybrid-anomaly-detection](https://github.com/kinit-sk/hybrid-anomaly-detection)|
+## 2023-10-10
+|paper|code|
+|---|---|
+|[neural vocoder is all you need for speech super-resolution](https://arxiv.org/abs/2203.14941)|[ssr_eval](https://github.com/haoheliu/ssr_eval)|
+|[voicefixer: a unified framework for high-fidelity speech restoration](https://arxiv.org/abs/2204.05841)|[voicefixer](https://github.com/haoheliu/voicefixer)|
+|[deep reinforcement learning-based rebalancing policies for profit maximization of relay nodes in payment channel networks](https://arxiv.org/abs/2210.07302)|[payment-channel-rebalancing](https://github.com/npapadis/payment-channel-rebalancing)|
+|[distributed deep joint source-channel coding over a multiple access channel](https://arxiv.org/abs/2211.09920)|[deepjscc-noma](https://github.com/ipc-lab/deepjscc-noma)|
+|[ontology-aware learning and evaluation for audio tagging](https://arxiv.org/abs/2211.12195)|[ontology-aware-audio-tagging](https://github.com/haoheliu/ontology-aware-audio-tagging)|
+|[sustainability assessment of low earth orbit (leo) satellite broadband mega-constellations](https://arxiv.org/abs/2309.02338)|[saleos](https://github.com/bonface-osoro/saleos)|
+|[the first cadenza signal processing challenge: improving music for those with a hearing loss](https://arxiv.org/abs/2310.05799)|[task1](https://github.com/claritychallenge/clarity/tree/main/recipes/cad1/task1)|
+|[estimating conditional mutual information for dynamic feature selection](https://arxiv.org/abs/2306.03301)|[dime](https://github.com/suinleelab/dime)|
+|[nettisa: extended ip flow with time-series features for universal bandwidth-constrained high-speed network traffic classification](https://arxiv.org/abs/2310.05530)|[classification_by_nettisa_flow](https://github.com/koumajos/classification_by_nettisa_flow)|
+## 2023-10-09
+|paper|code|
+|---|---|
+|[link scheduling using graph neural networks](https://arxiv.org/abs/2109.05536)|[distgcn](https://github.com/zhongyuanzhao/distgcn)|
+|[powermodelsada: a framework for solving optimal power flow using distributed algorithms](https://arxiv.org/abs/2304.00639)|[powermodelsada.jl](https://github.com/mkhraijah/powermodelsada.jl)|
+|[actively learning reinforcement learning: a stochastic optimal control approach](https://arxiv.org/abs/2309.10831)|[active-learning-reinforcement-learning](https://github.com/msramada/active-learning-reinforcement-learning)|
+|[a comprehensive indoor environment dataset from single-family houses in the us](https://arxiv.org/abs/2310.03771)|[bdl_data_1](https://github.com/anik801/bdl_data_1)|
+|[representative days and hours with piecewise linear transitions for power system planning](https://arxiv.org/abs/2310.04239)|[modified-rts-24-bus](https://github.com/mojtabamoradii/modified-rts-24-bus)|
+|[capturing chronology and extreme values of representative days for planning of transmission lines and long-term energy storage systems](https://arxiv.org/abs/2310.04244)|[modified6bus](https://github.com/mojtabamoradii/modified6bus)|
+|[influence robustness of nodes in multiplex networks against attacks](https://arxiv.org/abs/2309.07617)|[MultiCoreRank](https://github.com/Boqian-Ma/MultiCoreRank)|
 ## 2023-10-06
 |paper|code|
 |---|---|
@@ -5,11 +38,9 @@
 |[distributed decentralized receding horizon control for very large-scale networks with application to satellite mega-constellations](https://arxiv.org/abs/2209.14951)|[tudat-matlab-thrust-feedback](https://github.com/decenter2021/tudat-matlab-thrust-feedback)|
 |[conditional generative models for simulation of emg during naturalistic movements](https://arxiv.org/abs/2211.01856)|[biomime](https://github.com/shihan-ma/biomime)|
 |[drl-based energy-efficient baseband function deployments for service-oriented open ran](https://arxiv.org/abs/2212.12055)|[Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN](https://github.com/OCEAN-98/Energy-Efficient-DU-CU-MEC-Deployments-for-Open-RAN)|
-|[algorithm for finding new identifiable reparametrizations of parametric odes](https://arxiv.org/abs/2310.03057)|[new-identifiable-reparametrizations](https://github.com/alexeyovchinnikov/new-identifiable-reparametrizations)|
 |[learning and communications co-design for remote inference systems: feature length selection and transmission scheduling](https://arxiv.org/abs/2308.10094)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
 |[procedural text mining with large language models](https://arxiv.org/abs/2310.03376)|[proc-tm](https://github.com/jd-coderepos/proc-tm)|
 |[supervising smart home device interactions: a profile-based firewall approach](https://arxiv.org/abs/2310.03510)|[smart-home-firewall](https://github.com/franklin5168/smart-home-firewall)|
-|[a high-performance design, implementation, deployment, and evaluation of the slim fly network](https://arxiv.org/abs/2310.03742)|[opensm](https://github.com/spcl/opensm)|
 ## 2023-10-05
 |paper|code|
 |---|---|
