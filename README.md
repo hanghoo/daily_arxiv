@@ -1,3 +1,12 @@
+## 2023-10-12
+|paper|code|
+|---|---|
+|[low emission building control with zero-shot reinforcement learning](https://arxiv.org/abs/2206.14191)|[PEARL](https://github.com/enjeeneer/PEARL)|
+|[multi-kernel correntropy-based orientation estimation of imus: gradient descent methods](https://arxiv.org/abs/2304.06548)|[mc_gd_imu](https://github.com/lsl-zsj/mc_gd_imu)|
+|[ecg-qa: a comprehensive question answering dataset combined with electrocardiogram](https://arxiv.org/abs/2306.15681)|[ecg-qa](https://github.com/jwoo5/ecg-qa)|
+|[algorithm for finding new identifiable reparametrizations of parametric odes](https://arxiv.org/abs/2310.03057)|[new-identifiable-reparametrizations](https://github.com/alexeyovchinnikov/new-identifiable-reparametrizations)|
+|[uncovering ecg changes during healthy aging using explainable ai](https://arxiv.org/abs/2310.07463)|[ecg-aging](https://github.com/ai4healthuol/ecg-aging)|
+|[estimating webrtc video qoe metrics without using application headers](https://arxiv.org/abs/2306.01194)|[vcaml](https://github.com/noise-lab/vcaml)|
 ## 2023-10-11
 |paper|code|
 |---|---|
@@ -5,7 +14,9 @@
 |[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
 |[quantum search approaches to sampling-based motion planning](https://arxiv.org/abs/2304.06479)|[qrrt](https://github.com/pdlathrop/qrrt)|
 |[tiny-ppg: a lightweight deep neural network for real-time detection of motion artifacts in photoplethysmogram signals on edge devices](https://arxiv.org/abs/2305.03308)|[tiny-ppg](https://github.com/sztu-wearable/tiny-ppg)|
+|[towards efficient mppi trajectory generation with unscented guidance: u-mppi control strategy](https://arxiv.org/abs/2306.12369)|[u-mppi](https://github.com/ihabmohamed/u-mppi)|
 |[branched latent neural maps](https://arxiv.org/abs/2308.02599)|[blnm.jl](https://github.com/stanfordcbcl/blnm.jl)|
+|[isac 4d imaging system based on 5g downlink millimeter wave signal](https://arxiv.org/abs/2310.06401)|[ISAC_4D_IMaging](https://github.com/MrHaobolu/ISAC_4D_IMaging)|
 |[s4sleep: elucidating the design space of deep-learning-based sleep stage classification models](https://arxiv.org/abs/2310.06715)|[s4sleep](https://github.com/ai4healthuol/s4sleep)|
 |[a high-performance design, implementation, deployment, and evaluation of the slim fly network](https://arxiv.org/abs/2310.03742)|[opensm](https://github.com/spcl/opensm)|
 |[assessing the impact of a supervised classification filter on flow-based hybrid network anomaly detection](https://arxiv.org/abs/2310.06656)|[hybrid-anomaly-detection](https://github.com/kinit-sk/hybrid-anomaly-detection)|
@@ -18,6 +29,8 @@
 |[distributed deep joint source-channel coding over a multiple access channel](https://arxiv.org/abs/2211.09920)|[deepjscc-noma](https://github.com/ipc-lab/deepjscc-noma)|
 |[ontology-aware learning and evaluation for audio tagging](https://arxiv.org/abs/2211.12195)|[ontology-aware-audio-tagging](https://github.com/haoheliu/ontology-aware-audio-tagging)|
 |[sustainability assessment of low earth orbit (leo) satellite broadband mega-constellations](https://arxiv.org/abs/2309.02338)|[saleos](https://github.com/bonface-osoro/saleos)|
+|[extended kalman filter state estimation for autonomous competition robots](https://arxiv.org/abs/2310.04459)|[ekf](https://github.com/bubblybingbong/ekf)|
+|[a closed-form solution for the strapdown inertial navigation initial value problem](https://arxiv.org/abs/2310.04886)|[cyecca](https://github.com/cognipilot/cyecca)|
 |[the first cadenza signal processing challenge: improving music for those with a hearing loss](https://arxiv.org/abs/2310.05799)|[task1](https://github.com/claritychallenge/clarity/tree/main/recipes/cad1/task1)|
 |[estimating conditional mutual information for dynamic feature selection](https://arxiv.org/abs/2306.03301)|[dime](https://github.com/suinleelab/dime)|
 |[nettisa: extended ip flow with time-series features for universal bandwidth-constrained high-speed network traffic classification](https://arxiv.org/abs/2310.05530)|[classification_by_nettisa_flow](https://github.com/koumajos/classification_by_nettisa_flow)|
