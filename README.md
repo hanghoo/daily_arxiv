@@ -1,3 +1,10 @@
+## 2023-10-13
+|paper|code|
+|---|---|
+|[semantic-forward relaying: a novel framework towards 6g cooperative communications](https://arxiv.org/abs/2310.07987)|[Semantic_Forward](https://github.com/linwest/Semantic_Forward)|
+|[multi-spacephish: extending the evasion-space of adversarial attacks against phishing website detectors using machine learning](https://arxiv.org/abs/2210.13660)|[acsac22_spacephish](https://github.com/hihey54/acsac22_spacephish)|
+|[learning collaborative information dissemination with graph-based multi-agent reinforcement learning](https://arxiv.org/abs/2308.16198)|[melissa](https://github.com/raffaelegalliera/melissa)|
+|[zest: attention-based zero-shot learning for unseen iot device classification](https://arxiv.org/abs/2310.08036)|[ZEST](https://github.com/Binghui99/ZEST)|
 ## 2023-10-12
 |paper|code|
 |---|---|
@@ -5,8 +12,12 @@
 |[multi-kernel correntropy-based orientation estimation of imus: gradient descent methods](https://arxiv.org/abs/2304.06548)|[mc_gd_imu](https://github.com/lsl-zsj/mc_gd_imu)|
 |[ecg-qa: a comprehensive question answering dataset combined with electrocardiogram](https://arxiv.org/abs/2306.15681)|[ecg-qa](https://github.com/jwoo5/ecg-qa)|
 |[algorithm for finding new identifiable reparametrizations of parametric odes](https://arxiv.org/abs/2310.03057)|[new-identifiable-reparametrizations](https://github.com/alexeyovchinnikov/new-identifiable-reparametrizations)|
+|[efficient path planning in large unknown environments with switchable system models for automated vehicles](https://arxiv.org/abs/2310.06974)|[guided-extended-hybrid-astar](https://github.com/oliver-schumann/guided-extended-hybrid-astar)|
+|[reconfigurable intelligent surfaces-enabled intra-cell pilot reuse in massive mimo systems](https://arxiv.org/abs/2310.06975)|[ris-pilot-reuse](https://github.com/josecarlos-marinello/ris-pilot-reuse)|
+|[brain age revisited: investigating the state vs. trait hypotheses of eeg-derived brain-age dynamics with deep learning](https://arxiv.org/abs/2310.07029)|[eeg-brain-age](https://github.com/gemeinl/eeg-brain-age)|
 |[uncovering ecg changes during healthy aging using explainable ai](https://arxiv.org/abs/2310.07463)|[ecg-aging](https://github.com/ai4healthuol/ecg-aging)|
 |[estimating webrtc video qoe metrics without using application headers](https://arxiv.org/abs/2306.01194)|[vcaml](https://github.com/noise-lab/vcaml)|
+|[cost-aware joint caching and forwarding in networks with heterogeneous cache resources](https://arxiv.org/abs/2310.07243)|[multi-tier](https://github.com/fvmutlu/multi-tier)|
 ## 2023-10-11
 |paper|code|
 |---|---|
