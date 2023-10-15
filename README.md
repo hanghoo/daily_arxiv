@@ -4,6 +4,7 @@
 |[semantic-forward relaying: a novel framework towards 6g cooperative communications](https://arxiv.org/abs/2310.07987)|[Semantic_Forward](https://github.com/linwest/Semantic_Forward)|
 |[multi-spacephish: extending the evasion-space of adversarial attacks against phishing website detectors using machine learning](https://arxiv.org/abs/2210.13660)|[acsac22_spacephish](https://github.com/hihey54/acsac22_spacephish)|
 |[learning collaborative information dissemination with graph-based multi-agent reinforcement learning](https://arxiv.org/abs/2308.16198)|[melissa](https://github.com/raffaelegalliera/melissa)|
+|[interpretable diffusion via information decomposition](https://arxiv.org/abs/2310.07972)|[info-decomp](https://github.com/kxh001/info-decomp)|
 |[zest: attention-based zero-shot learning for unseen iot device classification](https://arxiv.org/abs/2310.08036)|[ZEST](https://github.com/Binghui99/ZEST)|
 ## 2023-10-12
 |paper|code|
