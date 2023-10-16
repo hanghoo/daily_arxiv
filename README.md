@@ -19,6 +19,7 @@
 |[uncovering ecg changes during healthy aging using explainable ai](https://arxiv.org/abs/2310.07463)|[ecg-aging](https://github.com/ai4healthuol/ecg-aging)|
 |[estimating webrtc video qoe metrics without using application headers](https://arxiv.org/abs/2306.01194)|[vcaml](https://github.com/noise-lab/vcaml)|
 |[cost-aware joint caching and forwarding in networks with heterogeneous cache resources](https://arxiv.org/abs/2310.07243)|[multi-tier](https://github.com/fvmutlu/multi-tier)|
+|[functional renormalization group for signal detection and stochastic ergodicity breaking](https://arxiv.org/abs/2310.07499)|[stochastic-signal-detection](https://github.com/thesfinox/stochastic-signal-detection)|
 ## 2023-10-11
 |paper|code|
 |---|---|
