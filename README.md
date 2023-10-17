@@ -1,3 +1,12 @@
+## 2023-10-16
+|paper|code|
+|---|---|
+|[hidden parameter recurrent state space models for changing dynamics scenarios](https://arxiv.org/abs/2206.14697)|[HiP-RSSM](https://github.com/ALRhub/HiP-RSSM)|
+|[learning rl-policies for joint beamforming without exploration: a batch constrained off-policy approach](https://arxiv.org/abs/2310.08660)|[safe-rl-deployment-for-5g](https://github.com/heasung-kim/safe-rl-deployment-for-5g)|
+|[revisiting minimum description length complexity in overparameterized models](https://arxiv.org/abs/2006.10189)|[mdl-complexity](https://github.com/csinva/mdl-complexity)|
+|[task-aware distributed source coding under dynamic bandwidth](https://arxiv.org/abs/2305.15523)|[task-aware-distributed-source-coding](https://github.com/utaustin-swarmlab/task-aware-distributed-source-coding)|
+|[democratizing leo satellite network measurement](https://arxiv.org/abs/2306.07469)|[leo_hitchhiking](https://github.com/stanford-esrg/leo_hitchhiking)|
+|[automl4etc: automated neural architecture search for real-world encrypted traffic classification](https://arxiv.org/abs/2308.02182)|[automl4etc](https://github.com/orangeuw/automl4etc)|
 ## 2023-10-13
 |paper|code|
 |---|---|
@@ -18,6 +27,7 @@
 |[brain age revisited: investigating the state vs. trait hypotheses of eeg-derived brain-age dynamics with deep learning](https://arxiv.org/abs/2310.07029)|[eeg-brain-age](https://github.com/gemeinl/eeg-brain-age)|
 |[uncovering ecg changes during healthy aging using explainable ai](https://arxiv.org/abs/2310.07463)|[ecg-aging](https://github.com/ai4healthuol/ecg-aging)|
 |[estimating webrtc video qoe metrics without using application headers](https://arxiv.org/abs/2306.01194)|[vcaml](https://github.com/noise-lab/vcaml)|
+|[boosting learning for ldpc codes to improve the error-floor performance](https://arxiv.org/abs/2310.07194)|[ldpc_error_floor](https://github.com/ghy1228/ldpc_error_floor)|
 |[cost-aware joint caching and forwarding in networks with heterogeneous cache resources](https://arxiv.org/abs/2310.07243)|[multi-tier](https://github.com/fvmutlu/multi-tier)|
 |[functional renormalization group for signal detection and stochastic ergodicity breaking](https://arxiv.org/abs/2310.07499)|[stochastic-signal-detection](https://github.com/thesfinox/stochastic-signal-detection)|
 ## 2023-10-11
