@@ -1,3 +1,11 @@
+## 2023-10-17
+|paper|code|
+|---|---|
+|[unique sparse decomposition of low rank matrices](https://arxiv.org/abs/2106.07736)|[Unique_Fac_of_Low_Rank](https://github.com/Jindiande/Unique_Fac_of_Low_Rank)|
+|[autodeconj: a gpu accelerated imagej plugin for 3d light field deconvolution with optimal iteration numbers predicting](https://arxiv.org/abs/2208.11422)|[autodeconj](https://github.com/onetism/autodeconj)|
+|[beyond normal: on the evaluation of mutual information estimators](https://arxiv.org/abs/2306.11078)|[bmi](https://github.com/cbg-ethz/bmi)|
+|[replication: contrastive learning and data augmentation in traffic classification using a flowpic input representation](https://arxiv.org/abs/2309.09733)|[tcbench](https://github.com/tcbenchstack/tcbench)|
+|[the mixtures and the neural critics: on the pointwise mutual information profiles of fine distributions](https://arxiv.org/abs/2310.10240)|[bmi](https://github.com/cbg-ethz/bmi)|
 ## 2023-10-16
 |paper|code|
 |---|---|
@@ -15,6 +23,7 @@
 |[learning collaborative information dissemination with graph-based multi-agent reinforcement learning](https://arxiv.org/abs/2308.16198)|[melissa](https://github.com/raffaelegalliera/melissa)|
 |[interpretable diffusion via information decomposition](https://arxiv.org/abs/2310.07972)|[info-decomp](https://github.com/kxh001/info-decomp)|
 |[zest: attention-based zero-shot learning for unseen iot device classification](https://arxiv.org/abs/2310.08036)|[ZEST](https://github.com/Binghui99/ZEST)|
+|[fast search method for large polarization kernels](https://arxiv.org/abs/2310.08369)|[kernelbruteforcer](https://github.com/gtrofimiuk/kernelbruteforcer)|
 ## 2023-10-12
 |paper|code|
 |---|---|
