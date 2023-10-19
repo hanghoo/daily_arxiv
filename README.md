@@ -1,3 +1,13 @@
+## 2023-10-18
+|paper|code|
+|---|---|
+|[knowledge equivalence in digital twins of intelligent systems](https://arxiv.org/abs/2204.07481)|[knowledge-equivalence-DT](https://github.com/digitwins/knowledge-equivalence-DT)|
+|[dime and agvis: a distributed messaging environment and geographical visualizer for large-scale power system simulation](https://arxiv.org/abs/2211.11990)|[agvis](https://github.com/CURENT/agvis)|
+|[removing structured noise with diffusion models](https://arxiv.org/abs/2302.05290)|[joint-diffusion](https://github.com/tristan-deep/joint-diffusion)|
+|[neural lyapunov control for discrete-time systems](https://arxiv.org/abs/2305.06547)|[nlc_discrete](https://github.com/jlwu002/nlc_discrete)|
+|[extended kalman filter state estimation for autonomous competition robots](https://arxiv.org/abs/2310.04459)|[ekf](https://github.com/bubblybingbong/ekf)|
+|[correlative information maximization: a biologically plausible approach to supervised deep neural networks without weight symmetry](https://arxiv.org/abs/2306.04810)|[Supervised-CorInfoMax](https://github.com/BariscanBozkurt/Supervised-CorInfoMax)|
+|[maintaining app services in disrupted cities: a crisis and resilience evaluation tool](https://arxiv.org/abs/2310.11124)|[caret](https://github.com/seemoo-lab/caret)|
 ## 2023-10-17
 |paper|code|
 |---|---|
