@@ -1,3 +1,11 @@
+## 2023-10-19
+|paper|code|
+|---|---|
+|[influence of the geometry of the world model on curiosity based exploration](https://arxiv.org/abs/2304.00188)|[effect-of-geometry-on-exploration](https://github.com/nilsruet/effect-of-geometry-on-exploration)|
+|[equivariant bootstrapping for uncertainty quantification in imaging inverse problems](https://arxiv.org/abs/2310.11838)|[equivariant_bootstrap](https://github.com/tachella/equivariant_bootstrap)|
+|[dynamic financial processes identification using sparse regressive reservoir computers](https://arxiv.org/abs/2310.12144)|[dynet-cnbs](https://github.com/fredyvides/dynet-cnbs)|
+|[compression with bayesian implicit neural representations](https://arxiv.org/abs/2305.19185)|[combiner](https://github.com/cambridge-mlg/combiner)|
+|[perceptual measurements, distances and metrics](https://arxiv.org/abs/2310.11759)|[perceptual_metric](https://github.com/jonathanvacher/perceptual_metric)|
 ## 2023-10-18
 |paper|code|
 |---|---|
@@ -12,6 +20,7 @@
 |paper|code|
 |---|---|
 |[unique sparse decomposition of low rank matrices](https://arxiv.org/abs/2106.07736)|[Unique_Fac_of_Low_Rank](https://github.com/Jindiande/Unique_Fac_of_Low_Rank)|
+|[semi-supervised end-to-end learning for integrated sensing and communications](https://arxiv.org/abs/2310.09940)|[sslisac](https://github.com/josemateosramos/sslisac)|
 |[autodeconj: a gpu accelerated imagej plugin for 3d light field deconvolution with optimal iteration numbers predicting](https://arxiv.org/abs/2208.11422)|[autodeconj](https://github.com/onetism/autodeconj)|
 |[beyond normal: on the evaluation of mutual information estimators](https://arxiv.org/abs/2306.11078)|[bmi](https://github.com/cbg-ethz/bmi)|
 |[replication: contrastive learning and data augmentation in traffic classification using a flowpic input representation](https://arxiv.org/abs/2309.09733)|[tcbench](https://github.com/tcbenchstack/tcbench)|
@@ -21,10 +30,10 @@
 |---|---|
 |[hidden parameter recurrent state space models for changing dynamics scenarios](https://arxiv.org/abs/2206.14697)|[HiP-RSSM](https://github.com/ALRhub/HiP-RSSM)|
 |[learning rl-policies for joint beamforming without exploration: a batch constrained off-policy approach](https://arxiv.org/abs/2310.08660)|[safe-rl-deployment-for-5g](https://github.com/heasung-kim/safe-rl-deployment-for-5g)|
+|[multi-sensor multi-scan radar sensing of multiple extended targets](https://arxiv.org/abs/2310.09011)|[di-gsncp-radar-sensing](https://github.com/martin497/di-gsncp-radar-sensing)|
 |[revisiting minimum description length complexity in overparameterized models](https://arxiv.org/abs/2006.10189)|[mdl-complexity](https://github.com/csinva/mdl-complexity)|
 |[task-aware distributed source coding under dynamic bandwidth](https://arxiv.org/abs/2305.15523)|[task-aware-distributed-source-coding](https://github.com/utaustin-swarmlab/task-aware-distributed-source-coding)|
 |[democratizing leo satellite network measurement](https://arxiv.org/abs/2306.07469)|[leo_hitchhiking](https://github.com/stanford-esrg/leo_hitchhiking)|
-|[automl4etc: automated neural architecture search for real-world encrypted traffic classification](https://arxiv.org/abs/2308.02182)|[automl4etc](https://github.com/orangeuw/automl4etc)|
 ## 2023-10-13
 |paper|code|
 |---|---|
