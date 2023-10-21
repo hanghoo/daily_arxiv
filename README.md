@@ -1,3 +1,11 @@
+## 2023-10-20
+|paper|code|
+|---|---|
+|[distributed control of descriptor networks: a convex procedure for augmented sparsity](https://arxiv.org/abs/2109.05954)|[CONPRAS](https://github.com/AndreiSperila/CONPRAS)|
+|[llm-based frameworks for power engineering from routine to novel tasks](https://arxiv.org/abs/2305.11202)|[chatgpt-for-power-system-programming-tasks](https://github.com/bigdogmanluo/chatgpt-for-power-system-programming-tasks)|
+|[semantic: semantic interference cancellation towards 6g wireless communications](https://arxiv.org/abs/2310.12768)|[SemantIC](https://github.com/linwest/SemantIC)|
+|[formal abstractions for packet scheduling](https://arxiv.org/abs/2211.11659)|[pifo-trees-artifact](https://github.com/cornell-netlab/pifo-trees-artifact)|
+|[automl4etc: automated neural architecture search for real-world encrypted traffic classification](https://arxiv.org/abs/2308.02182)|[automl4etc](https://github.com/orangeuw/automl4etc)|
 ## 2023-10-19
 |paper|code|
 |---|---|
