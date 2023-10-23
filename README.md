@@ -11,7 +11,6 @@
 |paper|code|
 |---|---|
 |[influence of the geometry of the world model on curiosity based exploration](https://arxiv.org/abs/2304.00188)|[effect-of-geometry-on-exploration](https://github.com/nilsruet/effect-of-geometry-on-exploration)|
-|[equivariant bootstrapping for uncertainty quantification in imaging inverse problems](https://arxiv.org/abs/2310.11838)|[equivariant_bootstrap](https://github.com/tachella/equivariant_bootstrap)|
 |[dynamic financial processes identification using sparse regressive reservoir computers](https://arxiv.org/abs/2310.12144)|[dynet-cnbs](https://github.com/fredyvides/dynet-cnbs)|
 |[compression with bayesian implicit neural representations](https://arxiv.org/abs/2305.19185)|[combiner](https://github.com/cambridge-mlg/combiner)|
 |[perceptual measurements, distances and metrics](https://arxiv.org/abs/2310.11759)|[perceptual_metric](https://github.com/jonathanvacher/perceptual_metric)|
