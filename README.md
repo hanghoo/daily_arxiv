@@ -1,3 +1,12 @@
+## 2023-10-23
+|paper|code|
+|---|---|
+|[a lego-brick approach to coding for network communication](https://arxiv.org/abs/2211.07208)|[lego-brick](https://github.com/nadimgh/lego-brick)|
+|[data-driven robust backward reachable sets for set-theoretic model predictive control](https://arxiv.org/abs/2303.04749)|[data-driven-st-mpc](https://github.com/precysegroup/data-driven-st-mpc)|
+|[equivariant bootstrapping for uncertainty quantification in imaging inverse problems](https://arxiv.org/abs/2310.11838)|[equivariant_bootstrap](https://github.com/tachella/equivariant_bootstrap)|
+|[fuel consumption prediction for a passenger ferry using machine learning and in-service data: a comparative study](https://arxiv.org/abs/2310.13123)|[model_optimze_vessel](https://github.com/pagand/model_optimze_vessel)|
+|[deep reinforcement learning-based intelligent traffic signal controls with optimized co2 emissions](https://arxiv.org/abs/2310.13129)|[eco-light](https://github.com/pagand/eco-light)|
+|[explora: ai/ml explainability for the open ran](https://arxiv.org/abs/2310.13667)|[explora](https://github.com/wineslab/explora)|
 ## 2023-10-20
 |paper|code|
 |---|---|
