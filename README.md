@@ -1,16 +1,29 @@
+## 2023-10-24
+|paper|code|
+|---|---|
+|[gasper: graph signal processing in r](https://arxiv.org/abs/2007.10642)|[SGWT-SURE](https://github.com/fabnavarro/SGWT-SURE)|
+|[distributed control of descriptor networks: a convex procedure for augmented sparsity](https://arxiv.org/abs/2109.05954)|[CONPRAS](https://github.com/AndreiSperila/CONPRAS)|
+|[learning informative representation for fairness-aware multivariate time-series forecasting: a group-based perspective](https://arxiv.org/abs/2301.11535)|[fairfor](https://github.com/huihevv/fairfor)|
+|[risk-aware urban air mobility network design with overflow redundancy](https://arxiv.org/abs/2306.05581)|[Risk-aware-Urban-Air-Mobility-Network-Design-with-Overflow-Redundancy](https://github.com/QinshuangCoolWei/Risk-aware-Urban-Air-Mobility-Network-Design-with-Overflow-Redundancy)|
+|[distributed variational inference for online supervised learning](https://arxiv.org/abs/2309.02606)|[distributed-mapping](https://github.com/pptx/distributed-mapping)|
+|[learning state-augmented policies for information routing in communication networks](https://arxiv.org/abs/2310.00248)|[state-augmeted-information-routing](https://github.com/sourajitdas/state-augmeted-information-routing)|
+|[federated learning compression designed for lightweight communications](https://arxiv.org/abs/2310.14693)|[fl_exps](https://github.com/lgrativol/fl_exps)|
+|[specialized deep residual policy safe reinforcement learning-based controller for complex and continuous state-action spaces](https://arxiv.org/abs/2310.14788)|[CoL-SDRPRL](https://github.com/ammar-n-abbas/CoL-SDRPRL)|
+|[nvidia flare: federated learning from simulation to real-world](https://arxiv.org/abs/2210.13291)|[nvflare](https://github.com/nvidia/nvflare)|
+|[quantum conformal prediction for reliable uncertainty quantification in quantum machine learning](https://arxiv.org/abs/2304.03398)|[quantum-cp](https://github.com/kclip/quantum-cp)|
+|[vontss: vmf based semi-supervised neural topic modeling with optimal transport](https://arxiv.org/abs/2307.01226)|[vONTSS](https://github.com/xuweijieshuai/vONTSS)|
+|[$\lambda$-split: a privacy-preserving split computing framework for cloud-powered generative ai](https://arxiv.org/abs/2310.14651)|[lambda_split](https://github.com/nishio-laboratory/lambda_split)|
+|[teleqna: a benchmark dataset to assess large language models telecommunications knowledge](https://arxiv.org/abs/2310.15051)|[teleqna](https://github.com/netop-team/teleqna)|
 ## 2023-10-23
 |paper|code|
 |---|---|
 |[a lego-brick approach to coding for network communication](https://arxiv.org/abs/2211.07208)|[lego-brick](https://github.com/nadimgh/lego-brick)|
 |[data-driven robust backward reachable sets for set-theoretic model predictive control](https://arxiv.org/abs/2303.04749)|[data-driven-st-mpc](https://github.com/precysegroup/data-driven-st-mpc)|
 |[equivariant bootstrapping for uncertainty quantification in imaging inverse problems](https://arxiv.org/abs/2310.11838)|[equivariant_bootstrap](https://github.com/tachella/equivariant_bootstrap)|
-|[fuel consumption prediction for a passenger ferry using machine learning and in-service data: a comparative study](https://arxiv.org/abs/2310.13123)|[model_optimze_vessel](https://github.com/pagand/model_optimze_vessel)|
-|[deep reinforcement learning-based intelligent traffic signal controls with optimized co2 emissions](https://arxiv.org/abs/2310.13129)|[eco-light](https://github.com/pagand/eco-light)|
 |[explora: ai/ml explainability for the open ran](https://arxiv.org/abs/2310.13667)|[explora](https://github.com/wineslab/explora)|
 ## 2023-10-20
 |paper|code|
 |---|---|
-|[distributed control of descriptor networks: a convex procedure for augmented sparsity](https://arxiv.org/abs/2109.05954)|[CONPRAS](https://github.com/AndreiSperila/CONPRAS)|
 |[llm-based frameworks for power engineering from routine to novel tasks](https://arxiv.org/abs/2305.11202)|[chatgpt-for-power-system-programming-tasks](https://github.com/bigdogmanluo/chatgpt-for-power-system-programming-tasks)|
 |[mutual information-based integrated sensing and communications: a wmmse framework](https://arxiv.org/abs/2310.12686)|[MI-based-WMMSE-ISAC-algorithm](https://github.com/ROCASSO/MI-based-WMMSE-ISAC-algorithm)|
 |[semantic: semantic interference cancellation towards 6g wireless communications](https://arxiv.org/abs/2310.12768)|[SemantIC](https://github.com/linwest/SemantIC)|
