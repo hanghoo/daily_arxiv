@@ -1,14 +1,25 @@
+## 2023-10-25
+|paper|code|
+|---|---|
+|[quantum search approaches to sampling-based motion planning](https://arxiv.org/abs/2304.06479)|[qrrt](https://github.com/pdlathrop/qrrt)|
+|[fuel consumption prediction for a passenger ferry using machine learning and in-service data: a comparative study](https://arxiv.org/abs/2310.13123)|[model_optimze_vessel](https://github.com/pagand/model_optimze_vessel)|
+|[deep reinforcement learning-based intelligent traffic signal controls with optimized co2 emissions](https://arxiv.org/abs/2310.13129)|[eco-light](https://github.com/pagand/eco-light)|
+|[revisiting implicit differentiation for learning problems in optimal control](https://arxiv.org/abs/2310.14468)|[implicit-diff-optimal-control](https://github.com/mingu6/implicit-diff-optimal-control)|
+|[incremental measurement of structural entropy for dynamic graphs](https://arxiv.org/abs/2207.12653)|[incre-se](https://github.com/yangrunze1013/incre-se)|
 ## 2023-10-24
 |paper|code|
 |---|---|
 |[gasper: graph signal processing in r](https://arxiv.org/abs/2007.10642)|[SGWT-SURE](https://github.com/fabnavarro/SGWT-SURE)|
 |[distributed control of descriptor networks: a convex procedure for augmented sparsity](https://arxiv.org/abs/2109.05954)|[CONPRAS](https://github.com/AndreiSperila/CONPRAS)|
+|[riscatter: unifying backscatter communication and reconfigurable intelligent surface](https://arxiv.org/abs/2212.09121)|[riscatter](https://github.com/snowztail/riscatter)|
 |[learning informative representation for fairness-aware multivariate time-series forecasting: a group-based perspective](https://arxiv.org/abs/2301.11535)|[fairfor](https://github.com/huihevv/fairfor)|
 |[risk-aware urban air mobility network design with overflow redundancy](https://arxiv.org/abs/2306.05581)|[Risk-aware-Urban-Air-Mobility-Network-Design-with-Overflow-Redundancy](https://github.com/QinshuangCoolWei/Risk-aware-Urban-Air-Mobility-Network-Design-with-Overflow-Redundancy)|
+|[geometric mechanics of contact-switching systems](https://arxiv.org/abs/2306.10276)|[paper-geometric-mechanics-of-contact-switching-systems](https://github.com/animal-inspired-motion-and-robotics-lab/paper-geometric-mechanics-of-contact-switching-systems)|
 |[distributed variational inference for online supervised learning](https://arxiv.org/abs/2309.02606)|[distributed-mapping](https://github.com/pptx/distributed-mapping)|
 |[learning state-augmented policies for information routing in communication networks](https://arxiv.org/abs/2310.00248)|[state-augmeted-information-routing](https://github.com/sourajitdas/state-augmeted-information-routing)|
 |[federated learning compression designed for lightweight communications](https://arxiv.org/abs/2310.14693)|[fl_exps](https://github.com/lgrativol/fl_exps)|
 |[specialized deep residual policy safe reinforcement learning-based controller for complex and continuous state-action spaces](https://arxiv.org/abs/2310.14788)|[CoL-SDRPRL](https://github.com/ammar-n-abbas/CoL-SDRPRL)|
+|[elemantra: an end-to-end automated framework empowered with ai and iot for tackling human-elephant conflict in elephant-range countries](https://arxiv.org/abs/2310.15012)|[elemantra](https://github.com/nuwansribandara/elemantra)|
 |[nvidia flare: federated learning from simulation to real-world](https://arxiv.org/abs/2210.13291)|[nvflare](https://github.com/nvidia/nvflare)|
 |[quantum conformal prediction for reliable uncertainty quantification in quantum machine learning](https://arxiv.org/abs/2304.03398)|[quantum-cp](https://github.com/kclip/quantum-cp)|
 |[vontss: vmf based semi-supervised neural topic modeling with optimal transport](https://arxiv.org/abs/2307.01226)|[vONTSS](https://github.com/xuweijieshuai/vONTSS)|
