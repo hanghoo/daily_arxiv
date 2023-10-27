@@ -1,3 +1,8 @@
+## 2023-10-26
+|paper|code|
+|---|---|
+|[learning bilinear models of actuated koopman generators from partially-observed trajectories](https://arxiv.org/abs/2209.09977)|[koopmangeneratorem](https://github.com/samotto1/koopmangeneratorem)|
+|[berlin v2x: a machine learning dataset from multiple vehicles and radio access technologies](https://arxiv.org/abs/2212.10343)|[BerlinV2X](https://github.com/fraunhoferhhi/BerlinV2X)|
 ## 2023-10-25
 |paper|code|
 |---|---|
@@ -5,6 +10,7 @@
 |[fuel consumption prediction for a passenger ferry using machine learning and in-service data: a comparative study](https://arxiv.org/abs/2310.13123)|[model_optimze_vessel](https://github.com/pagand/model_optimze_vessel)|
 |[deep reinforcement learning-based intelligent traffic signal controls with optimized co2 emissions](https://arxiv.org/abs/2310.13129)|[eco-light](https://github.com/pagand/eco-light)|
 |[revisiting implicit differentiation for learning problems in optimal control](https://arxiv.org/abs/2310.14468)|[implicit-diff-optimal-control](https://github.com/mingu6/implicit-diff-optimal-control)|
+|[lgr-mpc: a user-friendly software based on legendre-gauss-radau pseudo spectral method for solving model predictive control problems](https://arxiv.org/abs/2310.15960)|[a-user-friendly-software-based-on-legendre-gauss-radau-pseudo-spectral-method-in-python-to-solve-mpc](https://github.com/saeidb71/a-user-friendly-software-based-on-legendre-gauss-radau-pseudo-spectral-method-in-python-to-solve-mpc)|
 |[incremental measurement of structural entropy for dynamic graphs](https://arxiv.org/abs/2207.12653)|[incre-se](https://github.com/yangrunze1013/incre-se)|
 ## 2023-10-24
 |paper|code|
