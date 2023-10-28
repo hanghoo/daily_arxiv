@@ -1,3 +1,12 @@
+## 2023-10-27
+|paper|code|
+|---|---|
+|[detection of stealthy adversaries for networked unmanned aerial vehicles*](https://arxiv.org/abs/2202.09661)|[telloswarm](https://github.com/saslabstevens/telloswarm)|
+|[artificial intelligence in government: concepts, standards, and a unified framework](https://arxiv.org/abs/2210.17218)|[ai-gov-framework](https://github.com/ai-for-public-services/ai-gov-framework)|
+|[statistical component separation for targeted signal recovery in noisy mixtures](https://arxiv.org/abs/2306.15012)|[stat_comp_sep](https://github.com/bregaldo/stat_comp_sep)|
+|[dsac-t: distributional soft actor-critic with three refinements](https://arxiv.org/abs/2310.05858)|[dsac-t](https://github.com/jingliang-duan/dsac-t)|
+|[path weight sampling: exact monte carlo computation of the mutual information between stochastic trajectories](https://arxiv.org/abs/2203.03461)|[pathweightsampling.jl](https://github.com/manuel-rhdt/pathweightsampling.jl)|
+|[a neural collapse perspective on feature evolution in graph neural networks](https://arxiv.org/abs/2307.01951)|[gnn_collapse](https://github.com/kvignesh1420/gnn_collapse)|
 ## 2023-10-26
 |paper|code|
 |---|---|
