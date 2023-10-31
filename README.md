@@ -1,3 +1,9 @@
+## 2023-10-30
+|paper|code|
+|---|---|
+|[imp-marl: a suite of environments for large-scale infrastructure management planning via marl](https://arxiv.org/abs/2306.11551)|[imp_marl](https://github.com/moratodpg/imp_marl)|
+|[novel models for multiple dependent heteroskedastic time series](https://arxiv.org/abs/2310.17760)|[stat40710](https://github.com/13204942/stat40710)|
+|[robustness evaluation of deep unsupervised learning algorithms for intrusion detection systems](https://arxiv.org/abs/2207.03576)|[robevalanodetect](https://github.com/intrudetection/robevalanodetect)|
 ## 2023-10-27
 |paper|code|
 |---|---|
