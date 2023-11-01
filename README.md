@@ -1,9 +1,24 @@
+## 2023-10-31
+|paper|code|
+|---|---|
+|[safe learning mpc with limited model knowledge and data](https://arxiv.org/abs/2004.00759)|[wasserstein-nonlinear-mpc](https://github.com/aaronkandel/wasserstein-nonlinear-mpc)|
+|[learning dictionaries from physical-based interpolation for water network leak localization](https://arxiv.org/abs/2304.10932)|[aw-gsi-dl](https://github.com/pirofti/aw-gsi-dl)|
+|[ipdp: on partial dependence plots in dynamic modeling scenarios](https://arxiv.org/abs/2306.07775)|[ipdp-on-partial-dependence-plots-in-dynamic-modeling-scenarios](https://github.com/mmschlk/ipdp-on-partial-dependence-plots-in-dynamic-modeling-scenarios)|
+|[distributed optimization of clique-wise coupled problems via three-operator splitting](https://arxiv.org/abs/2310.18625)|[cd-dys](https://github.com/watanabeyuto/cd-dys)|
+|[robustness evaluation of deep unsupervised learning algorithms for intrusion detection systems](https://arxiv.org/abs/2207.03576)|[robevalanodetect](https://github.com/intrudetection/robevalanodetect)|
+|[dyst (did you see that?): an amplified covert channel that points to previously seen data](https://arxiv.org/abs/2212.11850)|[dyst](https://github.com/niosat/dyst)|
+|[kernelized cumulants: beyond kernel mean embeddings](https://arxiv.org/abs/2301.12466)|[kernelized-cumulants](https://github.com/patricbonnier/kernelized-cumulants)|
+|[quantifying & modeling multimodal interactions: an information decomposition framework](https://arxiv.org/abs/2302.12247)|[pid](https://github.com/pliang279/pid)|
+|[compression with bayesian implicit neural representations](https://arxiv.org/abs/2305.19185)|[combiner](https://github.com/cambridge-mlg/combiner)|
+|[exact optimality of communication-privacy-utility tradeoffs in distributed mean estimation](https://arxiv.org/abs/2306.04924)|[rrsc](https://github.com/BerivanIsik/rrsc)|
+|[boosting learning for ldpc codes to improve the error-floor performance](https://arxiv.org/abs/2310.07194)|[ldpc_error_floor](https://github.com/ghy1228/ldpc_error_floor)|
+|[estimating the rate-distortion function by wasserstein gradient descent](https://arxiv.org/abs/2310.18908)|[wgd](https://github.com/yiboyang/wgd)|
+|[learn to categorize or categorize to learn? self-coding for generalized category discovery](https://arxiv.org/abs/2310.19776)|[infosieve](https://github.com/sarahrastegar/infosieve)|
 ## 2023-10-30
 |paper|code|
 |---|---|
 |[imp-marl: a suite of environments for large-scale infrastructure management planning via marl](https://arxiv.org/abs/2306.11551)|[imp_marl](https://github.com/moratodpg/imp_marl)|
 |[novel models for multiple dependent heteroskedastic time series](https://arxiv.org/abs/2310.17760)|[stat40710](https://github.com/13204942/stat40710)|
-|[robustness evaluation of deep unsupervised learning algorithms for intrusion detection systems](https://arxiv.org/abs/2207.03576)|[robevalanodetect](https://github.com/intrudetection/robevalanodetect)|
 ## 2023-10-27
 |paper|code|
 |---|---|
