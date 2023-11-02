@@ -1,3 +1,15 @@
+## 2023-11-01
+|paper|code|
+|---|---|
+|[a multimodal sensing ring for quantification of scratch intensity](https://arxiv.org/abs/2302.03813)|[wearable_scratch_intensity](https://github.com/rchi-lab/wearable_scratch_intensity)|
+|[message passing meets graph neural networks: a new paradigm for massive mimo systems](https://arxiv.org/abs/2302.06896)|[amp_gnn](https://github.com/hehengtao/amp_gnn)|
+|[on the impact of control signaling in ris-empowered wireless communications](https://arxiv.org/abs/2303.16797)|[ris-control](https://github.com/lostinafro/ris-control)|
+|[learning zero-sum linear quadratic games with improved sample complexity and last-iterate convergence](https://arxiv.org/abs/2309.04272)|[zero-sum-lq-games](https://github.com/wujiduan/zero-sum-lq-games)|
+|[homothetic tube model predictive control with multi-step predictors](https://arxiv.org/abs/2309.06591)|[homotheticmpcmultistep](https://github.com/decodepfl/homotheticmpcmultistep)|
+|[energy-aware adaptive sampling for self-sustainability in resource-constrained iot devices](https://arxiv.org/abs/2310.20331)|[EcoTrack](https://github.com/ETH-PBL/EcoTrack)|
+|[distil the informative essence of loop detector data set: is network-level traffic forecasting hungry for more data?](https://arxiv.org/abs/2310.20366)|[uncertainty-aware-traffic-speed-flow-demand-prediction](https://github.com/romainlitud/uncertainty-aware-traffic-speed-flow-demand-prediction)|
+|[efficient computation of the quantum rate-distortion function](https://arxiv.org/abs/2309.15919)|[efficient-qrd](https://github.com/kerry-he/efficient-qrd)|
+|[amoeba: circumventing ml-supported network censorship via adversarial reinforcement learning](https://arxiv.org/abs/2310.20469)|[amoeba](https://github.com/mobile-intelligence-lab/amoeba)|
 ## 2023-10-31
 |paper|code|
 |---|---|
@@ -28,6 +40,7 @@
 |[data-driven optimal filtering for linear systems with unknown noise covariances](https://arxiv.org/abs/2305.17836)|[sgd4filtering](https://github.com/shahriarta/sgd4filtering)|
 |[statistical component separation for targeted signal recovery in noisy mixtures](https://arxiv.org/abs/2306.15012)|[stat_comp_sep](https://github.com/bregaldo/stat_comp_sep)|
 |[dsac-t: distributional soft actor-critic with three refinements](https://arxiv.org/abs/2310.05858)|[dsac-t](https://github.com/jingliang-duan/dsac-t)|
+|[lei2json: schema-based validation and conversion of livestock event information](https://arxiv.org/abs/2310.17414)|[lei2json](https://github.com/mahirgamal/lei2json)|
 |[path weight sampling: exact monte carlo computation of the mutual information between stochastic trajectories](https://arxiv.org/abs/2203.03461)|[pathweightsampling.jl](https://github.com/manuel-rhdt/pathweightsampling.jl)|
 |[a neural collapse perspective on feature evolution in graph neural networks](https://arxiv.org/abs/2307.01951)|[gnn_collapse](https://github.com/kvignesh1420/gnn_collapse)|
 ## 2023-10-26
