@@ -1,3 +1,9 @@
+## 2023-11-02
+|paper|code|
+|---|---|
+|[on the optimization landscape of dynamic output feedback linear quadratic control](https://arxiv.org/abs/2201.09598)|[lqg_gradient](https://github.com/soc-ucsd/lqg_gradient)|
+|[active uncertainty reduction for safe and efficient interaction planning: a shielding-aware dual control approach](https://arxiv.org/abs/2302.00171)|[dual_control_hri](https://github.com/saferoboticslab/dual_control_hri)|
+|[distributionally robust linear quadratic control](https://arxiv.org/abs/2305.17037)|[dr-control](https://github.com/rao-epfl/dr-control)|
 ## 2023-11-01
 |paper|code|
 |---|---|
