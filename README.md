@@ -1,3 +1,13 @@
+## 2023-11-03
+|paper|code|
+|---|---|
+|[exclusive group lasso for structured variable selection](https://arxiv.org/abs/2108.10284)|[exclusive-lasso](https://github.com/gregdvd/exclusive-lasso)|
+|[a ris-based vehicle doa estimation method with integrated sensing and communication system](https://arxiv.org/abs/2204.11626)|[passivedoa-isac-ris](https://github.com/chenpengseu/passivedoa-isac-ris)|
+|[can't touch this: real-time, safe motion planning and control for manipulators under uncertainty](https://arxiv.org/abs/2301.13308)|[armour-dev](https://github.com/roahmlab/armour-dev)|
+|[federated learning-based vehicle trajectory prediction against cyberattacks](https://arxiv.org/abs/2306.08566)|[fl-tp](https://github.com/codertylor/fl-tp)|
+|[representing edge flows on graphs via sparse cell complexes](https://arxiv.org/abs/2309.01632)|[edge-flow-cell-complexes](https://github.com/josefhoppe/edge-flow-cell-complexes)|
+|[improving robustness via tilted exponential layer: a communication-theoretic perspective](https://arxiv.org/abs/2311.01047)|[texp_for_robustness](https://github.com/bhagyapuranik/texp_for_robustness)|
+|[fedstellar: a platform for decentralized federated learning](https://arxiv.org/abs/2306.09750)|[fedstellar](https://github.com/enriquetomasmb/fedstellar)|
 ## 2023-11-02
 |paper|code|
 |---|---|
@@ -14,15 +24,19 @@
 |[homothetic tube model predictive control with multi-step predictors](https://arxiv.org/abs/2309.06591)|[homotheticmpcmultistep](https://github.com/decodepfl/homotheticmpcmultistep)|
 |[energy-aware adaptive sampling for self-sustainability in resource-constrained iot devices](https://arxiv.org/abs/2310.20331)|[EcoTrack](https://github.com/ETH-PBL/EcoTrack)|
 |[distil the informative essence of loop detector data set: is network-level traffic forecasting hungry for more data?](https://arxiv.org/abs/2310.20366)|[uncertainty-aware-traffic-speed-flow-demand-prediction](https://github.com/romainlitud/uncertainty-aware-traffic-speed-flow-demand-prediction)|
+|[learning lyapunov-stable polynomial dynamical systems through imitation](https://arxiv.org/abs/2310.20605)|[stable-imitation-policy](https://github.com/aminabyaneh/stable-imitation-policy)|
 |[efficient computation of the quantum rate-distortion function](https://arxiv.org/abs/2309.15919)|[efficient-qrd](https://github.com/kerry-he/efficient-qrd)|
 |[amoeba: circumventing ml-supported network censorship via adversarial reinforcement learning](https://arxiv.org/abs/2310.20469)|[amoeba](https://github.com/mobile-intelligence-lab/amoeba)|
 ## 2023-10-31
 |paper|code|
 |---|---|
 |[safe learning mpc with limited model knowledge and data](https://arxiv.org/abs/2004.00759)|[wasserstein-nonlinear-mpc](https://github.com/aaronkandel/wasserstein-nonlinear-mpc)|
+|[probabilistic inverse optimal control for non-linear partially observable systems disentangles perceptual uncertainty and behavioral costs](https://arxiv.org/abs/2303.16698)|[nioc-neurips](https://github.com/rothkopflab/nioc-neurips)|
 |[learning dictionaries from physical-based interpolation for water network leak localization](https://arxiv.org/abs/2304.10932)|[aw-gsi-dl](https://github.com/pirofti/aw-gsi-dl)|
 |[ipdp: on partial dependence plots in dynamic modeling scenarios](https://arxiv.org/abs/2306.07775)|[ipdp-on-partial-dependence-plots-in-dynamic-modeling-scenarios](https://github.com/mmschlk/ipdp-on-partial-dependence-plots-in-dynamic-modeling-scenarios)|
 |[distributed optimization of clique-wise coupled problems via three-operator splitting](https://arxiv.org/abs/2310.18625)|[cd-dys](https://github.com/watanabeyuto/cd-dys)|
+|[optimal status updates for minimizing age of correlated information in iot networks with energy harvesting sensors](https://arxiv.org/abs/2310.19216)|[RSS_algorithm](https://github.com/CXU-NWAFU/RSS_algorithm)|
+|[adaptive meta-learning-based kkl observer design for nonlinear dynamical systems](https://arxiv.org/abs/2310.19489)|[metakkl](https://github.com/lukastrm/metakkl)|
 |[robustness evaluation of deep unsupervised learning algorithms for intrusion detection systems](https://arxiv.org/abs/2207.03576)|[robevalanodetect](https://github.com/intrudetection/robevalanodetect)|
 |[dyst (did you see that?): an amplified covert channel that points to previously seen data](https://arxiv.org/abs/2212.11850)|[dyst](https://github.com/niosat/dyst)|
 |[kernelized cumulants: beyond kernel mean embeddings](https://arxiv.org/abs/2301.12466)|[kernelized-cumulants](https://github.com/patricbonnier/kernelized-cumulants)|
