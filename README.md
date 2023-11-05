@@ -14,6 +14,8 @@
 |[on the optimization landscape of dynamic output feedback linear quadratic control](https://arxiv.org/abs/2201.09598)|[lqg_gradient](https://github.com/soc-ucsd/lqg_gradient)|
 |[active uncertainty reduction for safe and efficient interaction planning: a shielding-aware dual control approach](https://arxiv.org/abs/2302.00171)|[dual_control_hri](https://github.com/saferoboticslab/dual_control_hri)|
 |[distributionally robust linear quadratic control](https://arxiv.org/abs/2305.17037)|[dr-control](https://github.com/rao-epfl/dr-control)|
+|[robust waveform design for integrated sensing and communication](https://arxiv.org/abs/2311.00071)|[robust-waveform](https://github.com/spratm-asleaf/robust-waveform)|
+|[generating hsr bogie vibration signals via pulse voltage-guided conditional diffusion model](https://arxiv.org/abs/2311.00496)|[vgcdm](https://github.com/xuanliu2000/vgcdm)|
 ## 2023-11-01
 |paper|code|
 |---|---|
@@ -27,6 +29,7 @@
 |[learning lyapunov-stable polynomial dynamical systems through imitation](https://arxiv.org/abs/2310.20605)|[stable-imitation-policy](https://github.com/aminabyaneh/stable-imitation-policy)|
 |[efficient computation of the quantum rate-distortion function](https://arxiv.org/abs/2309.15919)|[efficient-qrd](https://github.com/kerry-he/efficient-qrd)|
 |[amoeba: circumventing ml-supported network censorship via adversarial reinforcement learning](https://arxiv.org/abs/2310.20469)|[amoeba](https://github.com/mobile-intelligence-lab/amoeba)|
+|[offloading real-time tasks in iiot environments under consideration of networking uncertainties](https://arxiv.org/abs/2310.20577)|[real-time-offloading-simulator-iiot](https://github.com/dos-group/real-time-offloading-simulator-iiot)|
 ## 2023-10-31
 |paper|code|
 |---|---|
