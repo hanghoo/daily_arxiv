@@ -3,7 +3,7 @@
 |---|---|
 |[exclusive group lasso for structured variable selection](https://arxiv.org/abs/2108.10284)|[exclusive-lasso](https://github.com/gregdvd/exclusive-lasso)|
 |[a ris-based vehicle doa estimation method with integrated sensing and communication system](https://arxiv.org/abs/2204.11626)|[passivedoa-isac-ris](https://github.com/chenpengseu/passivedoa-isac-ris)|
-|[can't touch this: real-time, safe motion planning and control for manipulators under uncertainty](https://arxiv.org/abs/2301.13308)|[armour-dev](https://github.com/roahmlab/armour-dev)|
+|[can't touch this: real-time, safe motion planning and control for manipulators under uncertainty](https://arxiv.org/abs/2301.13308)|[armour](https://github.com/roahmlab/armour)|
 |[federated learning-based vehicle trajectory prediction against cyberattacks](https://arxiv.org/abs/2306.08566)|[fl-tp](https://github.com/codertylor/fl-tp)|
 |[representing edge flows on graphs via sparse cell complexes](https://arxiv.org/abs/2309.01632)|[edge-flow-cell-complexes](https://github.com/josefhoppe/edge-flow-cell-complexes)|
 |[improving robustness via tilted exponential layer: a communication-theoretic perspective](https://arxiv.org/abs/2311.01047)|[texp_for_robustness](https://github.com/bhagyapuranik/texp_for_robustness)|
