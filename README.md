@@ -1,3 +1,14 @@
+## 2023-11-06
+|paper|code|
+|---|---|
+|[vehicular visible light positioning for collision avoidance and platooning: a survey](https://arxiv.org/abs/2010.09858)|[vehicular-vlp-simulations](https://github.com/sonebu/vehicular-vlp-simulations)|
+|[fine-tuning language models with advantage-induced policy alignment](https://arxiv.org/abs/2306.02231)|[rlhf-apa](https://github.com/microsoft/rlhf-apa)|
+|[estimation of semiconductor power losses through automatic thermal modeling](https://arxiv.org/abs/2310.19049)|[automatic-thermal-modeling](https://github.com/jm-sanz/automatic-thermal-modeling)|
+|[low overhead beam alignment for mobile millimeter channel based on continuous-time prediction](https://arxiv.org/abs/2311.01752)|[low-overhead-beam-alignment-prediction](https://github.com/kuanghaoliu/low-overhead-beam-alignment-prediction)|
+|[irka is a riemannian gradient descent method](https://arxiv.org/abs/2311.02031)|[rgd-irka-experiments](https://github.com/pmli/rgd-irka-experiments)|
+|[closing the gap to quadratic invariance: a regret minimization approach to optimal distributed control](https://arxiv.org/abs/2311.02068)|[spregret](https://github.com/decodepfl/spregret)|
+|[supervising smart home device interactions: a profile-based firewall approach](https://arxiv.org/abs/2310.03510)|[smart-home-firewall](https://github.com/franklin5168/smart-home-firewall)|
+|[rtp: rethinking tensor parallelism with memory deduplication](https://arxiv.org/abs/2311.01635)|[rtp](https://github.com/wdlctc/rtp)|
 ## 2023-11-03
 |paper|code|
 |---|---|
