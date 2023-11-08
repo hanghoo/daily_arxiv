@@ -1,3 +1,16 @@
+## 2023-11-07
+|paper|code|
+|---|---|
+|[clapim: scalable sequence classification using processing-in-memory](https://arxiv.org/abs/2302.08284)|[clapim](https://github.com/marcelkh13/clapim)|
+|[a testbed for carbon-aware applications and systems](https://arxiv.org/abs/2306.09774)|[vessim](https://github.com/dos-group/vessim)|
+|[quantifying non-linear dependencies in blind source separation of power system signals using copula statistics](https://arxiv.org/abs/2309.07814)|[ccca](https://github.com/apooja1/ccca)|
+|[on the stable cholesky factorization-based method for the maximum correntropy criterion kalman filtering](https://arxiv.org/abs/2311.02438)|[MCCKF-a-posteriori](https://github.com/Maria-Kulikova/MCCKF-a-posteriori)|
+|[factored-form kalman-like implementations under maximum correntropy criterion](https://arxiv.org/abs/2311.02440)|[MCCKF-a-posteriori](https://github.com/Maria-Kulikova/MCCKF-a-posteriori)|
+|[stable linear subspace identification: a machine learning approach](https://arxiv.org/abs/2311.03197)|[simba](https://github.com/cemempamoi/simba)|
+|[gacs-korner common information variational autoencoder](https://arxiv.org/abs/2205.12239)|[common-vae](https://github.com/mjkleinman/common-vae)|
+|[nautilus: a framework for cross-layer cartography of submarine cables and ip links](https://arxiv.org/abs/2302.14201)|[nautilus](https://gitlab.com/netsail-uci/nautilus)|
+|[flooding with absorption: an efficient protocol for heterogeneous bandits over complex networks](https://arxiv.org/abs/2303.05445)|[bandits-network](https://github.com/nick-jhlee/bandits-network)|
+|[learn to categorize or categorize to learn? self-coding for generalized category discovery](https://arxiv.org/abs/2310.19776)|[infosieve](https://github.com/sarahrastegar/infosieve)|
 ## 2023-11-06
 |paper|code|
 |---|---|
