@@ -1,11 +1,17 @@
+## 2023-11-08
+|paper|code|
+|---|---|
+|[parameter synthesis for markov models: covering the parameter space](https://arxiv.org/abs/1903.07993)|[prophesy](https://github.com/moves-rwth/prophesy)|
+|[score-based source separation with applications to digital communication signals](https://arxiv.org/abs/2306.14411)|[score_based_source_separation](https://github.com/tkj516/score_based_source_separation)|
+|[the fairness stitch: unveiling the potential of model stitching in neural network de-biasing](https://arxiv.org/abs/2311.03532)|[the_fairness_stitch](https://github.com/modar7/the_fairness_stitch)|
 ## 2023-11-07
 |paper|code|
 |---|---|
 |[clapim: scalable sequence classification using processing-in-memory](https://arxiv.org/abs/2302.08284)|[clapim](https://github.com/marcelkh13/clapim)|
 |[a testbed for carbon-aware applications and systems](https://arxiv.org/abs/2306.09774)|[vessim](https://github.com/dos-group/vessim)|
-|[quantifying non-linear dependencies in blind source separation of power system signals using copula statistics](https://arxiv.org/abs/2309.07814)|[ccca](https://github.com/apooja1/ccca)|
 |[on the stable cholesky factorization-based method for the maximum correntropy criterion kalman filtering](https://arxiv.org/abs/2311.02438)|[MCCKF-a-posteriori](https://github.com/Maria-Kulikova/MCCKF-a-posteriori)|
 |[factored-form kalman-like implementations under maximum correntropy criterion](https://arxiv.org/abs/2311.02440)|[MCCKF-a-posteriori](https://github.com/Maria-Kulikova/MCCKF-a-posteriori)|
+|[dissipative quadratizations of polynomial ode systems](https://arxiv.org/abs/2311.02508)|[dqbee](https://github.com/yubocai-poly/dqbee)|
 |[stable linear subspace identification: a machine learning approach](https://arxiv.org/abs/2311.03197)|[simba](https://github.com/cemempamoi/simba)|
 |[gacs-korner common information variational autoencoder](https://arxiv.org/abs/2205.12239)|[common-vae](https://github.com/mjkleinman/common-vae)|
 |[nautilus: a framework for cross-layer cartography of submarine cables and ip links](https://arxiv.org/abs/2302.14201)|[nautilus](https://gitlab.com/netsail-uci/nautilus)|
