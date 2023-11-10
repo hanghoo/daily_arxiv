@@ -1,8 +1,15 @@
+## 2023-11-09
+|paper|code|
+|---|---|
+|[contributions of individual generators to nodal carbon emissions](https://arxiv.org/abs/2311.03712)|[carbon_emission_power_grids](https://github.com/chennnnnyize/carbon_emission_power_grids)|
+|[tsn-flextest: flexible tsn measurement testbed (extended version)](https://arxiv.org/abs/2211.10413)|[tsn-testbed](https://github.com/5gcampus/tsn-testbed)|
 ## 2023-11-08
 |paper|code|
 |---|---|
 |[parameter synthesis for markov models: covering the parameter space](https://arxiv.org/abs/1903.07993)|[prophesy](https://github.com/moves-rwth/prophesy)|
 |[score-based source separation with applications to digital communication signals](https://arxiv.org/abs/2306.14411)|[score_based_source_separation](https://github.com/tkj516/score_based_source_separation)|
+|[control of vortex dynamics using invariants](https://arxiv.org/abs/2308.03920)|[invariant-vrtx-ctrl](https://github.com/karkris41295/invariant-vrtx-ctrl)|
+|[classification of various types of damages in honeycomb composite sandwich structures using guided wave structural health monitoring](https://arxiv.org/abs/2311.03765)|[damage-classification-using-feature-engineering](https://github.com/shrutisawant099/damage-classification-using-feature-engineering)|
 |[the fairness stitch: unveiling the potential of model stitching in neural network de-biasing](https://arxiv.org/abs/2311.03532)|[the_fairness_stitch](https://github.com/modar7/the_fairness_stitch)|
 ## 2023-11-07
 |paper|code|
@@ -12,7 +19,9 @@
 |[on the stable cholesky factorization-based method for the maximum correntropy criterion kalman filtering](https://arxiv.org/abs/2311.02438)|[MCCKF-a-posteriori](https://github.com/Maria-Kulikova/MCCKF-a-posteriori)|
 |[factored-form kalman-like implementations under maximum correntropy criterion](https://arxiv.org/abs/2311.02440)|[MCCKF-a-posteriori](https://github.com/Maria-Kulikova/MCCKF-a-posteriori)|
 |[dissipative quadratizations of polynomial ode systems](https://arxiv.org/abs/2311.02508)|[dqbee](https://github.com/yubocai-poly/dqbee)|
+|[a unified dynamic model for the decomposition of skin conductance and the inference of sudomotor nerve activities](https://arxiv.org/abs/2311.02799)|[udm_eda](https://github.com/huisophiewang/udm_eda)|
 |[stable linear subspace identification: a machine learning approach](https://arxiv.org/abs/2311.03197)|[simba](https://github.com/cemempamoi/simba)|
+|[congestion-aware ride-pooling in mixed traffic for autonomous mobility-on-demand systems](https://arxiv.org/abs/2311.03268)|[congestionr_amod](https://github.com/fabiopaparella/congestionr_amod)|
 |[gacs-korner common information variational autoencoder](https://arxiv.org/abs/2205.12239)|[common-vae](https://github.com/mjkleinman/common-vae)|
 |[nautilus: a framework for cross-layer cartography of submarine cables and ip links](https://arxiv.org/abs/2302.14201)|[nautilus](https://gitlab.com/netsail-uci/nautilus)|
 |[flooding with absorption: an efficient protocol for heterogeneous bandits over complex networks](https://arxiv.org/abs/2303.05445)|[bandits-network](https://github.com/nick-jhlee/bandits-network)|
