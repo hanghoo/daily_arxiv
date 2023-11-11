@@ -1,7 +1,20 @@
+## 2023-11-10
+|paper|code|
+|---|---|
+|[model predictive monitoring of dynamical systems for signal temporal logic specifications](https://arxiv.org/abs/2209.12493)|[mpm4stl](https://github.com/xinyi-yu/mpm4stl)|
+|[principled pruning of bayesian neural networks through variational free energy minimization](https://arxiv.org/abs/2210.09134)|[principledpruningbnn](https://github.com/biaslab/principledpruningbnn)|
+|[spectral cross-domain neural network with soft-adaptive threshold spectral enhancement](https://arxiv.org/abs/2301.10171)|[scdnn-ts](https://github.com/dl-wg/scdnn-ts)|
+|[robustness of quantum algorithms against coherent control errors](https://arxiv.org/abs/2303.00618)|[robustness-of-quantum-algorithms](https://github.com/daniel-fink-de/robustness-of-quantum-algorithms)|
+|[pay less but get more: a dual-attention-based channel estimation network for massive mimo systems with low-density pilots](https://arxiv.org/abs/2303.00986)|[dacen](https://github.com/bgzhou/dacen)|
+|[decentralized sgd and average-direction sam are asymptotically equivalent](https://arxiv.org/abs/2306.02913)|[icml-2023-dsgd-and-sam](https://github.com/raiden-zhu/icml-2023-dsgd-and-sam)|
+|[value-gradient iteration with quadratic approximate value functions](https://arxiv.org/abs/2307.07086)|[vgi](https://github.com/cvxgrp/vgi)|
+|[estimating webrtc video qoe metrics without using application headers](https://arxiv.org/abs/2306.01194)|[vcaml](https://github.com/noise-lab/vcaml)|
 ## 2023-11-09
 |paper|code|
 |---|---|
 |[contributions of individual generators to nodal carbon emissions](https://arxiv.org/abs/2311.03712)|[carbon_emission_power_grids](https://github.com/chennnnnyize/carbon_emission_power_grids)|
+|[exploring best practices for ecg signal processing in machine learning](https://arxiv.org/abs/2311.04229)|[ecg_augmentation](https://github.com/imilas/ecg_augmentation)|
+|[discerning and enhancing the weighted sum-rate maximization algorithms in communications](https://arxiv.org/abs/2311.04546)|[ratemax](https://github.com/zepengzhang/ratemax)|
 |[tsn-flextest: flexible tsn measurement testbed (extended version)](https://arxiv.org/abs/2211.10413)|[tsn-testbed](https://github.com/5gcampus/tsn-testbed)|
 ## 2023-11-08
 |paper|code|
