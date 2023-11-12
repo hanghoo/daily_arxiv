@@ -8,7 +8,10 @@
 |[pay less but get more: a dual-attention-based channel estimation network for massive mimo systems with low-density pilots](https://arxiv.org/abs/2303.00986)|[dacen](https://github.com/bgzhou/dacen)|
 |[decentralized sgd and average-direction sam are asymptotically equivalent](https://arxiv.org/abs/2306.02913)|[icml-2023-dsgd-and-sam](https://github.com/raiden-zhu/icml-2023-dsgd-and-sam)|
 |[value-gradient iteration with quadratic approximate value functions](https://arxiv.org/abs/2307.07086)|[vgi](https://github.com/cvxgrp/vgi)|
+|[eeg-dg: a multi-source domain generalization framework for motor imagery eeg classification](https://arxiv.org/abs/2311.05415)|[eeg-dg](https://github.com/xc-zhonghit/eeg-dg)|
+|[uncertainty-aware bayes' rule and its applications](https://arxiv.org/abs/2311.05532)|[bayes-rule](https://github.com/spratm-asleaf/bayes-rule)|
 |[estimating webrtc video qoe metrics without using application headers](https://arxiv.org/abs/2306.01194)|[vcaml](https://github.com/noise-lab/vcaml)|
+|[atom: neural traffic compression with spatio-temporal graph neural networks](https://arxiv.org/abs/2311.05337)|[atom_neural_traffic_compression](https://github.com/bnn-upc/atom_neural_traffic_compression)|
 ## 2023-11-09
 |paper|code|
 |---|---|
