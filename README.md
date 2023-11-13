@@ -18,7 +18,6 @@
 |[contributions of individual generators to nodal carbon emissions](https://arxiv.org/abs/2311.03712)|[carbon_emission_power_grids](https://github.com/chennnnnyize/carbon_emission_power_grids)|
 |[exploring best practices for ecg signal processing in machine learning](https://arxiv.org/abs/2311.04229)|[ecg_augmentation](https://github.com/imilas/ecg_augmentation)|
 |[discerning and enhancing the weighted sum-rate maximization algorithms in communications](https://arxiv.org/abs/2311.04546)|[ratemax](https://github.com/zepengzhang/ratemax)|
-|[tsn-flextest: flexible tsn measurement testbed (extended version)](https://arxiv.org/abs/2211.10413)|[tsn-testbed](https://github.com/5gcampus/tsn-testbed)|
 ## 2023-11-08
 |paper|code|
 |---|---|
