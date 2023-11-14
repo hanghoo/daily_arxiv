@@ -1,3 +1,14 @@
+## 2023-11-13
+|paper|code|
+|---|---|
+|[flexibility of integrated power and gas systems: modeling and solution choices matter](https://arxiv.org/abs/2311.05744)|[optimalpowergasflowchoices](https://github.com/elma-github/optimalpowergasflowchoices)|
+|[real-time control of electric autonomous mobility-on-demand systems via graph reinforcement learning](https://arxiv.org/abs/2311.05780)|[graph-rl-for-eamod](https://github.com/stanfordasl/graph-rl-for-eamod)|
+|[interactive motion planning for autonomous vehicles via adaptive interactive mpc](https://arxiv.org/abs/2311.05810)|[interactive-motion-planning](https://github.com/autonomous-viranjan/interactive-motion-planning)|
+|[a time-invariant network flow model for ride-pooling in mobility-on-demand systems](https://arxiv.org/abs/2311.06035)|[lti-pooling-k_people](https://github.com/fabiopaparella/lti-pooling-k_people)|
+|[abs+ polar codes: exploiting more linear transforms on adjacent bits](https://arxiv.org/abs/2209.02461)|[abs-polar](https://github.com/plumjelly/abs-polar)|
+|[tsn-flextest: flexible tsn measurement testbed (extended version)](https://arxiv.org/abs/2211.10413)|[tsn-testbed](https://github.com/5gcampus/tsn-testbed)|
+|[introducing packet-level analysis in programmable data planes to advance network intrusion detection](https://arxiv.org/abs/2307.05936)|[p4ddle](https://github.com/risingfbk/p4ddle)|
+|[in-context learning for mimo equalization using transformer-based sequence models](https://arxiv.org/abs/2311.06101)|[icl-equalization](https://github.com/kclip/icl-equalization)|
 ## 2023-11-10
 |paper|code|
 |---|---|
