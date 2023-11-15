@@ -1,3 +1,16 @@
+## 2023-11-14
+|paper|code|
+|---|---|
+|[signal2image modules in deep neural networks for eeg classification](https://arxiv.org/abs/1904.13216)|[signal2image-modules-in-deep-neural-networks-for-eeg-classification](https://github.com/pbizopoulos/signal2image-modules-in-deep-neural-networks-for-eeg-classification)|
+|[data-driven denoising of stationary accelerometer signals](https://arxiv.org/abs/2206.05937)|[MEMS-IMU-Denoising](https://github.com/ansfl/MEMS-IMU-Denoising)|
+|[hkf: hierarchical kalman filtering with online learned evolution priors for adaptive ecg denoising](https://arxiv.org/abs/2210.12807)|[hkf_icassp23](https://github.com/kalmannet/hkf_icassp23)|
+|[convolutional monge mapping normalization for learning on sleep data](https://arxiv.org/abs/2305.18831)|[convolutional-monge-mapping-normalization](https://github.com/pythonot/convolutional-monge-mapping-normalization)|
+|[alpcah: sample-wise heteroscedastic pca with tail singular value regularization](https://arxiv.org/abs/2307.02745)|[alpcah](https://github.com/javiersc1/alpcah)|
+|[successive linear approximation vbi for joint sparse signal recovery and dynamic grid parameters estimation](https://arxiv.org/abs/2307.09149)|[sla-vbi](https://github.com/zju-xwk/sla-vbi)|
+|[learning rl-policies for joint beamforming without exploration: a batch constrained off-policy approach](https://arxiv.org/abs/2310.08660)|[safe-rl-deployment-for-5g](https://github.com/heasung-kim/safe-rl-deployment-for-5g)|
+|[chatgpt in the context of precision agriculture data analytics](https://arxiv.org/abs/2311.06390)|[chatgpt-in-the-context-of-precision-agriculture-data-analytics](https://github.com/potamitis123/chatgpt-in-the-context-of-precision-agriculture-data-analytics)|
+|[controllability-constrained deep network models for enhanced control of dynamical systems](https://arxiv.org/abs/2311.06438)|[controlledvae](https://github.com/suruchi1997/controlledvae)|
+|[effective in-vehicle intrusion detection via multi-view statistical graph learning on can messages](https://arxiv.org/abs/2311.07056)|[StatGraph](https://github.com/wangkai-tech23/StatGraph)|
 ## 2023-11-13
 |paper|code|
 |---|---|
@@ -5,6 +18,7 @@
 |[real-time control of electric autonomous mobility-on-demand systems via graph reinforcement learning](https://arxiv.org/abs/2311.05780)|[graph-rl-for-eamod](https://github.com/stanfordasl/graph-rl-for-eamod)|
 |[interactive motion planning for autonomous vehicles via adaptive interactive mpc](https://arxiv.org/abs/2311.05810)|[interactive-motion-planning](https://github.com/autonomous-viranjan/interactive-motion-planning)|
 |[a time-invariant network flow model for ride-pooling in mobility-on-demand systems](https://arxiv.org/abs/2311.06035)|[lti-pooling-k_people](https://github.com/fabiopaparella/lti-pooling-k_people)|
+|[multi-agent reinforcement learning for the low-level control of a quadrotor uav](https://arxiv.org/abs/2311.06144)|[marl-quad-control](https://github.com/fdcl-gwu/marl-quad-control)|
 |[abs+ polar codes: exploiting more linear transforms on adjacent bits](https://arxiv.org/abs/2209.02461)|[abs-polar](https://github.com/plumjelly/abs-polar)|
 |[tsn-flextest: flexible tsn measurement testbed (extended version)](https://arxiv.org/abs/2211.10413)|[tsn-testbed](https://github.com/5gcampus/tsn-testbed)|
 |[introducing packet-level analysis in programmable data planes to advance network intrusion detection](https://arxiv.org/abs/2307.05936)|[p4ddle](https://github.com/risingfbk/p4ddle)|
