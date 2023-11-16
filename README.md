@@ -1,3 +1,10 @@
+## 2023-11-15
+|paper|code|
+|---|---|
+|[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
+|[data-driven robust backward reachable sets for set-theoretic model predictive control](https://arxiv.org/abs/2303.04749)|[data-driven-st-mpc](https://github.com/precysegroup/data-driven-st-mpc)|
+|[learning over contracting and lipschitz closed-loops for partially-observed nonlinear systems (extended version)](https://arxiv.org/abs/2304.06193)|[CDC2023-YoulaREN](https://github.com/nic-barbara/CDC2023-YoulaREN)|
+|[cslp-ae: a contrastive split-latent permutation autoencoder framework for zero-shot electroencephalography signal conversion](https://arxiv.org/abs/2311.07788)|[cslp-ae](https://github.com/andersxa/cslp-ae)|
 ## 2023-11-14
 |paper|code|
 |---|---|
@@ -9,8 +16,13 @@
 |[successive linear approximation vbi for joint sparse signal recovery and dynamic grid parameters estimation](https://arxiv.org/abs/2307.09149)|[sla-vbi](https://github.com/zju-xwk/sla-vbi)|
 |[learning rl-policies for joint beamforming without exploration: a batch constrained off-policy approach](https://arxiv.org/abs/2310.08660)|[safe-rl-deployment-for-5g](https://github.com/heasung-kim/safe-rl-deployment-for-5g)|
 |[chatgpt in the context of precision agriculture data analytics](https://arxiv.org/abs/2311.06390)|[chatgpt-in-the-context-of-precision-agriculture-data-analytics](https://github.com/potamitis123/chatgpt-in-the-context-of-precision-agriculture-data-analytics)|
+|[augmented lagrangian methods as layered control architectures](https://arxiv.org/abs/2311.06404)|[layered-control-architectures-for-robotics](https://github.com/nusha97/layered-control-architectures-for-robotics)|
 |[controllability-constrained deep network models for enhanced control of dynamical systems](https://arxiv.org/abs/2311.06438)|[controlledvae](https://github.com/suruchi1997/controlledvae)|
+|[distributed charging coordination of electric trucks with limited charging resources](https://arxiv.org/abs/2311.06874)|[distributed-charging-for-evs](https://github.com/kth-tingbai/distributed-charging-for-evs)|
+|[caster: a computer-vision-assisted wireless channel simulator for gesture recognition](https://arxiv.org/abs/2311.07169)|[testspectrogram](https://github.com/rzy0901/testspectrogram)|
+|[mansy: generalizing neural adaptive immersive video streaming with ensemble and representation learning](https://arxiv.org/abs/2311.06812)|[mansy_immersivevideostreaming](https://github.com/duowuyms/mansy_immersivevideostreaming)|
 |[effective in-vehicle intrusion detection via multi-view statistical graph learning on can messages](https://arxiv.org/abs/2311.07056)|[StatGraph](https://github.com/wangkai-tech23/StatGraph)|
+|[p4-psfp: p4-based per-stream filtering and policing for time-sensitive networking](https://arxiv.org/abs/2311.07385)|[p4-psfp](https://github.com/uni-tue-kn/p4-psfp)|
 ## 2023-11-13
 |paper|code|
 |---|---|
