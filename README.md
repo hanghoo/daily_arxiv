@@ -1,8 +1,15 @@
+## 2023-11-16
+|paper|code|
+|---|---|
+|[data-driven identification of parametric governing equations of dynamical systems using the signed cumulative distribution transform](https://arxiv.org/abs/2308.12259)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
+|[topology of surface electromyogram signals: hand gesture decoding on riemannian manifolds](https://arxiv.org/abs/2311.08548)|[geometryofsemg](https://github.com/harshavardhanatg/geometryofsemg)|
+|[reinforcement learning with model predictive control for highway ramp metering](https://arxiv.org/abs/2311.08820)|[mpcrl-for-ramp-metering](https://github.com/filippoairaldi/mpcrl-for-ramp-metering)|
+|[a low rank approach to minimize sensor-to-actuator communication in finite horizon output feedback](https://arxiv.org/abs/2311.08998)|[lowrankcontrol](https://github.com/aaspeel/lowrankcontrol)|
+|[optimizing mobile-edge ai-generated everything (aigx) services by prompt engineering: fundamental, framework, and case study](https://arxiv.org/abs/2309.01065)|[Prompt-Engineering](https://github.com/Lancelot1998/Prompt-Engineering)|
 ## 2023-11-15
 |paper|code|
 |---|---|
 |[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
-|[data-driven robust backward reachable sets for set-theoretic model predictive control](https://arxiv.org/abs/2303.04749)|[data-driven-st-mpc](https://github.com/precysegroup/data-driven-st-mpc)|
 |[learning over contracting and lipschitz closed-loops for partially-observed nonlinear systems (extended version)](https://arxiv.org/abs/2304.06193)|[CDC2023-YoulaREN](https://github.com/nic-barbara/CDC2023-YoulaREN)|
 |[cslp-ae: a contrastive split-latent permutation autoencoder framework for zero-shot electroencephalography signal conversion](https://arxiv.org/abs/2311.07788)|[cslp-ae](https://github.com/andersxa/cslp-ae)|
 ## 2023-11-14
