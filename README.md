@@ -1,3 +1,9 @@
+## 2023-11-17
+|paper|code|
+|---|---|
+|[data-driven structured policy iteration for homogeneous distributed systems](https://arxiv.org/abs/2103.11572)|[d2spi](https://github.com/shahriarta/d2spi)|
+|[data-driven robust backward reachable sets for set-theoretic model predictive control](https://arxiv.org/abs/2303.04749)|[data-driven-st-mpc](https://github.com/precysegroup/data-driven-st-mpc)|
+|[learning to reconstruct signals from binary measurements](https://arxiv.org/abs/2303.08691)|[ssbm](https://github.com/tachella/ssbm)|
 ## 2023-11-16
 |paper|code|
 |---|---|
