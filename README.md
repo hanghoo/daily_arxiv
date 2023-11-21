@@ -1,3 +1,11 @@
+## 2023-11-20
+|paper|code|
+|---|---|
+|[prompt a robot to walk with large language models](https://arxiv.org/abs/2309.09969)|[prompt2walk](https://github.com/HybridRobotics/prompt2walk)|
+|[implicit maximum a posteriori filtering via adaptive optimization](https://arxiv.org/abs/2311.10580)|[implicitmap](https://github.com/gianlucabencomo/implicitmap)|
+|[modeling and correcting bias in sequential evaluation](https://arxiv.org/abs/2205.01607)|[sequential-bias](https://github.com/jingyanw/sequential-bias)|
+|[temporally causal discovery tests for discrete time series and neural spike trains](https://arxiv.org/abs/2305.14131)|[github_temporal_causality](https://github.com/andreas947/github_temporal_causality)|
+|[decentralized energy marketplace via nfts and ai-based agents](https://arxiv.org/abs/2311.10406)|[dem](https://github.com/rasoulnik/dem)|
 ## 2023-11-17
 |paper|code|
 |---|---|
