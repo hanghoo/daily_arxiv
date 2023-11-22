@@ -1,7 +1,20 @@
+## 2023-11-21
+|paper|code|
+|---|---|
+|[rtsnet: learning to smooth in partially known state-space models](https://arxiv.org/abs/2110.04717)|[rtsnet_tsp](https://github.com/kalmannet/rtsnet_tsp)|
+|[hkf: hierarchical kalman filtering with online learned evolution priors for adaptive ecg denoising](https://arxiv.org/abs/2210.12807)|[hkf_icassp23](https://github.com/kalmannet/hkf_icassp23)|
+|[outage performance and novel loss function for an ml-assisted resource allocation: an exact analytical framework](https://arxiv.org/abs/2305.09739)|[greedy-resource-allocation-outage-classification](https://github.com/ml4comms/greedy-resource-allocation-outage-classification)|
+|[source-free domain adaptation for ssvep-based brain-computer interfaces](https://arxiv.org/abs/2305.17403)|[sfda-ssvep-bci](https://github.com/osmanberke/sfda-ssvep-bci)|
+|[a mixed-integer approach for motion planning of nonholonomic robots under visible light communication constraints](https://arxiv.org/abs/2306.15590)|[milp_vlc_motion_planning](https://gitlab.com/caregnato_neto_open/milp_vlc_motion_planning)|
+|[homothetic tube model predictive control with multi-step predictors](https://arxiv.org/abs/2309.06591)|[homotheticmpcmultistep](https://github.com/decodepfl/homotheticmpcmultistep)|
+|[stable linear subspace identification: a machine learning approach](https://arxiv.org/abs/2311.03197)|[simba](https://github.com/cemempamoi/simba)|
+|[dxhash: a scalable consistent hash based on the pseudo-random sequence](https://arxiv.org/abs/2107.07930)|[DxHash](https://github.com/ChaosD/DxHash)|
+|[estimation of entropy-regularized optimal transport maps between non-compactly supported measures](https://arxiv.org/abs/2311.11934)|[entropic-map](https://github.com/mattwerenski/entropic-map)|
 ## 2023-11-20
 |paper|code|
 |---|---|
 |[prompt a robot to walk with large language models](https://arxiv.org/abs/2309.09969)|[prompt2walk](https://github.com/HybridRobotics/prompt2walk)|
+|[dimensionality reduction of dynamics on lie manifolds via structure-aware canonical correlation analysis](https://arxiv.org/abs/2311.10327)|[icca](https://github.com/jwk7/icca)|
 |[implicit maximum a posteriori filtering via adaptive optimization](https://arxiv.org/abs/2311.10580)|[implicitmap](https://github.com/gianlucabencomo/implicitmap)|
 |[modeling and correcting bias in sequential evaluation](https://arxiv.org/abs/2205.01607)|[sequential-bias](https://github.com/jingyanw/sequential-bias)|
 |[temporally causal discovery tests for discrete time series and neural spike trains](https://arxiv.org/abs/2305.14131)|[github_temporal_causality](https://github.com/andreas947/github_temporal_causality)|
