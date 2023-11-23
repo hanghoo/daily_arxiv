@@ -1,3 +1,12 @@
+## 2023-11-22
+|paper|code|
+|---|---|
+|[ergodic exploration using tensor train: applications in insertion tasks](https://arxiv.org/abs/2101.04428)|[Ergodic_Exploration_using_Tensor_Train](https://github.com/SuhanNShetty/Ergodic_Exploration_using_Tensor_Train)|
+|[large car-following data based on lyft level-5 open dataset: following autonomous vehicles vs. human-driven vehicles](https://arxiv.org/abs/2305.18921)|[car-following-dataset-hv-vs-av](https://github.com/romainlitud/car-following-dataset-hv-vs-av)|
+|[regret and conservatism of distributionally robust constrained stochastic model predictive control](https://arxiv.org/abs/2309.12190)|[regret-and-conservatism-of-smpc](https://github.com/mpfefferk/regret-and-conservatism-of-smpc)|
+|[ssvep-dan: a data alignment network for ssvep-based brain computer interfaces](https://arxiv.org/abs/2311.12666)|[ssvep-dan](https://github.com/cecnl/ssvep-dan)|
+|[diffusion-based reinforcement learning for edge-enabled ai-generated content services](https://arxiv.org/abs/2303.13052)|[agod](https://github.com/lizonghang/agod)|
+|[how can we train deep learning models across clouds and continents? an experimental study](https://arxiv.org/abs/2306.03163)|[hivemind-multi-cloud](https://github.com/cirquit/hivemind-multi-cloud)|
 ## 2023-11-21
 |paper|code|
 |---|---|
