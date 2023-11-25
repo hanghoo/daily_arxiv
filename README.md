@@ -1,3 +1,9 @@
+## 2023-11-23
+|paper|code|
+|---|---|
+|[weak-form latent space dynamics identification](https://arxiv.org/abs/2311.12880)|[pywsindy_ode](https://github.com/mathbiocu/pywsindy_ode)|
+|[learning to fly in seconds](https://arxiv.org/abs/2311.13081)|[learning-to-fly](https://github.com/arplaboratory/learning-to-fly)|
+|[applying dimensionality reduction as precursor to lstm-cnn models for classifying imagery and motor signals in ecog-based bcis](https://arxiv.org/abs/2311.13507)|[dim-reduction-with-cnn-lstm](https://github.com/bafanas/dim-reduction-with-cnn-lstm)|
 ## 2023-11-22
 |paper|code|
 |---|---|
