@@ -1,9 +1,11 @@
 ## 2023-11-23
 |paper|code|
 |---|---|
+|[high-power and safe rf wireless charging: cautious deployment and operation](https://arxiv.org/abs/2311.12809)|[high_power_and_safe_wpt](https://github.com/onel2428/high_power_and_safe_wpt)|
 |[weak-form latent space dynamics identification](https://arxiv.org/abs/2311.12880)|[pywsindy_ode](https://github.com/mathbiocu/pywsindy_ode)|
 |[learning to fly in seconds](https://arxiv.org/abs/2311.13081)|[learning-to-fly](https://github.com/arplaboratory/learning-to-fly)|
 |[applying dimensionality reduction as precursor to lstm-cnn models for classifying imagery and motor signals in ecog-based bcis](https://arxiv.org/abs/2311.13507)|[dim-reduction-with-cnn-lstm](https://github.com/bafanas/dim-reduction-with-cnn-lstm)|
+|[conflict management in the near-rt-ric of open ran: a game theoretic approach](https://arxiv.org/abs/2311.13389)|[cmsoran](https://github.com/dewanwadud1/cmsoran)|
 ## 2023-11-22
 |paper|code|
 |---|---|
