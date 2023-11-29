@@ -1,9 +1,23 @@
+## 2023-11-28
+|paper|code|
+|---|---|
+|[towards interpretable sleep stage classification using cross-modal transformers](https://arxiv.org/abs/2208.06991)|[cross-modal-transformer](https://github.com/jathurshan0330/cross-modal-transformer)|
+|[a distributed block-split gibbs sampler with hypergraph structure for high-dimensional inverse problems](https://arxiv.org/abs/2210.02341)|[dsgs](https://gitlab.cristal.univ-lille.fr/pthouven/dsgs)|
+|[optimal discrete beamforming of ris-aided wireless communications: an inner product maximization approach](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
+|[data augmentation for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
+|[mpcnn: a novel matrix profile approach for cnn-based sleep apnea classification](https://arxiv.org/abs/2311.15041)|[mpcnn-sleep-apnea](https://github.com/vinuni-vishc/mpcnn-sleep-apnea)|
+|[learning multi-frequency partial correlation graphs](https://arxiv.org/abs/2311.15756)|[bspcg](https://github.com/officiallydac/bspcg)|
+|[tsn-flextest: flexible tsn measurement testbed (extended version)](https://arxiv.org/abs/2211.10413)|[tsn-testbed](https://github.com/5gcampus/tsn-testbed)|
+|[flowtransformer: a transformer framework for flow-based network intrusion detection systems](https://arxiv.org/abs/2304.14746)|[flowtransformer](https://github.com/liamdm/flowtransformer)|
+|[autoregressive language models for estimating the entropy of epic ehr audit logs](https://arxiv.org/abs/2311.06401)|[audit-log-lm](https://github.com/bcwarner/audit-log-lm)|
 ## 2023-11-27
 |paper|code|
 |---|---|
 |[non-stationary transformers: exploring the stationarity in time series forecasting](https://arxiv.org/abs/2205.14415)|[Nonstationary_Transformers](https://github.com/thuml/Nonstationary_Transformers)|
 |[visual dexterity: in-hand reorientation of novel and complex object shapes](https://arxiv.org/abs/2211.11744)|[dexenv](https://github.com/Improbable-AI/dexenv)|
+|[single-shot quantum signal processing interferometry](https://arxiv.org/abs/2311.13703)|[qsp-interferometry](https://github.com/yuanliu1/qsp-interferometry)|
 |[simba: system identification methods leveraging backpropagation](https://arxiv.org/abs/2311.13889)|[simba](https://github.com/cemempamoi/simba)|
+|[unconstrained learning of networked nonlinear systems via free parametrization of stable interconnected operators](https://arxiv.org/abs/2311.13967)|[distributedren](https://github.com/decodepfl/distributedren)|
 |[windformer:bi-directional long-distance spatio-temporal network for wind speed prediction](https://arxiv.org/abs/2311.14316)|[windformer](https://github.com/szwszwszw123/windformer)|
 |[kernel-based tests for likelihood-free hypothesis testing](https://arxiv.org/abs/2308.09043)|[lfi](https://github.com/sr-11/lfi)|
 ## 2023-11-23
