@@ -1,3 +1,10 @@
+## 2023-12-01
+|paper|code|
+|---|---|
+|[two-step reinforcement learning for model-free redesign of nonlinear optimal regulator](https://arxiv.org/abs/2103.03808)|[two-step-design](https://github.com/hori-group/two-step-design)|
+|[integrated behavior planning and motion control for autonomous vehicles with traffic rules compliance](https://arxiv.org/abs/2304.01041)|[optimization-based-idmc_carla](https://github.com/hkust-jm/optimization-based-idmc_carla)|
+|[stable linear subspace identification: a machine learning approach](https://arxiv.org/abs/2311.03197)|[simba](https://github.com/cemempamoi/simba)|
+|[controlgym: large-scale safety-critical control environments for benchmarking reinforcement learning algorithms](https://arxiv.org/abs/2311.18736)|[controlgym](https://github.com/xiangyuan-zhang/controlgym)|
 ## 2023-11-30
 |paper|code|
 |---|---|
@@ -33,6 +40,7 @@
 |[single-shot quantum signal processing interferometry](https://arxiv.org/abs/2311.13703)|[qsp-interferometry](https://github.com/yuanliu1/qsp-interferometry)|
 |[simba: system identification methods leveraging backpropagation](https://arxiv.org/abs/2311.13889)|[simba](https://github.com/cemempamoi/simba)|
 |[windformer:bi-directional long-distance spatio-temporal network for wind speed prediction](https://arxiv.org/abs/2311.14316)|[windformer](https://github.com/szwszwszw123/windformer)|
+|[kernel-based tests for likelihood-free hypothesis testing](https://arxiv.org/abs/2308.09043)|[lfi](https://github.com/sr-11/lfi)|
 ## 2023-11-23
 |paper|code|
 |---|---|
