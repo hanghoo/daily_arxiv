@@ -12,8 +12,10 @@
 |[optimal adaptive prediction intervals for electricity load forecasting in distribution systems via reinforcement learning](https://arxiv.org/abs/2205.08698)|[Optimal-Adaptive-Prediciton-Interval](https://github.com/YufanChang/Optimal-Adaptive-Prediciton-Interval)|
 |[unconstrained learning of networked nonlinear systems via free parametrization of stable interconnected operators](https://arxiv.org/abs/2311.13967)|[distributedren](https://github.com/decodepfl/distributedren)|
 |[fast and expressive gesture recognition using a combination-homomorphic electromyogram encoder](https://arxiv.org/abs/2311.14675)|[com-hom-emg](https://github.com/nik-sm/com-hom-emg)|
+|[estimation of dynamic gaussian processes](https://arxiv.org/abs/2311.17871)|[dynamic_gaussian_processes](https://github.com/jvhulst/dynamic_gaussian_processes)|
 |[rigorous dynamical mean field theory for stochastic gradient descent methods](https://arxiv.org/abs/2210.06591)|[rigorous-dynamical-mean-field-theory](https://github.com/spoc-group/rigorous-dynamical-mean-field-theory)|
 |[quantifying the redundancy between prosody and text](https://arxiv.org/abs/2311.17233)|[quantifying-redundancy](https://github.com/lu-wo/quantifying-redundancy)|
+|[large language models for networking: applications, enabling techniques, and challenges](https://arxiv.org/abs/2311.17474)|[chatnet](https://github.com/hyduni001/chatnet)|
 ## 2023-11-29
 |paper|code|
 |---|---|
@@ -25,10 +27,12 @@
 |[a distributed block-split gibbs sampler with hypergraph structure for high-dimensional inverse problems](https://arxiv.org/abs/2210.02341)|[dsgs](https://gitlab.cristal.univ-lille.fr/pthouven/dsgs)|
 |[optimal discrete beamforming of ris-aided wireless communications: an inner product maximization approach](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
 |[data augmentation for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
+|[deda: deep directed accumulator](https://arxiv.org/abs/2303.08434)|[deda](https://github.com/tinymilky/deda)|
 |[robust joint estimation of galaxy redshift and spectral templates using online dictionary learning](https://arxiv.org/abs/2311.14812)|[bryanetal2023](https://github.com/hyperspectraldictionarylearning/bryanetal2023)|
 |[mpcnn: a novel matrix profile approach for cnn-based sleep apnea classification](https://arxiv.org/abs/2311.15041)|[mpcnn-sleep-apnea](https://github.com/vinuni-vishc/mpcnn-sleep-apnea)|
 |[sleep when everything looks fine: self-triggered monitoring for signal temporal logic tasks](https://arxiv.org/abs/2311.15531)|[st_om](https://github.com/chuweiw/st_om)|
 |[learning multi-frequency partial correlation graphs](https://arxiv.org/abs/2311.15756)|[bspcg](https://github.com/officiallydac/bspcg)|
+|[nodal hydraulic head estimation through unscented kalman filter for data-driven leak localization in water networks](https://arxiv.org/abs/2311.15875)|[ukf-aw-gsi](https://github.com/luisromeroben/ukf-aw-gsi)|
 |[tsn-flextest: flexible tsn measurement testbed (extended version)](https://arxiv.org/abs/2211.10413)|[tsn-testbed](https://github.com/5gcampus/tsn-testbed)|
 |[flowtransformer: a transformer framework for flow-based network intrusion detection systems](https://arxiv.org/abs/2304.14746)|[flowtransformer](https://github.com/liamdm/flowtransformer)|
 |[autoregressive language models for estimating the entropy of epic ehr audit logs](https://arxiv.org/abs/2311.06401)|[audit-log-lm](https://github.com/bcwarner/audit-log-lm)|
