@@ -4,6 +4,7 @@
 |[two-step reinforcement learning for model-free redesign of nonlinear optimal regulator](https://arxiv.org/abs/2103.03808)|[two-step-design](https://github.com/hori-group/two-step-design)|
 |[integrated behavior planning and motion control for autonomous vehicles with traffic rules compliance](https://arxiv.org/abs/2304.01041)|[optimization-based-idmc_carla](https://github.com/hkust-jm/optimization-based-idmc_carla)|
 |[stable linear subspace identification: a machine learning approach](https://arxiv.org/abs/2311.03197)|[simba](https://github.com/cemempamoi/simba)|
+|[2d signal estimation for sparse distributed target photon counting data](https://arxiv.org/abs/2311.18037)|[signal-estimation-sparse-data](https://github.com/ncar/signal-estimation-sparse-data)|
 |[controlgym: large-scale safety-critical control environments for benchmarking reinforcement learning algorithms](https://arxiv.org/abs/2311.18736)|[controlgym](https://github.com/xiangyuan-zhang/controlgym)|
 ## 2023-11-30
 |paper|code|
