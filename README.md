@@ -1,3 +1,10 @@
+## 2023-12-04
+|paper|code|
+|---|---|
+|[deepjscc-l++: robust and bandwidth-adaptive wireless image transmission](https://arxiv.org/abs/2305.13161)|[deepjscc-lplusplus](https://github.com/aprilbian/deepjscc-lplusplus)|
+|[isac 4d imaging system based on 5g downlink millimeter wave signal](https://arxiv.org/abs/2310.06401)|[ISAC_4D_IMaging](https://github.com/MrHaobolu/ISAC_4D_IMaging)|
+|[classification utility, fairness, and compactness via tunable information bottleneck and r\'enyi measures](https://arxiv.org/abs/2206.10043)|[rfib-code](https://github.com/agronowski/rfib-code)|
+|[age-based scheduling for mobile edge computing: a deep reinforcement learning approach](https://arxiv.org/abs/2312.00279)|[dpds](https://github.com/xingqiuhe/dpds)|
 ## 2023-12-01
 |paper|code|
 |---|---|
