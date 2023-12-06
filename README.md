@@ -1,3 +1,13 @@
+## 2023-12-05
+|paper|code|
+|---|---|
+|[w-transformers : a wavelet-based transformer framework for univariate time series forecasting](https://arxiv.org/abs/2209.03945)|[w-transformer](https://github.com/capwidow/w-transformer)|
+|[ensemble machine learning model trained on a new synthesized dataset generalizes well for stress prediction using wearable devices](https://arxiv.org/abs/2209.15146)|[stress](https://github.com/xalentis/stress)|
+|[model-free learning of two-stage beamformers for passive irs-aided network design](https://arxiv.org/abs/2304.11464)|[zosga-irs](https://github.com/hassaanhashmi/zosga-irs)|
+|[a generalized bandsplit neural network for cinematic audio source separation](https://arxiv.org/abs/2309.02539)|[bandit](https://github.com/karnwatcharasupat/bandit)|
+|[recent advances in path integral control for trajectory optimization: an overview in theoretical and algorithmic perspectives](https://arxiv.org/abs/2309.12566)|[an-overview-on-recent-advances-in-path-integral-control](https://github.com/inha-autonomous-systems-laboratory-asl/an-overview-on-recent-advances-in-path-integral-control)|
+|[fast and robust sparsity-aware block diagonal representation](https://arxiv.org/abs/2312.01137)|[frs-bdr](https://github.com/a-tastan/frs-bdr)|
+|[compositional policy learning in stochastic control systems with formal guarantees](https://arxiv.org/abs/2312.01456)|[neural_martingales](https://github.com/mlech26l/neural_martingales)|
 ## 2023-12-04
 |paper|code|
 |---|---|
@@ -5,6 +15,7 @@
 |[isac 4d imaging system based on 5g downlink millimeter wave signal](https://arxiv.org/abs/2310.06401)|[ISAC_4D_IMaging](https://github.com/MrHaobolu/ISAC_4D_IMaging)|
 |[classification utility, fairness, and compactness via tunable information bottleneck and r\'enyi measures](https://arxiv.org/abs/2206.10043)|[rfib-code](https://github.com/agronowski/rfib-code)|
 |[age-based scheduling for mobile edge computing: a deep reinforcement learning approach](https://arxiv.org/abs/2312.00279)|[dpds](https://github.com/xingqiuhe/dpds)|
+|[algebra of nonlocal boxes and the collapse of communication complexity](https://arxiv.org/abs/2312.00725)|[algebra-of-boxes-code](https://github.com/pierre-botteron/algebra-of-boxes-code)|
 ## 2023-12-01
 |paper|code|
 |---|---|
@@ -13,10 +24,12 @@
 |[stable linear subspace identification: a machine learning approach](https://arxiv.org/abs/2311.03197)|[simba](https://github.com/cemempamoi/simba)|
 |[2d signal estimation for sparse distributed target photon counting data](https://arxiv.org/abs/2311.18037)|[signal-estimation-sparse-data](https://github.com/ncar/signal-estimation-sparse-data)|
 |[controlgym: large-scale safety-critical control environments for benchmarking reinforcement learning algorithms](https://arxiv.org/abs/2311.18736)|[controlgym](https://github.com/xiangyuan-zhang/controlgym)|
+|[balancing summarization and change detection in graph streams](https://arxiv.org/abs/2311.18694)|[bsc](https://github.com/s-fuku/bsc)|
 ## 2023-11-30
 |paper|code|
 |---|---|
 |[zero-shot self-supervised learning for mri reconstruction](https://arxiv.org/abs/2102.07737)|[ZS-SSL](https://github.com/byaman14/ZS-SSL)|
+|[wind energy forecasting with missing values within a fully conditional specification framework](https://arxiv.org/abs/2203.08252)|[Forecasting-with-missing-values](https://github.com/honglinwen/Forecasting-with-missing-values)|
 |[optimal adaptive prediction intervals for electricity load forecasting in distribution systems via reinforcement learning](https://arxiv.org/abs/2205.08698)|[Optimal-Adaptive-Prediciton-Interval](https://github.com/YufanChang/Optimal-Adaptive-Prediciton-Interval)|
 |[unconstrained learning of networked nonlinear systems via free parametrization of stable interconnected operators](https://arxiv.org/abs/2311.13967)|[distributedren](https://github.com/decodepfl/distributedren)|
 |[fast and expressive gesture recognition using a combination-homomorphic electromyogram encoder](https://arxiv.org/abs/2311.14675)|[com-hom-emg](https://github.com/nik-sm/com-hom-emg)|
