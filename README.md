@@ -1,3 +1,11 @@
+## 2023-12-06
+|paper|code|
+|---|---|
+|[robust reinforcement learning in continuous control tasks with uncertainty set regularization](https://arxiv.org/abs/2207.02016)|[rrl_usr](https://github.com/mikezhang95/rrl_usr)|
+|[toward a certified greedy loewner framework with minimal sampling](https://arxiv.org/abs/2303.01015)|[greedy-loewner](https://github.com/pradovera/greedy-loewner)|
+|[distributed two-tier drl framework for cell-free network: association, beamforming and power allocation](https://arxiv.org/abs/2303.12479)|[dhdrl](https://github.com/kiven-ykw/dhdrl)|
+|[faultformer: transformer-based prediction of bearing faults](https://arxiv.org/abs/2312.02380)|[faultformer](https://github.com/anthonyzhou-1/faultformer)|
+|[fedstellar: a platform for decentralized federated learning](https://arxiv.org/abs/2306.09750)|[fedstellar](https://github.com/enriquetomasmb/fedstellar)|
 ## 2023-12-05
 |paper|code|
 |---|---|
