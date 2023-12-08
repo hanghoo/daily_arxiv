@@ -1,10 +1,18 @@
+## 2023-12-07
+|paper|code|
+|---|---|
+|[learning robust output control barrier functions from safe expert demonstrations](https://arxiv.org/abs/2111.09971)|[learning-rocbfs](https://github.com/unstable-zeros/learning-rocbfs)|
+|[vicious classifiers: data reconstruction attack at inference time](https://arxiv.org/abs/2212.04223)|[vicious-classifiers](https://github.com/mmalekzadeh/vicious-classifiers)|
+|[functional renormalization group for signal detection and stochastic ergodicity breaking](https://arxiv.org/abs/2310.07499)|[stochastic-signal-detection](https://github.com/thesfinox/stochastic-signal-detection)|
 ## 2023-12-06
 |paper|code|
 |---|---|
 |[robust reinforcement learning in continuous control tasks with uncertainty set regularization](https://arxiv.org/abs/2207.02016)|[rrl_usr](https://github.com/mikezhang95/rrl_usr)|
 |[toward a certified greedy loewner framework with minimal sampling](https://arxiv.org/abs/2303.01015)|[greedy-loewner](https://github.com/pradovera/greedy-loewner)|
 |[distributed two-tier drl framework for cell-free network: association, beamforming and power allocation](https://arxiv.org/abs/2303.12479)|[dhdrl](https://github.com/kiven-ykw/dhdrl)|
+|[spectral temporal graph neural network for massive mimo csi prediction](https://arxiv.org/abs/2312.02159)|[csi-prediction](https://github.com/sharanmourya/csi-prediction)|
 |[faultformer: transformer-based prediction of bearing faults](https://arxiv.org/abs/2312.02380)|[faultformer](https://github.com/anthonyzhou-1/faultformer)|
+|[mains: a magnetic field aided inertial navigation system for indoor positioning](https://arxiv.org/abs/2312.02599)|[mainsvsmagekf](https://github.com/huang-chuan/mainsvsmagekf)|
 |[fedstellar: a platform for decentralized federated learning](https://arxiv.org/abs/2306.09750)|[fedstellar](https://github.com/enriquetomasmb/fedstellar)|
 ## 2023-12-05
 |paper|code|
@@ -16,6 +24,8 @@
 |[recent advances in path integral control for trajectory optimization: an overview in theoretical and algorithmic perspectives](https://arxiv.org/abs/2309.12566)|[an-overview-on-recent-advances-in-path-integral-control](https://github.com/inha-autonomous-systems-laboratory-asl/an-overview-on-recent-advances-in-path-integral-control)|
 |[fast and robust sparsity-aware block diagonal representation](https://arxiv.org/abs/2312.01137)|[frs-bdr](https://github.com/a-tastan/frs-bdr)|
 |[compositional policy learning in stochastic control systems with formal guarantees](https://arxiv.org/abs/2312.01456)|[neural_martingales](https://github.com/mlech26l/neural_martingales)|
+|[towards decentralized task offloading and resource allocation in user-centric mobile edge computing](https://arxiv.org/abs/2312.01499)|[ucmec-mmwave-fronthaul](https://github.com/qlt315/ucmec-mmwave-fronthaul)|
+|[augmenting channel charting with classical wireless source localization techniques](https://arxiv.org/abs/2312.01968)|[toa-aoa-augmented-channelcharting](https://github.com/jeija/toa-aoa-augmented-channelcharting)|
 ## 2023-12-04
 |paper|code|
 |---|---|
@@ -23,6 +33,7 @@
 |[isac 4d imaging system based on 5g downlink millimeter wave signal](https://arxiv.org/abs/2310.06401)|[ISAC_4D_IMaging](https://github.com/MrHaobolu/ISAC_4D_IMaging)|
 |[classification utility, fairness, and compactness via tunable information bottleneck and r\'enyi measures](https://arxiv.org/abs/2206.10043)|[rfib-code](https://github.com/agronowski/rfib-code)|
 |[age-based scheduling for mobile edge computing: a deep reinforcement learning approach](https://arxiv.org/abs/2312.00279)|[dpds](https://github.com/xingqiuhe/dpds)|
+|[message-passing on hypergraphs: detectability, phase transitions and higher-order information](https://arxiv.org/abs/2312.00708)|[hypergraph-message-passing](https://github.com/nickruggeri/hypergraph-message-passing)|
 |[algebra of nonlocal boxes and the collapse of communication complexity](https://arxiv.org/abs/2312.00725)|[algebra-of-boxes-code](https://github.com/pierre-botteron/algebra-of-boxes-code)|
 ## 2023-12-01
 |paper|code|
