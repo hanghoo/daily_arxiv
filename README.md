@@ -8,11 +8,14 @@
 |[match-based solution of general parametric eigenvalue problems](https://arxiv.org/abs/2308.05335)|[pevp_match](https://github.com/pradovera/pevp_match)|
 |[domain invariant representation learning and sleep dynamics modeling for automatic sleep staging](https://arxiv.org/abs/2312.03196)|[dream](https://github.com/yeon-lab/dream)|
 |[a scalable and generalizable pathloss map prediction](https://arxiv.org/abs/2312.03950)|[pmnet](https://github.com/abman23/pmnet)|
+|[on the adaptation of in-context learners for system identification](https://arxiv.org/abs/2312.04083)|[sysid-transformers-transfer](https://github.com/forgi86/sysid-transformers-transfer)|
 ## 2023-12-07
 |paper|code|
 |---|---|
 |[learning robust output control barrier functions from safe expert demonstrations](https://arxiv.org/abs/2111.09971)|[learning-rocbfs](https://github.com/unstable-zeros/learning-rocbfs)|
+|[enhanced power point tracking for high hysteresis perovskite solar cells: a galvanostatic approach](https://arxiv.org/abs/2312.03124)|[perovskino](https://github.com/ej-jp/perovskino)|
 |[vicious classifiers: data reconstruction attack at inference time](https://arxiv.org/abs/2212.04223)|[vicious-classifiers](https://github.com/mmalekzadeh/vicious-classifiers)|
+|[functional renormalization group for signal detection and stochastic ergodicity breaking](https://arxiv.org/abs/2310.07499)|[stochastic-signal-detection](https://github.com/thesfinox/stochastic-signal-detection)|
 ## 2023-12-06
 |paper|code|
 |---|---|
