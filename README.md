@@ -9,6 +9,7 @@
 |[domain invariant representation learning and sleep dynamics modeling for automatic sleep staging](https://arxiv.org/abs/2312.03196)|[dream](https://github.com/yeon-lab/dream)|
 |[a scalable and generalizable pathloss map prediction](https://arxiv.org/abs/2312.03950)|[pmnet](https://github.com/abman23/pmnet)|
 |[on the adaptation of in-context learners for system identification](https://arxiv.org/abs/2312.04083)|[sysid-transformers-transfer](https://github.com/forgi86/sysid-transformers-transfer)|
+|[receding horizon re-ordering of multi-agent execution schedules](https://arxiv.org/abs/2312.04190)|[sadg-controller](https://github.com/alexberndt/sadg-controller)|
 ## 2023-12-07
 |paper|code|
 |---|---|
