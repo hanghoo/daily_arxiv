@@ -1,3 +1,9 @@
+## 2023-12-11
+|paper|code|
+|---|---|
+|[provably bounding neural network preimages](https://arxiv.org/abs/2302.01404)|[verify-input](https://github.com/kothasuhas/verify-input)|
+|[unitsa: a universal reinforcement learning framework for v2x traffic signal control](https://arxiv.org/abs/2312.05090)|[universal_light](https://github.com/wmn7/universal_light)|
+|[assessing neural network representations during training using noise-resilient diffusion spectral entropy](https://arxiv.org/abs/2312.04823)|[DiffusionSpectralEntropy](https://github.com/ChenLiu-1996/DiffusionSpectralEntropy)|
 ## 2023-12-08
 |paper|code|
 |---|---|
@@ -6,7 +12,6 @@
 |[towards autonomous system: flexible modular production system enhanced with large language model agents](https://arxiv.org/abs/2304.14721)|[gpt4industrialautomation](https://github.com/yuchenxia/gpt4industrialautomation)|
 |[low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/abs/2305.02041)|[subspace_descent_over_SPD_manifold](https://github.com/yogeshd-iitk/subspace_descent_over_SPD_manifold)|
 |[match-based solution of general parametric eigenvalue problems](https://arxiv.org/abs/2308.05335)|[pevp_match](https://github.com/pradovera/pevp_match)|
-|[domain invariant representation learning and sleep dynamics modeling for automatic sleep staging](https://arxiv.org/abs/2312.03196)|[dream](https://github.com/yeon-lab/dream)|
 |[a scalable and generalizable pathloss map prediction](https://arxiv.org/abs/2312.03950)|[pmnet](https://github.com/abman23/pmnet)|
 |[on the adaptation of in-context learners for system identification](https://arxiv.org/abs/2312.04083)|[sysid-transformers-transfer](https://github.com/forgi86/sysid-transformers-transfer)|
 |[receding horizon re-ordering of multi-agent execution schedules](https://arxiv.org/abs/2312.04190)|[sadg-controller](https://github.com/alexberndt/sadg-controller)|
@@ -26,7 +31,6 @@
 |[spectral temporal graph neural network for massive mimo csi prediction](https://arxiv.org/abs/2312.02159)|[csi-prediction](https://github.com/sharanmourya/csi-prediction)|
 |[faultformer: transformer-based prediction of bearing faults](https://arxiv.org/abs/2312.02380)|[faultformer](https://github.com/anthonyzhou-1/faultformer)|
 |[mains: a magnetic field aided inertial navigation system for indoor positioning](https://arxiv.org/abs/2312.02599)|[mainsvsmagekf](https://github.com/huang-chuan/mainsvsmagekf)|
-|[fedstellar: a platform for decentralized federated learning](https://arxiv.org/abs/2306.09750)|[fedstellar](https://github.com/enriquetomasmb/fedstellar)|
 ## 2023-12-05
 |paper|code|
 |---|---|
