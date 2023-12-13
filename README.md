@@ -1,9 +1,28 @@
+## 2023-12-12
+|paper|code|
+|---|---|
+|[binary spatial random field reconstruction from non-gaussian inhomogeneous time-series observations](https://arxiv.org/abs/2204.03343)|[WarpedGaussianProcesses](https://github.com/ShunanSheng/WarpedGaussianProcesses)|
+|[contraction-guided adaptive partitioning for reachability analysis of neural network controlled systems](https://arxiv.org/abs/2304.03671)|[reachmm_cdc2023](https://github.com/gtfactslab/reachmm_cdc2023)|
+|[forward invariance in neural network controlled systems](https://arxiv.org/abs/2309.09043)|[harapanahalli_lcss2024](https://github.com/gtfactslab/harapanahalli_lcss2024)|
+|[improving computational efficiency for powered descent guidance via transformer-based tight constraint prediction](https://arxiv.org/abs/2311.05135)|[t-pdg](https://github.com/arclab-mit/t-pdg)|
+|[domain invariant representation learning and sleep dynamics modeling for automatic sleep staging](https://arxiv.org/abs/2312.03196)|[dream](https://github.com/yeon-lab/dream)|
+|[simpsi: a simple strategy to preserve spectral information in time series data augmentation](https://arxiv.org/abs/2312.05790)|[simpsi](https://github.com/hyun-ryu/simpsi)|
+|[learning for casadi: data-driven models in numerical optimization](https://arxiv.org/abs/2312.05873)|[l4casadi](https://github.com/Tim-Salzmann/l4casadi)|
+|[ensemble kalman filtering-aided variational inference for gaussian process state-space models](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[asf-yolo: a novel yolo model with attentional scale sequence fusion for cell instance segmentation](https://arxiv.org/abs/2312.06458)|[asf-yolo](https://github.com/mkang315/asf-yolo)|
+|[robust graph neural network based on graph denoising](https://arxiv.org/abs/2312.06557)|[robust_gnn](https://github.com/vmtenorio/robust_gnn)|
+|[online decision making with history-average dependent costs (extended)](https://arxiv.org/abs/2312.06641)|[learningwithhist](https://github.com/vijeth27/learningwithhist)|
+|[quantifying & modeling multimodal interactions: an information decomposition framework](https://arxiv.org/abs/2302.12247)|[pid](https://github.com/pliang279/pid)|
+|[fedstellar: a platform for decentralized federated learning](https://arxiv.org/abs/2306.09750)|[fedstellar](https://github.com/enriquetomasmb/fedstellar)|
+|[mitigating communications threats in decentralized federated learning through moving target defense](https://arxiv.org/abs/2307.11730)|[fedstellar](https://github.com/enriquetomasmb/fedstellar)|
 ## 2023-12-11
 |paper|code|
 |---|---|
 |[provably bounding neural network preimages](https://arxiv.org/abs/2302.01404)|[verify-input](https://github.com/kothasuhas/verify-input)|
+|[robust single-shot 3d fluorescence imaging in scattering media with a simulator-trained neural network](https://arxiv.org/abs/2303.12573)|[sbrnet](https://github.com/bu-cisl/sbrnet)|
 |[unitsa: a universal reinforcement learning framework for v2x traffic signal control](https://arxiv.org/abs/2312.05090)|[universal_light](https://github.com/wmn7/universal_light)|
 |[assessing neural network representations during training using noise-resilient diffusion spectral entropy](https://arxiv.org/abs/2312.04823)|[DiffusionSpectralEntropy](https://github.com/ChenLiu-1996/DiffusionSpectralEntropy)|
+|[on the regret of online coded caching](https://arxiv.org/abs/2312.05003)|[onlinecodedcaching](https://github.com/sheelfshah/onlinecodedcaching)|
 ## 2023-12-08
 |paper|code|
 |---|---|
