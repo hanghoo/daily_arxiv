@@ -1,3 +1,15 @@
+## 2023-12-13
+|paper|code|
+|---|---|
+|[early stopping for deep image prior](https://arxiv.org/abs/2112.06074)|[early_stopping_for_dip](https://github.com/sun-umn/early_stopping_for_dip)|
+|[decentralized state estimation in a dimension-reduced linear regression](https://arxiv.org/abs/2210.06947)|[dtt](https://gitlab.com/robinforsling/dtt)|
+|[communication-efficient decentralized multi-agent reinforcement learning for cooperative adaptive cruise control](https://arxiv.org/abs/2308.02345)|[macacc](https://github.com/dongchen06/macacc)|
+|[interval signal temporal logic from natural inclusion functions](https://arxiv.org/abs/2309.10686)|[baird_lcss2024](https://github.com/gtfactslab/baird_lcss2024)|
+|[state-wise safe reinforcement learning with pixel observations](https://arxiv.org/abs/2311.02227)|[step-wise_saferl_pixel](https://github.com/simonzhan-code/step-wise_saferl_pixel)|
+|[safe multi-task bayesian optimization](https://arxiv.org/abs/2312.07281)|[2024-code-l4dc-safe-multi-task-bayesian-optimization](https://github.com/tuhh-ics/2024-code-l4dc-safe-multi-task-bayesian-optimization)|
+|[combined invariant subspace \& frequency-domain subspace method for identification of discrete-time mimo linear systems](https://arxiv.org/abs/2312.07298)|[dcissim](https://github.com/wyqy/dcissim)|
+|[multi-modal conformal prediction regions by optimizing convex shape templates](https://arxiv.org/abs/2312.07434)|[conformal_region_designer](https://github.com/nandantumu/conformal_region_designer)|
+|[balancing summarization and change detection in graph streams](https://arxiv.org/abs/2311.18694)|[bsc](https://github.com/s-fuku/bsc)|
 ## 2023-12-12
 |paper|code|
 |---|---|
@@ -6,11 +18,16 @@
 |[forward invariance in neural network controlled systems](https://arxiv.org/abs/2309.09043)|[harapanahalli_lcss2024](https://github.com/gtfactslab/harapanahalli_lcss2024)|
 |[improving computational efficiency for powered descent guidance via transformer-based tight constraint prediction](https://arxiv.org/abs/2311.05135)|[t-pdg](https://github.com/arclab-mit/t-pdg)|
 |[domain invariant representation learning and sleep dynamics modeling for automatic sleep staging](https://arxiv.org/abs/2312.03196)|[dream](https://github.com/yeon-lab/dream)|
+|[synthesis of temporally-robust policies for signal temporal logic tasks using reinforcement learning](https://arxiv.org/abs/2312.05764)|[timerobustlearning](https://github.com/wsqsgithub/timerobustlearning)|
 |[simpsi: a simple strategy to preserve spectral information in time series data augmentation](https://arxiv.org/abs/2312.05790)|[simpsi](https://github.com/hyun-ryu/simpsi)|
 |[learning for casadi: data-driven models in numerical optimization](https://arxiv.org/abs/2312.05873)|[l4casadi](https://github.com/Tim-Salzmann/l4casadi)|
 |[ensemble kalman filtering-aided variational inference for gaussian process state-space models](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[singularly perturbed layered control of deformable bodies](https://arxiv.org/abs/2312.06039)|[dcm](https://github.com/robotsorcerer/dcm)|
+|[learning reduced-order linear parameter-varying models of nonlinear systems](https://arxiv.org/abs/2312.06217)|[sysid-2024-rom-lpv-learning](https://gitlab.com/patrickkoelewijn/sysid-2024-rom-lpv-learning)|
 |[asf-yolo: a novel yolo model with attentional scale sequence fusion for cell instance segmentation](https://arxiv.org/abs/2312.06458)|[asf-yolo](https://github.com/mkang315/asf-yolo)|
+|[dissipativity-based decentralized co-design of distributed controllers and communication topologies for vehicular platoons](https://arxiv.org/abs/2312.06472)|[longitudinal-vehicular-platoon-simulator](https://github.com/ndzsong2/longitudinal-vehicular-platoon-simulator)|
 |[robust graph neural network based on graph denoising](https://arxiv.org/abs/2312.06557)|[robust_gnn](https://github.com/vmtenorio/robust_gnn)|
+|[a geometry-based stochastic wireless channel model using channel images](https://arxiv.org/abs/2312.06637)|[geostochasticchanmodel](https://github.com/sk8053/geostochasticchanmodel)|
 |[online decision making with history-average dependent costs (extended)](https://arxiv.org/abs/2312.06641)|[learningwithhist](https://github.com/vijeth27/learningwithhist)|
 |[quantifying & modeling multimodal interactions: an information decomposition framework](https://arxiv.org/abs/2302.12247)|[pid](https://github.com/pliang279/pid)|
 |[fedstellar: a platform for decentralized federated learning](https://arxiv.org/abs/2306.09750)|[fedstellar](https://github.com/enriquetomasmb/fedstellar)|
