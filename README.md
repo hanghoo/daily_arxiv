@@ -1,3 +1,11 @@
+## 2023-12-14
+|paper|code|
+|---|---|
+|[conformal prediction regions for time series using linear complementarity programming](https://arxiv.org/abs/2304.01075)|[timeparamcpscores](https://github.com/earnedkibbles58/timeparamcpscores)|
+|[learning to transmit with provable guarantees in wireless federated learning](https://arxiv.org/abs/2304.09329)|[wirelessfl-pdg](https://github.com/bl166/wirelessfl-pdg)|
+|[datt: deep adaptive trajectory tracking for quadrotor control](https://arxiv.org/abs/2310.09053)|[datt](https://github.com/kevinhuang8/datt)|
+|[robust mri reconstruction by smoothed unrolling (smug)](https://arxiv.org/abs/2312.07784)|[smug_journal](https://github.com/sjames40/smug_journal)|
+|[democratizing leo satellite network measurement](https://arxiv.org/abs/2306.07469)|[leo_hitchhiking](https://github.com/stanford-esrg/leo_hitchhiking)|
 ## 2023-12-13
 |paper|code|
 |---|---|
@@ -8,8 +16,10 @@
 |[state-wise safe reinforcement learning with pixel observations](https://arxiv.org/abs/2311.02227)|[step-wise_saferl_pixel](https://github.com/simonzhan-code/step-wise_saferl_pixel)|
 |[safe multi-task bayesian optimization](https://arxiv.org/abs/2312.07281)|[2024-code-l4dc-safe-multi-task-bayesian-optimization](https://github.com/tuhh-ics/2024-code-l4dc-safe-multi-task-bayesian-optimization)|
 |[combined invariant subspace \& frequency-domain subspace method for identification of discrete-time mimo linear systems](https://arxiv.org/abs/2312.07298)|[dcissim](https://github.com/wyqy/dcissim)|
+|[feedback-feedforward signal control with exogenous demand estimation in congested urban road networks](https://arxiv.org/abs/2312.07359)|[saffron](https://github.com/decenter2021/saffron)|
 |[multi-modal conformal prediction regions by optimizing convex shape templates](https://arxiv.org/abs/2312.07434)|[conformal_region_designer](https://github.com/nandantumu/conformal_region_designer)|
 |[balancing summarization and change detection in graph streams](https://arxiv.org/abs/2311.18694)|[bsc](https://github.com/s-fuku/bsc)|
+|[lightweight implementation of per-packet service protection in ebpf/xdp](https://arxiv.org/abs/2312.07152)|[stress-ng](https://github.com/ColinIanKing/stress-ng)|
 ## 2023-12-12
 |paper|code|
 |---|---|
