@@ -1,3 +1,12 @@
+## 2023-12-15
+|paper|code|
+|---|---|
+|[qcm-sgm+: improved quantized compressed sensing with score-based generative models](https://arxiv.org/abs/2302.00919)|[qcs-sgm-plus](https://github.com/mengxiangming/qcs-sgm-plus)|
+|[managing cold-start in the serverless cloud with temporal convolutional networks](https://arxiv.org/abs/2304.00396)|[TCN4CLOUD](https://github.com/Cybonto/TCN4CLOUD)|
+|[multi-task learning for radar signal characterisation](https://arxiv.org/abs/2306.13105)|[radchar](https://github.com/abcxyzi/radchar)|
+|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[global rewards in multi-agent deep reinforcement learning for autonomous mobility on demand systems](https://arxiv.org/abs/2312.08884)|[gr-madrl-amod](https://github.com/tumbais/gr-madrl-amod)|
+|[a linear algebraic framework for dynamic scheduling over memory-equipped quantum networks](https://arxiv.org/abs/2307.06009)|[dynschedsimulator_journal](https://github.com/pfittipaldi/dynschedsimulator_journal)|
 ## 2023-12-14
 |paper|code|
 |---|---|
