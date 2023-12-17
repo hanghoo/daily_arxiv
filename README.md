@@ -10,10 +10,15 @@
 ## 2023-12-14
 |paper|code|
 |---|---|
+|[receding horizon planning with rule hierarchies for autonomous vehicles](https://arxiv.org/abs/2212.03323)|[rule-hierarchies](https://github.com/nvlabs/rule-hierarchies)|
 |[conformal prediction regions for time series using linear complementarity programming](https://arxiv.org/abs/2304.01075)|[timeparamcpscores](https://github.com/earnedkibbles58/timeparamcpscores)|
 |[learning to transmit with provable guarantees in wireless federated learning](https://arxiv.org/abs/2304.09329)|[wirelessfl-pdg](https://github.com/bl166/wirelessfl-pdg)|
+|[fast variational block-sparse bayesian learning](https://arxiv.org/abs/2306.00442)|[fast-variational-block-sparse-bayesian-learning](https://gitlab.com/jmoederl/fast-variational-block-sparse-bayesian-learning)|
 |[datt: deep adaptive trajectory tracking for quadrotor control](https://arxiv.org/abs/2310.09053)|[datt](https://github.com/kevinhuang8/datt)|
+|[annotating sleep states in children from wrist-worn accelerometer data using machine learning](https://arxiv.org/abs/2312.07561)|[ece381k-applied-ml-project](https://github.com/ss26/ece381k-applied-ml-project)|
+|[towards a geometric understanding of spatio temporal graph convolution networks](https://arxiv.org/abs/2312.07777)|[stg-gradcam](https://github.com/daspraty/stg-gradcam)|
 |[robust mri reconstruction by smoothed unrolling (smug)](https://arxiv.org/abs/2312.07784)|[smug_journal](https://github.com/sjames40/smug_journal)|
+|[event-triggered safe bayesian optimization on quadcopters](https://arxiv.org/abs/2312.08058)|[etso](https://github.com/antoholz/etso)|
 |[democratizing leo satellite network measurement](https://arxiv.org/abs/2306.07469)|[leo_hitchhiking](https://github.com/stanford-esrg/leo_hitchhiking)|
 ## 2023-12-13
 |paper|code|
