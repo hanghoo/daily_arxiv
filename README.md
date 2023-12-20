@@ -1,3 +1,17 @@
+## 2023-12-19
+|paper|code|
+|---|---|
+|[morpi: mobile robot pure inertial navigation](https://arxiv.org/abs/2207.02982)|[morpi](https://github.com/ansfl/morpi)|
+|[eat-radar: continuous fine-grained intake gesture detection using fmcw radar and 3d temporal convolutional network with attention](https://arxiv.org/abs/2211.04253)|[eat-radar](https://github.com/pituohai/eat-radar)|
+|[bidirectional uwb localization: a review on an elastic positioning scheme for gnss-deprived zones](https://arxiv.org/abs/2302.07706)|[positioning-algorithms-for-uwb-matlab](https://github.com/cliansang/positioning-algorithms-for-uwb-matlab)|
+|[low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/abs/2305.02041)|[subspace_descent_over_SPD_manifold](https://github.com/yogeshd-iitk/subspace_descent_over_SPD_manifold)|
+|[can transformers learn optimal filtering for unknown systems?](https://arxiv.org/abs/2308.08536)|[meta-output-predictor](https://github.com/haldunbalim/meta-output-predictor)|
+|[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
+|[a geometry-based stochastic wireless channel model using channel images](https://arxiv.org/abs/2312.06637)|[geostochasticchanmodel](https://github.com/sk8053/geostochasticchanmodel)|
+|[generalization analysis of policy networks: an example of double-integrator](https://arxiv.org/abs/2312.10472)|[generalanalyze](https://github.com/han-adam/generalanalyze)|
+|[compositional inductive invariant based verification of neural network controlled systems](https://arxiv.org/abs/2312.10842)|[comp-indinv-verification-nncs](https://github.com/yuh-z/comp-indinv-verification-nncs)|
+|[enabling agency: trade-offs between regional and integrated energy systems design flexibility](https://arxiv.org/abs/2312.11264)|[enabling-agency](https://github.com/koen-vg/enabling-agency)|
+|[frequency analysis and filter design for directed graphs with polar decomposition](https://arxiv.org/abs/2312.11421)|[ICASSP2024](https://github.com/semink/ICASSP2024)|
 ## 2023-12-18
 |paper|code|
 |---|---|
@@ -6,6 +20,7 @@
 |[score-based data generation for eeg spatial covariance matrices: towards boosting bci performance](https://arxiv.org/abs/2302.11410)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |[data valuation from data-driven optimization](https://arxiv.org/abs/2305.01775)|[msdro_opf_public](https://github.com/mieth-robert/msdro_opf_public)|
 |[multi-stage learning for radar pulse activity segmentation](https://arxiv.org/abs/2312.09489)|[radseg](https://github.com/abcxyzi/radseg)|
+|[a novel dual-stream time-frequency contrastive pretext tasks framework for sleep stage classification](https://arxiv.org/abs/2312.09623)|[dstf-sleepstaging](https://github.com/serg99io/dstf-sleepstaging)|
 |[hypergraph-mlp: learning on hypergraphs without message passing](https://arxiv.org/abs/2312.09778)|[hypergraph-mlp](https://github.com/tbh-98/hypergraph-mlp)|
 |[probabilistic learning of the purkinje network from the electrocardiogram](https://arxiv.org/abs/2312.09887)|[purkinje-learning](https://github.com/fsahli/purkinje-learning)|
 |[risk-aware continuous control with neural contextual bandits](https://arxiv.org/abs/2312.09961)|[risk_aware_contextual_bandit](https://github.com/jaayala/risk_aware_contextual_bandit)|
