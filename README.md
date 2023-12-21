@@ -1,3 +1,11 @@
+## 2023-12-20
+|paper|code|
+|---|---|
+|[grid-free harmonic retrieval and model order selection using deep convolutional neural networks](https://arxiv.org/abs/2211.04846)|[deepest-demo](https://huggingface.co/spaces/EMS-TU-Ilmenau/deepest-demo)|
+|[geometric impedance control on se(3) for robotic manipulators](https://arxiv.org/abs/2211.07945)|[Geometric-Impedance-Control-Public](https://github.com/Joohwan-Seo/Geometric-Impedance-Control-Public)|
+|[end-to-end reinforcement learning for torque based variable height hopping](https://arxiv.org/abs/2307.16676)|[hopping_leg](https://github.com/dfki-ric-underactuated-lab/hopping_leg)|
+|[drift control of high-dimensional rbm: a computational method based on neural networks](https://arxiv.org/abs/2309.11651)|[rbmsolver](https://github.com/nian-si/rbmsolver)|
+|[a study on transferability of deep learning models for network intrusion detection](https://arxiv.org/abs/2312.11550)|[transferability](https://github.com/ghosh64/transferability)|
 ## 2023-12-19
 |paper|code|
 |---|---|
@@ -8,10 +16,14 @@
 |[can transformers learn optimal filtering for unknown systems?](https://arxiv.org/abs/2308.08536)|[meta-output-predictor](https://github.com/haldunbalim/meta-output-predictor)|
 |[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
 |[a geometry-based stochastic wireless channel model using channel images](https://arxiv.org/abs/2312.06637)|[geostochasticchanmodel](https://github.com/sk8053/geostochasticchanmodel)|
+|[tsrnet: simple framework for real-time ecg anomaly detection with multimodal time and spectrogram restoration network](https://arxiv.org/abs/2312.10187)|[tsrnet](https://github.com/uark-aicv/tsrnet)|
 |[generalization analysis of policy networks: an example of double-integrator](https://arxiv.org/abs/2312.10472)|[generalanalyze](https://github.com/han-adam/generalanalyze)|
+|[computing optimal joint chance constrained control policies](https://arxiv.org/abs/2312.10495)|[jcc_opt_control](https://github.com/niklasschmidresearch/jcc_opt_control)|
 |[compositional inductive invariant based verification of neural network controlled systems](https://arxiv.org/abs/2312.10842)|[comp-indinv-verification-nncs](https://github.com/yuh-z/comp-indinv-verification-nncs)|
+|[cardiac and extracardiac discharge diagnosis prediction from emergency department ecgs using deep learning](https://arxiv.org/abs/2312.11050)|[ecg-mimic](https://github.com/ai4healthuol/ecg-mimic)|
 |[enabling agency: trade-offs between regional and integrated energy systems design flexibility](https://arxiv.org/abs/2312.11264)|[enabling-agency](https://github.com/koen-vg/enabling-agency)|
 |[frequency analysis and filter design for directed graphs with polar decomposition](https://arxiv.org/abs/2312.11421)|[ICASSP2024](https://github.com/semink/ICASSP2024)|
+|[hybrid internal model: a simple and efficient learner for agile legged locomotion](https://arxiv.org/abs/2312.11460)|[himloco](https://github.com/openrobotlab/himloco)|
 ## 2023-12-18
 |paper|code|
 |---|---|
@@ -19,8 +31,10 @@
 |[approaching globally optimal energy efficiency in interference networks via machine learning](https://arxiv.org/abs/2212.12329)|[ee](https://github.com/bilepeng/ee)|
 |[score-based data generation for eeg spatial covariance matrices: towards boosting bci performance](https://arxiv.org/abs/2302.11410)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |[data valuation from data-driven optimization](https://arxiv.org/abs/2305.01775)|[msdro_opf_public](https://github.com/mieth-robert/msdro_opf_public)|
+|[dtp-net: learning to reconstruct eeg signals in time-frequency domain by multi-scale feature reuse](https://arxiv.org/abs/2312.09417)|[eeg-denoise](https://github.com/williamro/eeg-denoise)|
 |[multi-stage learning for radar pulse activity segmentation](https://arxiv.org/abs/2312.09489)|[radseg](https://github.com/abcxyzi/radseg)|
 |[a novel dual-stream time-frequency contrastive pretext tasks framework for sleep stage classification](https://arxiv.org/abs/2312.09623)|[dstf-sleepstaging](https://github.com/serg99io/dstf-sleepstaging)|
+|[overcome the fear of missing out: active sensing uav scanning for precision agriculture](https://arxiv.org/abs/2312.09730)|[overfomo](https://github.com/emmarapt/overfomo)|
 |[hypergraph-mlp: learning on hypergraphs without message passing](https://arxiv.org/abs/2312.09778)|[hypergraph-mlp](https://github.com/tbh-98/hypergraph-mlp)|
 |[probabilistic learning of the purkinje network from the electrocardiogram](https://arxiv.org/abs/2312.09887)|[purkinje-learning](https://github.com/fsahli/purkinje-learning)|
 |[risk-aware continuous control with neural contextual bandits](https://arxiv.org/abs/2312.09961)|[risk_aware_contextual_bandit](https://github.com/jaayala/risk_aware_contextual_bandit)|
@@ -33,8 +47,11 @@
 |[managing cold-start in the serverless cloud with temporal convolutional networks](https://arxiv.org/abs/2304.00396)|[TCN4CLOUD](https://github.com/Cybonto/TCN4CLOUD)|
 |[multi-task learning for radar signal characterisation](https://arxiv.org/abs/2306.13105)|[radchar](https://github.com/abcxyzi/radchar)|
 |[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[score-based diffusion priors for multi-target detection](https://arxiv.org/abs/2312.08500)|[2d-mtd_diffusion](https://github.com/zabatani/2d-mtd_diffusion)|
+|[simulation-based evaluation of indoor positioning systems in connected aircraft cabins](https://arxiv.org/abs/2312.08765)|[ewgt_2023](https://github.com/paulschwarzbach/ewgt_2023)|
 |[global rewards in multi-agent deep reinforcement learning for autonomous mobility on demand systems](https://arxiv.org/abs/2312.08884)|[gr-madrl-amod](https://github.com/tumbais/gr-madrl-amod)|
 |[a linear algebraic framework for dynamic scheduling over memory-equipped quantum networks](https://arxiv.org/abs/2307.06009)|[dynschedsimulator_journal](https://github.com/pfittipaldi/dynschedsimulator_journal)|
+|[towards ssh3: how http/3 improves secure shells](https://arxiv.org/abs/2312.08396)|[ssh3](https://github.com/francoismichel/ssh3)|
 ## 2023-12-14
 |paper|code|
 |---|---|
