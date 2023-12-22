@@ -1,3 +1,11 @@
+## 2023-12-21
+|paper|code|
+|---|---|
+|[viewpoint-driven formation control of airships for cooperative target tracking](https://arxiv.org/abs/2209.13040)|[airship-mpc](https://github.com/robot-perception-group/airship-mpc)|
+|[data-driven robust backward reachable sets for set-theoretic model predictive control](https://arxiv.org/abs/2303.04749)|[data-driven-st-mpc](https://github.com/precysegroup/data-driven-st-mpc)|
+|[from system models to class models: an in-context learning paradigm](https://arxiv.org/abs/2308.13380)|[sysid-neural-transformers](https://github.com/forgi86/sysid-neural-transformers)|
+|[calibrating wireless ray tracing for digital twinning using local phase error estimates](https://arxiv.org/abs/2312.12625)|[phase-aware-rt-calibration](https://github.com/kclip/phase-aware-rt-calibration)|
+|[energy-efficient spiking neural network equalization for im/dd systems with optimized neural encoding](https://arxiv.org/abs/2312.12909)|[optispike](https://github.com/kit-cel/optispike)|
 ## 2023-12-20
 |paper|code|
 |---|---|
@@ -11,7 +19,6 @@
 |---|---|
 |[morpi: mobile robot pure inertial navigation](https://arxiv.org/abs/2207.02982)|[morpi](https://github.com/ansfl/morpi)|
 |[eat-radar: continuous fine-grained intake gesture detection using fmcw radar and 3d temporal convolutional network with attention](https://arxiv.org/abs/2211.04253)|[eat-radar](https://github.com/pituohai/eat-radar)|
-|[bidirectional uwb localization: a review on an elastic positioning scheme for gnss-deprived zones](https://arxiv.org/abs/2302.07706)|[positioning-algorithms-for-uwb-matlab](https://github.com/cliansang/positioning-algorithms-for-uwb-matlab)|
 |[low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/abs/2305.02041)|[subspace_descent_over_SPD_manifold](https://github.com/yogeshd-iitk/subspace_descent_over_SPD_manifold)|
 |[can transformers learn optimal filtering for unknown systems?](https://arxiv.org/abs/2308.08536)|[meta-output-predictor](https://github.com/haldunbalim/meta-output-predictor)|
 |[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
@@ -23,7 +30,6 @@
 |[cardiac and extracardiac discharge diagnosis prediction from emergency department ecgs using deep learning](https://arxiv.org/abs/2312.11050)|[ecg-mimic](https://github.com/ai4healthuol/ecg-mimic)|
 |[enabling agency: trade-offs between regional and integrated energy systems design flexibility](https://arxiv.org/abs/2312.11264)|[enabling-agency](https://github.com/koen-vg/enabling-agency)|
 |[frequency analysis and filter design for directed graphs with polar decomposition](https://arxiv.org/abs/2312.11421)|[ICASSP2024](https://github.com/semink/ICASSP2024)|
-|[hybrid internal model: a simple and efficient learner for agile legged locomotion](https://arxiv.org/abs/2312.11460)|[himloco](https://github.com/openrobotlab/himloco)|
 ## 2023-12-18
 |paper|code|
 |---|---|
@@ -31,6 +37,7 @@
 |[approaching globally optimal energy efficiency in interference networks via machine learning](https://arxiv.org/abs/2212.12329)|[ee](https://github.com/bilepeng/ee)|
 |[score-based data generation for eeg spatial covariance matrices: towards boosting bci performance](https://arxiv.org/abs/2302.11410)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |[data valuation from data-driven optimization](https://arxiv.org/abs/2305.01775)|[msdro_opf_public](https://github.com/mieth-robert/msdro_opf_public)|
+|[pose-following with dual quaternions](https://arxiv.org/abs/2308.09507)|[pfdq](https://github.com/jonarriza96/pfdq)|
 |[dtp-net: learning to reconstruct eeg signals in time-frequency domain by multi-scale feature reuse](https://arxiv.org/abs/2312.09417)|[eeg-denoise](https://github.com/williamro/eeg-denoise)|
 |[multi-stage learning for radar pulse activity segmentation](https://arxiv.org/abs/2312.09489)|[radseg](https://github.com/abcxyzi/radseg)|
 |[a novel dual-stream time-frequency contrastive pretext tasks framework for sleep stage classification](https://arxiv.org/abs/2312.09623)|[dstf-sleepstaging](https://github.com/serg99io/dstf-sleepstaging)|
