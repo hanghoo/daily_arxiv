@@ -1,3 +1,18 @@
+## 2023-12-22
+|paper|code|
+|---|---|
+|[bidirectional uwb localization: a review on an elastic positioning scheme for gnss-deprived zones](https://arxiv.org/abs/2302.07706)|[positioning-algorithms-for-uwb-matlab](https://github.com/cliansang/positioning-algorithms-for-uwb-matlab)|
+|[multimodal brain-computer interface for in-vehicle driver cognitive load measurement: dataset and baselines](https://arxiv.org/abs/2304.04273)|[cl-drive](https://github.com/prithila05/cl-drive)|
+|[communication-efficient decentralized multi-agent reinforcement learning for cooperative adaptive cruise control](https://arxiv.org/abs/2308.02345)|[macacc](https://github.com/dongchen06/macacc)|
+|[finding order in chaos: a novel data augmentation method for time series in contrastive learning](https://arxiv.org/abs/2309.13439)|[Finding_Order_in_Chaos](https://github.com/eth-siplab/Finding_Order_in_Chaos)|
+|[uxsim: an open source macroscopic and mesoscopic traffic simulator in python -- a technical overview](https://arxiv.org/abs/2309.17114)|[uxsim](https://github.com/toruseo/uxsim)|
+|[energy-aware adaptive sampling for self-sustainability in resource-constrained iot devices](https://arxiv.org/abs/2310.20331)|[EcoTrack](https://github.com/ETH-PBL/EcoTrack)|
+|[singularly perturbed layered control of deformable bodies](https://arxiv.org/abs/2312.06039)|[dcm](https://github.com/robotsorcerer/dcm)|
+|[hybrid internal model: a simple and efficient learner for agile legged locomotion](https://arxiv.org/abs/2312.11460)|[himloco](https://github.com/openrobotlab/himloco)|
+|[fed-qssl: a framework for personalized federated learning under bitwidth and data heterogeneity](https://arxiv.org/abs/2312.13380)|[fed-qssl](https://github.com/yiyuec/fed-qssl)|
+|[revisiting deep generalized canonical correlation analysis](https://arxiv.org/abs/2312.13455)|[revisiting-dgcca](https://github.com/pariskarakasis/revisiting-dgcca)|
+|[risk-sensitive stochastic optimal control as rao-blackwellized markovian score climbing](https://arxiv.org/abs/2312.14000)|[psoc](https://github.com/hanyas/psoc)|
+|[leveraging visual supervision for array-based active speaker detection and localization](https://arxiv.org/abs/2312.14021)|[leveraging-visual-supervision-for-array-based-asdl](https://github.com/dberghi/leveraging-visual-supervision-for-array-based-asdl)|
 ## 2023-12-21
 |paper|code|
 |---|---|
