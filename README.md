@@ -9,6 +9,7 @@
 |[energy-aware adaptive sampling for self-sustainability in resource-constrained iot devices](https://arxiv.org/abs/2310.20331)|[EcoTrack](https://github.com/ETH-PBL/EcoTrack)|
 |[singularly perturbed layered control of deformable bodies](https://arxiv.org/abs/2312.06039)|[dcm](https://github.com/robotsorcerer/dcm)|
 |[hybrid internal model: a simple and efficient learner for agile legged locomotion](https://arxiv.org/abs/2312.11460)|[himloco](https://github.com/openrobotlab/himloco)|
+|[dynamic loco-manipulation on hector: humanoid for enhanced control and open-source research](https://arxiv.org/abs/2312.11868)|[hector_simulation](https://github.com/drcl-usc/hector_simulation)|
 |[fed-qssl: a framework for personalized federated learning under bitwidth and data heterogeneity](https://arxiv.org/abs/2312.13380)|[fed-qssl](https://github.com/yiyuec/fed-qssl)|
 |[revisiting deep generalized canonical correlation analysis](https://arxiv.org/abs/2312.13455)|[revisiting-dgcca](https://github.com/pariskarakasis/revisiting-dgcca)|
 |[risk-sensitive stochastic optimal control as rao-blackwellized markovian score climbing](https://arxiv.org/abs/2312.14000)|[psoc](https://github.com/hanyas/psoc)|
@@ -27,8 +28,11 @@
 |[grid-free harmonic retrieval and model order selection using deep convolutional neural networks](https://arxiv.org/abs/2211.04846)|[deepest-demo](https://huggingface.co/spaces/EMS-TU-Ilmenau/deepest-demo)|
 |[geometric impedance control on se(3) for robotic manipulators](https://arxiv.org/abs/2211.07945)|[Geometric-Impedance-Control-Public](https://github.com/Joohwan-Seo/Geometric-Impedance-Control-Public)|
 |[end-to-end reinforcement learning for torque based variable height hopping](https://arxiv.org/abs/2307.16676)|[hopping_leg](https://github.com/dfki-ric-underactuated-lab/hopping_leg)|
+|[deep plug-and-play prior for multitask channel reconstruction in massive mimo systems](https://arxiv.org/abs/2308.04728)|[pnpmt](https://github.com/wc253/pnpmt)|
 |[drift control of high-dimensional rbm: a computational method based on neural networks](https://arxiv.org/abs/2309.11651)|[rbmsolver](https://github.com/nian-si/rbmsolver)|
 |[a study on transferability of deep learning models for network intrusion detection](https://arxiv.org/abs/2312.11550)|[transferability](https://github.com/ghosh64/transferability)|
+|[singular control of (reflected) brownian motion: a computational method suitable for queueing applications](https://arxiv.org/abs/2312.11823)|[singularcontrol](https://github.com/nian-si/singularcontrol)|
+|[control aspects for using ris in latency-constrained mobile edge computing](https://arxiv.org/abs/2312.12025)|[mec-with-ris-control](https://github.com/victorcroisfelt/mec-with-ris-control)|
 ## 2023-12-19
 |paper|code|
 |---|---|
@@ -37,14 +41,17 @@
 |[low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/abs/2305.02041)|[subspace_descent_over_SPD_manifold](https://github.com/yogeshd-iitk/subspace_descent_over_SPD_manifold)|
 |[can transformers learn optimal filtering for unknown systems?](https://arxiv.org/abs/2308.08536)|[meta-output-predictor](https://github.com/haldunbalim/meta-output-predictor)|
 |[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
+|[channel estimation for quantized systems based on conditionally gaussian latent models](https://arxiv.org/abs/2309.04014)|[quantized_channel_estimation](https://github.com/benediktfesl/quantized_channel_estimation)|
 |[a geometry-based stochastic wireless channel model using channel images](https://arxiv.org/abs/2312.06637)|[geostochasticchanmodel](https://github.com/sk8053/geostochasticchanmodel)|
 |[tsrnet: simple framework for real-time ecg anomaly detection with multimodal time and spectrogram restoration network](https://arxiv.org/abs/2312.10187)|[tsrnet](https://github.com/uark-aicv/tsrnet)|
 |[generalization analysis of policy networks: an example of double-integrator](https://arxiv.org/abs/2312.10472)|[generalanalyze](https://github.com/han-adam/generalanalyze)|
 |[computing optimal joint chance constrained control policies](https://arxiv.org/abs/2312.10495)|[jcc_opt_control](https://github.com/niklasschmidresearch/jcc_opt_control)|
 |[compositional inductive invariant based verification of neural network controlled systems](https://arxiv.org/abs/2312.10842)|[comp-indinv-verification-nncs](https://github.com/yuh-z/comp-indinv-verification-nncs)|
 |[cardiac and extracardiac discharge diagnosis prediction from emergency department ecgs using deep learning](https://arxiv.org/abs/2312.11050)|[ecg-mimic](https://github.com/ai4healthuol/ecg-mimic)|
+|[a refining underlying information framework for speech enhancement](https://arxiv.org/abs/2312.11201)|[rui_se](https://github.com/caoruitju/rui_se)|
 |[enabling agency: trade-offs between regional and integrated energy systems design flexibility](https://arxiv.org/abs/2312.11264)|[enabling-agency](https://github.com/koen-vg/enabling-agency)|
 |[frequency analysis and filter design for directed graphs with polar decomposition](https://arxiv.org/abs/2312.11421)|[ICASSP2024](https://github.com/semink/ICASSP2024)|
+|[wisegrt: dataset for site-specific indoor radio propagation modeling with 3d segmentation and differentiable ray-tracing](https://arxiv.org/abs/2312.11245)|[wisegrt](https://github.com/sunlab-uga/wisegrt)|
 ## 2023-12-18
 |paper|code|
 |---|---|
