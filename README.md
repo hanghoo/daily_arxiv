@@ -12,8 +12,11 @@
 |[dynamic loco-manipulation on hector: humanoid for enhanced control and open-source research](https://arxiv.org/abs/2312.11868)|[hector_simulation](https://github.com/drcl-usc/hector_simulation)|
 |[fed-qssl: a framework for personalized federated learning under bitwidth and data heterogeneity](https://arxiv.org/abs/2312.13380)|[fed-qssl](https://github.com/yiyuec/fed-qssl)|
 |[revisiting deep generalized canonical correlation analysis](https://arxiv.org/abs/2312.13455)|[revisiting-dgcca](https://github.com/pariskarakasis/revisiting-dgcca)|
+|[angle of arrival and centimeter distance estimation on a smart uwb sensor node](https://arxiv.org/abs/2312.13672)|[uwb_dualantenna_aoa](https://github.com/eth-pbl/uwb_dualantenna_aoa)|
 |[risk-sensitive stochastic optimal control as rao-blackwellized markovian score climbing](https://arxiv.org/abs/2312.14000)|[psoc](https://github.com/hanyas/psoc)|
 |[leveraging visual supervision for array-based active speaker detection and localization](https://arxiv.org/abs/2312.14021)|[leveraging-visual-supervision-for-array-based-asdl](https://github.com/dberghi/leveraging-visual-supervision-for-array-based-asdl)|
+|[bayesian optimized physics-informed neural network for estimating wave propagation velocities](https://arxiv.org/abs/2312.14064)|[bopinn](https://github.com/mahindrautela/bopinn)|
+|[denis-sdn: software-defined network slicing solution for dense and ultra-dense iot networks](https://arxiv.org/abs/2312.13662)|[denis-sdn](https://github.com/swnrg/denis-sdn)|
 ## 2023-12-21
 |paper|code|
 |---|---|
