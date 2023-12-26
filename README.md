@@ -1,3 +1,9 @@
+## 2023-12-25
+|paper|code|
+|---|---|
+|[dissipative quadratizations of polynomial ode systems](https://arxiv.org/abs/2311.02508)|[dqbee](https://github.com/yubocai-poly/dqbee)|
+|[geo2sigmap: high-fidelity rf signal mapping using geographic databases](https://arxiv.org/abs/2312.14303)|[geo2sigmap](https://github.com/functions-lab/geo2sigmap)|
+|[introducing packet-level analysis in programmable data planes to advance network intrusion detection](https://arxiv.org/abs/2307.05936)|[p4ddle](https://github.com/risingfbk/p4ddle)|
 ## 2023-12-22
 |paper|code|
 |---|---|
