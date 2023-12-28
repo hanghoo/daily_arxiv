@@ -1,8 +1,25 @@
+## 2023-12-27
+|paper|code|
+|---|---|
+|[mixed-integer optimal control via reinforcement learning: a case study on hybrid vehicle energy management](https://arxiv.org/abs/2305.01461)|[td3aq](https://github.com/xujinming01/td3aq)|
+|[neural lyapunov control for discrete-time systems](https://arxiv.org/abs/2305.06547)|[nlc_discrete](https://github.com/jlwu002/nlc_discrete)|
+|[deltann: assessing the impact of computational environment parameters on the performance of image recognition models](https://arxiv.org/abs/2306.06208)|[deltann](https://github.com/luludak/deltann)|
+|[nuv-doa: nuv prior-based bayesian sparse reconstruction with spatial filtering for super-resolution doa estimation](https://arxiv.org/abs/2309.03114)|[ICASSP24-NUV-DoA](https://github.com/MengyuanZha0/ICASSP24-NUV-DoA)|
+|[sparsity-aware distributed learning for gaussian processes with linear multiple kernel](https://arxiv.org/abs/2309.08201)|[distributed-gsm](https://github.com/richardcsuwandi/distributed-gsm)|
+|[bridging the gaps: learning verifiable model-free quadratic programming controllers inspired by model predictive control](https://arxiv.org/abs/2312.05332)|[learning-qp](https://github.com/yiwenlu66/learning-qp)|
+|[ensemble kalman filtering-aided variational inference for gaussian process state-space models](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[harmonics of learning: universal fourier features emerge in invariant networks](https://arxiv.org/abs/2312.08550)|[spectral-universality](https://github.com/sophiaas/spectral-universality)|
+|[a refining underlying information framework for monaural speech enhancement](https://arxiv.org/abs/2312.11201)|[rui_se](https://github.com/caoruitju/rui_se)|
+|[information-seeking polynomial narx model-predictive control through expected free energy minimization](https://arxiv.org/abs/2312.15046)|[lcss2024-narxefe](https://github.com/biaslab/lcss2024-narxefe)|
+|[meta-learning-based adaptive stability certificates for dynamical systems](https://arxiv.org/abs/2312.15340)|[meta-nlf](https://github.com/amitjena1992/meta-nlf)|
+|[pdit: interleaving perception and decision-making transformers for deep reinforcement learning](https://arxiv.org/abs/2312.15863)|[pdit](https://github.com/maohangyu/pdit)|
+|[achieving fairness in darefightingice agents evaluation through a delay mechanism](https://arxiv.org/abs/2312.16010)|[cog2023-darefightingice-evaluation](https://github.com/staciiaz/cog2023-darefightingice-evaluation)|
 ## 2023-12-25
 |paper|code|
 |---|---|
 |[dissipative quadratizations of polynomial ode systems](https://arxiv.org/abs/2311.02508)|[dqbee](https://github.com/yubocai-poly/dqbee)|
 |[geo2sigmap: high-fidelity rf signal mapping using geographic databases](https://arxiv.org/abs/2312.14303)|[geo2sigmap](https://github.com/functions-lab/geo2sigmap)|
+|[hybrid aerodynamics-based model predictive control for a tail-sitter uav](https://arxiv.org/abs/2312.14453)|[airo_control_interface](https://github.com/hkpolyu-uav/airo_control_interface)|
 |[introducing packet-level analysis in programmable data planes to advance network intrusion detection](https://arxiv.org/abs/2307.05936)|[p4ddle](https://github.com/risingfbk/p4ddle)|
 ## 2023-12-22
 |paper|code|
