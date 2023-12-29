@@ -11,7 +11,11 @@
 |[harmonics of learning: universal fourier features emerge in invariant networks](https://arxiv.org/abs/2312.08550)|[spectral-universality](https://github.com/sophiaas/spectral-universality)|
 |[a refining underlying information framework for monaural speech enhancement](https://arxiv.org/abs/2312.11201)|[rui_se](https://github.com/caoruitju/rui_se)|
 |[information-seeking polynomial narx model-predictive control through expected free energy minimization](https://arxiv.org/abs/2312.15046)|[lcss2024-narxefe](https://github.com/biaslab/lcss2024-narxefe)|
+|[benign nonconvex landscapes in optimal and robust control, part i: global optimality](https://arxiv.org/abs/2312.15332)|[nonconvex_landscape_in_control](https://github.com/soc-ucsd/nonconvex_landscape_in_control)|
 |[meta-learning-based adaptive stability certificates for dynamical systems](https://arxiv.org/abs/2312.15340)|[meta-nlf](https://github.com/amitjena1992/meta-nlf)|
+|[convex approximations for a bi-level formulation of data-enabled predictive control](https://arxiv.org/abs/2312.15431)|[convex-approximation-for-deepc](https://github.com/soc-ucsd/convex-approximation-for-deepc)|
+|[construct 3d hand skeleton with commercial wifi](https://arxiv.org/abs/2312.15507)|[handfi](https://github.com/sijieji/handfi)|
+|[robust stochastically-descending unrolled networks](https://arxiv.org/abs/2312.15788)|[unrolledglow](https://github.com/smrhadou/unrolledglow)|
 |[pdit: interleaving perception and decision-making transformers for deep reinforcement learning](https://arxiv.org/abs/2312.15863)|[pdit](https://github.com/maohangyu/pdit)|
 |[achieving fairness in darefightingice agents evaluation through a delay mechanism](https://arxiv.org/abs/2312.16010)|[cog2023-darefightingice-evaluation](https://github.com/staciiaz/cog2023-darefightingice-evaluation)|
 ## 2023-12-25
@@ -20,6 +24,8 @@
 |[dissipative quadratizations of polynomial ode systems](https://arxiv.org/abs/2311.02508)|[dqbee](https://github.com/yubocai-poly/dqbee)|
 |[geo2sigmap: high-fidelity rf signal mapping using geographic databases](https://arxiv.org/abs/2312.14303)|[geo2sigmap](https://github.com/functions-lab/geo2sigmap)|
 |[hybrid aerodynamics-based model predictive control for a tail-sitter uav](https://arxiv.org/abs/2312.14453)|[airo_control_interface](https://github.com/hkpolyu-uav/airo_control_interface)|
+|[instantaneous frequency estimation in multicomponent signals in case of interference based on the prony method](https://arxiv.org/abs/2312.14500)|[prony_if_estimation](https://github.com/bdbonnaire/prony_if_estimation)|
+|[an approach to reduce computational load: precalculating gain matrices for an lqr controller of a four-axis manipulator using state space kinematics](https://arxiv.org/abs/2312.14525)|[robotik](https://github.com/alistairkeiller/robotik)|
 |[introducing packet-level analysis in programmable data planes to advance network intrusion detection](https://arxiv.org/abs/2307.05936)|[p4ddle](https://github.com/risingfbk/p4ddle)|
 ## 2023-12-22
 |paper|code|
