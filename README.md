@@ -3,8 +3,10 @@
 |---|---|
 |[gasper: graph signal processing in r](https://arxiv.org/abs/2007.10642)|[SGWT-SURE](https://github.com/fabnavarro/SGWT-SURE)|
 |[dime and agvis: a distributed messaging environment and geographical visualizer for large-scale power system simulation](https://arxiv.org/abs/2211.11990)|[agvis](https://github.com/CURENT/agvis)|
+|[robust kalman filters based on the sub-gaussian $\alpha$-stable distribution](https://arxiv.org/abs/2305.07890)|[robust-kalman-filters-based-on-the-sub-gaussian-alpha-stable-distribution](https://github.com/pengchengh/robust-kalman-filters-based-on-the-sub-gaussian-alpha-stable-distribution)|
 |[dsac-t: distributional soft actor-critic with three refinements](https://arxiv.org/abs/2310.05858)|[dsac-t](https://github.com/jingliang-duan/dsac-t)|
 |[robofisense: attention-based robotic arm activity recognition with wifi sensing](https://arxiv.org/abs/2312.15345)|[robofisense](https://github.com/siamilab/robofisense)|
+|[a generalization of the convolution theorem and its connections to non-stationarity and the graph frequency domain](https://arxiv.org/abs/2312.16922)|[genconv](https://github.com/albertonat/genconv)|
 |[efficient physics-based learned reconstruction methods for real-time 3d near-field mimo radar imaging](https://arxiv.org/abs/2312.16959)|[efficient-learned-3d-near-field-mimo-imaging](https://github.com/metu-space-lab/efficient-learned-3d-near-field-mimo-imaging)|
 ## 2023-12-27
 |paper|code|
