@@ -1,3 +1,16 @@
+## 2024-01-02
+|paper|code|
+|---|---|
+|[dictionary attack on imu-based gait authentication](https://arxiv.org/abs/2309.11766)|[dictionaryattackonimugait](https://github.com/rajeshjnu2006/dictionaryattackonimugait)|
+|[low overhead beam alignment for mobile millimeter channel based on continuous-time prediction](https://arxiv.org/abs/2311.01752)|[low-overhead-beam-alignment-prediction](https://github.com/kuanghaoliu/low-overhead-beam-alignment-prediction)|
+|[analyzing generalization in policy networks: a case study with the double-integrator system](https://arxiv.org/abs/2312.10472)|[generalanalyze](https://github.com/han-adam/generalanalyze)|
+|[wisegrt: dataset for site-specific indoor radio propagation modeling with 3d segmentation and differentiable ray-tracing](https://arxiv.org/abs/2312.11245)|[wisegrt](https://github.com/sunlab-uga/wisegrt)|
+## 2024-01-01
+|paper|code|
+|---|---|
+|[a declarative goal-oriented framework for smart environments with lpaas](https://arxiv.org/abs/2106.13083)|[Solomon](https://github.com/di-unipi-socc/Solomon)|
+|[adaptive data-driven prediction in a building control hierarchy: a case study of demand response in switzerland](https://arxiv.org/abs/2307.08866)|[risk_src_yingzhao](https://github.com/yingzhaoleo/risk_src_yingzhao)|
+|[bayesian topology inference on partially known networks from input-output pairs](https://arxiv.org/abs/2309.06532)|[inference_langevin](https://github.com/tenceto/inference_langevin)|
 ## 2023-12-29
 |paper|code|
 |---|---|
