@@ -1,3 +1,11 @@
+## 2024-01-03
+|paper|code|
+|---|---|
+|[pseudo-hamiltonian system identification](https://arxiv.org/abs/2305.06920)|[phsi](https://github.com/sintef/phsi)|
+|[bridging the gaps: learning verifiable model-free quadratic programming controllers inspired by model predictive control](https://arxiv.org/abs/2312.05332)|[learning-qp](https://github.com/yiwenlu66/learning-qp)|
+|[hybrid internal model: learning agile legged locomotion with simulated robot response](https://arxiv.org/abs/2312.11460)|[himloco](https://github.com/openrobotlab/himloco)|
+|[$f$-divergence based classification: beyond the use of cross-entropy](https://arxiv.org/abs/2401.01268)|[discriminative-classification-fdiv](https://github.com/tonellolab/discriminative-classification-fdiv)|
+|[families of costs with zero and nonnegative mtw tensor in optimal transport](https://arxiv.org/abs/2401.00953)|[regularmtw](https://github.com/dnguyend/regularmtw)|
 ## 2024-01-02
 |paper|code|
 |---|---|
