@@ -1,3 +1,13 @@
+## 2024-01-04
+|paper|code|
+|---|---|
+|[time-limited balanced truncation for data assimilation problems](https://arxiv.org/abs/2212.07719)|[TLBTforDA](https://github.com/joskoUP/TLBTforDA)|
+|[impact: a toolchain for nonlinear model predictive control specification, prototyping, and deployment](https://arxiv.org/abs/2303.08850)|[impact](https://gitlab.kuleuven.be/meco-software/impact)|
+|[autorl hyperparameter landscapes](https://arxiv.org/abs/2304.02396)|[autorl-landscape](https://github.com/automl/autorl-landscape)|
+|[fast path planning through large collections of safe boxes](https://arxiv.org/abs/2305.01072)|[fastpathplanning](https://github.com/cvxgrp/fastpathplanning)|
+|[fuzzy logic controller design for mobile robot outdoor navigation](https://arxiv.org/abs/2401.01756)|[FuzzyMobileRobotGuidance](https://github.com/WondesenB/FuzzyMobileRobotGuidance)|
+|[iotgem: generalizable models for behaviour-based iot attack detection](https://arxiv.org/abs/2401.01343)|[IoTGeM](https://github.com/kahramankostas/IoTGeM)|
+|[concurrent brainstorming & hypothesis satisfying: an iterative framework for enhanced retrieval-augmented generation (r2cbr3h-sr)](https://arxiv.org/abs/2401.01835)|[r2cbr3h-sr](https://github.com/arash-shahmansoori/r2cbr3h-sr)|
 ## 2024-01-03
 |paper|code|
 |---|---|
