@@ -1,3 +1,12 @@
+## 2024-01-05
+|paper|code|
+|---|---|
+|[exact hierarchical reductions of dynamical models via linear transformations](https://arxiv.org/abs/2301.11653)|[exactodereduction.jl](https://github.com/x3042/exactodereduction.jl)|
+|[improved uncertainty quantification for neural networks with bayesian last layer](https://arxiv.org/abs/2302.10975)|[2023_paper_bll_lml](https://github.com/4flixt/2023_paper_bll_lml)|
+|[a generalizable physics-informed learning framework for risk probability estimation](https://arxiv.org/abs/2305.06432)|[pipe-l4dc](https://github.com/jacobwang925/pipe-l4dc)|
+|[robust regret optimal control](https://arxiv.org/abs/2307.14297)|[Robust_Regret_Optimal_Control](https://github.com/jliu879/Robust_Regret_Optimal_Control)|
+|[transmusic: a transformer-aided subspace method for doa estimation with low-resolution adcs](https://arxiv.org/abs/2309.08174)|[transformer_music](https://github.com/jijunkai/transformer_music)|
+|[introducing packet-level analysis in programmable data planes to advance network intrusion detection](https://arxiv.org/abs/2307.05936)|[p4ddle](https://github.com/risingfbk/p4ddle)|
 ## 2024-01-04
 |paper|code|
 |---|---|
@@ -29,6 +38,7 @@
 |[a declarative goal-oriented framework for smart environments with lpaas](https://arxiv.org/abs/2106.13083)|[Solomon](https://github.com/di-unipi-socc/Solomon)|
 |[adaptive data-driven prediction in a building control hierarchy: a case study of demand response in switzerland](https://arxiv.org/abs/2307.08866)|[risk_src_yingzhao](https://github.com/yingzhaoleo/risk_src_yingzhao)|
 |[bayesian topology inference on partially known networks from input-output pairs](https://arxiv.org/abs/2309.06532)|[inference_langevin](https://github.com/tenceto/inference_langevin)|
+|[a quick primer on machine learning in wireless communications](https://arxiv.org/abs/2312.17713)|[eesc7v86-fall22](https://github.com/farismismar/eesc7v86-fall22)|
 ## 2023-12-29
 |paper|code|
 |---|---|
