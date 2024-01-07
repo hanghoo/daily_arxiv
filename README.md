@@ -15,12 +15,14 @@
 |[autorl hyperparameter landscapes](https://arxiv.org/abs/2304.02396)|[autorl-landscape](https://github.com/automl/autorl-landscape)|
 |[fast path planning through large collections of safe boxes](https://arxiv.org/abs/2305.01072)|[fastpathplanning](https://github.com/cvxgrp/fastpathplanning)|
 |[fuzzy logic controller design for mobile robot outdoor navigation](https://arxiv.org/abs/2401.01756)|[FuzzyMobileRobotGuidance](https://github.com/WondesenB/FuzzyMobileRobotGuidance)|
-|[iotgem: generalizable models for behaviour-based iot attack detection](https://arxiv.org/abs/2401.01343)|[IoTGeM](https://github.com/kahramankostas/IoTGeM)|
+|[iotgem: generalizable models for behaviour-based iot attack detection](https://arxiv.org/abs/2401.01343)|[heriot](https://github.com/kahramankostas/heriot)|
+|[an experimental sorting method for improving metagenomic data encoding](https://arxiv.org/abs/2401.01786)|[mizar](https://github.com/cobilab/mizar)|
 |[concurrent brainstorming & hypothesis satisfying: an iterative framework for enhanced retrieval-augmented generation (r2cbr3h-sr)](https://arxiv.org/abs/2401.01835)|[r2cbr3h-sr](https://github.com/arash-shahmansoori/r2cbr3h-sr)|
 ## 2024-01-03
 |paper|code|
 |---|---|
 |[pseudo-hamiltonian system identification](https://arxiv.org/abs/2305.06920)|[phsi](https://github.com/sintef/phsi)|
+|[data-adaptive graph framelets with generalized vanishing moments for graph signal processing](https://arxiv.org/abs/2309.03537)|[graph-involved-frame](https://github.com/zrgcityu/graph-involved-frame)|
 |[bridging the gaps: learning verifiable model-free quadratic programming controllers inspired by model predictive control](https://arxiv.org/abs/2312.05332)|[learning-qp](https://github.com/yiwenlu66/learning-qp)|
 |[hybrid internal model: learning agile legged locomotion with simulated robot response](https://arxiv.org/abs/2312.11460)|[himloco](https://github.com/openrobotlab/himloco)|
 |[$f$-divergence based classification: beyond the use of cross-entropy](https://arxiv.org/abs/2401.01268)|[discriminative-classification-fdiv](https://github.com/tonellolab/discriminative-classification-fdiv)|
@@ -31,6 +33,7 @@
 |[dictionary attack on imu-based gait authentication](https://arxiv.org/abs/2309.11766)|[dictionaryattackonimugait](https://github.com/rajeshjnu2006/dictionaryattackonimugait)|
 |[low overhead beam alignment for mobile millimeter channel based on continuous-time prediction](https://arxiv.org/abs/2311.01752)|[low-overhead-beam-alignment-prediction](https://github.com/kuanghaoliu/low-overhead-beam-alignment-prediction)|
 |[analyzing generalization in policy networks: a case study with the double-integrator system](https://arxiv.org/abs/2312.10472)|[generalanalyze](https://github.com/han-adam/generalanalyze)|
+|[physics-informed multi-agent reinforcement learning for distributed multi-robot problems](https://arxiv.org/abs/2401.00212)|[phmarl](https://github.com/eduardosebastianrodriguez/phmarl)|
 |[wisegrt: dataset for site-specific indoor radio propagation modeling with 3d segmentation and differentiable ray-tracing](https://arxiv.org/abs/2312.11245)|[wisegrt](https://github.com/sunlab-uga/wisegrt)|
 ## 2024-01-01
 |paper|code|
