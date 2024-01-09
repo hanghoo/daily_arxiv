@@ -1,3 +1,10 @@
+## 2024-01-08
+|paper|code|
+|---|---|
+|[a geometry-based stochastic wireless channel model using channel images](https://arxiv.org/abs/2312.06637)|[geostochasticchanmodel](https://github.com/sk8053/geostochasticchanmodel)|
+|[geo2sigmap: high-fidelity rf signal mapping using geographic databases](https://arxiv.org/abs/2312.14303)|[geo2sigmap](https://github.com/functions-lab/geo2sigmap)|
+|[secure control of connected and automated vehicles using trust-aware robust event-triggered control barrier functions](https://arxiv.org/abs/2401.02306)|[trust_based_cbf](https://github.com/sabbirahmad26/trust_based_cbf)|
+|[credence: augmenting datacenter switch buffer sharing with ml predictions](https://arxiv.org/abs/2401.02801)|[ns3-datacenter](https://github.com/inet-tub/ns3-datacenter)|
 ## 2024-01-05
 |paper|code|
 |---|---|
@@ -14,7 +21,9 @@
 |[impact: a toolchain for nonlinear model predictive control specification, prototyping, and deployment](https://arxiv.org/abs/2303.08850)|[impact](https://gitlab.kuleuven.be/meco-software/impact)|
 |[autorl hyperparameter landscapes](https://arxiv.org/abs/2304.02396)|[autorl-landscape](https://github.com/automl/autorl-landscape)|
 |[fast path planning through large collections of safe boxes](https://arxiv.org/abs/2305.01072)|[fastpathplanning](https://github.com/cvxgrp/fastpathplanning)|
+|[near-field velocity sensing and predictive beamforming](https://arxiv.org/abs/2311.09888)|[near-field-velocity-sensing-and-predictive-beamforming](https://github.com/zhaolin820/near-field-velocity-sensing-and-predictive-beamforming)|
 |[fuzzy logic controller design for mobile robot outdoor navigation](https://arxiv.org/abs/2401.01756)|[FuzzyMobileRobotGuidance](https://github.com/WondesenB/FuzzyMobileRobotGuidance)|
+|[physics-informed appliance signatures generator for energy disaggregation](https://arxiv.org/abs/2401.01828)|[edframe](https://github.com/arx7ti/edframe)|
 |[iotgem: generalizable models for behaviour-based iot attack detection](https://arxiv.org/abs/2401.01343)|[heriot](https://github.com/kahramankostas/heriot)|
 |[an experimental sorting method for improving metagenomic data encoding](https://arxiv.org/abs/2401.01786)|[mizar](https://github.com/cobilab/mizar)|
 |[concurrent brainstorming & hypothesis satisfying: an iterative framework for enhanced retrieval-augmented generation (r2cbr3h-sr)](https://arxiv.org/abs/2401.01835)|[r2cbr3h-sr](https://github.com/arash-shahmansoori/r2cbr3h-sr)|
