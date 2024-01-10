@@ -1,9 +1,23 @@
+## 2024-01-09
+|paper|code|
+|---|---|
+|[a review of path following control strategies for autonomous robotic vehicles: theory, simulations, and experiments](https://arxiv.org/abs/2204.07319)|[path-following-matlab](https://github.com/hungrepo/path-following-matlab)|
+|[qcm-sgm+: improved quantized compressed sensing with score-based generative models](https://arxiv.org/abs/2302.00919)|[qcs-sgm-plus](https://github.com/mengxiangming/qcs-sgm-plus)|
+|[calibration-free online test-time adaptation for electroencephalography motor imagery decoding](https://arxiv.org/abs/2311.18520)|[eeg-otta](https://github.com/martinwimpff/eeg-otta)|
+|[faultformer: pretraining transformers for adaptable bearing fault classification](https://arxiv.org/abs/2312.02380)|[faultformer](https://github.com/anthonyzhou-1/faultformer)|
+|[ensemble kalman filtering meets gaussian process ssm for non-mean-field and online inference](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[safe multi-task bayesian optimization](https://arxiv.org/abs/2312.07281)|[2024-code-l4dc-safe-multi-task-bayesian-optimization](https://github.com/tuhh-ics/2024-code-l4dc-safe-multi-task-bayesian-optimization)|
+|[improving transferability of network intrusion detection in a federated learning setup](https://arxiv.org/abs/2401.03560)|[transferability](https://github.com/ghosh64/transferability)|
+|[version control of speaker recognition systems](https://arxiv.org/abs/2007.12069)|[SpeakerVerSim](https://github.com/wq2012/SpeakerVerSim)|
+|[mementohash: a stateful, minimal memory, best performing consistent hash algorithm](https://arxiv.org/abs/2306.09783)|[java-consistent-hashing-algorithms](https://github.com/supsi-dti-isin/java-consistent-hashing-algorithms)|
 ## 2024-01-08
 |paper|code|
 |---|---|
+|[channel estimation in underdetermined systems utilizing variational autoencoders](https://arxiv.org/abs/2309.08411)|[vae-est-ud](https://github.com/baurmichael/vae-est-ud)|
 |[a geometry-based stochastic wireless channel model using channel images](https://arxiv.org/abs/2312.06637)|[geostochasticchanmodel](https://github.com/sk8053/geostochasticchanmodel)|
 |[geo2sigmap: high-fidelity rf signal mapping using geographic databases](https://arxiv.org/abs/2312.14303)|[geo2sigmap](https://github.com/functions-lab/geo2sigmap)|
 |[secure control of connected and automated vehicles using trust-aware robust event-triggered control barrier functions](https://arxiv.org/abs/2401.02306)|[trust_based_cbf](https://github.com/sabbirahmad26/trust_based_cbf)|
+|[gain scheduling with a neural operator for a transport pde with nonlinear recirculation](https://arxiv.org/abs/2401.02511)|[neuraloperatorapproximatedgainscheduling](https://github.com/lukebhan/neuraloperatorapproximatedgainscheduling)|
 |[credence: augmenting datacenter switch buffer sharing with ml predictions](https://arxiv.org/abs/2401.02801)|[ns3-datacenter](https://github.com/inet-tub/ns3-datacenter)|
 ## 2024-01-05
 |paper|code|
@@ -12,7 +26,9 @@
 |[improved uncertainty quantification for neural networks with bayesian last layer](https://arxiv.org/abs/2302.10975)|[2023_paper_bll_lml](https://github.com/4flixt/2023_paper_bll_lml)|
 |[a generalizable physics-informed learning framework for risk probability estimation](https://arxiv.org/abs/2305.06432)|[pipe-l4dc](https://github.com/jacobwang925/pipe-l4dc)|
 |[robust regret optimal control](https://arxiv.org/abs/2307.14297)|[Robust_Regret_Optimal_Control](https://github.com/jliu879/Robust_Regret_Optimal_Control)|
+|[multi-device task-oriented communication via maximal coding rate reduction](https://arxiv.org/abs/2309.02888)|[taskcommmcr2](https://github.com/chang-cai/taskcommmcr2)|
 |[transmusic: a transformer-aided subspace method for doa estimation with low-resolution adcs](https://arxiv.org/abs/2309.08174)|[transformer_music](https://github.com/jijunkai/transformer_music)|
+|[multi-agent context learning strategy for interference-aware beam allocation in mmwave vehicular communications](https://arxiv.org/abs/2401.02323)|[beam-analysis](https://github.com/cfoh/beam-analysis)|
 |[introducing packet-level analysis in programmable data planes to advance network intrusion detection](https://arxiv.org/abs/2307.05936)|[p4ddle](https://github.com/risingfbk/p4ddle)|
 ## 2024-01-04
 |paper|code|
@@ -22,7 +38,6 @@
 |[autorl hyperparameter landscapes](https://arxiv.org/abs/2304.02396)|[autorl-landscape](https://github.com/automl/autorl-landscape)|
 |[fast path planning through large collections of safe boxes](https://arxiv.org/abs/2305.01072)|[fastpathplanning](https://github.com/cvxgrp/fastpathplanning)|
 |[near-field velocity sensing and predictive beamforming](https://arxiv.org/abs/2311.09888)|[near-field-velocity-sensing-and-predictive-beamforming](https://github.com/zhaolin820/near-field-velocity-sensing-and-predictive-beamforming)|
-|[fuzzy logic controller design for mobile robot outdoor navigation](https://arxiv.org/abs/2401.01756)|[FuzzyMobileRobotGuidance](https://github.com/WondesenB/FuzzyMobileRobotGuidance)|
 |[physics-informed appliance signatures generator for energy disaggregation](https://arxiv.org/abs/2401.01828)|[edframe](https://github.com/arx7ti/edframe)|
 |[iotgem: generalizable models for behaviour-based iot attack detection](https://arxiv.org/abs/2401.01343)|[heriot](https://github.com/kahramankostas/heriot)|
 |[an experimental sorting method for improving metagenomic data encoding](https://arxiv.org/abs/2401.01786)|[mizar](https://github.com/cobilab/mizar)|
