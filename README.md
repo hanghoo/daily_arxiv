@@ -1,3 +1,9 @@
+## 2024-01-10
+|paper|code|
+|---|---|
+|[conformal prediction regions for time series using linear complementarity programming](https://arxiv.org/abs/2304.01075)|[timeparamcpscores](https://github.com/earnedkibbles58/timeparamcpscores)|
+|[adaptive kalmannet: data-driven kalman filter with fast adaptation](https://arxiv.org/abs/2309.07016)|[adaptive-knet-icassp24](https://github.com/kalmannet/adaptive-knet-icassp24)|
+|[online test-time adaptation of spatial-temporal traffic flow forecasting](https://arxiv.org/abs/2401.04148)|[adcsd](https://github.com/pengxin-guo/adcsd)|
 ## 2024-01-09
 |paper|code|
 |---|---|
@@ -7,7 +13,10 @@
 |[faultformer: pretraining transformers for adaptable bearing fault classification](https://arxiv.org/abs/2312.02380)|[faultformer](https://github.com/anthonyzhou-1/faultformer)|
 |[ensemble kalman filtering meets gaussian process ssm for non-mean-field and online inference](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
 |[safe multi-task bayesian optimization](https://arxiv.org/abs/2312.07281)|[2024-code-l4dc-safe-multi-task-bayesian-optimization](https://github.com/tuhh-ics/2024-code-l4dc-safe-multi-task-bayesian-optimization)|
+|[impact: interval mdp parallel construction for controller synthesis of large-scale stochastic systems](https://arxiv.org/abs/2401.03555)|[impact](https://github.com/kiguli/impact)|
 |[improving transferability of network intrusion detection in a federated learning setup](https://arxiv.org/abs/2401.03560)|[transferability](https://github.com/ghosh64/transferability)|
+|[ddd: a perceptually superior low-response-time dnn-based declipper](https://arxiv.org/abs/2401.03650)|[ddd](https://github.com/stet-stet/ddd)|
+|[lofi user scheduling for multiuser mimo wireless systems](https://arxiv.org/abs/2401.04077)|[lofi-user-scheduling](https://github.com/iip-group/lofi-user-scheduling)|
 |[version control of speaker recognition systems](https://arxiv.org/abs/2007.12069)|[SpeakerVerSim](https://github.com/wq2012/SpeakerVerSim)|
 |[mementohash: a stateful, minimal memory, best performing consistent hash algorithm](https://arxiv.org/abs/2306.09783)|[java-consistent-hashing-algorithms](https://github.com/supsi-dti-isin/java-consistent-hashing-algorithms)|
 ## 2024-01-08
