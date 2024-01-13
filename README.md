@@ -1,3 +1,23 @@
+## 2024-01-12
+|paper|code|
+|---|---|
+|[task-oriented communication with out-of-distribution detection: an information bottleneck framework](https://arxiv.org/abs/2305.12423)|[VCCIB](https://github.com/hlidmhkust/VCCIB)|
+|[adf & transapp: a transformer-based framework for appliance detection using smart meter consumption series](https://arxiv.org/abs/2401.05381)|[transapp](https://github.com/adrienpetralia/transapp)|
+|[an experimental evaluation of deep reinforcement learning algorithms for hvac control](https://arxiv.org/abs/2401.05737)|[paper-drl_building](https://github.com/ugr-sail/paper-drl_building)|
+## 2024-01-11
+|paper|code|
+|---|---|
+|[verifiable obstacle detection](https://arxiv.org/abs/2208.14403)|[verifiable-od](https://github.com/cps-il/verifiable-od)|
+|[closed-loop koopman operator approximation](https://arxiv.org/abs/2303.15318)|[closed_loop_koopman](https://github.com/decargroup/closed_loop_koopman)|
+|[model selection for risk analysis of wastewater networks](https://arxiv.org/abs/2312.06623)|[ww-model-selection](https://github.com/ajdunton/ww-model-selection)|
+|[fuzzy logic controller design for mobile robot outdoor navigation](https://arxiv.org/abs/2401.01756)|[FuzzyMobileRobotGuidance](https://github.com/WondesenB/FuzzyMobileRobotGuidance)|
+|[a convex optimization approach to compute trapping regions for lossless quadratic systems](https://arxiv.org/abs/2401.04787)|[boundedness_losslessquadsys](https://github.com/scliao47/boundedness_losslessquadsys)|
+|[t-prime: transformer-based protocol identification for machine-learning at the edge](https://arxiv.org/abs/2401.04837)|[t-prime](https://github.com/genesys-neu/t-prime)|
+|[occupancy prediction for building energy systems with latent force models](https://arxiv.org/abs/2401.05074)|[occupancy-benchmark-dataset](https://github.com/thorewietzke/occupancy-benchmark-dataset)|
+|[on the salient limitations of the methods of assembly theory and their classification of molecular biosignatures](https://arxiv.org/abs/2210.00901)|[mscomplexity](https://github.com/abicumaran/mscomplexity)|
+|[in search of maximum non-overlapping codes](https://arxiv.org/abs/2307.12593)|[nono-codes](https://github.com/magdevska/nono-codes)|
+|[fairq: fair and fast rate allocation in data centers](https://arxiv.org/abs/2401.04850)|[rwndq](https://github.com/ahmedcs/rwndq)|
+|[distributed experimental design networks](https://arxiv.org/abs/2401.04996)|[distributednetworklearning](https://github.com/neu-spiral/distributednetworklearning)|
 ## 2024-01-10
 |paper|code|
 |---|---|
