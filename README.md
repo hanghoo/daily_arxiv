@@ -1,3 +1,15 @@
+## 2024-01-15
+|paper|code|
+|---|---|
+|[robust peak detection for holter ecgs by self-organized operational neural networks](https://arxiv.org/abs/2110.02381)|[r-peak-detection-1d-selfonn](https://github.com/muzairzahid/r-peak-detection-1d-selfonn)|
+|[learning temporal resolution in spectrogram for audio classification](https://arxiv.org/abs/2210.01719)|[diffres-python](https://github.com/haoheliu/diffres-python)|
+|[emergency response person localization and vital sign estimation using a semi-autonomous robot mounted sfcw radar](https://arxiv.org/abs/2305.15795)|[radar-vitals-estimation](https://github.com/schrchr/radar-vitals-estimation)|
+|[semantic-forward relaying: a novel framework towards 6g cooperative communications](https://arxiv.org/abs/2310.07987)|[Semantic_Forward](https://github.com/linwest/Semantic_Forward)|
+|[generalizable sleep staging via multi-level domain alignment](https://arxiv.org/abs/2401.05363)|[sleepdg](https://github.com/wjq-learning/sleepdg)|
+|[block majorization minimization with extrapolation and application to $\beta$-nmf](https://arxiv.org/abs/2401.06646)|[bmme](https://github.com/vleplat/bmme)|
+|[zest: attention-based zero-shot learning for unseen iot device classification](https://arxiv.org/abs/2310.08036)|[ZEST](https://github.com/Binghui99/ZEST)|
+|[secure targeted message dissemination in iot using blockchain enabled edge computing](https://arxiv.org/abs/2401.06384)|[Blockchain-IoT](https://github.com/mbaqer/Blockchain-IoT)|
+|[netmind: adaptive ran baseband function placement by gcn encoding and maze-solving drl](https://arxiv.org/abs/2401.06722)|[NetMind-Baseband-Function-Placement-with-GCN-Encoding-and-Maze-solving-DRL-for-advanced-RAN](https://github.com/OCEAN-98/NetMind-Baseband-Function-Placement-with-GCN-Encoding-and-Maze-solving-DRL-for-advanced-RAN)|
 ## 2024-01-12
 |paper|code|
 |---|---|
