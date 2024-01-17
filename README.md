@@ -9,7 +9,6 @@
 |[block majorization minimization with extrapolation and application to $\beta$-nmf](https://arxiv.org/abs/2401.06646)|[bmme](https://github.com/vleplat/bmme)|
 |[zest: attention-based zero-shot learning for unseen iot device classification](https://arxiv.org/abs/2310.08036)|[ZEST](https://github.com/Binghui99/ZEST)|
 |[secure targeted message dissemination in iot using blockchain enabled edge computing](https://arxiv.org/abs/2401.06384)|[Blockchain-IoT](https://github.com/mbaqer/Blockchain-IoT)|
-|[netmind: adaptive ran baseband function placement by gcn encoding and maze-solving drl](https://arxiv.org/abs/2401.06722)|[NetMind-Baseband-Function-Placement-with-GCN-Encoding-and-Maze-solving-DRL-for-advanced-RAN](https://github.com/OCEAN-98/NetMind-Baseband-Function-Placement-with-GCN-Encoding-and-Maze-solving-DRL-for-advanced-RAN)|
 ## 2024-01-12
 |paper|code|
 |---|---|
@@ -19,6 +18,8 @@
 |[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
 |[selfeeg: a python library for self-supervised learning in electroencephalography](https://arxiv.org/abs/2401.05405)|[selfeeg](https://github.com/medmaxlab/selfeeg)|
 |[rfrl gym: a reinforcement learning testbed for cognitive radio applications](https://arxiv.org/abs/2401.05406)|[rfrl-gym](https://github.com/vtnsisdd/rfrl-gym)|
+|[seamless and multi-resolution energy forecasting](https://arxiv.org/abs/2401.05413)|[multiresolutionforecasting](https://github.com/willwang1113/multiresolutionforecasting)|
+|[pulsatiomech: an open-source matlab toolbox for seismocardiography signal processing](https://arxiv.org/abs/2401.05480)|[scg_master_toolbox](https://github.com/nzavanelli/scg_master_toolbox)|
 |[weiss-weinstein bound of frequency estimation error for very weak gnss signals](https://arxiv.org/abs/2401.05606)|[WWB](https://github.com/TMBOC/WWB)|
 |[an experimental evaluation of deep reinforcement learning algorithms for hvac control](https://arxiv.org/abs/2401.05737)|[paper-drl_building](https://github.com/ugr-sail/paper-drl_building)|
 ## 2024-01-11
