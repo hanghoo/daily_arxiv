@@ -1,3 +1,26 @@
+## 2024-01-17
+|paper|code|
+|---|---|
+|[resource-efficient separation transformer](https://arxiv.org/abs/2206.09507)|[speechbrain](https://github.com/speechbrain/speechbrain)|
+|[optimal discrete beamforming of ris-aided wireless communications: an inner product maximization approach](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
+|[pontryagin optimal control via neural networks](https://arxiv.org/abs/2212.14566)|[neuralpmp2024](https://github.com/chengyanggu/neuralpmp2024)|
+|[koopman kernel regression](https://arxiv.org/abs/2305.16215)|[koopcore](https://github.com/TUM-ITR/koopcore)|
+|[information-based preprocessing of plc data for automatic behavior modeling](https://arxiv.org/abs/2307.15404)|[information_based_preprocessing](https://github.com/gramj/information_based_preprocessing)|
+|[ensemble kalman filtering meets gaussian process ssm for non-mean-field and online inference](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[frequency analysis and filter design for directed graphs with polar decomposition](https://arxiv.org/abs/2312.11421)|[ICASSP2024](https://github.com/semink/ICASSP2024)|
+|[unsupervised harmonic parameter estimation using differentiable dsp and spectral optimal transport](https://arxiv.org/abs/2312.14507)|[1d-spectral-optimal-transport](https://github.com/bernardo-torres/1d-spectral-optimal-transport)|
+|[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
+|[trust from ethical point of view: exploring dynamics through multiagent-driven cognitive modeling](https://arxiv.org/abs/2401.07255)|[ethical-trust-cognitive-modeling](https://github.com/abbas-tari/ethical-trust-cognitive-modeling)|
+|[input convex lipschitz rnn: a fast and robust approach for engineering tasks](https://arxiv.org/abs/2401.07494)|[iclrnn](https://github.com/killingbear999/iclrnn)|
+|[remaining useful life prediction for aircraft engines using lstm](https://arxiv.org/abs/2401.07590)|[rul-prediction](https://github.com/aneesperingal/rul-prediction)|
+|[enforcing contraction via data](https://arxiv.org/abs/2401.07819)|[codes-for-contraction-paper](https://github.com/zjhurug/codes-for-contraction-paper)|
+|[adaptive neural-operator backstepping control of a benchmark hyperbolic pde](https://arxiv.org/abs/2401.07862)|[neuraloperatoradaptivecontrol](https://github.com/lukebhan/neuraloperatoradaptivecontrol)|
+|[calibration of an ska-low prototype station using holographic techniques](https://arxiv.org/abs/2401.08039)|[zenodo.8237885](https://zenodo.org/record/zenodo.8237885)|
+|[opendpd: an open-source end-to-end learning & benchmarking framework for wideband power amplifier modeling and digital pre-distortion](https://arxiv.org/abs/2401.08318)|[opendpd](https://github.com/lab-emi/opendpd)|
+|[on the robustness of deep learning-predicted contention models for network calculus](https://arxiv.org/abs/1911.10522)|[dataset-deeptma-extension](https://github.com/fabgeyer/dataset-deeptma-extension)|
+|[reliability and latency analysis for wireless communication systems with a secret-key budget](https://arxiv.org/abs/2304.02538)|[secret-key-budget-ruin](https://github.com/klb2/secret-key-budget-ruin)|
+|[netmind: adaptive ran baseband function placement by gcn encoding and maze-solving drl](https://arxiv.org/abs/2401.06722)|[NetMind-Baseband-Function-Placement-with-GCN-Encoding-and-Maze-solving-DRL-for-advanced-RAN](https://github.com/OCEAN-98/NetMind-Baseband-Function-Placement-with-GCN-Encoding-and-Maze-solving-DRL-for-advanced-RAN)|
+|[vehicle selection for c-v2x mode 4 based federated edge learning systems](https://arxiv.org/abs/2401.07224)|[vehicle-selection-for-c-v2x](https://github.com/qiongwu86/vehicle-selection-for-c-v2x)|
 ## 2024-01-15
 |paper|code|
 |---|---|
@@ -15,7 +38,6 @@
 |[task-oriented communication with out-of-distribution detection: an information bottleneck framework](https://arxiv.org/abs/2305.12423)|[VCCIB](https://github.com/hlidmhkust/VCCIB)|
 |[online action recognition for human risk prediction with anticipated haptic alert via wearables](https://arxiv.org/abs/2401.05365)|[paper_guo_2023_humanoids_lifting_risk_prediction](https://github.com/ami-iit/paper_guo_2023_humanoids_lifting_risk_prediction)|
 |[adf & transapp: a transformer-based framework for appliance detection using smart meter consumption series](https://arxiv.org/abs/2401.05381)|[transapp](https://github.com/adrienpetralia/transapp)|
-|[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
 |[selfeeg: a python library for self-supervised learning in electroencephalography](https://arxiv.org/abs/2401.05405)|[selfeeg](https://github.com/medmaxlab/selfeeg)|
 |[rfrl gym: a reinforcement learning testbed for cognitive radio applications](https://arxiv.org/abs/2401.05406)|[rfrl-gym](https://github.com/vtnsisdd/rfrl-gym)|
 |[seamless and multi-resolution energy forecasting](https://arxiv.org/abs/2401.05413)|[multiresolutionforecasting](https://github.com/willwang1113/multiresolutionforecasting)|
