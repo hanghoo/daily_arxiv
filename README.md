@@ -1,3 +1,16 @@
+## 2024-01-19
+|paper|code|
+|---|---|
+|[group-level brain decoding with deep learning](https://arxiv.org/abs/2205.14102)|[meg-group-decode](https://github.com/ricsinaruto/meg-group-decode)|
+|[input convex lstm: a convex approach for fast lyapunov-based model predictive control](https://arxiv.org/abs/2311.07202)|[iclstm](https://github.com/killingbear999/iclstm)|
+|[multi-agent reinforcement learning via distributed mpc as a function approximator](https://arxiv.org/abs/2312.05166)|[dmpcrl-concept](https://github.com/SamuelMallick/dmpcrl-concept)|
+|[port-hamiltonian neural ode networks on lie groups for robot dynamics learning and control](https://arxiv.org/abs/2401.09520)|[LieGroupHamDL](https://github.com/thaipduong/LieGroupHamDL)|
+|[physics-informed calibration of aeromagnetic compensation in magnetic navigation systems using liquid time-constant networks](https://arxiv.org/abs/2401.09631)|[lnns_magnav](https://github.com/fnerrise/lnns_magnav)|
+|[a comparison benchmark for distributed hybrid mpc control methods: distributed vehicle platooning](https://arxiv.org/abs/2401.09878)|[hybrid-vehicle-platoon](https://github.com/SamuelMallick/hybrid-vehicle-platoon)|
+|[pac codes: sequential decoding vs list decoding](https://arxiv.org/abs/2002.06805)|[List-Decoding-for-Polar-and-PAC-Codes](https://github.com/mohammad-rowshan/List-Decoding-for-Polar-and-PAC-Codes)|
+|[recovering simultaneously structured data via non-convex iteratively reweighted least squares](https://arxiv.org/abs/2306.04961)|[simirls](https://github.com/ckuemmerle/simirls)|
+|[learn to categorize or categorize to learn? self-coding for generalized category discovery](https://arxiv.org/abs/2310.19776)|[infosieve](https://github.com/sarahrastegar/infosieve)|
+|[a quick primer on machine learning in wireless communications](https://arxiv.org/abs/2312.17713)|[eesc7v86-fall22](https://github.com/farismismar/eesc7v86-fall22)|
 ## 2024-01-18
 |paper|code|
 |---|---|
@@ -9,6 +22,7 @@
 |[greedy poisson rejection sampling](https://arxiv.org/abs/2305.15313)|[greedy-poisson-rejection-sampling](https://github.com/gergely-flamich/greedy-poisson-rejection-sampling)|
 |[algebra of nonlocal boxes and the collapse of communication complexity](https://arxiv.org/abs/2312.00725)|[algebra-of-boxes-code](https://github.com/pierre-botteron/algebra-of-boxes-code)|
 |[bayes conditional distribution estimation for knowledge distillation based on conditional mutual information](https://arxiv.org/abs/2401.08732)|[iclrmcmi](https://github.com/iclr2024mcmi/iclrmcmi)|
+|[a fast control plane for a large-scale and high-speed optical circuit switch system](https://arxiv.org/abs/2401.09284)|[meow-rest](https://github.com/ryousei/meow-rest)|
 ## 2024-01-17
 |paper|code|
 |---|---|
