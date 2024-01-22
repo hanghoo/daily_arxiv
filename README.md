@@ -1,13 +1,10 @@
 ## 2024-01-19
 |paper|code|
 |---|---|
-|[group-level brain decoding with deep learning](https://arxiv.org/abs/2205.14102)|[meg-group-decode](https://github.com/ricsinaruto/meg-group-decode)|
 |[on fast-converged deep reinforcement learning for optimal dispatch of large-scale power systems under transient security constraints](https://arxiv.org/abs/2304.08320)|[fcdrl_tscopf](https://github.com/xxh0523/fcdrl_tscopf)|
-|[input convex lstm: a convex approach for fast lyapunov-based model predictive control](https://arxiv.org/abs/2311.07202)|[iclstm](https://github.com/killingbear999/iclstm)|
 |[multi-agent reinforcement learning via distributed mpc as a function approximator](https://arxiv.org/abs/2312.05166)|[dmpcrl-concept](https://github.com/SamuelMallick/dmpcrl-concept)|
 |[port-hamiltonian neural ode networks on lie groups for robot dynamics learning and control](https://arxiv.org/abs/2401.09520)|[LieGroupHamDL](https://github.com/thaipduong/LieGroupHamDL)|
 |[physics-informed calibration of aeromagnetic compensation in magnetic navigation systems using liquid time-constant networks](https://arxiv.org/abs/2401.09631)|[lnns_magnav](https://github.com/fnerrise/lnns_magnav)|
-|[a comparison benchmark for distributed hybrid mpc control methods: distributed vehicle platooning](https://arxiv.org/abs/2401.09878)|[hybrid-vehicle-platoon](https://github.com/SamuelMallick/hybrid-vehicle-platoon)|
 |[learning to extract distributed polarization sensing data from noisy jones matrices](https://arxiv.org/abs/2401.09917)|[physics-based-distributed-polarization-sensing](https://github.com/mohammadfarsi1994/physics-based-distributed-polarization-sensing)|
 |[pac codes: sequential decoding vs list decoding](https://arxiv.org/abs/2002.06805)|[List-Decoding-for-Polar-and-PAC-Codes](https://github.com/mohammad-rowshan/List-Decoding-for-Polar-and-PAC-Codes)|
 |[recovering simultaneously structured data via non-convex iteratively reweighted least squares](https://arxiv.org/abs/2306.04961)|[simirls](https://github.com/ckuemmerle/simirls)|
@@ -39,7 +36,6 @@
 |[unsupervised harmonic parameter estimation using differentiable dsp and spectral optimal transport](https://arxiv.org/abs/2312.14507)|[1d-spectral-optimal-transport](https://github.com/bernardo-torres/1d-spectral-optimal-transport)|
 |[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
 |[trust from ethical point of view: exploring dynamics through multiagent-driven cognitive modeling](https://arxiv.org/abs/2401.07255)|[ethical-trust-cognitive-modeling](https://github.com/abbas-tari/ethical-trust-cognitive-modeling)|
-|[input convex lipschitz rnn: a fast and robust approach for engineering tasks](https://arxiv.org/abs/2401.07494)|[iclrnn](https://github.com/killingbear999/iclrnn)|
 |[remaining useful life prediction for aircraft engines using lstm](https://arxiv.org/abs/2401.07590)|[rul-prediction](https://github.com/aneesperingal/rul-prediction)|
 |[enforcing contraction via data](https://arxiv.org/abs/2401.07819)|[codes-for-contraction-paper](https://github.com/zjhurug/codes-for-contraction-paper)|
 |[adaptive neural-operator backstepping control of a benchmark hyperbolic pde](https://arxiv.org/abs/2401.07862)|[neuraloperatoradaptivecontrol](https://github.com/lukebhan/neuraloperatoradaptivecontrol)|
