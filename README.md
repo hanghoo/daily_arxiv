@@ -1,3 +1,14 @@
+## 2024-01-22
+|paper|code|
+|---|---|
+|[adaptive observers for biophysical neuronal circuits](https://arxiv.org/abs/2111.02176)|[online-learning](https://github.com/thiagoburghi/online-learning)|
+|[group-level brain decoding with deep learning](https://arxiv.org/abs/2205.14102)|[meg-group-decode](https://github.com/ricsinaruto/meg-group-decode)|
+|[mutual information-based integrated sensing and communications: a wmmse framework](https://arxiv.org/abs/2310.12686)|[MI-based-WMMSE-ISAC-algorithm](https://github.com/ROCASSO/MI-based-WMMSE-ISAC-algorithm)|
+|[input convex lstm: a convex approach for fast lyapunov-based model predictive control](https://arxiv.org/abs/2311.07202)|[iclstm](https://github.com/killingbear999/iclstm)|
+|[input convex lipschitz rnn: a fast and robust approach for engineering tasks](https://arxiv.org/abs/2401.07494)|[iclrnn](https://github.com/killingbear999/iclrnn)|
+|[a comparison benchmark for distributed hybrid mpc control methods: distributed vehicle platooning](https://arxiv.org/abs/2401.09878)|[hybrid-vehicle-platoon](https://github.com/SamuelMallick/hybrid-vehicle-platoon)|
+|[attentive fusion: a transformer-based approach to multimodal hate speech detection](https://arxiv.org/abs/2401.10653)|[Multimodality-Hate-Speech-Identification](https://github.com/atanumandal0491/Multimodality-Hate-Speech-Identification)|
+|[a novel maximum-entropy-driven technique for low-rank orthogonal nonnegative matrix factorization with $\ell_0$-norm sparsity constraint](https://arxiv.org/abs/2210.02672)|[mep-orthogonal-nmf](https://github.com/salar96/mep-orthogonal-nmf)|
 ## 2024-01-19
 |paper|code|
 |---|---|
@@ -6,6 +17,7 @@
 |[port-hamiltonian neural ode networks on lie groups for robot dynamics learning and control](https://arxiv.org/abs/2401.09520)|[LieGroupHamDL](https://github.com/thaipduong/LieGroupHamDL)|
 |[physics-informed calibration of aeromagnetic compensation in magnetic navigation systems using liquid time-constant networks](https://arxiv.org/abs/2401.09631)|[lnns_magnav](https://github.com/fnerrise/lnns_magnav)|
 |[learning to extract distributed polarization sensing data from noisy jones matrices](https://arxiv.org/abs/2401.09917)|[physics-based-distributed-polarization-sensing](https://github.com/mohammadfarsi1994/physics-based-distributed-polarization-sensing)|
+|[a-kit: adaptive kalman-informed transformer](https://arxiv.org/abs/2401.09987)|[a-kit](https://github.com/ansfl/a-kit)|
 |[pac codes: sequential decoding vs list decoding](https://arxiv.org/abs/2002.06805)|[List-Decoding-for-Polar-and-PAC-Codes](https://github.com/mohammad-rowshan/List-Decoding-for-Polar-and-PAC-Codes)|
 |[recovering simultaneously structured data via non-convex iteratively reweighted least squares](https://arxiv.org/abs/2306.04961)|[simirls](https://github.com/ckuemmerle/simirls)|
 |[learn to categorize or categorize to learn? self-coding for generalized category discovery](https://arxiv.org/abs/2310.19776)|[infosieve](https://github.com/sarahrastegar/infosieve)|
