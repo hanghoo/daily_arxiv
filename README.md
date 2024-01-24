@@ -1,3 +1,16 @@
+## 2024-01-23
+|paper|code|
+|---|---|
+|[the icanclean algorithm: how to remove artifacts using reference noise recordings](https://arxiv.org/abs/2201.11798)|[iCanClean](https://github.com/downeyryanj/iCanClean)|
+|[the manifold scattering transform for high-dimensional point cloud data](https://arxiv.org/abs/2206.10078)|[pointcloud_scattering](https://github.com/steachhr/pointcloud_scattering)|
+|[eigenvalue mapping-based discretization of the generalized super-twisting algorithm](https://arxiv.org/abs/2209.03825)|[semi-implicit-of-gsta](https://github.com/hmx2013/semi-implicit-of-gsta)|
+|[identifying tbi physiological states by clustering multivariate clinical time-series data](https://arxiv.org/abs/2303.13024)|[slac-time](https://github.com/vsubbian/slac-time)|
+|[contraction-guided adaptive partitioning for reachability analysis of neural network controlled systems](https://arxiv.org/abs/2304.03671)|[reachmm_cdc2023](https://github.com/gtfactslab/reachmm_cdc2023)|
+|[modulate your spectrum in self-supervised learning](https://arxiv.org/abs/2305.16789)|[intl](https://github.com/winci-ai/intl)|
+|[forward invariance in neural network controlled systems](https://arxiv.org/abs/2309.09043)|[harapanahalli_lcss2024](https://github.com/gtfactslab/harapanahalli_lcss2024)|
+|[congestion-aware distributed task offloading in wireless multi-hop networks using graph neural networks](https://arxiv.org/abs/2312.02471)|[multihop-offload](https://github.com/zhongyuanzhao/multihop-offload)|
+|[nlcg-net: a model-based zero-shot learning framework for undersampled quantitative mri reconstruction](https://arxiv.org/abs/2401.12004)|[NLCG-Net](https://github.com/Xinrui-Jiang/NLCG-Net)|
+|[in-context learning for mimo equalization using transformer-based sequence models](https://arxiv.org/abs/2311.06101)|[icl-equalization](https://github.com/kclip/icl-equalization)|
 ## 2024-01-22
 |paper|code|
 |---|---|
@@ -7,13 +20,19 @@
 |[input convex lstm: a convex approach for fast lyapunov-based model predictive control](https://arxiv.org/abs/2311.07202)|[iclstm](https://github.com/killingbear999/iclstm)|
 |[input convex lipschitz rnn: a fast and robust approach for engineering tasks](https://arxiv.org/abs/2401.07494)|[iclrnn](https://github.com/killingbear999/iclrnn)|
 |[a comparison benchmark for distributed hybrid mpc control methods: distributed vehicle platooning](https://arxiv.org/abs/2401.09878)|[hybrid-vehicle-platoon](https://github.com/SamuelMallick/hybrid-vehicle-platoon)|
-|[attentive fusion: a transformer-based approach to multimodal hate speech detection](https://arxiv.org/abs/2401.10653)|[Multimodality-Hate-Speech-Identification](https://github.com/atanumandal0491/Multimodality-Hate-Speech-Identification)|
+|[chaotic properties of an fir filtered h\'enon map](https://arxiv.org/abs/2401.10281)|[chaotic-properties-of-an-fir-filtered-henon-map](https://github.com/vinicius-s-borges/chaotic-properties-of-an-fir-filtered-henon-map)|
+|[window stacking meta-models for clinical eeg classification](https://arxiv.org/abs/2401.10283)|[eegscopeandarbitration](https://github.com/zhuyixuan1997/eegscopeandarbitration)|
+|[morpheusnet: resource efficient sleep stage classifier for embedded on-line systems](https://arxiv.org/abs/2401.10284)|[morphuesnet](https://github.com/ali77sina/morphuesnet)|
+|[learning non-myopic power allocation in constrained scenarios](https://arxiv.org/abs/2401.10297)|[nmpa](https://github.com/archo48/nmpa)|
+|[hierarchical federated learning in multi-hop cluster-based vanets](https://arxiv.org/abs/2401.10361)|[vanet](https://github.com/saeedhaghighi/vanet)|
+|[attentive fusion: a transformer-based approach to multimodal hate speech detection](https://arxiv.org/abs/2401.10653)|[hate-speech-identification](https://github.com/atanumandal0491/hate-speech-identification)|
 |[a novel maximum-entropy-driven technique for low-rank orthogonal nonnegative matrix factorization with $\ell_0$-norm sparsity constraint](https://arxiv.org/abs/2210.02672)|[mep-orthogonal-nmf](https://github.com/salar96/mep-orthogonal-nmf)|
 ## 2024-01-19
 |paper|code|
 |---|---|
 |[on fast-converged deep reinforcement learning for optimal dispatch of large-scale power systems under transient security constraints](https://arxiv.org/abs/2304.08320)|[fcdrl_tscopf](https://github.com/xxh0523/fcdrl_tscopf)|
 |[multi-agent reinforcement learning via distributed mpc as a function approximator](https://arxiv.org/abs/2312.05166)|[dmpcrl-concept](https://github.com/SamuelMallick/dmpcrl-concept)|
+|[a modified aaa algorithm for learning stable reduced-order models from data](https://arxiv.org/abs/2312.16978)|[stabaaa](https://github.com/tombradde/stabaaa)|
 |[port-hamiltonian neural ode networks on lie groups for robot dynamics learning and control](https://arxiv.org/abs/2401.09520)|[LieGroupHamDL](https://github.com/thaipduong/LieGroupHamDL)|
 |[physics-informed calibration of aeromagnetic compensation in magnetic navigation systems using liquid time-constant networks](https://arxiv.org/abs/2401.09631)|[lnns_magnav](https://github.com/fnerrise/lnns_magnav)|
 |[learning to extract distributed polarization sensing data from noisy jones matrices](https://arxiv.org/abs/2401.09917)|[physics-based-distributed-polarization-sensing](https://github.com/mohammadfarsi1994/physics-based-distributed-polarization-sensing)|
