@@ -1,3 +1,14 @@
+## 2024-01-24
+|paper|code|
+|---|---|
+|[continuous-time control synthesis under nested signal temporal logic specifications](https://arxiv.org/abs/2309.14347)|[stlt](https://github.com/xiaotankth/stlt)|
+|[dissipative quadratizations of polynomial ode systems](https://arxiv.org/abs/2311.02508)|[dqbee](https://github.com/yubocai-poly/dqbee)|
+|[afs-bm: enhancing model performance through adaptive feature selection with binary masking](https://arxiv.org/abs/2401.11250)|[afs_bm-algorithm](https://github.com/yigitturali/afs_bm-algorithm)|
+|[a review of deep learning methods for photoplethysmography data](https://arxiv.org/abs/2401.12783)|[dl_ppg_review](https://github.com/ngk03/dl_ppg_review)|
+|[entanglement purification with quantum ldpc codes and iterative decoding](https://arxiv.org/abs/2210.14143)|[ghz_distillation_qec](https://github.com/nrenga/ghz_distillation_qec)|
+|[statistical mechanics of the maximum-average submatrix problem](https://arxiv.org/abs/2303.05237)|[Maximum-Average-Submatrix](https://github.com/SPOC-group/Maximum-Average-Submatrix)|
+|[supervising smart home device interactions: a profile-based firewall approach](https://arxiv.org/abs/2310.03510)|[smart-home-firewall](https://github.com/franklin5168/smart-home-firewall)|
+|[multi-sources information fusion learning for multi-points nlos localization](https://arxiv.org/abs/2401.12538)|[AMDNloc](https://github.com/Horizontal666/AMDNloc)|
 ## 2024-01-23
 |paper|code|
 |---|---|
