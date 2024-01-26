@@ -1,27 +1,43 @@
+## 2024-01-25
+|paper|code|
+|---|---|
+|[data-driven estimation of capacity upper bounds](https://arxiv.org/abs/2205.06471)|[upper_capacity_bounds](https://github.com/chaeger/upper_capacity_bounds)|
+|[differentially private distributed estimation and learning](https://arxiv.org/abs/2306.15865)|[dp-distributed-estimation](https://github.com/papachristoumarios/dp-distributed-estimation)|
+|[adversarial imitation learning from visual observations using latent information](https://arxiv.org/abs/2309.17371)|[ail_from_visual_obs](https://github.com/vittoriogiammarino/ail_from_visual_obs)|
+|[opendpd: an open-source end-to-end learning & benchmarking framework for wideband power amplifier modeling and digital pre-distortion](https://arxiv.org/abs/2401.08318)|[opendpd](https://github.com/lab-emi/opendpd)|
+|[nlbac: a neural ordinary differential equations-based framework for stable and safe reinforcement learning](https://arxiv.org/abs/2401.13148)|[neural-ordinary-differential-equations-based-lyapunov-barrier-actor-critic-nlbac](https://github.com/liqunzhao/neural-ordinary-differential-equations-based-lyapunov-barrier-actor-critic-nlbac)|
+|[a generalized multiscale bundle-based hyperspectral sparse unmixing algorithm](https://arxiv.org/abs/2401.13161)|[gmbua](https://github.com/lucayress/gmbua)|
+|[diffusion model based posterior sampling for noisy linear inverse problems](https://arxiv.org/abs/2211.12343)|[dmps](https://github.com/mengxiangming/dmps)|
 ## 2024-01-24
 |paper|code|
 |---|---|
-|[continuous-time control synthesis under nested signal temporal logic specifications](https://arxiv.org/abs/2309.14347)|[stlt](https://github.com/xiaotankth/stlt)|
-|[dissipative quadratizations of polynomial ode systems](https://arxiv.org/abs/2311.02508)|[dqbee](https://github.com/yubocai-poly/dqbee)|
+|[on the existence of steady-state solutions to the equations governing fluid flow in networks](https://arxiv.org/abs/2309.04494)|[existencegasflowruns](https://github.com/kaarthiksundar/existencegasflowruns)|
+|[continuous-time control synthesis under nested signal temporal logic specifications](https://arxiv.org/abs/2309.14347)|[stlt](https://github.com/xiaotan-git/stlt)|
 |[afs-bm: enhancing model performance through adaptive feature selection with binary masking](https://arxiv.org/abs/2401.11250)|[afs_bm-algorithm](https://github.com/yigitturali/afs_bm-algorithm)|
+|[towards adaptive subspace detection in heterogeneous environment](https://arxiv.org/abs/2401.12469)|[heterogeneous_detector](https://github.com/arekavandi/heterogeneous_detector)|
 |[a review of deep learning methods for photoplethysmography data](https://arxiv.org/abs/2401.12783)|[dl_ppg_review](https://github.com/ngk03/dl_ppg_review)|
 |[entanglement purification with quantum ldpc codes and iterative decoding](https://arxiv.org/abs/2210.14143)|[ghz_distillation_qec](https://github.com/nrenga/ghz_distillation_qec)|
 |[statistical mechanics of the maximum-average submatrix problem](https://arxiv.org/abs/2303.05237)|[Maximum-Average-Submatrix](https://github.com/SPOC-group/Maximum-Average-Submatrix)|
 |[supervising smart home device interactions: a profile-based firewall approach](https://arxiv.org/abs/2310.03510)|[smart-home-firewall](https://github.com/franklin5168/smart-home-firewall)|
 |[multi-sources information fusion learning for multi-points nlos localization](https://arxiv.org/abs/2401.12538)|[AMDNloc](https://github.com/Horizontal666/AMDNloc)|
+|[availability-aware service placement policy in fog computing based on graph partitions](https://arxiv.org/abs/2401.12690)|[YAFS](https://github.com/acsicuib/YAFS)|
 ## 2024-01-23
 |paper|code|
 |---|---|
 |[the icanclean algorithm: how to remove artifacts using reference noise recordings](https://arxiv.org/abs/2201.11798)|[iCanClean](https://github.com/downeyryanj/iCanClean)|
 |[the manifold scattering transform for high-dimensional point cloud data](https://arxiv.org/abs/2206.10078)|[pointcloud_scattering](https://github.com/steachhr/pointcloud_scattering)|
-|[eigenvalue mapping-based discretization of the generalized super-twisting algorithm](https://arxiv.org/abs/2209.03825)|[semi-implicit-of-gsta](https://github.com/hmx2013/semi-implicit-of-gsta)|
+|[eigenvalue mapping-based discretization of the generalized super-twisting algorithm](https://arxiv.org/abs/2209.03825)|[gsta-discretization](https://github.com/hmx2013/gsta-discretization)|
 |[identifying tbi physiological states by clustering multivariate clinical time-series data](https://arxiv.org/abs/2303.13024)|[slac-time](https://github.com/vsubbian/slac-time)|
 |[contraction-guided adaptive partitioning for reachability analysis of neural network controlled systems](https://arxiv.org/abs/2304.03671)|[reachmm_cdc2023](https://github.com/gtfactslab/reachmm_cdc2023)|
 |[modulate your spectrum in self-supervised learning](https://arxiv.org/abs/2305.16789)|[intl](https://github.com/winci-ai/intl)|
 |[forward invariance in neural network controlled systems](https://arxiv.org/abs/2309.09043)|[harapanahalli_lcss2024](https://github.com/gtfactslab/harapanahalli_lcss2024)|
 |[congestion-aware distributed task offloading in wireless multi-hop networks using graph neural networks](https://arxiv.org/abs/2312.02471)|[multihop-offload](https://github.com/zhongyuanzhao/multihop-offload)|
+|[push- and pull-based effective communication in cyber-physical systems](https://arxiv.org/abs/2401.10921)|[age-value-cc](https://github.com/pietro-talli/age-value-cc)|
+|[fully differentiable ray tracing via discontinuity smoothing for radio network optimization](https://arxiv.org/abs/2401.11882)|[differt2d](https://github.com/jeertmans/differt2d)|
 |[nlcg-net: a model-based zero-shot learning framework for undersampled quantitative mri reconstruction](https://arxiv.org/abs/2401.12004)|[NLCG-Net](https://github.com/Xinrui-Jiang/NLCG-Net)|
+|[cone-restricted information theory](https://arxiv.org/abs/2206.04300)|[conerestrictedinformationtheory](https://github.com/chitambarlab/conerestrictedinformationtheory)|
 |[in-context learning for mimo equalization using transformer-based sequence models](https://arxiv.org/abs/2311.06101)|[icl-equalization](https://github.com/kclip/icl-equalization)|
+|[deep learning-based adaptive joint source-channel coding using hypernetworks](https://arxiv.org/abs/2401.11155)|[hyper-ajscc](https://github.com/songjiexie/hyper-ajscc)|
 ## 2024-01-22
 |paper|code|
 |---|---|
