@@ -1,3 +1,10 @@
+## 2024-01-26
+|paper|code|
+|---|---|
+|[lipschitz-bounded 1d convolutional neural networks using the cayley transform and the controllability gramian](https://arxiv.org/abs/2303.11835)|[1d-lipcnns](https://github.com/ppauli/1d-lipcnns)|
+|[a strong and simple deep learning baseline for bci mi decoding](https://arxiv.org/abs/2309.07159)|[eegsimpleconv](https://github.com/elouayas/eegsimpleconv)|
+|[dissipative quadratizations of polynomial ode systems](https://arxiv.org/abs/2311.02508)|[dqbee](https://github.com/yubocai-poly/dqbee)|
+|[rotation invariant quantization for model compression](https://arxiv.org/abs/2303.03106)|[riq](https://github.com/ehaleva/riq)|
 ## 2024-01-25
 |paper|code|
 |---|---|
