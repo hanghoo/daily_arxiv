@@ -4,6 +4,7 @@
 |[lipschitz-bounded 1d convolutional neural networks using the cayley transform and the controllability gramian](https://arxiv.org/abs/2303.11835)|[1d-lipcnns](https://github.com/ppauli/1d-lipcnns)|
 |[a strong and simple deep learning baseline for bci mi decoding](https://arxiv.org/abs/2309.07159)|[eegsimpleconv](https://github.com/elouayas/eegsimpleconv)|
 |[dissipative quadratizations of polynomial ode systems](https://arxiv.org/abs/2311.02508)|[dqbee](https://github.com/yubocai-poly/dqbee)|
+|[energy-efficient power allocation in cell-free massive mimo via graph neural networks](https://arxiv.org/abs/2401.14281)|[ee_cell_free](https://gitlab.com/ichbinram/ee_cell_free)|
 |[rotation invariant quantization for model compression](https://arxiv.org/abs/2303.03106)|[riq](https://github.com/ehaleva/riq)|
 ## 2024-01-25
 |paper|code|
@@ -14,7 +15,9 @@
 |[opendpd: an open-source end-to-end learning & benchmarking framework for wideband power amplifier modeling and digital pre-distortion](https://arxiv.org/abs/2401.08318)|[opendpd](https://github.com/lab-emi/opendpd)|
 |[nlbac: a neural ordinary differential equations-based framework for stable and safe reinforcement learning](https://arxiv.org/abs/2401.13148)|[neural-ordinary-differential-equations-based-lyapunov-barrier-actor-critic-nlbac](https://github.com/liqunzhao/neural-ordinary-differential-equations-based-lyapunov-barrier-actor-critic-nlbac)|
 |[a generalized multiscale bundle-based hyperspectral sparse unmixing algorithm](https://arxiv.org/abs/2401.13161)|[gmbua](https://github.com/lucayress/gmbua)|
+|[guiding soft robots with motor-imagery brain signals and impedance control](https://arxiv.org/abs/2401.13441)|[sr-brain-control](https://github.com/tud-phi/sr-brain-control)|
 |[diffusion model based posterior sampling for noisy linear inverse problems](https://arxiv.org/abs/2211.12343)|[dmps](https://github.com/mengxiangming/dmps)|
+|[quantifying the impact of frame preemption on combined tsn shapers](https://arxiv.org/abs/2401.13631)|[quantifying-the-impact-of-fp-on-cbs-gcl](https://github.com/tum-esi/quantifying-the-impact-of-fp-on-cbs-gcl)|
 ## 2024-01-24
 |paper|code|
 |---|---|
@@ -55,6 +58,7 @@
 |[input convex lipschitz rnn: a fast and robust approach for engineering tasks](https://arxiv.org/abs/2401.07494)|[iclrnn](https://github.com/killingbear999/iclrnn)|
 |[a comparison benchmark for distributed hybrid mpc control methods: distributed vehicle platooning](https://arxiv.org/abs/2401.09878)|[hybrid-vehicle-platoon](https://github.com/SamuelMallick/hybrid-vehicle-platoon)|
 |[chaotic properties of an fir filtered h\'enon map](https://arxiv.org/abs/2401.10281)|[chaotic-properties-of-an-fir-filtered-henon-map](https://github.com/vinicius-s-borges/chaotic-properties-of-an-fir-filtered-henon-map)|
+|[biodiffusion: a versatile diffusion model for biomedical signal synthesis](https://arxiv.org/abs/2401.10282)|[biodiffusion](https://github.com/imics-lab/biodiffusion)|
 |[window stacking meta-models for clinical eeg classification](https://arxiv.org/abs/2401.10283)|[eegscopeandarbitration](https://github.com/zhuyixuan1997/eegscopeandarbitration)|
 |[morpheusnet: resource efficient sleep stage classifier for embedded on-line systems](https://arxiv.org/abs/2401.10284)|[morphuesnet](https://github.com/ali77sina/morphuesnet)|
 |[learning non-myopic power allocation in constrained scenarios](https://arxiv.org/abs/2401.10297)|[nmpa](https://github.com/archo48/nmpa)|
