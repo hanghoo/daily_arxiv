@@ -1,3 +1,8 @@
+## 2024-01-29
+|paper|code|
+|---|---|
+|[relationship design for socially-aware behavior in static games](https://arxiv.org/abs/2207.06392)|[relationship_game](https://github.com/vivianchen98/relationship_game)|
+|[online network traffic classification based on external attention and convolution by ip packet header](https://arxiv.org/abs/2309.09440)|[ECM-for-Network-Traffic-Classification](https://github.com/CNZZQ1030/ECM-for-Network-Traffic-Classification)|
 ## 2024-01-26
 |paper|code|
 |---|---|
