@@ -1,7 +1,22 @@
+## 2024-01-30
+|paper|code|
+|---|---|
+|[bayesian model selection of lithium-ion battery models via bayesian quadrature](https://arxiv.org/abs/2210.17299)|[BayesianModelSelection](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
+|[signal temporal logic meets convex-concave programming: a structure-exploiting sqp algorithm for stl specifications](https://arxiv.org/abs/2304.01475)|[stlccp](https://github.com/yotakayama/stlccp)|
+|[on fast-converged deep reinforcement learning for optimal dispatch of large-scale power systems under transient security constraints](https://arxiv.org/abs/2304.08320)|[fcdrl_tscopf](https://github.com/xxh0523/fcdrl_tscopf)|
+|[model predictive control of wind turbines with piecewise-affine power coefficient approximation](https://arxiv.org/abs/2304.14906)|[Model-Predictive-Control-of-Wind-Turbines-with-Piecewise-Affine-Power-Coefficient](https://github.com/ArnoldTUB/Model-Predictive-Control-of-Wind-Turbines-with-Piecewise-Affine-Power-Coefficient)|
+|[towards building the federated gpt: federated instruction tuning](https://arxiv.org/abs/2305.05644)|[federatedgpt-shepherd](https://github.com/jayzhang42/federatedgpt-shepherd)|
+|[task-oriented communication with out-of-distribution detection: an information bottleneck framework](https://arxiv.org/abs/2305.12423)|[VCCIB](https://github.com/hlidmhkust/VCCIB)|
+|[generalizable sleep staging via multi-level domain alignment](https://arxiv.org/abs/2401.05363)|[sleepdg](https://github.com/wjq-learning/sleepdg)|
+|[biodiffusion: a versatile diffusion model for biomedical signal synthesis](https://arxiv.org/abs/2401.10282)|[biodiffusion](https://github.com/imics-lab/biodiffusion)|
+|[supplygraph: a benchmark dataset for supply chain planning using graph neural networks](https://arxiv.org/abs/2401.15299)|[supplygraph](https://github.com/ciol-sust/supplygraph)|
+|[scadles: scalable deep learning over streaming data at the edge](https://arxiv.org/abs/2301.08897)|[scadles](https://github.com/sahiltyagi4/scadles)|
 ## 2024-01-29
 |paper|code|
 |---|---|
 |[relationship design for socially-aware behavior in static games](https://arxiv.org/abs/2207.06392)|[relationship_game](https://github.com/vivianchen98/relationship_game)|
+|[gaussian adaptive attention is all you need: robust contextual representations across multiple modalities](https://arxiv.org/abs/2401.11143)|[gaussian-adaptive-attention](https://github.com/gioannides/gaussian-adaptive-attention)|
+|[learning local control barrier functions for safety control of hybrid systems](https://arxiv.org/abs/2401.14907)|[neural_hybrid_cbf](https://github.com/shuoyang2000/neural_hybrid_cbf)|
 |[online network traffic classification based on external attention and convolution by ip packet header](https://arxiv.org/abs/2309.09440)|[ECM-for-Network-Traffic-Classification](https://github.com/CNZZQ1030/ECM-for-Network-Traffic-Classification)|
 ## 2024-01-26
 |paper|code|
