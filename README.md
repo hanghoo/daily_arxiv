@@ -1,3 +1,16 @@
+## 2024-01-31
+|paper|code|
+|---|---|
+|[enn: a neural network with dct adaptive activation functions](https://arxiv.org/abs/2307.00673)|[enn](https://github.com/marcmartinezgost/enn)|
+|[diffcharge: generating ev charging scenarios via a denoising diffusion model](https://arxiv.org/abs/2308.09857)|[diffcharge](https://github.com/lsy-cython/diffcharge)|
+|[garchingsim: an autonomous driving simulator with photorealistic scenes and minimalist workflow](https://arxiv.org/abs/2401.15803)|[autonomous-driving-simulator](https://github.com/tum-autonomousdriving/autonomous-driving-simulator)|
+|[mt-hccar: multi-task deep learning with hierarchical classification and attention-based regression for cloud property retrieval](https://arxiv.org/abs/2401.16520)|[mt-hccar](https://github.com/ai-4-atmosphere-remote-sensing/mt-hccar)|
+|[optistate: state estimation of legged robots using gated networks with transformer-based vision and kalman filtering](https://arxiv.org/abs/2401.16719)|[optistate](https://github.com/alexs28/optistate)|
+|[a fully differentiable model for unsupervised singing voice separation](https://arxiv.org/abs/2401.16837)|[umss_icassp](https://github.com/pierrechouteau/umss_icassp)|
+|[channel characterization of uav-ris-aided systems with adaptive phase-shift configuration](https://arxiv.org/abs/2401.17180)|[uav-ris-blockage](https://github.com/thanhluannguyen/uav-ris-blockage)|
+|[unrestricted error-type codebook generation for error correction code in dna storage inspired by nlp](https://arxiv.org/abs/2401.15915)|[code_generation_for_dna_storage](https://github.com/ylu1997/code_generation_for_dna_storage)|
+|[evaluating ml-based anomaly detection across datasets of varied integrity: a case study](https://arxiv.org/abs/2401.16843)|[cyberml-dataquality](https://github.com/flowfrontiers/cyberml-dataquality)|
+|[large language model evaluation via matrix entropy](https://arxiv.org/abs/2401.17139)|[matrix-entropy](https://github.com/waltonfuture/matrix-entropy)|
 ## 2024-01-30
 |paper|code|
 |---|---|
@@ -10,14 +23,18 @@
 |[generalizable sleep staging via multi-level domain alignment](https://arxiv.org/abs/2401.05363)|[sleepdg](https://github.com/wjq-learning/sleepdg)|
 |[biodiffusion: a versatile diffusion model for biomedical signal synthesis](https://arxiv.org/abs/2401.10282)|[biodiffusion](https://github.com/imics-lab/biodiffusion)|
 |[supplygraph: a benchmark dataset for supply chain planning using graph neural networks](https://arxiv.org/abs/2401.15299)|[supplygraph](https://github.com/ciol-sust/supplygraph)|
+|[symbolic-numeric algorithm for parameter estimation in discrete-time models with $\exp$](https://arxiv.org/abs/2401.16220)|[larva-pupa-adult](https://github.com/jedforrest/larva-pupa-adult)|
 |[scadles: scalable deep learning over streaming data at the edge](https://arxiv.org/abs/2301.08897)|[scadles](https://github.com/sahiltyagi4/scadles)|
+|[stac: leveraging spatio-temporal data associations for efficient cross-camera streaming and analytics](https://arxiv.org/abs/2401.15288)|[cs444_final_project](https://github.com/volodymyrvakhniuk/cs444_final_project)|
+|[effective communication with dynamic feature compression](https://arxiv.org/abs/2401.16236)|[tmlcn_code](https://github.com/pietro-talli/tmlcn_code)|
 ## 2024-01-29
 |paper|code|
 |---|---|
 |[relationship design for socially-aware behavior in static games](https://arxiv.org/abs/2207.06392)|[relationship_game](https://github.com/vivianchen98/relationship_game)|
-|[gaussian adaptive attention is all you need: robust contextual representations across multiple modalities](https://arxiv.org/abs/2401.11143)|[gaussian-adaptive-attention](https://github.com/gioannides/gaussian-adaptive-attention)|
 |[learning local control barrier functions for safety control of hybrid systems](https://arxiv.org/abs/2401.14907)|[neural_hybrid_cbf](https://github.com/shuoyang2000/neural_hybrid_cbf)|
+|[a simulation preorder for koopman-like lifted control systems](https://arxiv.org/abs/2401.14909)|[simlifsys](https://github.com/aaspeel/simlifsys)|
 |[online network traffic classification based on external attention and convolution by ip packet header](https://arxiv.org/abs/2309.09440)|[ECM-for-Network-Traffic-Classification](https://github.com/CNZZQ1030/ECM-for-Network-Traffic-Classification)|
+|[a deep reinforcement learning-based approach for adaptive handover protocols in mobile networks](https://arxiv.org/abs/2401.14823)|[handoveroptimdrl](https://github.com/kit-cel/handoveroptimdrl)|
 ## 2024-01-26
 |paper|code|
 |---|---|
