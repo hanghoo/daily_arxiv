@@ -1,3 +1,11 @@
+## 2024-02-01
+|paper|code|
+|---|---|
+|[knowledge equivalence in digital twins of intelligent systems](https://arxiv.org/abs/2204.07481)|[knowledge-equivalence-DT](https://github.com/digitwins/knowledge-equivalence-DT)|
+|[gaussian adaptive attention is all you need: robust contextual representations across multiple modalities](https://arxiv.org/abs/2401.11143)|[gaussian-adaptive-attention](https://github.com/gioannides/gaussian-adaptive-attention)|
+|[the computation of approximate feedback stackelberg equilibria in multi-player nonlinear constrained dynamic games](https://arxiv.org/abs/2401.15745)|[feedbackstackelberggames.jl](https://github.com/jamesjingqili/feedbackstackelberggames.jl)|
+|[an iot system for smart building combining multiple mmwave fmcw radars applied to people counting](https://arxiv.org/abs/2401.17949)|[mmwave_cluster](https://github.com/gtec-udc/mmwave_cluster)|
+|[on cross-layer interactions of quic, encrypted dns and http/3: design, evaluation and dataset](https://arxiv.org/abs/2306.11643)|[doq-h3-analysis](https://github.com/justus237/doq-h3-analysis)|
 ## 2024-01-31
 |paper|code|
 |---|---|
@@ -5,7 +13,6 @@
 |[diffcharge: generating ev charging scenarios via a denoising diffusion model](https://arxiv.org/abs/2308.09857)|[diffcharge](https://github.com/lsy-cython/diffcharge)|
 |[garchingsim: an autonomous driving simulator with photorealistic scenes and minimalist workflow](https://arxiv.org/abs/2401.15803)|[autonomous-driving-simulator](https://github.com/tum-autonomousdriving/autonomous-driving-simulator)|
 |[mt-hccar: multi-task deep learning with hierarchical classification and attention-based regression for cloud property retrieval](https://arxiv.org/abs/2401.16520)|[mt-hccar](https://github.com/ai-4-atmosphere-remote-sensing/mt-hccar)|
-|[optistate: state estimation of legged robots using gated networks with transformer-based vision and kalman filtering](https://arxiv.org/abs/2401.16719)|[optistate](https://github.com/alexs28/optistate)|
 |[a fully differentiable model for unsupervised singing voice separation](https://arxiv.org/abs/2401.16837)|[umss_icassp](https://github.com/pierrechouteau/umss_icassp)|
 |[channel characterization of uav-ris-aided systems with adaptive phase-shift configuration](https://arxiv.org/abs/2401.17180)|[uav-ris-blockage](https://github.com/thanhluannguyen/uav-ris-blockage)|
 |[unrestricted error-type codebook generation for error correction code in dna storage inspired by nlp](https://arxiv.org/abs/2401.15915)|[code_generation_for_dna_storage](https://github.com/ylu1997/code_generation_for_dna_storage)|
@@ -15,6 +22,7 @@
 |paper|code|
 |---|---|
 |[bayesian model selection of lithium-ion battery models via bayesian quadrature](https://arxiv.org/abs/2210.17299)|[BayesianModelSelection](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
+|[cell-free massive mimo in o-ran: energy-aware joint orchestration of cloud, fronthaul, and radio resources](https://arxiv.org/abs/2301.06166)|[o-ran-cell-free](https://github.com/ozlemtugfedemir/o-ran-cell-free)|
 |[signal temporal logic meets convex-concave programming: a structure-exploiting sqp algorithm for stl specifications](https://arxiv.org/abs/2304.01475)|[stlccp](https://github.com/yotakayama/stlccp)|
 |[on fast-converged deep reinforcement learning for optimal dispatch of large-scale power systems under transient security constraints](https://arxiv.org/abs/2304.08320)|[fcdrl_tscopf](https://github.com/xxh0523/fcdrl_tscopf)|
 |[model predictive control of wind turbines with piecewise-affine power coefficient approximation](https://arxiv.org/abs/2304.14906)|[Model-Predictive-Control-of-Wind-Turbines-with-Piecewise-Affine-Power-Coefficient](https://github.com/ArnoldTUB/Model-Predictive-Control-of-Wind-Turbines-with-Piecewise-Affine-Power-Coefficient)|
