@@ -1,3 +1,14 @@
+## 2024-02-02
+|paper|code|
+|---|---|
+|[foresee: prediction with expansion-compression unscented transform for online policy optimization](https://arxiv.org/abs/2209.12644)|[foresee](https://github.com/hardikparwana/foresee)|
+|[mutatenn: mutation testing of image recognition models deployed on hardware accelerators](https://arxiv.org/abs/2306.01697)|[mutatenn](https://github.com/luludak/mutatenn)|
+|[predicting strategic energy storage behaviors](https://arxiv.org/abs/2306.11872)|[predicting-strategic-energy-storage-behaviors](https://github.com/alwaysbyx/predicting-strategic-energy-storage-behaviors)|
+|[approximate model-based shielding for safe reinforcement learning](https://arxiv.org/abs/2308.00707)|[ambs](https://github.com/sacktock/ambs)|
+|[energy-efficient power allocation in cell-free massive mimo via graph neural networks](https://arxiv.org/abs/2401.14281)|[ee_cell_free](https://gitlab.com/ichbinram/ee_cell_free)|
+|[optistate: state estimation of legged robots using gated networks with transformer-based vision and kalman filtering](https://arxiv.org/abs/2401.16719)|[optistate](https://github.com/alexs28/optistate)|
+|[online speaker diarization of meetings guided by speech separation](https://arxiv.org/abs/2402.00067)|[sspavaldo](https://github.com/egruttadauria98/sspavaldo)|
+|[determination of trace organic contaminant concentration via machine classification of surface-enhanced raman spectra](https://arxiv.org/abs/2402.00197)|[Determination-of-Trace-Organic-Contaminant-Concentration-via-Machine-Classification-of-Raman-Spectra](https://github.com/VishnuJay/Determination-of-Trace-Organic-Contaminant-Concentration-via-Machine-Classification-of-Raman-Spectra)|
 ## 2024-02-01
 |paper|code|
 |---|---|
@@ -17,10 +28,12 @@
 |[channel characterization of uav-ris-aided systems with adaptive phase-shift configuration](https://arxiv.org/abs/2401.17180)|[uav-ris-blockage](https://github.com/thanhluannguyen/uav-ris-blockage)|
 |[unrestricted error-type codebook generation for error correction code in dna storage inspired by nlp](https://arxiv.org/abs/2401.15915)|[code_generation_for_dna_storage](https://github.com/ylu1997/code_generation_for_dna_storage)|
 |[evaluating ml-based anomaly detection across datasets of varied integrity: a case study](https://arxiv.org/abs/2401.16843)|[cyberml-dataquality](https://github.com/flowfrontiers/cyberml-dataquality)|
+|[spectral co-distillation for personalized federated learning](https://arxiv.org/abs/2401.17124)|[spectral-dis-fl](https://github.com/jimmyc96/spectral-dis-fl)|
 |[large language model evaluation via matrix entropy](https://arxiv.org/abs/2401.17139)|[matrix-entropy](https://github.com/waltonfuture/matrix-entropy)|
 ## 2024-01-30
 |paper|code|
 |---|---|
+|[curriculum-based reinforcement learning for distribution system critical load restoration](https://arxiv.org/abs/2203.04166)|[rlc4clr](https://github.com/nrel/rlc4clr)|
 |[bayesian model selection of lithium-ion battery models via bayesian quadrature](https://arxiv.org/abs/2210.17299)|[BayesianModelSelection](https://github.com/Battery-Intelligence-Lab/BayesianModelSelection)|
 |[cell-free massive mimo in o-ran: energy-aware joint orchestration of cloud, fronthaul, and radio resources](https://arxiv.org/abs/2301.06166)|[o-ran-cell-free](https://github.com/ozlemtugfedemir/o-ran-cell-free)|
 |[signal temporal logic meets convex-concave programming: a structure-exploiting sqp algorithm for stl specifications](https://arxiv.org/abs/2304.01475)|[stlccp](https://github.com/yotakayama/stlccp)|
