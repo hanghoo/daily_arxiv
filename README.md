@@ -5,10 +5,13 @@
 |[mutatenn: mutation testing of image recognition models deployed on hardware accelerators](https://arxiv.org/abs/2306.01697)|[mutatenn](https://github.com/luludak/mutatenn)|
 |[predicting strategic energy storage behaviors](https://arxiv.org/abs/2306.11872)|[predicting-strategic-energy-storage-behaviors](https://github.com/alwaysbyx/predicting-strategic-energy-storage-behaviors)|
 |[approximate model-based shielding for safe reinforcement learning](https://arxiv.org/abs/2308.00707)|[ambs](https://github.com/sacktock/ambs)|
+|[self-supervised speech representation and contextual text embedding for match-mismatch classification with eeg recording](https://arxiv.org/abs/2401.04964)|[eeg-stimulus-match-mismatch](https://github.com/bobwangpku/eeg-stimulus-match-mismatch)|
 |[energy-efficient power allocation in cell-free massive mimo via graph neural networks](https://arxiv.org/abs/2401.14281)|[ee_cell_free](https://gitlab.com/ichbinram/ee_cell_free)|
 |[optistate: state estimation of legged robots using gated networks with transformer-based vision and kalman filtering](https://arxiv.org/abs/2401.16719)|[optistate](https://github.com/alexs28/optistate)|
 |[online speaker diarization of meetings guided by speech separation](https://arxiv.org/abs/2402.00067)|[sspavaldo](https://github.com/egruttadauria98/sspavaldo)|
 |[determination of trace organic contaminant concentration via machine classification of surface-enhanced raman spectra](https://arxiv.org/abs/2402.00197)|[Determination-of-Trace-Organic-Contaminant-Concentration-via-Machine-Classification-of-Raman-Spectra](https://github.com/VishnuJay/Determination-of-Trace-Organic-Contaminant-Concentration-via-Machine-Classification-of-Raman-Spectra)|
+|[uncertainty-aware guidance for target tracking subject to intermittent measurements using motion model learning](https://arxiv.org/abs/2402.00671)|[info-driven-guidance](https://github.com/andrespulido8/info-driven-guidance)|
+|[bypass4netns: accelerating tcp/ip communications in rootless containers](https://arxiv.org/abs/2402.00365)|[bypass4netns](https://github.com/rootless-containers/bypass4netns)|
 ## 2024-02-01
 |paper|code|
 |---|---|
