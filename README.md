@@ -1,3 +1,14 @@
+## 2024-02-06
+|paper|code|
+|---|---|
+|[using ppp information to implement a global real-time virtual network dgnss approach](https://arxiv.org/abs/2110.14763)|[Virtual-Network-DGNSS-Project](https://github.com/Azurehappen/Virtual-Network-DGNSS-Project)|
+|[powerflownet: power flow approximation using message passing graph neural networks](https://arxiv.org/abs/2311.03415)|[poweflownet](https://github.com/distributionnetworkstudelft/poweflownet)|
+|[predictable reinforcement learning dynamics through entropy rate minimization](https://arxiv.org/abs/2311.18703)|[parl](https://github.com/tud-amr/parl)|
+|[bridging the gaps: learning verifiable model-free quadratic programming controllers inspired by model predictive control](https://arxiv.org/abs/2312.05332)|[learning-qp](https://github.com/yiwenlu66/learning-qp)|
+|[denoising diffusion-based control of nonlinear systems](https://arxiv.org/abs/2402.02297)|[diffusion-nonlinear-control](https://github.com/darshangm/diffusion-nonlinear-control)|
+|[on confidence sequences for bounded random processes via universal gambling strategies](https://arxiv.org/abs/2207.12382)|[confidence-sequence-via-gambling](https://github.com/jongharyu/confidence-sequence-via-gambling)|
+|[how can we train deep learning models across clouds and continents? an experimental study](https://arxiv.org/abs/2306.03163)|[hivemind-multi-cloud](https://github.com/cirquit/hivemind-multi-cloud)|
+|[minimum description length and generalization guarantees for representation learning](https://arxiv.org/abs/2402.03254)|[mdl_and_generalization_guarantees_for_representation_learning](https://github.com/piotrkrasnowski/mdl_and_generalization_guarantees_for_representation_learning)|
 ## 2024-02-05
 |paper|code|
 |---|---|
