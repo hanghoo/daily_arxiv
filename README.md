@@ -1,3 +1,10 @@
+## 2024-02-09
+|paper|code|
+|---|---|
+|[spiking neural networks in the alexiewicz topology: a new perspective on analysis and error bounds](https://arxiv.org/abs/2305.05772)|[alexsnn](https://github.com/lunglmayrmoser/alexsnn)|
+|[orthogonal transforms in neural networks amount to effective regularization](https://arxiv.org/abs/2305.06344)|[frequency-supported-neural-networks](https://github.com/kzajac97/frequency-supported-neural-networks)|
+|[multi-timescale ensemble q-learning for markov decision process policy optimization](https://arxiv.org/abs/2402.05476)|[tsp_23_supplementary_file](https://github.com/talhabozkus/tsp_23_supplementary_file)|
+|[metamodeling and control of medical digital twins](https://arxiv.org/abs/2402.05750)|[Metamodeling-and-Control-of-Medical-Digital-Twins_2024](https://github.com/LaboratoryForSystemsMedicine/Metamodeling-and-Control-of-Medical-Digital-Twins_2024)|
 ## 2024-02-08
 |paper|code|
 |---|---|
