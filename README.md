@@ -17,6 +17,7 @@
 |[deep nonnegative matrix factorization with beta divergences](https://arxiv.org/abs/2309.08249)|[deep-beta-nmf-public](https://github.com/vleplat/deep-beta-nmf-public)|
 |[occupancy prediction for building energy systems with latent force models](https://arxiv.org/abs/2401.05074)|[occupancy-benchmark-dataset](https://github.com/thorewietzke/occupancy-benchmark-dataset)|
 |[sdemg: score-based diffusion model for surface electromyographic signal denoising](https://arxiv.org/abs/2402.03808)|[sdemg](https://github.com/tonyliu0910/sdemg)|
+|[spatial assisted human-drone collaborative navigation and interaction through immersive mixed reality](https://arxiv.org/abs/2402.04070)|[mri_ros_public](https://github.com/arplaboratory/mri_ros_public)|
 |[attention with markov: a framework for principled analysis of transformers via markov chains](https://arxiv.org/abs/2402.04161)|[markov](https://github.com/bond1995/markov)|
 ## 2024-02-06
 |paper|code|
@@ -25,9 +26,11 @@
 |[powerflownet: power flow approximation using message passing graph neural networks](https://arxiv.org/abs/2311.03415)|[poweflownet](https://github.com/distributionnetworkstudelft/poweflownet)|
 |[predictable reinforcement learning dynamics through entropy rate minimization](https://arxiv.org/abs/2311.18703)|[parl](https://github.com/tud-amr/parl)|
 |[bridging the gaps: learning verifiable model-free quadratic programming controllers inspired by model predictive control](https://arxiv.org/abs/2312.05332)|[learning-qp](https://github.com/yiwenlu66/learning-qp)|
+|[outlier accommodation for gnss precise point positioning using risk-averse state estimation](https://arxiv.org/abs/2402.01860)|[outlier_accommodation_gnss_acc2024](https://github.com/azurehappen/outlier_accommodation_gnss_acc2024)|
 |[denoising diffusion-based control of nonlinear systems](https://arxiv.org/abs/2402.02297)|[diffusion-nonlinear-control](https://github.com/darshangm/diffusion-nonlinear-control)|
 |[on confidence sequences for bounded random processes via universal gambling strategies](https://arxiv.org/abs/2207.12382)|[confidence-sequence-via-gambling](https://github.com/jongharyu/confidence-sequence-via-gambling)|
 |[how can we train deep learning models across clouds and continents? an experimental study](https://arxiv.org/abs/2306.03163)|[hivemind-multi-cloud](https://github.com/cirquit/hivemind-multi-cloud)|
+|[algorithms for computing the free distance of convolutional codes](https://arxiv.org/abs/2402.02982)|[algorithms-for-computing-the-free-distance-of-convolutional-codes](https://github.com/uscpr/algorithms-for-computing-the-free-distance-of-convolutional-codes)|
 |[minimum description length and generalization guarantees for representation learning](https://arxiv.org/abs/2402.03254)|[mdl_and_generalization_guarantees_for_representation_learning](https://github.com/piotrkrasnowski/mdl_and_generalization_guarantees_for_representation_learning)|
 ## 2024-02-05
 |paper|code|
