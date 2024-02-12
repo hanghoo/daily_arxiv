@@ -9,6 +9,7 @@
 |paper|code|
 |---|---|
 |[stochastic unrolled federated learning](https://arxiv.org/abs/2305.15371)|[fed-surf](https://github.com/smrhadou/fed-surf)|
+|[rscnet: dynamic csi compression for cloud-based wifi sensing](https://arxiv.org/abs/2402.04888)|[rscnet](https://github.com/bornabr/rscnet)|
 |[ptpsec: securing the precision time protocol against time delay attacks using cyclic path asymmetry analysis](https://arxiv.org/abs/2401.10664)|[ptpsec](https://github.com/tum-esi/ptpsec)|
 ## 2024-02-07
 |paper|code|
