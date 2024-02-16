@@ -1,3 +1,13 @@
+## 2024-02-15
+|paper|code|
+|---|---|
+|[finite element hybridization of port-hamiltonian systems](https://arxiv.org/abs/2302.06239)|[ph_hybridization](https://github.com/a-brugnoli/ph_hybridization)|
+|[descriptor state space modeling of power systems](https://arxiv.org/abs/2303.01701)|[Publications](https://github.com/Future-Power-Networks/Publications)|
+|[operability-economics trade-offs in adsorption-based co$_2$ capture process](https://arxiv.org/abs/2307.07418)|[dside](https://github.com/stvsach/dside)|
+|[2-level reinforcement learning for ships on inland waterways](https://arxiv.org/abs/2307.16769)|[tud_rl](https://github.com/marwaltz/tud_rl)|
+|[design tasks and their complexity for hybrid level 3 of the european train control system](https://arxiv.org/abs/2308.02572)|[mtct](https://github.com/cda-tum/mtct)|
+|[learning lyapunov-stable polynomial dynamical systems through imitation](https://arxiv.org/abs/2310.20605)|[stable-imitation-policy](https://github.com/aminabyaneh/stable-imitation-policy)|
+|[lightweight deep learning based channel estimation for extremely large-scale massive mimo systems](https://arxiv.org/abs/2402.08916)|[XLCNet](https://github.com/gaoshen90/XLCNet)|
 ## 2024-02-14
 |paper|code|
 |---|---|
