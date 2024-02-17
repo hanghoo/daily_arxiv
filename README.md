@@ -1,12 +1,21 @@
+## 2024-02-16
+|paper|code|
+|---|---|
+|[outlier-insensitive kalman filtering: theory and applications](https://arxiv.org/abs/2309.09505)|[oikf-nuv](https://github.com/kalmannet/oikf-nuv)|
+|[multidimensional gabor-like filters derived from gaussian functions on logarithmic frequency axes](https://arxiv.org/abs/2402.09419)|[gabor-like-filters](https://gitlab.com/eidheim/gabor-like-filters)|
+|[risk-sensitive soft actor-critic for robust deep reinforcement learning under distribution shifts](https://arxiv.org/abs/2402.09992)|[risksensitivesacforrobustdrlunderdistshifts](https://github.com/tumbais/risksensitivesacforrobustdrlunderdistshifts)|
+|[stein variational guided model predictive path integral control: proposal and experiments with fast maneuvering vehicles](https://arxiv.org/abs/2309.11040)|[proj-svg_mppi](https://github.com/kohonda/proj-svg_mppi)|
 ## 2024-02-15
 |paper|code|
 |---|---|
+|[prediction, communication, and computing duration optimization for vr video streaming](https://arxiv.org/abs/1910.13884)|[code4vr-prediction-communication-and-computing](https://github.com/xizhicher/code4vr-prediction-communication-and-computing)|
 |[finite element hybridization of port-hamiltonian systems](https://arxiv.org/abs/2302.06239)|[ph_hybridization](https://github.com/a-brugnoli/ph_hybridization)|
 |[descriptor state space modeling of power systems](https://arxiv.org/abs/2303.01701)|[Publications](https://github.com/Future-Power-Networks/Publications)|
 |[operability-economics trade-offs in adsorption-based co$_2$ capture process](https://arxiv.org/abs/2307.07418)|[dside](https://github.com/stvsach/dside)|
 |[2-level reinforcement learning for ships on inland waterways](https://arxiv.org/abs/2307.16769)|[tud_rl](https://github.com/marwaltz/tud_rl)|
 |[design tasks and their complexity for hybrid level 3 of the european train control system](https://arxiv.org/abs/2308.02572)|[mtct](https://github.com/cda-tum/mtct)|
 |[learning lyapunov-stable polynomial dynamical systems through imitation](https://arxiv.org/abs/2310.20605)|[stable-imitation-policy](https://github.com/aminabyaneh/stable-imitation-policy)|
+|[introducing rsess: an open source enumerative sphere shaping implementation coded in rust](https://arxiv.org/abs/2402.08771)|[rsess](https://github.com/kit-cel/rsess)|
 |[lightweight deep learning based channel estimation for extremely large-scale massive mimo systems](https://arxiv.org/abs/2402.08916)|[XLCNet](https://github.com/gaoshen90/XLCNet)|
 ## 2024-02-14
 |paper|code|
