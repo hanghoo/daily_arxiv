@@ -2,9 +2,14 @@
 |paper|code|
 |---|---|
 |[outlier-insensitive kalman filtering: theory and applications](https://arxiv.org/abs/2309.09505)|[oikf-nuv](https://github.com/kalmannet/oikf-nuv)|
+|[physics-informed representation and learning: control and risk quantification](https://arxiv.org/abs/2312.10594)|[path-integral-pinn](https://github.com/jacobwang925/path-integral-pinn)|
 |[multidimensional gabor-like filters derived from gaussian functions on logarithmic frequency axes](https://arxiv.org/abs/2402.09419)|[gabor-like-filters](https://gitlab.com/eidheim/gabor-like-filters)|
+|[improving eeg signal classification accuracy using wasserstein generative adversarial networks](https://arxiv.org/abs/2402.09453)|[eeg-wgan](https://github.com/joshparksj/eeg-wgan)|
+|[repurposing coal power plants into thermal energy storage for supporting zero-carbon data centers](https://arxiv.org/abs/2402.09675)|[coalrepurpose](https://github.com/yifueve/coalrepurpose)|
 |[risk-sensitive soft actor-critic for robust deep reinforcement learning under distribution shifts](https://arxiv.org/abs/2402.09992)|[risksensitivesacforrobustdrlunderdistshifts](https://github.com/tumbais/risksensitivesacforrobustdrlunderdistshifts)|
+|[a blob method for mean field control with terminal constraints](https://arxiv.org/abs/2402.10124)|[blobot](https://github.com/harlinlee/blobot)|
 |[stein variational guided model predictive path integral control: proposal and experiments with fast maneuvering vehicles](https://arxiv.org/abs/2309.11040)|[proj-svg_mppi](https://github.com/kohonda/proj-svg_mppi)|
+|[workflow optimization for parallel split learning](https://arxiv.org/abs/2402.10092)|[sfl-workflow-optimization](https://github.com/jtirana98/sfl-workflow-optimization)|
 ## 2024-02-15
 |paper|code|
 |---|---|
