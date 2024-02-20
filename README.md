@@ -1,3 +1,15 @@
+## 2024-02-19
+|paper|code|
+|---|---|
+|[adaptive observers for biophysical neuronal circuits](https://arxiv.org/abs/2111.02176)|[online-learning](https://github.com/thiagoburghi/online-learning)|
+|[losing control of your network? try resilience theory](https://arxiv.org/abs/2306.16588)|[network-resilience](https://github.com/jean-baptistebouvier/network-resilience)|
+|[an interventional perspective on identifiability in gaussian lti systems with independent component analysis](https://arxiv.org/abs/2311.18048)|[lti-ica](https://github.com/rpatrik96/lti-ica)|
+|[the computation of approximate feedback stackelberg equilibria in multi-player nonlinear constrained dynamic games](https://arxiv.org/abs/2401.15745)|[feedbackstackelberggames.jl](https://github.com/jamesjingqili/feedbackstackelberggames.jl)|
+|[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
+|[reliability and latency analysis for wireless communication systems with a secret-key budget](https://arxiv.org/abs/2304.02538)|[secret-key-budget-ruin](https://github.com/klb2/secret-key-budget-ruin)|
+|[opseval: a comprehensive it operations benchmark suite for large language models](https://arxiv.org/abs/2310.07637)|[opseval-datasets](https://github.com/netmanaiops/opseval-datasets)|
+|[fedkit: enabling cross-platform federated learning for android and ios](https://arxiv.org/abs/2402.10464)|[fedkit](https://github.com/fedcampus/fedkit)|
+|[towards cohesion-fairness harmony: contrastive regularization in individual fair graph clustering](https://arxiv.org/abs/2402.10756)|[ifairnmtf](https://github.com/siamakghodsi/ifairnmtf)|
 ## 2024-02-16
 |paper|code|
 |---|---|
