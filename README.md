@@ -1,3 +1,17 @@
+## 2024-02-20
+|paper|code|
+|---|---|
+|[deep, deep learning with bart](https://arxiv.org/abs/2202.14005)|[deep-deep-learning-with-bart](https://github.com/mrirecon/deep-deep-learning-with-bart)|
+|[planar friction modelling with lugre dynamics and limit surfaces](https://arxiv.org/abs/2308.01123)|[frictionmodelling](https://github.com/gabrieleenx/frictionmodelling)|
+|[communication-efficient decentralized multi-agent reinforcement learning for cooperative adaptive cruise control](https://arxiv.org/abs/2308.02345)|[macacc](https://github.com/dongchen06/macacc)|
+|[predictable reinforcement learning dynamics through entropy rate minimization](https://arxiv.org/abs/2311.18703)|[parl](https://github.com/tud-amr/parl)|
+|[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
+|[integrating pre-trained language model with physical layer communications](https://arxiv.org/abs/2402.11656)|[on-device-ai-comm](https://github.com/abman23/on-device-ai-comm)|
+|[flexible robust optimal bidding of renewable virtual power plants in sequential markets](https://arxiv.org/abs/2402.12032)|[Hnemati](https://github.com/hadinemati70/Hnemati)|
+|[transformers for green semantic communication: less energy, more semantics](https://arxiv.org/abs/2310.07592)|[Energy-optimized-semantic-loss](https://github.com/shubha07m/Energy-optimized-semantic-loss)|
+|[just add water: webassembly-based circumvention transports](https://arxiv.org/abs/2312.00163)|[water-rs](https://github.com/erikziyunchi/water-rs)|
+|[combinatorial client-master multiagent deep reinforcement learning for task offloading in mobile edge computing](https://arxiv.org/abs/2402.11653)|[ccm_madrl_mec](https://github.com/tesfayz/ccm_madrl_mec)|
+|[dynamic multi-network mining of tensor time series](https://arxiv.org/abs/2402.11773)|[dmm](https://github.com/koheiobata/dmm)|
 ## 2024-02-19
 |paper|code|
 |---|---|
