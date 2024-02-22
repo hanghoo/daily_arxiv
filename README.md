@@ -1,3 +1,9 @@
+## 2024-02-21
+|paper|code|
+|---|---|
+|[szcore: a seizure community open-source research evaluation framework for the validation of eeg-based automated seizure detection algorithms](https://arxiv.org/abs/2402.13005)|[epilepsy2bids](https://github.com/esl-epfl/epilepsy2bids)|
+|[learning transfer operators by kernel density estimation](https://arxiv.org/abs/2210.03124)|[fpoperatorde](https://github.com/sudamphy/fpoperatorde)|
+|[influence robustness of nodes in multiplex networks against attacks](https://arxiv.org/abs/2309.07617)|[MultiCoreRank](https://github.com/Boqian-Ma/MultiCoreRank)|
 ## 2024-02-20
 |paper|code|
 |---|---|
@@ -19,11 +25,13 @@
 |[losing control of your network? try resilience theory](https://arxiv.org/abs/2306.16588)|[network-resilience](https://github.com/jean-baptistebouvier/network-resilience)|
 |[an interventional perspective on identifiability in gaussian lti systems with independent component analysis](https://arxiv.org/abs/2311.18048)|[lti-ica](https://github.com/rpatrik96/lti-ica)|
 |[the computation of approximate feedback stackelberg equilibria in multi-player nonlinear constrained dynamic games](https://arxiv.org/abs/2401.15745)|[feedbackstackelberggames.jl](https://github.com/jamesjingqili/feedbackstackelberggames.jl)|
+|[wimans: a benchmark dataset for wifi-based multi-user activity sensing](https://arxiv.org/abs/2402.09430)|[wimans](https://github.com/huangshk/wimans)|
 |[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
 |[reliability and latency analysis for wireless communication systems with a secret-key budget](https://arxiv.org/abs/2304.02538)|[secret-key-budget-ruin](https://github.com/klb2/secret-key-budget-ruin)|
 |[opseval: a comprehensive it operations benchmark suite for large language models](https://arxiv.org/abs/2310.07637)|[opseval-datasets](https://github.com/netmanaiops/opseval-datasets)|
 |[fedkit: enabling cross-platform federated learning for android and ios](https://arxiv.org/abs/2402.10464)|[fedkit](https://github.com/fedcampus/fedkit)|
 |[towards cohesion-fairness harmony: contrastive regularization in individual fair graph clustering](https://arxiv.org/abs/2402.10756)|[ifairnmtf](https://github.com/siamakghodsi/ifairnmtf)|
+|[qkdnetsim+: improvement of the quantum network simulator for ns-3](https://arxiv.org/abs/2402.10822)|[qkdnetsim-dev](https://github.com/sdabis/qkdnetsim-dev)|
 ## 2024-02-16
 |paper|code|
 |---|---|
