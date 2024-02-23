@@ -1,6 +1,23 @@
+## 2024-02-22
+|paper|code|
+|---|---|
+|[ris-admm: a ris and admm-based passive and sparse sensing method with interference removal](https://arxiv.org/abs/2206.06172)|[ris-admm](https://github.com/chenpengseu/ris-admm)|
+|[motor imagery decoding using ensemble curriculum learning and collaborative training](https://arxiv.org/abs/2211.11460)|[ensemble-mi](https://github.com/gzoumpourlis/ensemble-mi)|
+|[a new method of modeling the multi-stage decision-making process of crt using machine learning with uncertainty quantification](https://arxiv.org/abs/2309.08415)|[crt_multistageml_uncertainty](https://github.com/miilab-mtu/crt_multistageml_uncertainty)|
+|[impact: interval mdp parallel construction for controller synthesis of large-scale stochastic systems](https://arxiv.org/abs/2401.03555)|[impact](https://github.com/kiguli/impact)|
+|[diffplf: a conditional diffusion model for probabilistic forecasting of ev charging load](https://arxiv.org/abs/2402.13548)|[DiffPLF](https://github.com/LSY-Cython/DiffPLF)|
+|[enhancing reinforcement learning agents with local guides](https://arxiv.org/abs/2402.13930)|[hebo](https://github.com/huawei-noah/hebo)|
+|[collaborative information dissemination with graph-based multi-agent reinforcement learning](https://arxiv.org/abs/2308.16198)|[melissa](https://github.com/raffaelegalliera/melissa)|
+|[interpretable diffusion via information decomposition](https://arxiv.org/abs/2310.07972)|[info-decomp](https://github.com/kxh001/info-decomp)|
+|[comparing comparators in generalization bounds](https://arxiv.org/abs/2310.10534)|[comparing-comparators](https://github.com/fredrikhellstrom/comparing-comparators)|
+|[treet: transfer entropy estimation via transformer](https://arxiv.org/abs/2402.06919)|[treet](https://github.com/omerlux/treet)|
 ## 2024-02-21
 |paper|code|
 |---|---|
+|[a complex quasi-newton proximal method for image reconstruction in compressed sensing mri](https://arxiv.org/abs/2303.02586)|[cqnpcs_mrireco](https://github.com/hongtao-argmin/cqnpcs_mrireco)|
+|[beyond diagonal reconfigurable intelligent surfaces utilizing graph theory: modeling, architecture design, and optimization](https://arxiv.org/abs/2305.05013)|[bdris-utilizing-graph-theory](https://github.com/matteonerini/bdris-utilizing-graph-theory)|
+|[on the impact of mutual coupling on ris-assisted channel estimation](https://arxiv.org/abs/2309.04990)|[communication](https://github.com/zpinjun/communication)|
+|[a parallelized, adam-based solver for reserve and security constrained ac unit commitment](https://arxiv.org/abs/2310.06650)|[quasigrad.jl](https://github.com/samchevalier/quasigrad.jl)|
 |[szcore: a seizure community open-source research evaluation framework for the validation of eeg-based automated seizure detection algorithms](https://arxiv.org/abs/2402.13005)|[epilepsy2bids](https://github.com/esl-epfl/epilepsy2bids)|
 |[learning transfer operators by kernel density estimation](https://arxiv.org/abs/2210.03124)|[fpoperatorde](https://github.com/sudamphy/fpoperatorde)|
 |[influence robustness of nodes in multiplex networks against attacks](https://arxiv.org/abs/2309.07617)|[MultiCoreRank](https://github.com/Boqian-Ma/MultiCoreRank)|
@@ -8,16 +25,18 @@
 |paper|code|
 |---|---|
 |[deep, deep learning with bart](https://arxiv.org/abs/2202.14005)|[deep-deep-learning-with-bart](https://github.com/mrirecon/deep-deep-learning-with-bart)|
+|[apsense: data-driven algorithm in ppg-based sleep apnea sensing](https://arxiv.org/abs/2306.10863)|[apsense](https://github.com/iobt-vistec/apsense)|
 |[planar friction modelling with lugre dynamics and limit surfaces](https://arxiv.org/abs/2308.01123)|[frictionmodelling](https://github.com/gabrieleenx/frictionmodelling)|
 |[communication-efficient decentralized multi-agent reinforcement learning for cooperative adaptive cruise control](https://arxiv.org/abs/2308.02345)|[macacc](https://github.com/dongchen06/macacc)|
 |[predictable reinforcement learning dynamics through entropy rate minimization](https://arxiv.org/abs/2311.18703)|[parl](https://github.com/tud-amr/parl)|
 |[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
 |[integrating pre-trained language model with physical layer communications](https://arxiv.org/abs/2402.11656)|[on-device-ai-comm](https://github.com/abman23/on-device-ai-comm)|
+|[enhancing power prediction of photovoltaic systems: leveraging dynamic physical model for irradiance-to-power conversion](https://arxiv.org/abs/2402.11897)|[pvpro](https://github.com/duramat/pvpro)|
 |[flexible robust optimal bidding of renewable virtual power plants in sequential markets](https://arxiv.org/abs/2402.12032)|[Hnemati](https://github.com/hadinemati70/Hnemati)|
 |[transformers for green semantic communication: less energy, more semantics](https://arxiv.org/abs/2310.07592)|[Energy-optimized-semantic-loss](https://github.com/shubha07m/Energy-optimized-semantic-loss)|
-|[just add water: webassembly-based circumvention transports](https://arxiv.org/abs/2312.00163)|[water-rs](https://github.com/erikziyunchi/water-rs)|
+|[just add water: webassembly-based circumvention transports](https://arxiv.org/abs/2312.00163)|[water](https://github.com/gaukas/water)|
+|[on the cross-dataset generalization of machine learning for network intrusion detection](https://arxiv.org/abs/2402.10974)|[lycos-unicas-ids2018](https://github.com/marcocantone/lycos-unicas-ids2018)|
 |[combinatorial client-master multiagent deep reinforcement learning for task offloading in mobile edge computing](https://arxiv.org/abs/2402.11653)|[ccm_madrl_mec](https://github.com/tesfayz/ccm_madrl_mec)|
-|[dynamic multi-network mining of tensor time series](https://arxiv.org/abs/2402.11773)|[dmm](https://github.com/koheiobata/dmm)|
 ## 2024-02-19
 |paper|code|
 |---|---|
