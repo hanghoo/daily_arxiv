@@ -2,9 +2,12 @@
 |paper|code|
 |---|---|
 |[using temperature sensitivity to estimate shiftable electricity demand: implications for power system investments and climate change](https://arxiv.org/abs/2109.00643)|[Shiftable_electricity](https://github.com/Sisihawaii/Shiftable_electricity)|
+|[approximate message passing with rigorous guarantees for pooled data and quantitative group testing](https://arxiv.org/abs/2309.15507)|[amp_pooled_qgt](https://github.com/pablopasc/amp_pooled_qgt)|
 |[brant-2: foundation model for brain signals](https://arxiv.org/abs/2402.10251)|[brant-2](https://github.com/yzz673/brant-2)|
 |[random forests for detecting weak signals and extracting physical information: a case study of magnetic navigation](https://arxiv.org/abs/2402.14131)|[magnav](https://github.com/aminmoradixl/magnav)|
 |[gdtm: an indoor geospatial tracking dataset with distributed multimodal sensors](https://arxiv.org/abs/2402.14136)|[gdtm](https://github.com/nesl/gdtm)|
+|[a multifaceted look at starlink performance](https://arxiv.org/abs/2310.09242)|[multifaceted-starlink-performance](https://github.com/nitindermohan/multifaceted-starlink-performance)|
+|[semantic-preserving image coding based on conditional diffusion models](https://arxiv.org/abs/2310.15737)|[spic](https://github.com/frapez1/spic)|
 |[dynamic multi-network mining of tensor time series](https://arxiv.org/abs/2402.11773)|[dmm](https://github.com/koheiobata/dmm)|
 ## 2024-02-22
 |paper|code|
@@ -26,7 +29,6 @@
 |[beyond diagonal reconfigurable intelligent surfaces utilizing graph theory: modeling, architecture design, and optimization](https://arxiv.org/abs/2305.05013)|[bdris-utilizing-graph-theory](https://github.com/matteonerini/bdris-utilizing-graph-theory)|
 |[on the impact of mutual coupling on ris-assisted channel estimation](https://arxiv.org/abs/2309.04990)|[communication](https://github.com/zpinjun/communication)|
 |[a parallelized, adam-based solver for reserve and security constrained ac unit commitment](https://arxiv.org/abs/2310.06650)|[quasigrad.jl](https://github.com/samchevalier/quasigrad.jl)|
-|[szcore: a seizure community open-source research evaluation framework for the validation of eeg-based automated seizure detection algorithms](https://arxiv.org/abs/2402.13005)|[epilepsy2bids](https://github.com/esl-epfl/epilepsy2bids)|
 |[learning transfer operators by kernel density estimation](https://arxiv.org/abs/2210.03124)|[fpoperatorde](https://github.com/sudamphy/fpoperatorde)|
 |[influence robustness of nodes in multiplex networks against attacks](https://arxiv.org/abs/2309.07617)|[MultiCoreRank](https://github.com/Boqian-Ma/MultiCoreRank)|
 ## 2024-02-20
