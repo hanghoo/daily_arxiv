@@ -1,7 +1,19 @@
+## 2024-02-27
+|paper|code|
+|---|---|
+|[a complex quasi-newton proximal method for image reconstruction in compressed sensing mri](https://arxiv.org/abs/2303.02586)|[cqnpcs_mrireco](https://github.com/hongtao-argmin/cqnpcs_mrireco)|
+|[monte carlo grid dynamic programming: almost sure convergence and probability constraints](https://arxiv.org/abs/2303.06200)|[mc_dynamicprogramming](https://github.com/msramada/mc_dynamicprogramming)|
+|[semi-supervised end-to-end learning for integrated sensing and communications](https://arxiv.org/abs/2310.09940)|[sslisac](https://github.com/josemateosramos/sslisac)|
+|[stochastic control barrier functions for economics](https://arxiv.org/abs/2312.12612)|[econcbf](https://github.com/davidvwijk/econcbf)|
+|[morphological symmetries in robotics](https://arxiv.org/abs/2402.15552)|[morphosymm](https://github.com/danfoa/morphosymm)|
+|[practical byzantine reliable broadcast on partially connected networks (extended version)](https://arxiv.org/abs/2104.03673)|[BRB-partially-connected-networks](https://github.com/jdecouchant/BRB-partially-connected-networks)|
+|[flooding with absorption: an efficient protocol for heterogeneous bandits over complex networks](https://arxiv.org/abs/2303.05445)|[bandits-network](https://github.com/nick-jhlee/bandits-network)|
+|[bagged deep image prior for recovering images in the presence of speckle noise](https://arxiv.org/abs/2402.15635)|[Bagged-DIP-Speckle](https://github.com/Computational-Imaging-RU/Bagged-DIP-Speckle)|
 ## 2024-02-26
 |paper|code|
 |---|---|
 |[cell-free isac mimo systems: joint sensing and communication beamforming](https://arxiv.org/abs/2301.11328)|[Cell-free-ISAC-beamforming](https://github.com/umut-demirhan/Cell-free-ISAC-beamforming)|
+|[breaking symmetries leads to diverse quadrupedal gaits](https://arxiv.org/abs/2303.04857)|[breakingsymmetryleadstodiversegaits](https://github.com/dlarlab/breakingsymmetryleadstodiversegaits)|
 |[zero-sum games between large-population teams: reachability-based analysis under mean-field sharing](https://arxiv.org/abs/2303.12243)|[mftg](https://github.com/scottyueguan/mftg)|
 |[a hybrid quantum-classical approach based on the hadamard transform for the convolutional layer](https://arxiv.org/abs/2305.17510)|[icml2023-ht](https://github.com/phy710/icml2023-ht)|
 |[reconfigurable intelligent surfaces-enabled intra-cell pilot reuse in massive mimo systems](https://arxiv.org/abs/2310.06975)|[ris-pilot-reuse](https://github.com/josecarlos-marinello/ris-pilot-reuse)|
@@ -9,6 +21,7 @@
 |[szcore: a seizure community open-source research evaluation framework for the validation of eeg-based automated seizure detection algorithms](https://arxiv.org/abs/2402.13005)|[epilepsy2bids](https://github.com/esl-epfl/epilepsy2bids)|
 |[a conversational brain-artificial intelligence interface](https://arxiv.org/abs/2402.15011)|[eegchat](https://github.com/akmeunier/eegchat)|
 |[age-based scheduling for mobile edge computing: a deep reinforcement learning approach](https://arxiv.org/abs/2312.00279)|[dpds](https://github.com/xingqiuhe/dpds)|
+|[sissa: real-time monitoring of hardware functional safety and cybersecurity with in-vehicle some/ip ethernet traffic](https://arxiv.org/abs/2402.14862)|[sissa](https://github.com/jamesnulliu/sissa)|
 ## 2024-02-23
 |paper|code|
 |---|---|
