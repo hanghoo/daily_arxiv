@@ -1,3 +1,16 @@
+## 2024-02-28
+|paper|code|
+|---|---|
+|[learning of linear dynamical systems as a non-commutative polynomial optimization problem](https://arxiv.org/abs/2002.01444)|[proper-learning-of-lds](https://github.com/quan-zhou/proper-learning-of-lds)|
+|[small-signal stability impacts of load and network dynamics on grid-forming inverters](https://arxiv.org/abs/2212.08147)|[GFM-LoadModeling](https://github.com/Energy-MAC/GFM-LoadModeling)|
+|[multi-kernel correntropy-based orientation estimation of imus: gradient descent methods](https://arxiv.org/abs/2304.06548)|[mc_gd_imu](https://github.com/lsl-zsj/mc_gd_imu)|
+|[hrtf upsampling with a generative adversarial network using a gnomonic equiangular projection](https://arxiv.org/abs/2306.05812)|[hrtf-upsampling-with-a-generative-adversarial-network-using-a-gnomonic-equiangular-projection](https://github.com/ahogg/hrtf-upsampling-with-a-generative-adversarial-network-using-a-gnomonic-equiangular-projection)|
+|[actively learning reinforcement learning: a stochastic optimal control approach](https://arxiv.org/abs/2309.10831)|[active-learning-reinforcement-learning](https://github.com/msramada/active-learning-reinforcement-learning)|
+|[multi-agent reinforcement learning for the low-level control of a quadrotor uav](https://arxiv.org/abs/2311.06144)|[marl-quad-control](https://github.com/fdcl-gwu/marl-quad-control)|
+|[impact of computation in integral reinforcement learning for continuous-time control](https://arxiv.org/abs/2402.17375)|[computation-impacts-control](https://github.com/anonymity678/computation-impacts-control)|
+|[beacon, a lightweight deep reinforcement learning benchmark library for flow control](https://arxiv.org/abs/2402.17402)|[beacon](https://github.com/jviquerat/beacon)|
+|[mementohash: a stateful, minimal memory, best performing consistent hash algorithm](https://arxiv.org/abs/2306.09783)|[java-consistent-hashing-algorithms](https://github.com/supsi-dti-isin/java-consistent-hashing-algorithms)|
+|[distributed deep joint source-channel coding with decoder-only side information](https://arxiv.org/abs/2310.04311)|[deepjscc-wz](https://github.com/ipc-lab/deepjscc-wz)|
 ## 2024-02-27
 |paper|code|
 |---|---|
