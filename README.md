@@ -1,3 +1,10 @@
+## 2024-02-29
+|paper|code|
+|---|---|
+|[stochastic optimal control via local occupation measures](https://arxiv.org/abs/2211.15652)|[markovbounds.jl](https://github.com/fholtorf/markovbounds.jl)|
+|[task-driven hybrid model reduction for dexterous manipulation](https://arxiv.org/abs/2211.16657)|[task-driven-hybrid-reduction](https://github.com/wanxinjin/task-driven-hybrid-reduction)|
+|[eeg2rep: enhancing self-supervised eeg representation through informative masked inputs](https://arxiv.org/abs/2402.17772)|[eeg2rep](https://github.com/navidfoumani/eeg2rep)|
+|[on the computational entanglement of distant features in adversarial machine learning](https://arxiv.org/abs/2309.15669)|[adversary-example-through-relativity](https://github.com/yenlunglai/adversary-example-through-relativity)|
 ## 2024-02-28
 |paper|code|
 |---|---|
@@ -6,11 +13,12 @@
 |[multi-kernel correntropy-based orientation estimation of imus: gradient descent methods](https://arxiv.org/abs/2304.06548)|[mc_gd_imu](https://github.com/lsl-zsj/mc_gd_imu)|
 |[hrtf upsampling with a generative adversarial network using a gnomonic equiangular projection](https://arxiv.org/abs/2306.05812)|[hrtf-upsampling-with-a-generative-adversarial-network-using-a-gnomonic-equiangular-projection](https://github.com/ahogg/hrtf-upsampling-with-a-generative-adversarial-network-using-a-gnomonic-equiangular-projection)|
 |[actively learning reinforcement learning: a stochastic optimal control approach](https://arxiv.org/abs/2309.10831)|[active-learning-reinforcement-learning](https://github.com/msramada/active-learning-reinforcement-learning)|
-|[multi-agent reinforcement learning for the low-level control of a quadrotor uav](https://arxiv.org/abs/2311.06144)|[marl-quad-control](https://github.com/fdcl-gwu/marl-quad-control)|
+|[multi-agent reinforcement learning for the low-level control of a quadrotor uav](https://arxiv.org/abs/2311.06144)|[gym-rotor](https://github.com/fdcl-gwu/gym-rotor)|
 |[impact of computation in integral reinforcement learning for continuous-time control](https://arxiv.org/abs/2402.17375)|[computation-impacts-control](https://github.com/anonymity678/computation-impacts-control)|
 |[beacon, a lightweight deep reinforcement learning benchmark library for flow control](https://arxiv.org/abs/2402.17402)|[beacon](https://github.com/jviquerat/beacon)|
 |[mementohash: a stateful, minimal memory, best performing consistent hash algorithm](https://arxiv.org/abs/2306.09783)|[java-consistent-hashing-algorithms](https://github.com/supsi-dti-isin/java-consistent-hashing-algorithms)|
 |[distributed deep joint source-channel coding with decoder-only side information](https://arxiv.org/abs/2310.04311)|[deepjscc-wz](https://github.com/ipc-lab/deepjscc-wz)|
+|[computation rate maximization for wireless powered edge computing with multi-user cooperation](https://arxiv.org/abs/2402.16866)|[wptmec](https://github.com/cpngroup/wptmec)|
 ## 2024-02-27
 |paper|code|
 |---|---|
@@ -19,9 +27,12 @@
 |[semi-supervised end-to-end learning for integrated sensing and communications](https://arxiv.org/abs/2310.09940)|[sslisac](https://github.com/josemateosramos/sslisac)|
 |[stochastic control barrier functions for economics](https://arxiv.org/abs/2312.12612)|[econcbf](https://github.com/davidvwijk/econcbf)|
 |[morphological symmetries in robotics](https://arxiv.org/abs/2402.15552)|[morphosymm](https://github.com/danfoa/morphosymm)|
+|[flexible robust beamforming for multibeam satellite downlink using reinforcement learning](https://arxiv.org/abs/2402.16563)|[2310_beamforming_learner_2](https://github.com/steffengra/2310_beamforming_learner_2)|
 |[practical byzantine reliable broadcast on partially connected networks (extended version)](https://arxiv.org/abs/2104.03673)|[BRB-partially-connected-networks](https://github.com/jdecouchant/BRB-partially-connected-networks)|
 |[flooding with absorption: an efficient protocol for heterogeneous bandits over complex networks](https://arxiv.org/abs/2303.05445)|[bandits-network](https://github.com/nick-jhlee/bandits-network)|
 |[bagged deep image prior for recovering images in the presence of speckle noise](https://arxiv.org/abs/2402.15635)|[Bagged-DIP-Speckle](https://github.com/Computational-Imaging-RU/Bagged-DIP-Speckle)|
+|[dedicated restricted target wake time for real-time applications in wi-fi 7](https://arxiv.org/abs/2402.15900)|[r-twt-sim-public](https://github.com/imec-idlab/r-twt-sim-public)|
+|[autonomous integration of tsn-unaware applications with qos requirements in tsn networks](https://arxiv.org/abs/2402.16454)|[tsn-unaware-integration](https://github.com/uni-tue-kn/tsn-unaware-integration)|
 ## 2024-02-26
 |paper|code|
 |---|---|
