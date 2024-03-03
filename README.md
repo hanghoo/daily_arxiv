@@ -6,7 +6,9 @@
 |[dimensionless policies based on the buckingham $\pi$ theorem: is this a good way to generalize numerical results?](https://arxiv.org/abs/2307.15852)|[dimensionlesspolicies](https://github.com/alx87grd/dimensionlesspolicies)|
 |[approximate control for continuous-time pomdps](https://arxiv.org/abs/2402.01431)|[approxpomdps](https://github.com/yannickeich/approxpomdps)|
 |[fault tolerant neural control barrier functions for robotic systems under sensor faults and attacks](https://arxiv.org/abs/2402.18677)|[ftncbf](https://github.com/hongchaozhang-hz/ftncbf)|
+|[joint chance constrained optimal control via linear programming](https://arxiv.org/abs/2402.19360)|[jcc_opt_control_lp](https://github.com/niklasschmidresearch/jcc_opt_control_lp)|
 |[listening to the noise: blind denoising with gibbs diffusion](https://arxiv.org/abs/2402.19455)|[gibbs-diffusion](https://github.com/rubenohana/gibbs-diffusion)|
+|[quantum state compression with polar codes](https://arxiv.org/abs/2402.18684)|[qscpolar](https://github.com/aviemathelec1995/qscpolar)|
 ## 2024-02-29
 |paper|code|
 |---|---|
@@ -34,6 +36,7 @@
 |[monte carlo grid dynamic programming: almost sure convergence and probability constraints](https://arxiv.org/abs/2303.06200)|[mc_dynamicprogramming](https://github.com/msramada/mc_dynamicprogramming)|
 |[semi-supervised end-to-end learning for integrated sensing and communications](https://arxiv.org/abs/2310.09940)|[sslisac](https://github.com/josemateosramos/sslisac)|
 |[stochastic control barrier functions for economics](https://arxiv.org/abs/2312.12612)|[econcbf](https://github.com/davidvwijk/econcbf)|
+|[deep, convergent, unrolled half-quadratic splitting for image deconvolution](https://arxiv.org/abs/2402.12872)|[decun](https://github.com/6zhc/decun)|
 |[morphological symmetries in robotics](https://arxiv.org/abs/2402.15552)|[morphosymm](https://github.com/danfoa/morphosymm)|
 |[flexible robust beamforming for multibeam satellite downlink using reinforcement learning](https://arxiv.org/abs/2402.16563)|[2310_beamforming_learner_2](https://github.com/steffengra/2310_beamforming_learner_2)|
 |[flooding with absorption: an efficient protocol for heterogeneous bandits over complex networks](https://arxiv.org/abs/2303.05445)|[bandits-network](https://github.com/nick-jhlee/bandits-network)|
