@@ -1,3 +1,11 @@
+## 2024-03-04
+|paper|code|
+|---|---|
+|[symplectic ode-net: learning hamiltonian dynamics with control](https://arxiv.org/abs/1909.12077)|[Symplectic-ODENet](https://github.com/Physics-aware-AI/Symplectic-ODENet)|
+|[self-supervised learning for time series analysis: taxonomy, progress, and prospects](https://arxiv.org/abs/2306.10125)|[Awesome-SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS)|
+|[go beyond black-box policies: rethinking the design of learning agent for interpretable and verifiable hvac control](https://arxiv.org/abs/2403.00172)|[veri_hvac](https://github.com/ryeii/veri_hvac)|
+|[safeguarding data in multimodal ai: a differentially private approach to clip training](https://arxiv.org/abs/2306.08173)|[dpclip](https://github.com/dpclip/dpclip)|
+|[stein variational guided model predictive path integral control: proposal and experiments with fast maneuvering vehicles](https://arxiv.org/abs/2309.11040)|[proj-svg_mppi](https://github.com/kohonda/proj-svg_mppi)|
 ## 2024-03-01
 |paper|code|
 |---|---|
