@@ -1,3 +1,16 @@
+## 2024-03-05
+|paper|code|
+|---|---|
+|[matnet: multi-level fusion transformer-based model for day-ahead pv generation forecasting](https://arxiv.org/abs/2306.10356)|[matnet](https://github.com/cosbidev/matnet)|
+|[polynomial logical zonotopes: a set representation for reachability analysis of logical systems](https://arxiv.org/abs/2306.12508)|[Logical-Zonotope](https://github.com/aalanwar/Logical-Zonotope)|
+|[large-scale environment mapping and immersive human-robot interaction for agricultural mobile robot teleoperation](https://arxiv.org/abs/2308.07231)|[enhance-sfm](https://github.com/liutao1126/enhance-sfm)|
+|[improving robustness via tilted exponential layer: a communication-theoretic perspective](https://arxiv.org/abs/2311.01047)|[texp_for_robustness](https://github.com/bhagyapuranik/texp_for_robustness)|
+|[neuro-gpt: towards a foundation model for eeg](https://arxiv.org/abs/2311.03764)|[neurogpt](https://github.com/wenhui0206/neurogpt)|
+|[t-prime: transformer-based protocol identification for machine-learning at the edge](https://arxiv.org/abs/2401.04837)|[t-prime](https://github.com/genesys-neu/t-prime)|
+|[lum-vit: learnable under-sampling mask vision transformer for bandwidth limited optical signal acquisition](https://arxiv.org/abs/2403.01412)|[lum-vit](https://github.com/maxllf/lum-vit)|
+|[hybrid quantum neural network advantage for radar-based drone detection and classification in low signal-to-noise ratio](https://arxiv.org/abs/2403.02080)|[hybrid-quantum-classical-Neural-Network-for-radar-data](https://github.com/AishSweety/hybrid-quantum-classical-Neural-Network-for-radar-data)|
+|[neural estimation of the rate-distortion function with applications to operational source coding](https://arxiv.org/abs/2204.01612)|[nerd-rcc](https://github.com/leieric/nerd-rcc)|
+|[exposing the deception: uncovering more forgery clues for deepfake detection](https://arxiv.org/abs/2403.01786)|[exposing-the-deception](https://github.com/qingyuliu/exposing-the-deception)|
 ## 2024-03-04
 |paper|code|
 |---|---|
@@ -23,6 +36,7 @@
 |[stochastic optimal control via local occupation measures](https://arxiv.org/abs/2211.15652)|[markovbounds.jl](https://github.com/fholtorf/markovbounds.jl)|
 |[task-driven hybrid model reduction for dexterous manipulation](https://arxiv.org/abs/2211.16657)|[task-driven-hybrid-reduction](https://github.com/wanxinjin/task-driven-hybrid-reduction)|
 |[eeg2rep: enhancing self-supervised eeg representation through informative masked inputs](https://arxiv.org/abs/2402.17772)|[eeg2rep](https://github.com/navidfoumani/eeg2rep)|
+|[extended kalman filter -- koopman operator for tractable stochastic optimal control](https://arxiv.org/abs/2402.18554)|[linearizing-uncertainty-for-control](https://github.com/msramada/linearizing-uncertainty-for-control)|
 |[on the computational entanglement of distant features in adversarial machine learning](https://arxiv.org/abs/2309.15669)|[adversary-example-through-relativity](https://github.com/yenlunglai/adversary-example-through-relativity)|
 ## 2024-02-28
 |paper|code|
