@@ -1,3 +1,8 @@
+## 2024-03-06
+|paper|code|
+|---|---|
+|[linear quadratic control of nonlinear systems with koopman operator learning and the nystr\"om method](https://arxiv.org/abs/2403.02811)|[nys-koop-lqr](https://github.com/lcsl/nys-koop-lqr)|
+|[federated learning under attack: exposing vulnerabilities through data poisoning attacks in computer networks](https://arxiv.org/abs/2403.02983)|[federatedlearning_poison_lf_fp](https://github.com/ehsannowroozi/federatedlearning_poison_lf_fp)|
 ## 2024-03-05
 |paper|code|
 |---|---|
