@@ -1,3 +1,10 @@
+## 2024-03-08
+|paper|code|
+|---|---|
+|[processing natural language on embedded devices: how well do transformer models perform?](https://arxiv.org/abs/2304.11520)|[benchmarking-bert-embedded-devices-icpe24-artifact](https://github.com/cps2rl/benchmarking-bert-embedded-devices-icpe24-artifact)|
+|[trust-region neural moving horizon estimation for robots](https://arxiv.org/abs/2309.05955)|[tr-neuromhe](https://github.com/binghengnus/tr-neuromhe)|
+|[learning model predictive control with error dynamics regression for autonomous racing](https://arxiv.org/abs/2309.10716)|[racing-lmpc-ros2](https://github.com/mpc-berkeley/racing-lmpc-ros2)|
+|[dtp-net: learning to reconstruct eeg signals in time-frequency domain by multi-scale feature reuse](https://arxiv.org/abs/2312.09417)|[eeg-denoise](https://github.com/williamro/eeg-denoise)|
 ## 2024-03-07
 |paper|code|
 |---|---|
@@ -5,6 +12,7 @@
 |[distributed charging coordination of electric trucks with limited charging resources](https://arxiv.org/abs/2311.06874)|[distributed-charging-for-evs](https://github.com/kth-tingbai/distributed-charging-for-evs)|
 |[tsrnet: simple framework for real-time ecg anomaly detection with multimodal time and spectrogram restoration network](https://arxiv.org/abs/2312.10187)|[tsrnet](https://github.com/uark-aicv/tsrnet)|
 |[brant-2: foundation model for brain signals](https://arxiv.org/abs/2402.10251)|[brant-2](https://github.com/yzz673/brant-2)|
+|[arnn: attentive recurrent neural network for multi-channel eeg signals to identify epileptic seizures](https://arxiv.org/abs/2403.03276)|[arnn](https://github.com/salim-lysiun/arnn)|
 |[global geolocated realtime data of interfleet urban transit bus idling](https://arxiv.org/abs/2403.03489)|[idling](https://github.com/nickkunz/idling)|
 |[diffusion-based generative prior for low-complexity mimo channel estimation](https://arxiv.org/abs/2403.03545)|[diffusion_channel_est](https://github.com/benediktfesl/diffusion_channel_est)|
 |[linear and nonlinear system identification under $\ell_1$- and group-lasso regularization via l-bfgs-b](https://arxiv.org/abs/2403.03827)|[jax-sysid](https://github.com/bemporad/jax-sysid)|
@@ -23,6 +31,7 @@
 |[improving robustness via tilted exponential layer: a communication-theoretic perspective](https://arxiv.org/abs/2311.01047)|[texp_for_robustness](https://github.com/bhagyapuranik/texp_for_robustness)|
 |[neuro-gpt: towards a foundation model for eeg](https://arxiv.org/abs/2311.03764)|[neurogpt](https://github.com/wenhui0206/neurogpt)|
 |[t-prime: transformer-based protocol identification for machine-learning at the edge](https://arxiv.org/abs/2401.04837)|[t-prime](https://github.com/genesys-neu/t-prime)|
+|[arbitrary discrete fourier analysis and its application in replayed speech detection](https://arxiv.org/abs/2403.01130)|[adfa](https://github.com/shihkuanglee/adfa)|
 |[lum-vit: learnable under-sampling mask vision transformer for bandwidth limited optical signal acquisition](https://arxiv.org/abs/2403.01412)|[lum-vit](https://github.com/maxllf/lum-vit)|
 |[powerskel: a device-free framework using csi signal for human skeleton estimation in power station](https://arxiv.org/abs/2403.01913)|[ckdformer](https://github.com/power-operation/ckdformer)|
 |[hybrid quantum neural network advantage for radar-based drone detection and classification in low signal-to-noise ratio](https://arxiv.org/abs/2403.02080)|[hybrid-quantum-classical-Neural-Network-for-radar-data](https://github.com/AishSweety/hybrid-quantum-classical-Neural-Network-for-radar-data)|
@@ -33,6 +42,7 @@
 |---|---|
 |[symplectic ode-net: learning hamiltonian dynamics with control](https://arxiv.org/abs/1909.12077)|[Symplectic-ODENet](https://github.com/Physics-aware-AI/Symplectic-ODENet)|
 |[self-supervised learning for time series analysis: taxonomy, progress, and prospects](https://arxiv.org/abs/2306.10125)|[Awesome-SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS)|
+|[active sensing for reciprocal mimo channels](https://arxiv.org/abs/2403.00134)|[active-sensing-for-reciprocal-mimo-channels](https://github.com/taojiang-github/active-sensing-for-reciprocal-mimo-channels)|
 |[go beyond black-box policies: rethinking the design of learning agent for interpretable and verifiable hvac control](https://arxiv.org/abs/2403.00172)|[veri_hvac](https://github.com/ryeii/veri_hvac)|
 |[safeguarding data in multimodal ai: a differentially private approach to clip training](https://arxiv.org/abs/2306.08173)|[dpclip](https://github.com/dpclip/dpclip)|
 |[stein variational guided model predictive path integral control: proposal and experiments with fast maneuvering vehicles](https://arxiv.org/abs/2309.11040)|[proj-svg_mppi](https://github.com/kohonda/proj-svg_mppi)|
