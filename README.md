@@ -1,3 +1,17 @@
+## 2024-03-11
+|paper|code|
+|---|---|
+|[estimating the convex hull of the image of a set with smooth boundary: error bounds and applications](https://arxiv.org/abs/2302.13970)|[convex-hull-estimation](https://github.com/stanfordasl/convex-hull-estimation)|
+|[sustainability assessment of low earth orbit (leo) satellite broadband megaconstellations](https://arxiv.org/abs/2309.02338)|[saleos](https://github.com/bonface-osoro/saleos)|
+|[blind source separation of single-channel mixtures via multi-encoder autoencoders](https://arxiv.org/abs/2309.07138)|[self-supervised-bss-via-multi-encoder-ae](https://github.com/webstah/self-supervised-bss-via-multi-encoder-ae)|
+|[differentiable learning of generalized structured matrices for efficient deep neural networks](https://arxiv.org/abs/2310.18882)|[Gaudi-GBLR](https://github.com/changwoolee/Gaudi-GBLR)|
+|[supplygraph: a benchmark dataset for supply chain planning using graph neural networks](https://arxiv.org/abs/2401.15299)|[supplygraph](https://github.com/ciol-sust/supplygraph)|
+|[szcore: a seizure community open-source research evaluation framework for the validation of eeg-based automated seizure detection algorithms](https://arxiv.org/abs/2402.13005)|[epilepsy2bids](https://github.com/esl-epfl/epilepsy2bids)|
+|[integrating predictive motion uncertainties with distributionally robust risk-aware control for safe robot navigation in crowds](https://arxiv.org/abs/2403.05081)|[DRCC-MPC](https://github.com/labicon/DRCC-MPC)|
+|[dero: dead reckoning based on radar odometry with accelerometers aided for robot localization](https://arxiv.org/abs/2403.05136)|[dero](https://github.com/hoangvietdo/dero)|
+|[synthetic data generation for system identification: leveraging knowledge transfer from similar systems](https://arxiv.org/abs/2403.05164)|[synthetic_data_generation](https://github.com/dariopi/synthetic_data_generation)|
+|[bayes conditional distribution estimation for knowledge distillation based on conditional mutual information](https://arxiv.org/abs/2401.08732)|[iclrmcmi](https://github.com/iclr2024mcmi/iclrmcmi)|
+|[an efficient difference-of-convex solver for privacy funnel](https://arxiv.org/abs/2403.04778)|[dcaPF-torch](https://github.com/hui811116/dcaPF-torch)|
 ## 2024-03-08
 |paper|code|
 |---|---|
