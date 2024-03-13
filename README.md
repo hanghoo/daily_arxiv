@@ -1,3 +1,15 @@
+## 2024-03-12
+|paper|code|
+|---|---|
+|[tfn: an interpretable neural network with time-frequency transform embedded for intelligent fault diagnosis](https://arxiv.org/abs/2209.01992)|[tfn](https://github.com/chenqian0618/tfn)|
+|[scalable bilevel optimization for generating maximally representative opf datasets](https://arxiv.org/abs/2304.10912)|[rambo](https://github.com/samchevalier/rambo)|
+|[task-aware machine unlearning and its application in load forecasting](https://arxiv.org/abs/2308.14412)|[task_aware_machine_unlearning](https://github.com/xuwkk/task_aware_machine_unlearning)|
+|[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
+|[modeling power systems dynamics with symbolic physics-informed neural networks](https://arxiv.org/abs/2311.06580)|[PINNs_Power_System_Dynamics](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics)|
+|[robust conformal prediction for stl runtime verification under distribution shift](https://arxiv.org/abs/2311.09482)|[Robust-Conformal-Prediction-for-STL-Runtime-Verification-under-Distribution-Shift](https://github.com/SAIDS-Lab/Robust-Conformal-Prediction-for-STL-Runtime-Verification-under-Distribution-Shift)|
+|[on the salient limitations of the methods of assembly theory and their classification of molecular biosignatures](https://arxiv.org/abs/2210.00901)|[mscomplexity](https://github.com/abicumaran/mscomplexity)|
+|[learning unknown intervention targets in structural causal models from heterogeneous data](https://arxiv.org/abs/2312.06091)|[lit](https://github.com/yuqin-yang/lit)|
+|[detection of unobserved common causes based on nml code in discrete, mixed, and continuous variables](https://arxiv.org/abs/2403.06499)|[cloud](https://github.com/matsushima-lab/cloud)|
 ## 2024-03-11
 |paper|code|
 |---|---|
@@ -10,8 +22,8 @@
 |[integrating predictive motion uncertainties with distributionally robust risk-aware control for safe robot navigation in crowds](https://arxiv.org/abs/2403.05081)|[DRCC-MPC](https://github.com/labicon/DRCC-MPC)|
 |[dero: dead reckoning based on radar odometry with accelerometers aided for robot localization](https://arxiv.org/abs/2403.05136)|[dero](https://github.com/hoangvietdo/dero)|
 |[synthetic data generation for system identification: leveraging knowledge transfer from similar systems](https://arxiv.org/abs/2403.05164)|[synthetic_data_generation](https://github.com/dariopi/synthetic_data_generation)|
+|[gan-based massive mimo channel model trained on measured data](https://arxiv.org/abs/2403.05321)|[gan-wireless-channel-model](https://github.com/jeija/gan-wireless-channel-model)|
 |[bayes conditional distribution estimation for knowledge distillation based on conditional mutual information](https://arxiv.org/abs/2401.08732)|[iclrmcmi](https://github.com/iclr2024mcmi/iclrmcmi)|
-|[an efficient difference-of-convex solver for privacy funnel](https://arxiv.org/abs/2403.04778)|[dcaPF-torch](https://github.com/hui811116/dcaPF-torch)|
 ## 2024-03-08
 |paper|code|
 |---|---|
