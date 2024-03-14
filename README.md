@@ -1,3 +1,13 @@
+## 2024-03-13
+|paper|code|
+|---|---|
+|[regret and conservatism of distributionally robust constrained stochastic model predictive control](https://arxiv.org/abs/2309.12190)|[regret-and-conservatism-of-smpc](https://github.com/mpfefferk/regret-and-conservatism-of-smpc)|
+|[a safe preference learning approach for personalization with applications to autonomous vehicles](https://arxiv.org/abs/2311.02099)|[SPL-WSTL](https://github.com/ruyakrgl/SPL-WSTL)|
+|[privacy-preserving distributed learning for residential short-term load forecasting](https://arxiv.org/abs/2402.01546)|[fl-dl](https://github.com/yingjiewangtony/fl-dl)|
+|[wimans: a benchmark dataset for wifi-based multi-user activity sensing](https://arxiv.org/abs/2402.09430)|[wimans](https://github.com/huangshk/wimans)|
+|[goal-reaching trajectory design near danger with piecewise affine reach-avoid computation](https://arxiv.org/abs/2402.15604)|[parc](https://github.com/safe-robotics-lab-gt/parc)|
+|[innovation processes for inference](https://arxiv.org/abs/2306.05186)|[InnovationProcessesInference](https://github.com/GiulioTani/InnovationProcessesInference)|
+|[an efficient difference-of-convex solver for privacy funnel](https://arxiv.org/abs/2403.04778)|[dcaPF-torch](https://github.com/hui811116/dcaPF-torch)|
 ## 2024-03-12
 |paper|code|
 |---|---|
@@ -7,8 +17,14 @@
 |[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
 |[modeling power systems dynamics with symbolic physics-informed neural networks](https://arxiv.org/abs/2311.06580)|[PINNs_Power_System_Dynamics](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics)|
 |[robust conformal prediction for stl runtime verification under distribution shift](https://arxiv.org/abs/2311.09482)|[Robust-Conformal-Prediction-for-STL-Runtime-Verification-under-Distribution-Shift](https://github.com/SAIDS-Lab/Robust-Conformal-Prediction-for-STL-Runtime-Verification-under-Distribution-Shift)|
+|[guiding masked representation learning to capture spatio-temporal relationship of electrocardiogram](https://arxiv.org/abs/2402.09450)|[st-mem](https://github.com/bakqui/st-mem)|
+|[bounding stochastic safety: leveraging freedman's inequality with discrete-time control barrier functions](https://arxiv.org/abs/2403.05745)|[hoeffding](https://github.com/rkcosner/hoeffding)|
+|[providing safety assurances for systems with unknown dynamics](https://arxiv.org/abs/2403.05771)|[safety_assurances_for_unknown_dynamics](https://github.com/haowwang/safety_assurances_for_unknown_dynamics)|
+|[blockchain-enabled variational information bottleneck for iot networks](https://arxiv.org/abs/2403.06129)|[blockchain-enabled-variational-information-bottleneck-for-iot-networks](https://github.com/qiongwu86/blockchain-enabled-variational-information-bottleneck-for-iot-networks)|
+|[robust predictive motion planning by learning obstacle uncertainty](https://arxiv.org/abs/2403.06222)|[robust-mpc-motion-planning-by-learning-obstacle-uncertainties](https://github.com/jianzhou1212/robust-mpc-motion-planning-by-learning-obstacle-uncertainties)|
 |[on the salient limitations of the methods of assembly theory and their classification of molecular biosignatures](https://arxiv.org/abs/2210.00901)|[mscomplexity](https://github.com/abicumaran/mscomplexity)|
 |[learning unknown intervention targets in structural causal models from heterogeneous data](https://arxiv.org/abs/2312.06091)|[lit](https://github.com/yuqin-yang/lit)|
+|[acm mmsys 2024 bandwidth estimation in real time communications challenge](https://arxiv.org/abs/2403.06324)|[rl4bandwidthestimationchallenge](https://github.com/microsoft/rl4bandwidthestimationchallenge)|
 |[detection of unobserved common causes based on nml code in discrete, mixed, and continuous variables](https://arxiv.org/abs/2403.06499)|[cloud](https://github.com/matsushima-lab/cloud)|
 ## 2024-03-11
 |paper|code|
@@ -22,6 +38,7 @@
 |[integrating predictive motion uncertainties with distributionally robust risk-aware control for safe robot navigation in crowds](https://arxiv.org/abs/2403.05081)|[DRCC-MPC](https://github.com/labicon/DRCC-MPC)|
 |[dero: dead reckoning based on radar odometry with accelerometers aided for robot localization](https://arxiv.org/abs/2403.05136)|[dero](https://github.com/hoangvietdo/dero)|
 |[synthetic data generation for system identification: leveraging knowledge transfer from similar systems](https://arxiv.org/abs/2403.05164)|[synthetic_data_generation](https://github.com/dariopi/synthetic_data_generation)|
+|[a decoupled approach for composite sparse-plus-smooth penalized optimization](https://arxiv.org/abs/2403.05204)|[compositesps](https://github.com/adriaj/compositesps)|
 |[gan-based massive mimo channel model trained on measured data](https://arxiv.org/abs/2403.05321)|[gan-wireless-channel-model](https://github.com/jeija/gan-wireless-channel-model)|
 |[bayes conditional distribution estimation for knowledge distillation based on conditional mutual information](https://arxiv.org/abs/2401.08732)|[iclrmcmi](https://github.com/iclr2024mcmi/iclrmcmi)|
 ## 2024-03-08
@@ -31,6 +48,7 @@
 |[trust-region neural moving horizon estimation for robots](https://arxiv.org/abs/2309.05955)|[tr-neuromhe](https://github.com/binghengnus/tr-neuromhe)|
 |[learning model predictive control with error dynamics regression for autonomous racing](https://arxiv.org/abs/2309.10716)|[racing-lmpc-ros2](https://github.com/mpc-berkeley/racing-lmpc-ros2)|
 |[dtp-net: learning to reconstruct eeg signals in time-frequency domain by multi-scale feature reuse](https://arxiv.org/abs/2312.09417)|[eeg-denoise](https://github.com/williamro/eeg-denoise)|
+|[qrtree -- decision tree dialect specification of qrscript](https://arxiv.org/abs/2403.04716)|[qrtree](https://github.com/eqr-code/qrtree)|
 ## 2024-03-07
 |paper|code|
 |---|---|
