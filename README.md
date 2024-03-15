@@ -1,11 +1,21 @@
+## 2024-03-14
+|paper|code|
+|---|---|
+|[slicertms: real-time visualization of transcranial magnetic stimulation for mental health treatment](https://arxiv.org/abs/2305.06459)|[SlicerTMS](https://github.com/lorifranke/SlicerTMS)|
+|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[hamiltonian dynamics learning from point cloud observations for nonholonomic mobile robot control](https://arxiv.org/abs/2309.09163)|[Differential-Drive-Hamiltonian-NeuralODE](https://github.com/ExistentialRobotics/Differential-Drive-Hamiltonian-NeuralODE)|
+|[outlier accommodation for gnss precise point positioning using risk-averse state estimation](https://arxiv.org/abs/2402.01860)|[outlier_accommodation_gnss_acc2024](https://github.com/azurehappen/outlier_accommodation_gnss_acc2024)|
+|[llm-assisted light: leveraging large language model capabilities for human-mimetic traffic signal control in complex urban environments](https://arxiv.org/abs/2403.08337)|[llm-assisted-light](https://github.com/traffic-alpha/llm-assisted-light)|
+|[zero-rating, one big mess: analyzing differential pricing practices of european mnos](https://arxiv.org/abs/2403.08066)|[mobile-atlas](https://github.com/sbaresearch/mobile-atlas)|
+|[mobileatlas: geographically decoupled measurements in cellular networks for security and privacy research](https://arxiv.org/abs/2403.08507)|[mobile-atlas](https://github.com/sbaresearch/mobile-atlas)|
 ## 2024-03-13
 |paper|code|
 |---|---|
-|[regret and conservatism of distributionally robust constrained stochastic model predictive control](https://arxiv.org/abs/2309.12190)|[regret-and-conservatism-of-smpc](https://github.com/mpfefferk/regret-and-conservatism-of-smpc)|
 |[a safe preference learning approach for personalization with applications to autonomous vehicles](https://arxiv.org/abs/2311.02099)|[SPL-WSTL](https://github.com/ruyakrgl/SPL-WSTL)|
 |[privacy-preserving distributed learning for residential short-term load forecasting](https://arxiv.org/abs/2402.01546)|[fl-dl](https://github.com/yingjiewangtony/fl-dl)|
 |[wimans: a benchmark dataset for wifi-based multi-user activity sensing](https://arxiv.org/abs/2402.09430)|[wimans](https://github.com/huangshk/wimans)|
 |[goal-reaching trajectory design near danger with piecewise affine reach-avoid computation](https://arxiv.org/abs/2402.15604)|[parc](https://github.com/safe-robotics-lab-gt/parc)|
+|[exploring challenges in deep learning of single-station ground motion records](https://arxiv.org/abs/2403.07569)|[mage](https://github.com/caglarmert/mage)|
 |[innovation processes for inference](https://arxiv.org/abs/2306.05186)|[InnovationProcessesInference](https://github.com/GiulioTani/InnovationProcessesInference)|
 |[an efficient difference-of-convex solver for privacy funnel](https://arxiv.org/abs/2403.04778)|[dcaPF-torch](https://github.com/hui811116/dcaPF-torch)|
 ## 2024-03-12
