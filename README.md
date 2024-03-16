@@ -1,3 +1,17 @@
+## 2024-03-15
+|paper|code|
+|---|---|
+|[on solar photovoltaic parameter estimation: global optimality analysis and a simple efficient differential evolution method](https://arxiv.org/abs/2011.12114)|[rePVest](https://github.com/ShuhuaGao/rePVest)|
+|[stability of linear set-membership filters with respect to initial conditions: an observation-information perspective](https://arxiv.org/abs/2203.13966)|[Stability-of-Linear-Set-Membership-Filters](https://github.com/congyirui/Stability-of-Linear-Set-Membership-Filters)|
+|[compressing sign information in dct-based image coding via deep sign retrieval](https://arxiv.org/abs/2209.10712)|[dsr](https://github.com/ctsutake/dsr)|
+|[uncertainty-aware and reliable neural mimo receivers via modular bayesian deep learning](https://arxiv.org/abs/2302.02436)|[bayesian-learning-for-receivers](https://github.com/tomerraviv95/bayesian-learning-for-receivers)|
+|[model-free reinforcement learning of semantic communication by stochastic policy gradient](https://arxiv.org/abs/2305.03571)|[sinfony](https://github.com/ant-uni-bremen/sinfony)|
+|[regret and conservatism of distributionally robust constrained stochastic model predictive control](https://arxiv.org/abs/2309.12190)|[regret-and-conservatism-of-smpc](https://github.com/mpfefferk/regret-and-conservatism-of-smpc)|
+|[stable training of probabilistic models using the leave-one-out maximum log-likelihood objective](https://arxiv.org/abs/2310.03556)|[leave-one-out_maximum-log-likelihood](https://github.com/kabolat/leave-one-out_maximum-log-likelihood)|
+|[plug-and-play regularization on magnitude with deep priors for 3d near-field mimo imaging](https://arxiv.org/abs/2312.16024)|[PnP-Regularization-on-Magnitude](https://github.com/METU-SPACE-Lab/PnP-Regularization-on-Magnitude)|
+|[visual decoding and reconstruction via eeg embeddings with guided diffusion](https://arxiv.org/abs/2403.07721)|[eeg_image_decode](https://github.com/dongyangli-del/eeg_image_decode)|
+|[meta-learning-based fronthaul compression for cloud radio access networks](https://arxiv.org/abs/2403.09004)|[Meta-Learning-Fronthaul-Compression-CRAN](https://github.com/RuihuaQiao/Meta-Learning-Fronthaul-Compression-CRAN)|
+|[an extended view on measuring tor as-level adversaries](https://arxiv.org/abs/2403.08517)|[ripe-tor](https://github.com/sbaresearch/ripe-tor)|
 ## 2024-03-14
 |paper|code|
 |---|---|
