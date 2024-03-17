@@ -11,6 +11,8 @@
 |[plug-and-play regularization on magnitude with deep priors for 3d near-field mimo imaging](https://arxiv.org/abs/2312.16024)|[PnP-Regularization-on-Magnitude](https://github.com/METU-SPACE-Lab/PnP-Regularization-on-Magnitude)|
 |[visual decoding and reconstruction via eeg embeddings with guided diffusion](https://arxiv.org/abs/2403.07721)|[eeg_image_decode](https://github.com/dongyangli-del/eeg_image_decode)|
 |[meta-learning-based fronthaul compression for cloud radio access networks](https://arxiv.org/abs/2403.09004)|[Meta-Learning-Fronthaul-Compression-CRAN](https://github.com/RuihuaQiao/Meta-Learning-Fronthaul-Compression-CRAN)|
+|[sindy-rl: interpretable and efficient model-based reinforcement learning](https://arxiv.org/abs/2403.09110)|[sindy-rl](https://github.com/nzolman/sindy-rl)|
+|[learning to optimize with convergence guarantees using nonlinear system theory](https://arxiv.org/abs/2403.09389)|[convergentl2o](https://github.com/andrea-martin/convergentl2o)|
 |[an extended view on measuring tor as-level adversaries](https://arxiv.org/abs/2403.08517)|[ripe-tor](https://github.com/sbaresearch/ripe-tor)|
 ## 2024-03-14
 |paper|code|
@@ -19,6 +21,8 @@
 |[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
 |[hamiltonian dynamics learning from point cloud observations for nonholonomic mobile robot control](https://arxiv.org/abs/2309.09163)|[Differential-Drive-Hamiltonian-NeuralODE](https://github.com/ExistentialRobotics/Differential-Drive-Hamiltonian-NeuralODE)|
 |[outlier accommodation for gnss precise point positioning using risk-averse state estimation](https://arxiv.org/abs/2402.01860)|[outlier_accommodation_gnss_acc2024](https://github.com/azurehappen/outlier_accommodation_gnss_acc2024)|
+|[smart hpa: a resource-efficient horizontal pod auto-scaler for microservice architectures](https://arxiv.org/abs/2403.07909)|[smart_hpa](https://github.com/hussainahmad05/smart_hpa)|
+|[learning barrier-certified polynomial dynamical systems for obstacle avoidance with robots](https://arxiv.org/abs/2403.08178)|[abc-ds](https://github.com/martinschonger/abc-ds)|
 |[llm-assisted light: leveraging large language model capabilities for human-mimetic traffic signal control in complex urban environments](https://arxiv.org/abs/2403.08337)|[llm-assisted-light](https://github.com/traffic-alpha/llm-assisted-light)|
 |[zero-rating, one big mess: analyzing differential pricing practices of european mnos](https://arxiv.org/abs/2403.08066)|[mobile-atlas](https://github.com/sbaresearch/mobile-atlas)|
 |[mobileatlas: geographically decoupled measurements in cellular networks for security and privacy research](https://arxiv.org/abs/2403.08507)|[mobile-atlas](https://github.com/sbaresearch/mobile-atlas)|
@@ -36,7 +40,9 @@
 |paper|code|
 |---|---|
 |[tfn: an interpretable neural network with time-frequency transform embedded for intelligent fault diagnosis](https://arxiv.org/abs/2209.01992)|[tfn](https://github.com/chenqian0618/tfn)|
+|[ul-dl duality for cell-free massive mimo with per-ap power and information constraints](https://arxiv.org/abs/2301.06520)|[duality](https://github.com/lorenzomiretti/duality)|
 |[scalable bilevel optimization for generating maximally representative opf datasets](https://arxiv.org/abs/2304.10912)|[rambo](https://github.com/samchevalier/rambo)|
+|[on the limitations of carbon-aware temporal and spatial workload shifting in the cloud](https://arxiv.org/abs/2306.06502)|[decarbonization-potential](https://github.com/umassos/decarbonization-potential)|
 |[task-aware machine unlearning and its application in load forecasting](https://arxiv.org/abs/2308.14412)|[task_aware_machine_unlearning](https://github.com/xuwkk/task_aware_machine_unlearning)|
 |[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
 |[modeling power systems dynamics with symbolic physics-informed neural networks](https://arxiv.org/abs/2311.06580)|[PINNs_Power_System_Dynamics](https://github.com/ThanhEthan/PINNs_Power_System_Dynamics)|
@@ -44,6 +50,7 @@
 |[guiding masked representation learning to capture spatio-temporal relationship of electrocardiogram](https://arxiv.org/abs/2402.09450)|[st-mem](https://github.com/bakqui/st-mem)|
 |[bounding stochastic safety: leveraging freedman's inequality with discrete-time control barrier functions](https://arxiv.org/abs/2403.05745)|[hoeffding](https://github.com/rkcosner/hoeffding)|
 |[providing safety assurances for systems with unknown dynamics](https://arxiv.org/abs/2403.05771)|[safety_assurances_for_unknown_dynamics](https://github.com/haowwang/safety_assurances_for_unknown_dynamics)|
+|[on the equivalence of direct and indirect data-driven predictive control approaches](https://arxiv.org/abs/2403.05860)|[ddpc](https://github.com/bonassifabio/ddpc)|
 |[blockchain-enabled variational information bottleneck for iot networks](https://arxiv.org/abs/2403.06129)|[blockchain-enabled-variational-information-bottleneck-for-iot-networks](https://github.com/qiongwu86/blockchain-enabled-variational-information-bottleneck-for-iot-networks)|
 |[robust predictive motion planning by learning obstacle uncertainty](https://arxiv.org/abs/2403.06222)|[robust-mpc-motion-planning-by-learning-obstacle-uncertainties](https://github.com/jianzhou1212/robust-mpc-motion-planning-by-learning-obstacle-uncertainties)|
 |[on the salient limitations of the methods of assembly theory and their classification of molecular biosignatures](https://arxiv.org/abs/2210.00901)|[mscomplexity](https://github.com/abicumaran/mscomplexity)|
