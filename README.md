@@ -1,3 +1,10 @@
+## 2024-03-18
+|paper|code|
+|---|---|
+|[deep regularized compound gaussian network for solving linear inverse problems](https://arxiv.org/abs/2311.17248)|[dr-cg-net](https://github.com/clyons19/dr-cg-net)|
+|[a conversational brain-artificial intelligence interface](https://arxiv.org/abs/2402.15011)|[eegchat](https://github.com/akmeunier/eegchat)|
+|[real-time scheduling for 802.1qbv time-sensitive networking (tsn): a systematic review and experimental study](https://arxiv.org/abs/2305.16772)|[tsnkit](https://github.com/ChuanyuXue/tsnkit)|
+|[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
 ## 2024-03-15
 |paper|code|
 |---|---|
@@ -33,6 +40,7 @@
 |[privacy-preserving distributed learning for residential short-term load forecasting](https://arxiv.org/abs/2402.01546)|[fl-dl](https://github.com/yingjiewangtony/fl-dl)|
 |[wimans: a benchmark dataset for wifi-based multi-user activity sensing](https://arxiv.org/abs/2402.09430)|[wimans](https://github.com/huangshk/wimans)|
 |[goal-reaching trajectory design near danger with piecewise affine reach-avoid computation](https://arxiv.org/abs/2402.15604)|[parc](https://github.com/safe-robotics-lab-gt/parc)|
+|[adaptive gain scheduling using reinforcement learning for quadcopter control](https://arxiv.org/abs/2403.07216)|[RL_Drone_Control](https://github.com/MikeTimmerman-ae/RL_Drone_Control)|
 |[exploring challenges in deep learning of single-station ground motion records](https://arxiv.org/abs/2403.07569)|[mage](https://github.com/caglarmert/mage)|
 |[innovation processes for inference](https://arxiv.org/abs/2306.05186)|[InnovationProcessesInference](https://github.com/GiulioTani/InnovationProcessesInference)|
 |[an efficient difference-of-convex solver for privacy funnel](https://arxiv.org/abs/2403.04778)|[dcaPF-torch](https://github.com/hui811116/dcaPF-torch)|
