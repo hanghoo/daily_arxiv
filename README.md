@@ -1,7 +1,19 @@
+## 2024-03-19
+|paper|code|
+|---|---|
+|[provably bounding neural network preimages](https://arxiv.org/abs/2302.01404)|[verify-input](https://github.com/kothasuhas/verify-input)|
+|[deep nonnegative matrix factorization with beta divergences](https://arxiv.org/abs/2309.08249)|[deep-beta-nmf-public](https://github.com/vleplat/deep-beta-nmf-public)|
+|[efficient quantification and representation of aggregate flexibility in electric vehicles](https://arxiv.org/abs/2310.02729)|[ul-flexibility](https://github.com/nkpanda97/ul-flexibility)|
+|[deep regularized compound gaussian network for solving linear inverse problems](https://arxiv.org/abs/2311.17248)|[dr-cg-net](https://github.com/clyons19/dr-cg-net)|
+|[mains: a magnetic field aided inertial navigation system for indoor positioning](https://arxiv.org/abs/2312.02599)|[mainsvsmagekf](https://github.com/huang-chuan/mainsvsmagekf)|
+|[selfeeg: a python library for self-supervised learning in electroencephalography](https://arxiv.org/abs/2401.05405)|[selfeeg](https://github.com/medmaxlab/selfeeg)|
+|[bounding stochastic safety: leveraging freedman's inequality with discrete-time control barrier functions](https://arxiv.org/abs/2403.05745)|[hoeffding](https://github.com/rkcosner/hoeffding)|
+|[robust counterfactual explanations for neural networks with probabilistic guarantees](https://arxiv.org/abs/2305.11997)|[TReX-Counterfactuals](https://github.com/FaisalHamman/TReX-Counterfactuals)|
+|[acm mmsys 2024 bandwidth estimation in real time communications challenge](https://arxiv.org/abs/2403.06324)|[rl4bandwidthestimationchallenge](https://github.com/microsoft/rl4bandwidthestimationchallenge)|
+|[brain-on-switch: towards advanced intelligent network data plane via nn-driven traffic analysis at line-speed](https://arxiv.org/abs/2403.11090)|[brain-on-switch](https://github.com/inspiringgroup-lab/brain-on-switch)|
 ## 2024-03-18
 |paper|code|
 |---|---|
-|[deep regularized compound gaussian network for solving linear inverse problems](https://arxiv.org/abs/2311.17248)|[dr-cg-net](https://github.com/clyons19/dr-cg-net)|
 |[a conversational brain-artificial intelligence interface](https://arxiv.org/abs/2402.15011)|[eegchat](https://github.com/akmeunier/eegchat)|
 |[real-time scheduling for 802.1qbv time-sensitive networking (tsn): a systematic review and experimental study](https://arxiv.org/abs/2305.16772)|[tsnkit](https://github.com/ChuanyuXue/tsnkit)|
 |[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
@@ -9,7 +21,6 @@
 |paper|code|
 |---|---|
 |[on solar photovoltaic parameter estimation: global optimality analysis and a simple efficient differential evolution method](https://arxiv.org/abs/2011.12114)|[rePVest](https://github.com/ShuhuaGao/rePVest)|
-|[stability of linear set-membership filters with respect to initial conditions: an observation-information perspective](https://arxiv.org/abs/2203.13966)|[Stability-of-Linear-Set-Membership-Filters](https://github.com/congyirui/Stability-of-Linear-Set-Membership-Filters)|
 |[compressing sign information in dct-based image coding via deep sign retrieval](https://arxiv.org/abs/2209.10712)|[dsr](https://github.com/ctsutake/dsr)|
 |[uncertainty-aware and reliable neural mimo receivers via modular bayesian deep learning](https://arxiv.org/abs/2302.02436)|[bayesian-learning-for-receivers](https://github.com/tomerraviv95/bayesian-learning-for-receivers)|
 |[model-free reinforcement learning of semantic communication by stochastic policy gradient](https://arxiv.org/abs/2305.03571)|[sinfony](https://github.com/ant-uni-bremen/sinfony)|
