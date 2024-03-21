@@ -1,3 +1,18 @@
+## 2024-03-20
+|paper|code|
+|---|---|
+|[deep joint source-channel coding over cooperative relay networks](https://arxiv.org/abs/2211.06705)|[relay_jscc](https://github.com/aprilbian/relay_jscc)|
+|[optimal robust network design: formulations and algorithms for maximizing algebraic connectivity](https://arxiv.org/abs/2304.08571)|[laplacianopt.jl](https://github.com/harshangrjn/laplacianopt.jl)|
+|[regret optimal control for uncertain stochastic systems](https://arxiv.org/abs/2304.14835)|[scenariosafeminregret](https://github.com/decodepfl/scenariosafeminregret)|
+|[hypergraph-mlp: learning on hypergraphs without message passing](https://arxiv.org/abs/2312.09778)|[hypergraph-mlp](https://github.com/tbh-98/hypergraph-mlp)|
+|[guiding masked representation learning to capture spatio-temporal relationship of electrocardiogram](https://arxiv.org/abs/2402.09450)|[st-mem](https://github.com/bakqui/st-mem)|
+|[forzaeth race stack -- scaled autonomous head-to-head racing on fully commercial off-the-shelf hardware](https://arxiv.org/abs/2403.11784)|[race_stack](https://github.com/forzaeth/race_stack)|
+|[sim2real in reconstructive spectroscopy: deep learning with augmented device-informed data simulation](https://arxiv.org/abs/2403.12354)|[rec_spectrometer](https://github.com/j1goblue/rec_spectrometer)|
+|[finding the missing data: a bert-inspired approach against package loss in wireless sensing](https://arxiv.org/abs/2403.12400)|[csi-bert](https://github.com/rs2002/csi-bert)|
+|[information decomposition in complex systems via machine learning](https://arxiv.org/abs/2307.04755)|[distributed-information-bottleneck.github.io](https://github.com/distributed-information-bottleneck/distributed-information-bottleneck.github.io)|
+|[quic hunter: finding quic deployments and identifying server libraries across the internet](https://arxiv.org/abs/2308.15841)|[libraries](https://github.com/quic-hunter/libraries)|
+|[language modeling is compression](https://arxiv.org/abs/2309.10668)|[language_modeling_is_compression](https://github.com/google-deepmind/language_modeling_is_compression)|
+|[netbench: a large-scale and comprehensive network traffic benchmark dataset for foundation models](https://arxiv.org/abs/2403.10319)|[netbench](https://github.com/wm-jaylab/netbench)|
 ## 2024-03-19
 |paper|code|
 |---|---|
@@ -7,14 +22,22 @@
 |[deep regularized compound gaussian network for solving linear inverse problems](https://arxiv.org/abs/2311.17248)|[dr-cg-net](https://github.com/clyons19/dr-cg-net)|
 |[mains: a magnetic field aided inertial navigation system for indoor positioning](https://arxiv.org/abs/2312.02599)|[mainsvsmagekf](https://github.com/huang-chuan/mainsvsmagekf)|
 |[selfeeg: a python library for self-supervised learning in electroencephalography](https://arxiv.org/abs/2401.05405)|[selfeeg](https://github.com/medmaxlab/selfeeg)|
-|[bounding stochastic safety: leveraging freedman's inequality with discrete-time control barrier functions](https://arxiv.org/abs/2403.05745)|[hoeffding](https://github.com/rkcosner/hoeffding)|
+|[bounding stochastic safety: leveraging freedman's inequality with discrete-time control barrier functions](https://arxiv.org/abs/2403.05745)|[freedman](https://github.com/rkcosner/freedman)|
+|[forward-backward extended dmd with an asymptotic stability constraint](https://arxiv.org/abs/2403.10623)|[forward_backward_koopman](https://github.com/decargroup/forward_backward_koopman)|
+|[leveraging symmetries in gaits for reinforcement learning: a case study on quadrupedal gaits](https://arxiv.org/abs/2403.10723)|[bittle_leveraging_symmetries_in_rl](https://github.com/dlarlab/bittle_leveraging_symmetries_in_rl)|
+|[a continuous boostlet transform for acoustic waves in space-time](https://arxiv.org/abs/2403.11362)|[acha_sparsityanalysis](https://github.com/eliaszea/acha_sparsityanalysis)|
+|[a deep learning method for beat-level risk analysis and interpretation of atrial fibrillation patients during sinus rhythm](https://arxiv.org/abs/2403.11405)|[ecgbeat4afsinus](https://github.com/leijsen/ecgbeat4afsinus)|
+|[specific emitter identification handling modulation variation with margin disparity discrepancy](https://arxiv.org/abs/2403.11531)|[mdd-sei](https://github.com/zhangyezhuo/mdd-sei)|
+|[multistep inverse is not all you need](https://arxiv.org/abs/2403.11940)|[acdf](https://github.com/midi-lab/acdf)|
 |[robust counterfactual explanations for neural networks with probabilistic guarantees](https://arxiv.org/abs/2305.11997)|[TReX-Counterfactuals](https://github.com/FaisalHamman/TReX-Counterfactuals)|
 |[acm mmsys 2024 bandwidth estimation in real time communications challenge](https://arxiv.org/abs/2403.06324)|[rl4bandwidthestimationchallenge](https://github.com/microsoft/rl4bandwidthestimationchallenge)|
+|[clusterslice: a zero-touch deployment platform for the edge cloud continuum](https://arxiv.org/abs/2403.10954)|[clusterslice](https://github.com/swnrg/clusterslice)|
 |[brain-on-switch: towards advanced intelligent network data plane via nn-driven traffic analysis at line-speed](https://arxiv.org/abs/2403.11090)|[brain-on-switch](https://github.com/inspiringgroup-lab/brain-on-switch)|
 ## 2024-03-18
 |paper|code|
 |---|---|
 |[a conversational brain-artificial intelligence interface](https://arxiv.org/abs/2402.15011)|[eegchat](https://github.com/akmeunier/eegchat)|
+|[compositionally verifiable vector neural lyapunov functions for stability analysis of interconnected nonlinear systems](https://arxiv.org/abs/2403.10007)|[acc24-compositional-neural-lyapunov](https://github.com/j49liu/acc24-compositional-neural-lyapunov)|
 |[real-time scheduling for 802.1qbv time-sensitive networking (tsn): a systematic review and experimental study](https://arxiv.org/abs/2305.16772)|[tsnkit](https://github.com/ChuanyuXue/tsnkit)|
 |[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
 ## 2024-03-15
@@ -31,7 +54,9 @@
 |[meta-learning-based fronthaul compression for cloud radio access networks](https://arxiv.org/abs/2403.09004)|[Meta-Learning-Fronthaul-Compression-CRAN](https://github.com/RuihuaQiao/Meta-Learning-Fronthaul-Compression-CRAN)|
 |[sindy-rl: interpretable and efficient model-based reinforcement learning](https://arxiv.org/abs/2403.09110)|[sindy-rl](https://github.com/nzolman/sindy-rl)|
 |[learning to optimize with convergence guarantees using nonlinear system theory](https://arxiv.org/abs/2403.09389)|[convergentl2o](https://github.com/andrea-martin/convergentl2o)|
+|[is data all that matters? the role of control frequency for learning-based sampled-data control of uncertain systems](https://arxiv.org/abs/2403.09504)|[lb_sd](https://github.com/ralfroemer99/lb_sd)|
 |[an extended view on measuring tor as-level adversaries](https://arxiv.org/abs/2403.08517)|[ripe-tor](https://github.com/sbaresearch/ripe-tor)|
+|[cellular-enabled collaborative robots planning and operations for search-and-rescue scenarios](https://arxiv.org/abs/2403.09177)|[energyprofile-go1](https://github.com/armedarobotics/energyprofile-go1)|
 ## 2024-03-14
 |paper|code|
 |---|---|
