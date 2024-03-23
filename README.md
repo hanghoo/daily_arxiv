@@ -1,27 +1,41 @@
+## 2024-03-22
+|paper|code|
+|---|---|
+|[ma-vae: multi-head attention-based variational autoencoder approach for anomaly detection in multivariate time-series applied to automotive endurance powertrain testing](https://arxiv.org/abs/2309.02253)|[ma-vae](https://github.com/lcs-crr/ma-vae)|
+|[interpretable causal inference for analyzing wearable, sensor, and distributional data](https://arxiv.org/abs/2312.10569)|[addmalts](https://github.com/almost-matching-exactly/addmalts)|
+|[sequential modeling of complex marine navigation: case study on a passenger vessel (student abstract)](https://arxiv.org/abs/2403.13909)|[model_optimze_vessel](https://github.com/pagand/model_optimze_vessel)|
+|[towards better statistical understanding of watermarking llms](https://arxiv.org/abs/2403.13027)|[dualga](https://github.com/zhongzecai/dualga)|
 ## 2024-03-21
 |paper|code|
 |---|---|
-|[sdoa-net: an efficient deep learning-based doa estimation network for imperfect array](https://arxiv.org/abs/2203.10231)|[sdoanet](https://github.com/chenpengseu/sdoanet)|
+|[sdoa-net: an efficient deep learning-based doa estimation network for imperfect array](https://arxiv.org/abs/2203.10231)|[sdoa-net](https://github.com/chenpengseu/sdoa-net)|
+|[design of efficient point-mass filter with application in terrain aided navigation](https://arxiv.org/abs/2303.05100)|[efficient-pmf](https://github.com/idm-uwb/efficient-pmf)|
 |[identifying tbi physiological states by clustering multivariate clinical time-series data](https://arxiv.org/abs/2303.13024)|[slac-time](https://github.com/vsubbian/slac-time)|
 |[contingency analyses with warm starter using probabilistic graphical model](https://arxiv.org/abs/2304.06727)|[gridwarm](https://github.com/ohcindy/gridwarm)|
 |[guaranteeing control requirements via reward shaping in reinforcement learning](https://arxiv.org/abs/2311.10026)|[reward-shaping-for-rl-based-control](https://github.com/francescodelellis/reward-shaping-for-rl-based-control)|
 |[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
+|[current-based impedance control for interacting with mobile manipulators](https://arxiv.org/abs/2403.13079)|[mobile-manipulator-compliance](https://github.com/tud-amr/mobile-manipulator-compliance)|
 |[page: prototype-based model-level explanations for graph neural networks](https://arxiv.org/abs/2210.17159)|[page](https://github.com/jordan7186/page)|
+|[logpr\'ecis: unleashing language models for automated shell log analysis](https://arxiv.org/abs/2307.08309)|[logprecis](https://github.com/smartdata-polito/logprecis)|
 |[s$\omega$i: score-based o-information estimation](https://arxiv.org/abs/2402.05667)|[soi](https://github.com/mustaphabounoua/soi)|
-|[towards better statistical understanding of watermarking llms](https://arxiv.org/abs/2403.13027)|[dualga](https://github.com/zhongzecai/dualga)|
+|[starlink on the road: a first look at mobile starlink performance in central europe](https://arxiv.org/abs/2403.13497)|[starlink-on-the-road](https://github.com/sys-uos/starlink-on-the-road)|
 ## 2024-03-20
 |paper|code|
 |---|---|
 |[deep joint source-channel coding over cooperative relay networks](https://arxiv.org/abs/2211.06705)|[relay_jscc](https://github.com/aprilbian/relay_jscc)|
 |[optimal robust network design: formulations and algorithms for maximizing algebraic connectivity](https://arxiv.org/abs/2304.08571)|[laplacianopt.jl](https://github.com/harshangrjn/laplacianopt.jl)|
 |[regret optimal control for uncertain stochastic systems](https://arxiv.org/abs/2304.14835)|[scenariosafeminregret](https://github.com/decodepfl/scenariosafeminregret)|
+|[brain tumor detection based on a novel and high-quality prediction of the tumor pixel distributions](https://arxiv.org/abs/2308.07495)|[Brain-tumor-detection-based-on-a-novel-and-high-quality-prediction-of-the-tumor-pixel-distributions](https://github.com/YanmingSun/Brain-tumor-detection-based-on-a-novel-and-high-quality-prediction-of-the-tumor-pixel-distributions)|
 |[hypergraph-mlp: learning on hypergraphs without message passing](https://arxiv.org/abs/2312.09778)|[hypergraph-mlp](https://github.com/tbh-98/hypergraph-mlp)|
 |[guiding masked representation learning to capture spatio-temporal relationship of electrocardiogram](https://arxiv.org/abs/2402.09450)|[st-mem](https://github.com/bakqui/st-mem)|
 |[forzaeth race stack -- scaled autonomous head-to-head racing on fully commercial off-the-shelf hardware](https://arxiv.org/abs/2403.11784)|[race_stack](https://github.com/forzaeth/race_stack)|
+|[decomposing control lyapunov functions for efficient reinforcement learning](https://arxiv.org/abs/2403.12210)|[dclf-rl](https://github.com/clearoboticslab/dclf-rl)|
 |[sim2real in reconstructive spectroscopy: deep learning with augmented device-informed data simulation](https://arxiv.org/abs/2403.12354)|[rec_spectrometer](https://github.com/j1goblue/rec_spectrometer)|
 |[finding the missing data: a bert-inspired approach against package loss in wireless sensing](https://arxiv.org/abs/2403.12400)|[csi-bert](https://github.com/rs2002/csi-bert)|
+|[nn-etm: enabling safe neural network-based event-triggering mechanisms for consensus problems](https://arxiv.org/abs/2403.12567)|[nn-etm](https://github.com/ireneperezsalesa/nn-etm)|
 |[information decomposition in complex systems via machine learning](https://arxiv.org/abs/2307.04755)|[distributed-information-bottleneck.github.io](https://github.com/distributed-information-bottleneck/distributed-information-bottleneck.github.io)|
 |[quic hunter: finding quic deployments and identifying server libraries across the internet](https://arxiv.org/abs/2308.15841)|[libraries](https://github.com/quic-hunter/libraries)|
+|[a fast and provable algorithm for sparse phase retrieval](https://arxiv.org/abs/2309.02046)|[sparsepr](https://github.com/jxying/sparsepr)|
 |[language modeling is compression](https://arxiv.org/abs/2309.10668)|[language_modeling_is_compression](https://github.com/google-deepmind/language_modeling_is_compression)|
 |[netbench: a large-scale and comprehensive network traffic benchmark dataset for foundation models](https://arxiv.org/abs/2403.10319)|[netbench](https://github.com/wm-jaylab/netbench)|
 ## 2024-03-19
@@ -29,6 +43,7 @@
 |---|---|
 |[provably bounding neural network preimages](https://arxiv.org/abs/2302.01404)|[verify-input](https://github.com/kothasuhas/verify-input)|
 |[deep nonnegative matrix factorization with beta divergences](https://arxiv.org/abs/2309.08249)|[deep-beta-nmf-public](https://github.com/vleplat/deep-beta-nmf-public)|
+|[data-driven forced oscillation localization using inferred impulse responses](https://arxiv.org/abs/2310.01656)|[fo_local](https://github.com/shaohuiliu/fo_local)|
 |[efficient quantification and representation of aggregate flexibility in electric vehicles](https://arxiv.org/abs/2310.02729)|[ul-flexibility](https://github.com/nkpanda97/ul-flexibility)|
 |[deep regularized compound gaussian network for solving linear inverse problems](https://arxiv.org/abs/2311.17248)|[dr-cg-net](https://github.com/clyons19/dr-cg-net)|
 |[mains: a magnetic field aided inertial navigation system for indoor positioning](https://arxiv.org/abs/2312.02599)|[mainsvsmagekf](https://github.com/huang-chuan/mainsvsmagekf)|
@@ -36,17 +51,22 @@
 |[bounding stochastic safety: leveraging freedman's inequality with discrete-time control barrier functions](https://arxiv.org/abs/2403.05745)|[freedman](https://github.com/rkcosner/freedman)|
 |[forward-backward extended dmd with an asymptotic stability constraint](https://arxiv.org/abs/2403.10623)|[forward_backward_koopman](https://github.com/decargroup/forward_backward_koopman)|
 |[leveraging symmetries in gaits for reinforcement learning: a case study on quadrupedal gaits](https://arxiv.org/abs/2403.10723)|[bittle_leveraging_symmetries_in_rl](https://github.com/dlarlab/bittle_leveraging_symmetries_in_rl)|
+|[robust co-design of canonical underactuated systems for increased certifiable stability](https://arxiv.org/abs/2403.10966)|[robust_codesign](https://github.com/dfki-ric-underactuated-lab/robust_codesign)|
 |[a continuous boostlet transform for acoustic waves in space-time](https://arxiv.org/abs/2403.11362)|[acha_sparsityanalysis](https://github.com/eliaszea/acha_sparsityanalysis)|
 |[a deep learning method for beat-level risk analysis and interpretation of atrial fibrillation patients during sinus rhythm](https://arxiv.org/abs/2403.11405)|[ecgbeat4afsinus](https://github.com/leijsen/ecgbeat4afsinus)|
 |[specific emitter identification handling modulation variation with margin disparity discrepancy](https://arxiv.org/abs/2403.11531)|[mdd-sei](https://github.com/zhangyezhuo/mdd-sei)|
+|[smt-based dynamic multi-robot task allocation](https://arxiv.org/abs/2403.11737)|[smrta](https://github.com/victoria-tuck/smrta)|
 |[multistep inverse is not all you need](https://arxiv.org/abs/2403.11940)|[acdf](https://github.com/midi-lab/acdf)|
+|[learning dynamical systems encoding non-linearity within space curvature](https://arxiv.org/abs/2403.11948)|[demo-learn-embedding](https://github.com/nash169/demo-learn-embedding)|
 |[robust counterfactual explanations for neural networks with probabilistic guarantees](https://arxiv.org/abs/2305.11997)|[TReX-Counterfactuals](https://github.com/FaisalHamman/TReX-Counterfactuals)|
+|[deciphering the enigma of satellite computing with cots devices: measurement and analysis](https://arxiv.org/abs/2401.03435)|[mobicom24-satellitecots](https://github.com/tiansuanconstellation/mobicom24-satellitecots)|
 |[acm mmsys 2024 bandwidth estimation in real time communications challenge](https://arxiv.org/abs/2403.06324)|[rl4bandwidthestimationchallenge](https://github.com/microsoft/rl4bandwidthestimationchallenge)|
 |[clusterslice: a zero-touch deployment platform for the edge cloud continuum](https://arxiv.org/abs/2403.10954)|[clusterslice](https://github.com/swnrg/clusterslice)|
 |[brain-on-switch: towards advanced intelligent network data plane via nn-driven traffic analysis at line-speed](https://arxiv.org/abs/2403.11090)|[brain-on-switch](https://github.com/inspiringgroup-lab/brain-on-switch)|
 ## 2024-03-18
 |paper|code|
 |---|---|
+|[a time-causal and time-recursive analogue of the gabor transform](https://arxiv.org/abs/2308.14512)|[pygabor](https://github.com/tonylindeberg/pygabor)|
 |[a conversational brain-artificial intelligence interface](https://arxiv.org/abs/2402.15011)|[eegchat](https://github.com/akmeunier/eegchat)|
 |[compositionally verifiable vector neural lyapunov functions for stability analysis of interconnected nonlinear systems](https://arxiv.org/abs/2403.10007)|[acc24-compositional-neural-lyapunov](https://github.com/j49liu/acc24-compositional-neural-lyapunov)|
 |[real-time scheduling for 802.1qbv time-sensitive networking (tsn): a systematic review and experimental study](https://arxiv.org/abs/2305.16772)|[tsnkit](https://github.com/ChuanyuXue/tsnkit)|
