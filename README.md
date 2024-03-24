@@ -3,6 +3,7 @@
 |---|---|
 |[ma-vae: multi-head attention-based variational autoencoder approach for anomaly detection in multivariate time-series applied to automotive endurance powertrain testing](https://arxiv.org/abs/2309.02253)|[ma-vae](https://github.com/lcs-crr/ma-vae)|
 |[interpretable causal inference for analyzing wearable, sensor, and distributional data](https://arxiv.org/abs/2312.10569)|[addmalts](https://github.com/almost-matching-exactly/addmalts)|
+|[control of medical digital twins with artificial neural networks](https://arxiv.org/abs/2403.13851)|[abm-control](https://gitlab.com/computationalscience/abm-control)|
 |[sequential modeling of complex marine navigation: case study on a passenger vessel (student abstract)](https://arxiv.org/abs/2403.13909)|[model_optimze_vessel](https://github.com/pagand/model_optimze_vessel)|
 |[towards better statistical understanding of watermarking llms](https://arxiv.org/abs/2403.13027)|[dualga](https://github.com/zhongzecai/dualga)|
 ## 2024-03-21
@@ -12,6 +13,7 @@
 |[design of efficient point-mass filter with application in terrain aided navigation](https://arxiv.org/abs/2303.05100)|[efficient-pmf](https://github.com/idm-uwb/efficient-pmf)|
 |[identifying tbi physiological states by clustering multivariate clinical time-series data](https://arxiv.org/abs/2303.13024)|[slac-time](https://github.com/vsubbian/slac-time)|
 |[contingency analyses with warm starter using probabilistic graphical model](https://arxiv.org/abs/2304.06727)|[gridwarm](https://github.com/ohcindy/gridwarm)|
+|[energy-efficient analog beamforming for rf-wet with charging time constraint](https://arxiv.org/abs/2311.05325)|[ee-analog-beamforming-wet](https://github.com/osmel-dev/ee-analog-beamforming-wet)|
 |[guaranteeing control requirements via reward shaping in reinforcement learning](https://arxiv.org/abs/2311.10026)|[reward-shaping-for-rl-based-control](https://github.com/francescodelellis/reward-shaping-for-rl-based-control)|
 |[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
 |[current-based impedance control for interacting with mobile manipulators](https://arxiv.org/abs/2403.13079)|[mobile-manipulator-compliance](https://github.com/tud-amr/mobile-manipulator-compliance)|
@@ -57,7 +59,7 @@
 |[specific emitter identification handling modulation variation with margin disparity discrepancy](https://arxiv.org/abs/2403.11531)|[mdd-sei](https://github.com/zhangyezhuo/mdd-sei)|
 |[smt-based dynamic multi-robot task allocation](https://arxiv.org/abs/2403.11737)|[smrta](https://github.com/victoria-tuck/smrta)|
 |[multistep inverse is not all you need](https://arxiv.org/abs/2403.11940)|[acdf](https://github.com/midi-lab/acdf)|
-|[learning dynamical systems encoding non-linearity within space curvature](https://arxiv.org/abs/2403.11948)|[demo-learn-embedding](https://github.com/nash169/demo-learn-embedding)|
+|[learning dynamical systems encoding non-linearity within space curvature](https://arxiv.org/abs/2403.11948)|[learn-embedding](https://github.com/nash169/learn-embedding)|
 |[robust counterfactual explanations for neural networks with probabilistic guarantees](https://arxiv.org/abs/2305.11997)|[TReX-Counterfactuals](https://github.com/FaisalHamman/TReX-Counterfactuals)|
 |[deciphering the enigma of satellite computing with cots devices: measurement and analysis](https://arxiv.org/abs/2401.03435)|[mobicom24-satellitecots](https://github.com/tiansuanconstellation/mobicom24-satellitecots)|
 |[acm mmsys 2024 bandwidth estimation in real time communications challenge](https://arxiv.org/abs/2403.06324)|[rl4bandwidthestimationchallenge](https://github.com/microsoft/rl4bandwidthestimationchallenge)|
