@@ -18,7 +18,6 @@
 |[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
 |[current-based impedance control for interacting with mobile manipulators](https://arxiv.org/abs/2403.13079)|[mobile-manipulator-compliance](https://github.com/tud-amr/mobile-manipulator-compliance)|
 |[page: prototype-based model-level explanations for graph neural networks](https://arxiv.org/abs/2210.17159)|[page](https://github.com/jordan7186/page)|
-|[logpr\'ecis: unleashing language models for automated shell log analysis](https://arxiv.org/abs/2307.08309)|[logprecis](https://github.com/smartdata-polito/logprecis)|
 |[s$\omega$i: score-based o-information estimation](https://arxiv.org/abs/2402.05667)|[soi](https://github.com/mustaphabounoua/soi)|
 |[starlink on the road: a first look at mobile starlink performance in central europe](https://arxiv.org/abs/2403.13497)|[starlink-on-the-road](https://github.com/sys-uos/starlink-on-the-road)|
 ## 2024-03-20
