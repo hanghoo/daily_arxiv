@@ -1,3 +1,13 @@
+## 2024-03-25
+|paper|code|
+|---|---|
+|[robust direct data-driven control for probabilistic systems](https://arxiv.org/abs/2306.16973)|[rddc](https://github.com/data-science-in-mechanical-engineering/rddc)|
+|[successive pose estimation and beam tracking for mmwave vehicular communication systems](https://arxiv.org/abs/2307.16117)|[Fast-CFEAR-Radar-Odometry](https://github.com/Cen-Liu/Fast-CFEAR-Radar-Odometry)|
+|[representative days and hours with piecewise linear transitions for power system planning](https://arxiv.org/abs/2310.04239)|[modified-rts-24-bus](https://github.com/mojtabamoradii/modified-rts-24-bus)|
+|[stabilizing reinforcement learning control: a modular framework for optimizing over all stable behavior](https://arxiv.org/abs/2310.14098)|[stablebehavior.jl](https://github.com/nplawrence/stablebehavior.jl)|
+|[crowdsourced multilingual speech intelligibility testing](https://arxiv.org/abs/2403.14817)|[multilingual-speech-testing](https://github.com/cisco/multilingual-speech-testing)|
+|[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezha](https://github.com/steamgjk/nezha)|
+|[logpr\'ecis: unleashing language models for automated malicious log analysis](https://arxiv.org/abs/2307.08309)|[logprecis](https://github.com/smartdata-polito/logprecis)|
 ## 2024-03-22
 |paper|code|
 |---|---|
