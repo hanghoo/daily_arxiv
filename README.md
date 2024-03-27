@@ -1,3 +1,13 @@
+## 2024-03-26
+|paper|code|
+|---|---|
+|[directionality-aware mixture model parallel sampling for efficient linear parameter varying dynamical system learning](https://arxiv.org/abs/2309.02609)|[damm](https://github.com/damm-2023/damm)|
+|[user training with error augmentation for electromyogram-based gesture classification](https://arxiv.org/abs/2309.07289)|[emg-feedback-user-training](https://github.com/neu-spiral/emg-feedback-user-training)|
+|[synthesis of temporally-robust policies for signal temporal logic tasks using reinforcement learning](https://arxiv.org/abs/2312.05764)|[timerobustlearning](https://github.com/wsqsgithub/timerobustlearning)|
+|[secure control of connected and automated vehicles using trust-aware robust event-triggered control barrier functions](https://arxiv.org/abs/2401.02306)|[trust_based_cbf](https://github.com/sabbirahmad26/trust_based_cbf)|
+|[arbitrary discrete fourier analysis and its application in replayed speech detection](https://arxiv.org/abs/2403.01130)|[adfa](https://github.com/shihkuanglee/adfa)|
+|[proprioception is all you need: terrain classification for boreal forests](https://arxiv.org/abs/2403.16877)|[BorealTC](https://github.com/norlab-ulaval/BorealTC)|
+|[qkdnetsim+: improvement of the quantum network simulator for ns-3](https://arxiv.org/abs/2402.10822)|[qkdnetsim-dev](https://github.com/sdabis/qkdnetsim-dev)|
 ## 2024-03-25
 |paper|code|
 |---|---|
@@ -5,7 +15,8 @@
 |[successive pose estimation and beam tracking for mmwave vehicular communication systems](https://arxiv.org/abs/2307.16117)|[Fast-CFEAR-Radar-Odometry](https://github.com/Cen-Liu/Fast-CFEAR-Radar-Odometry)|
 |[representative days and hours with piecewise linear transitions for power system planning](https://arxiv.org/abs/2310.04239)|[modified-rts-24-bus](https://github.com/mojtabamoradii/modified-rts-24-bus)|
 |[stabilizing reinforcement learning control: a modular framework for optimizing over all stable behavior](https://arxiv.org/abs/2310.14098)|[stablebehavior.jl](https://github.com/nplawrence/stablebehavior.jl)|
-|[crowdsourced multilingual speech intelligibility testing](https://arxiv.org/abs/2403.14817)|[multilingual-speech-testing](https://github.com/cisco/multilingual-speech-testing)|
+|[model order reduction of deep structured state-space models: a system-theoretic approach](https://arxiv.org/abs/2403.14833)|[lru-reduction](https://github.com/forgi86/lru-reduction)|
+|[simba: simplified mamba-based architecture for vision and multivariate time series](https://arxiv.org/abs/2403.15360)|[simba](https://github.com/badripatro/simba)|
 |[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezha](https://github.com/steamgjk/nezha)|
 |[logpr\'ecis: unleashing language models for automated malicious log analysis](https://arxiv.org/abs/2307.08309)|[logprecis](https://github.com/smartdata-polito/logprecis)|
 ## 2024-03-22
