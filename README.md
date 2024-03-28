@@ -1,3 +1,15 @@
+## 2024-03-27
+|paper|code|
+|---|---|
+|[autonomous hook-based grasping and transportation with quadcopters](https://arxiv.org/abs/2304.02444)|[quadcopter_hook_1dof](https://github.com/aimotionlab-sztaki/quadcopter_hook_1dof)|
+|[frequency regulation with storage: on losses and profits](https://arxiv.org/abs/2306.02987)|[cost-of-frequency-regulation-through-electricity-storage](https://github.com/lauinger/cost-of-frequency-regulation-through-electricity-storage)|
+|[deltann: assessing the impact of computational environment parameters on the performance of image recognition models](https://arxiv.org/abs/2306.06208)|[deltann](https://github.com/luludak/deltann)|
+|[optimal control of grid-interfacing inverters with current magnitude limits](https://arxiv.org/abs/2310.00473)|[Current-Magnitude-Limited-Inverter-Control](https://github.com/TragerJoswig-Jones/Current-Magnitude-Limited-Inverter-Control)|
+|[closing the gap to quadratic invariance: a regret minimization approach to optimal distributed control](https://arxiv.org/abs/2311.02068)|[spregret](https://github.com/decodepfl/spregret)|
+|[a safe preference learning approach for personalization with applications to autonomous vehicles](https://arxiv.org/abs/2311.02099)|[SPL-WSTL](https://github.com/ruyakrgl/SPL-WSTL)|
+|[stable linear subspace identification: a machine learning approach](https://arxiv.org/abs/2311.03197)|[simba](https://github.com/cemempamoi/simba)|
+|[learning the optimal power flow: environment design matters](https://arxiv.org/abs/2403.17831)|[rl-opf-env-design](https://github.com/digitalized-energy-systems/rl-opf-env-design)|
+|[hill: hierarchy-aware information lossless contrastive learning for hierarchical text classification](https://arxiv.org/abs/2403.17307)|[hill](https://github.com/rooooyy/hill)|
 ## 2024-03-26
 |paper|code|
 |---|---|
@@ -6,8 +18,13 @@
 |[synthesis of temporally-robust policies for signal temporal logic tasks using reinforcement learning](https://arxiv.org/abs/2312.05764)|[timerobustlearning](https://github.com/wsqsgithub/timerobustlearning)|
 |[secure control of connected and automated vehicles using trust-aware robust event-triggered control barrier functions](https://arxiv.org/abs/2401.02306)|[trust_based_cbf](https://github.com/sabbirahmad26/trust_based_cbf)|
 |[arbitrary discrete fourier analysis and its application in replayed speech detection](https://arxiv.org/abs/2403.01130)|[adfa](https://github.com/shihkuanglee/adfa)|
+|[coupled generator decomposition for fusion of electro- and magnetoencephalography data](https://arxiv.org/abs/2403.15409)|[coupled-generator-decomposition](https://github.com/anders-s-olsen/coupled-generator-decomposition)|
+|[fast real-time arbitrary waveform generation using graphic processing units](https://arxiv.org/abs/2403.15582)|[awg-on-gpu](https://github.com/jqiamo/awg-on-gpu)|
 |[proprioception is all you need: terrain classification for boreal forests](https://arxiv.org/abs/2403.16877)|[BorealTC](https://github.com/norlab-ulaval/BorealTC)|
+|[cachegen: kv cache compression and streaming for fast language model serving](https://arxiv.org/abs/2310.07240)|[cachegen](https://github.com/uchi-jcl/cachegen)|
 |[qkdnetsim+: improvement of the quantum network simulator for ns-3](https://arxiv.org/abs/2402.10822)|[qkdnetsim-dev](https://github.com/sdabis/qkdnetsim-dev)|
+|[evaluation of greedy and cbf for etsi non-area geonetworking: the impact of dcc](https://arxiv.org/abs/2403.16237)|[vanetza](https://github.com/oscarmex1986/vanetza)|
+|[fool: addressing the downlink bottleneck in satellite computing with neural feature compression](https://arxiv.org/abs/2403.16677)|[the-fool](https://github.com/rezafuru/the-fool)|
 ## 2024-03-25
 |paper|code|
 |---|---|
@@ -16,6 +33,8 @@
 |[representative days and hours with piecewise linear transitions for power system planning](https://arxiv.org/abs/2310.04239)|[modified-rts-24-bus](https://github.com/mojtabamoradii/modified-rts-24-bus)|
 |[stabilizing reinforcement learning control: a modular framework for optimizing over all stable behavior](https://arxiv.org/abs/2310.14098)|[stablebehavior.jl](https://github.com/nplawrence/stablebehavior.jl)|
 |[model order reduction of deep structured state-space models: a system-theoretic approach](https://arxiv.org/abs/2403.14833)|[lru-reduction](https://github.com/forgi86/lru-reduction)|
+|[on the solution uniqueness of data-driven modeling of flexible loads](https://arxiv.org/abs/2403.15029)|[on-the-solution-uniqueness-of-data-driven-modeling-of-flexible-loads](https://github.com/shuai-lu/on-the-solution-uniqueness-of-data-driven-modeling-of-flexible-loads)|
+|[direct and indirect hydrogen storage: dynamics and interactions in the transition to a renewable energy based system for europe](https://arxiv.org/abs/2403.15072)|[direct-and-indirect-hydrogen-storage-dynamics-of-interactionswithin-europe-s-highly-renewable-energ](https://github.com/zion-tunan/direct-and-indirect-hydrogen-storage-dynamics-of-interactionswithin-europe-s-highly-renewable-energ)|
 |[simba: simplified mamba-based architecture for vision and multivariate time series](https://arxiv.org/abs/2403.15360)|[simba](https://github.com/badripatro/simba)|
 |[nezha: deployable and high-performance consensus using synchronized clocks](https://arxiv.org/abs/2206.03285)|[nezha](https://github.com/steamgjk/nezha)|
 |[logpr\'ecis: unleashing language models for automated malicious log analysis](https://arxiv.org/abs/2307.08309)|[logprecis](https://github.com/smartdata-polito/logprecis)|
