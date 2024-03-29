@@ -1,3 +1,12 @@
+## 2024-03-28
+|paper|code|
+|---|---|
+|[high-rate phase association with travel time neural fields](https://arxiv.org/abs/2307.07572)|[phase_association](https://github.com/dadacheng/phase_association)|
+|[aggregate model of district heating network for integrated energy dispatch: a physically informed data-driven approach](https://arxiv.org/abs/2308.10483)|[aggregate-model-of-dhn-a-physically-informed-data-driven-approach](https://github.com/shuai-lu/aggregate-model-of-dhn-a-physically-informed-data-driven-approach)|
+|[unconstrained learning of networked nonlinear systems via free parametrization of stable interconnected operators](https://arxiv.org/abs/2311.13967)|[distributedren](https://github.com/decodepfl/distributedren)|
+|[compositional inductive invariant based verification of neural network controlled systems](https://arxiv.org/abs/2312.10842)|[comp-indinv-verification-nncs](https://github.com/yuh-z/comp-indinv-verification-nncs)|
+|[input convex lipschitz rnn: a fast and robust approach for engineering tasks](https://arxiv.org/abs/2401.07494)|[iclrnn](https://github.com/killingbear999/iclrnn)|
+|[clustering change sign detection by fusing mixture complexity](https://arxiv.org/abs/2403.18269)|[mc-fusion](https://github.com/uraken38/mc-fusion)|
 ## 2024-03-27
 |paper|code|
 |---|---|
@@ -8,7 +17,11 @@
 |[closing the gap to quadratic invariance: a regret minimization approach to optimal distributed control](https://arxiv.org/abs/2311.02068)|[spregret](https://github.com/decodepfl/spregret)|
 |[a safe preference learning approach for personalization with applications to autonomous vehicles](https://arxiv.org/abs/2311.02099)|[SPL-WSTL](https://github.com/ruyakrgl/SPL-WSTL)|
 |[stable linear subspace identification: a machine learning approach](https://arxiv.org/abs/2311.03197)|[simba](https://github.com/cemempamoi/simba)|
+|[robustness evaluation of localization techniques for autonomous racing](https://arxiv.org/abs/2401.07658)|[particle_filter](https://github.com/forzaeth/particle_filter)|
+|[using quantum computers in control: interval matrix properties](https://arxiv.org/abs/2403.17711)|[radius-of-nonsingularity-using-qaoa](https://github.com/jankyb/radius-of-nonsingularity-using-qaoa)|
+|[a pac-bayesian framework for optimal control with stability guarantees](https://arxiv.org/abs/2403.17790)|[pac-snoc](https://github.com/decodepfl/pac-snoc)|
 |[learning the optimal power flow: environment design matters](https://arxiv.org/abs/2403.17831)|[rl-opf-env-design](https://github.com/digitalized-energy-systems/rl-opf-env-design)|
+|[stealthy deactivation of safety filters](https://arxiv.org/abs/2403.17861)|[ecc24-sf](https://github.com/darnstrom/ecc24-sf)|
 |[hill: hierarchy-aware information lossless contrastive learning for hierarchical text classification](https://arxiv.org/abs/2403.17307)|[hill](https://github.com/rooooyy/hill)|
 ## 2024-03-26
 |paper|code|
