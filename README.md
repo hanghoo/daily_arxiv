@@ -1,3 +1,16 @@
+## 2024-03-29
+|paper|code|
+|---|---|
+|[efficient deep learning-based estimation of the vital signs on smartphones](https://arxiv.org/abs/2204.08989)|[medvse](https://github.com/mahdifarvardin/medvse)|
+|[gatekeeper: online safety verification and control for nonlinear systems in dynamic environments](https://arxiv.org/abs/2211.14361)|[gatekeeper](https://github.com/dev10110/gatekeeper)|
+|[identifying tbi physiological states by clustering multivariate clinical time-series data](https://arxiv.org/abs/2303.13024)|[slac-time](https://github.com/vsubbian/slac-time)|
+|[differentially private distributed estimation and learning](https://arxiv.org/abs/2306.15865)|[dp-distributed-estimation](https://github.com/papachristoumarios/dp-distributed-estimation)|
+|[leveraging variational autoencoders for parameterized mmse estimation](https://arxiv.org/abs/2307.05352)|[vae-estimator](https://github.com/tum-msv/vae-estimator)|
+|[channel estimation in underdetermined systems utilizing variational autoencoders](https://arxiv.org/abs/2309.08411)|[vae-est-ud](https://github.com/baurmichael/vae-est-ud)|
+|[gan-supervised seismic data reconstruction: an enhanced-learning for improved generalization](https://arxiv.org/abs/2311.10910)|[gan_guided_seismic](https://github.com/paulgoyes/gan_guided_seismic)|
+|[brant-2: foundation model for brain signals](https://arxiv.org/abs/2402.10251)|[brant-2](https://github.com/yzz673/brant-2)|
+|[situation awareness for driver-centric driving style adaptation](https://arxiv.org/abs/2403.19595)|[sadc-situation-awareness-for-driver-centric-driving-style-adaptation](https://github.com/jhaselberger/sadc-situation-awareness-for-driver-centric-driving-style-adaptation)|
+|[lane-change in dense traffic with model predictive control and neural networks](https://arxiv.org/abs/2403.19633)|[NNMPC](https://github.com/bsj1216/NNMPC)|
 ## 2024-03-28
 |paper|code|
 |---|---|
@@ -6,6 +19,9 @@
 |[unconstrained learning of networked nonlinear systems via free parametrization of stable interconnected operators](https://arxiv.org/abs/2311.13967)|[distributedren](https://github.com/decodepfl/distributedren)|
 |[compositional inductive invariant based verification of neural network controlled systems](https://arxiv.org/abs/2312.10842)|[comp-indinv-verification-nncs](https://github.com/yuh-z/comp-indinv-verification-nncs)|
 |[input convex lipschitz rnn: a fast and robust approach for engineering tasks](https://arxiv.org/abs/2401.07494)|[iclrnn](https://github.com/killingbear999/iclrnn)|
+|[genet: a graph neural network-based anti-noise task-oriented semantic communication paradigm](https://arxiv.org/abs/2403.18296)|[genet](https://github.com/chunbaobao/genet)|
+|[hyrrt-connect: a bidirectional rapidly-exploring random trees motion planning algorithm for hybrid systems](https://arxiv.org/abs/2403.18413)|[hyrrtconnect](https://github.com/hybridsystemslab/hyrrtconnect)|
+|[throughput maximization in multi-band optical networks with column generation](https://arxiv.org/abs/2311.07335)|[cg-multi-band](https://github.com/cchen000/cg-multi-band)|
 |[clustering change sign detection by fusing mixture complexity](https://arxiv.org/abs/2403.18269)|[mc-fusion](https://github.com/uraken38/mc-fusion)|
 ## 2024-03-27
 |paper|code|
@@ -18,6 +34,7 @@
 |[a safe preference learning approach for personalization with applications to autonomous vehicles](https://arxiv.org/abs/2311.02099)|[SPL-WSTL](https://github.com/ruyakrgl/SPL-WSTL)|
 |[stable linear subspace identification: a machine learning approach](https://arxiv.org/abs/2311.03197)|[simba](https://github.com/cemempamoi/simba)|
 |[robustness evaluation of localization techniques for autonomous racing](https://arxiv.org/abs/2401.07658)|[particle_filter](https://github.com/forzaeth/particle_filter)|
+|[on the intersection of signal processing and machine learning: a use case-driven analysis approach](https://arxiv.org/abs/2403.17181)|[signal-processing-for-machine-learning](https://github.com/western-oc2-lab/signal-processing-for-machine-learning)|
 |[using quantum computers in control: interval matrix properties](https://arxiv.org/abs/2403.17711)|[radius-of-nonsingularity-using-qaoa](https://github.com/jankyb/radius-of-nonsingularity-using-qaoa)|
 |[a pac-bayesian framework for optimal control with stability guarantees](https://arxiv.org/abs/2403.17790)|[pac-snoc](https://github.com/decodepfl/pac-snoc)|
 |[learning the optimal power flow: environment design matters](https://arxiv.org/abs/2403.17831)|[rl-opf-env-design](https://github.com/digitalized-energy-systems/rl-opf-env-design)|
