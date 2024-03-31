@@ -7,10 +7,14 @@
 |[differentially private distributed estimation and learning](https://arxiv.org/abs/2306.15865)|[dp-distributed-estimation](https://github.com/papachristoumarios/dp-distributed-estimation)|
 |[leveraging variational autoencoders for parameterized mmse estimation](https://arxiv.org/abs/2307.05352)|[vae-estimator](https://github.com/tum-msv/vae-estimator)|
 |[channel estimation in underdetermined systems utilizing variational autoencoders](https://arxiv.org/abs/2309.08411)|[vae-est-ud](https://github.com/baurmichael/vae-est-ud)|
+|[time-optimal control for high-order chain-of-integrators systems with full state constraints and arbitrary terminal states (extended version)](https://arxiv.org/abs/2311.07039)|[manifoldinterceptmethod](https://github.com/wangy18/manifoldinterceptmethod)|
 |[gan-supervised seismic data reconstruction: an enhanced-learning for improved generalization](https://arxiv.org/abs/2311.10910)|[gan_guided_seismic](https://github.com/paulgoyes/gan_guided_seismic)|
 |[brant-2: foundation model for brain signals](https://arxiv.org/abs/2402.10251)|[brant-2](https://github.com/yzz673/brant-2)|
+|[deep csi compression for dual-polarized massive mimo channels with disentangled representation learning](https://arxiv.org/abs/2403.19185)|[direnet](https://github.com/seushf/direnet)|
 |[situation awareness for driver-centric driving style adaptation](https://arxiv.org/abs/2403.19595)|[sadc-situation-awareness-for-driver-centric-driving-style-adaptation](https://github.com/jhaselberger/sadc-situation-awareness-for-driver-centric-driving-style-adaptation)|
 |[lane-change in dense traffic with model predictive control and neural networks](https://arxiv.org/abs/2403.19633)|[NNMPC](https://github.com/bsj1216/NNMPC)|
+|[bft-poloc: a byzantine fortified trigonometric proof of location protocol using internet delays](https://arxiv.org/abs/2403.13230)|[proofoflocation](https://github.com/proofofx/proofoflocation)|
+|[toward low-latency iterative decoding of qldpc codes under circuit-level noise](https://arxiv.org/abs/2403.18901)|[slidingwindowdecoder](https://github.com/gongaa/slidingwindowdecoder)|
 ## 2024-03-28
 |paper|code|
 |---|---|
@@ -19,6 +23,7 @@
 |[unconstrained learning of networked nonlinear systems via free parametrization of stable interconnected operators](https://arxiv.org/abs/2311.13967)|[distributedren](https://github.com/decodepfl/distributedren)|
 |[compositional inductive invariant based verification of neural network controlled systems](https://arxiv.org/abs/2312.10842)|[comp-indinv-verification-nncs](https://github.com/yuh-z/comp-indinv-verification-nncs)|
 |[input convex lipschitz rnn: a fast and robust approach for engineering tasks](https://arxiv.org/abs/2401.07494)|[iclrnn](https://github.com/killingbear999/iclrnn)|
+|[anoca: ac network-aware optimal curtailment approach for dynamic hosting capacity](https://arxiv.org/abs/2403.18085)|[anoca](https://github.com/emmanuelbadmus/anoca)|
 |[genet: a graph neural network-based anti-noise task-oriented semantic communication paradigm](https://arxiv.org/abs/2403.18296)|[genet](https://github.com/chunbaobao/genet)|
 |[hyrrt-connect: a bidirectional rapidly-exploring random trees motion planning algorithm for hybrid systems](https://arxiv.org/abs/2403.18413)|[hyrrtconnect](https://github.com/hybridsystemslab/hyrrtconnect)|
 |[throughput maximization in multi-band optical networks with column generation](https://arxiv.org/abs/2311.07335)|[cg-multi-band](https://github.com/cchen000/cg-multi-band)|
