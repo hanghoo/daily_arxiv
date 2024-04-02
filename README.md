@@ -1,10 +1,23 @@
+## 2024-04-01
+|paper|code|
+|---|---|
+|[square root lasso: well-posedness, lipschitz stability and the tuning trade off](https://arxiv.org/abs/2303.15588)|[srlasso_revolutions](https://github.com/asberk/srlasso_revolutions)|
+|[online learning for robust voltage control under uncertain grid topology](https://arxiv.org/abs/2306.16674)|[voltctrl](https://github.com/chrisyeh96/voltctrl)|
+|[exact recovery of the support of piecewise constant images via total variation regularization](https://arxiv.org/abs/2307.03709)|[2023-support-recovery-tv](https://github.com/rpetit/2023-support-recovery-tv)|
+|[feature-driven strategies for trading wind power and hydrogen](https://arxiv.org/abs/2310.01385)|[feature-driven-trading-of-wind-power-and-hydrogen](https://github.com/emilhelgren/feature-driven-trading-of-wind-power-and-hydrogen)|
+|[algorithms for non-negative matrix factorization on noisy data with negative values](https://arxiv.org/abs/2311.04855)|[nearly_nmf](https://github.com/dylanagreen/nearly_nmf)|
+|[gegenbauer graph neural networks for time-varying signal reconstruction](https://arxiv.org/abs/2403.19800)|[gegengnn](https://github.com/jcastro295/gegengnn)|
+|[3d-speaker-toolkit: an open source toolkit for multi-modal speaker verification and diarization](https://arxiv.org/abs/2403.19971)|[3D-Speaker](https://github.com/alibaba-damo-academy/3D-Speaker)|
+|[dual simplex volume maximization for simplex-structured matrix factorization](https://arxiv.org/abs/2403.20197)|[maxvol_dual](https://github.com/mabdolali/maxvol_dual)|
+|[localising the seizure onset zone from single-pulse electrical stimulation responses with a transformer](https://arxiv.org/abs/2403.20324)|[localising_soz_from_spes](https://github.com/norrisjamie23/localising_soz_from_spes)|
+|[greedy poisson rejection sampling](https://arxiv.org/abs/2305.15313)|[greedy-poisson-rejection-sampling](https://github.com/gergely-flamich/greedy-poisson-rejection-sampling)|
+|[genos: general in-network unsupervised intrusion detection by rule extraction](https://arxiv.org/abs/2403.19248)|[genos-infocom24](https://github.com/ruoyu-li/genos-infocom24)|
 ## 2024-03-29
 |paper|code|
 |---|---|
 |[efficient deep learning-based estimation of the vital signs on smartphones](https://arxiv.org/abs/2204.08989)|[medvse](https://github.com/mahdifarvardin/medvse)|
 |[gatekeeper: online safety verification and control for nonlinear systems in dynamic environments](https://arxiv.org/abs/2211.14361)|[gatekeeper](https://github.com/dev10110/gatekeeper)|
 |[identifying tbi physiological states by clustering multivariate clinical time-series data](https://arxiv.org/abs/2303.13024)|[slac-time](https://github.com/vsubbian/slac-time)|
-|[differentially private distributed estimation and learning](https://arxiv.org/abs/2306.15865)|[dp-distributed-estimation](https://github.com/papachristoumarios/dp-distributed-estimation)|
 |[leveraging variational autoencoders for parameterized mmse estimation](https://arxiv.org/abs/2307.05352)|[vae-estimator](https://github.com/tum-msv/vae-estimator)|
 |[channel estimation in underdetermined systems utilizing variational autoencoders](https://arxiv.org/abs/2309.08411)|[vae-est-ud](https://github.com/baurmichael/vae-est-ud)|
 |[time-optimal control for high-order chain-of-integrators systems with full state constraints and arbitrary terminal states (extended version)](https://arxiv.org/abs/2311.07039)|[manifoldinterceptmethod](https://github.com/wangy18/manifoldinterceptmethod)|
@@ -23,9 +36,7 @@
 |[unconstrained learning of networked nonlinear systems via free parametrization of stable interconnected operators](https://arxiv.org/abs/2311.13967)|[distributedren](https://github.com/decodepfl/distributedren)|
 |[compositional inductive invariant based verification of neural network controlled systems](https://arxiv.org/abs/2312.10842)|[comp-indinv-verification-nncs](https://github.com/yuh-z/comp-indinv-verification-nncs)|
 |[input convex lipschitz rnn: a fast and robust approach for engineering tasks](https://arxiv.org/abs/2401.07494)|[iclrnn](https://github.com/killingbear999/iclrnn)|
-|[anoca: ac network-aware optimal curtailment approach for dynamic hosting capacity](https://arxiv.org/abs/2403.18085)|[anoca](https://github.com/emmanuelbadmus/anoca)|
 |[genet: a graph neural network-based anti-noise task-oriented semantic communication paradigm](https://arxiv.org/abs/2403.18296)|[genet](https://github.com/chunbaobao/genet)|
-|[hyrrt-connect: a bidirectional rapidly-exploring random trees motion planning algorithm for hybrid systems](https://arxiv.org/abs/2403.18413)|[hyrrtconnect](https://github.com/hybridsystemslab/hyrrtconnect)|
 |[throughput maximization in multi-band optical networks with column generation](https://arxiv.org/abs/2311.07335)|[cg-multi-band](https://github.com/cchen000/cg-multi-band)|
 |[clustering change sign detection by fusing mixture complexity](https://arxiv.org/abs/2403.18269)|[mc-fusion](https://github.com/uraken38/mc-fusion)|
 ## 2024-03-27
@@ -40,6 +51,7 @@
 |[stable linear subspace identification: a machine learning approach](https://arxiv.org/abs/2311.03197)|[simba](https://github.com/cemempamoi/simba)|
 |[robustness evaluation of localization techniques for autonomous racing](https://arxiv.org/abs/2401.07658)|[particle_filter](https://github.com/forzaeth/particle_filter)|
 |[on the intersection of signal processing and machine learning: a use case-driven analysis approach](https://arxiv.org/abs/2403.17181)|[signal-processing-for-machine-learning](https://github.com/western-oc2-lab/signal-processing-for-machine-learning)|
+|[reinforcement learning-based receding horizon control using adaptive control barrier functions for safety-critical systems](https://arxiv.org/abs/2403.17338)|[cdc2024_rl_adpative_mpc_cbf](https://github.com/ehsansabouni/cdc2024_rl_adpative_mpc_cbf)|
 |[using quantum computers in control: interval matrix properties](https://arxiv.org/abs/2403.17711)|[radius-of-nonsingularity-using-qaoa](https://github.com/jankyb/radius-of-nonsingularity-using-qaoa)|
 |[a pac-bayesian framework for optimal control with stability guarantees](https://arxiv.org/abs/2403.17790)|[pac-snoc](https://github.com/decodepfl/pac-snoc)|
 |[learning the optimal power flow: environment design matters](https://arxiv.org/abs/2403.17831)|[rl-opf-env-design](https://github.com/digitalized-energy-systems/rl-opf-env-design)|
