@@ -1,3 +1,9 @@
+## 2024-04-03
+|paper|code|
+|---|---|
+|[signal2image modules in deep neural networks for eeg classification](https://arxiv.org/abs/1904.13216)|[signal2image-modules-in-deep-neural-networks-for-eeg-classification](https://github.com/pbizopoulos/signal2image-modules-in-deep-neural-networks-for-eeg-classification)|
+|[learned kernels for sparse, interpretable, and efficient medical time series processing](https://arxiv.org/abs/2307.05385)|[smolk](https://github.com/sullychen/smolk)|
+|[singular control of (reflected) brownian motion: a computational method suitable for queueing applications](https://arxiv.org/abs/2312.11823)|[singularcontrol](https://github.com/nian-si/singularcontrol)|
 ## 2024-04-02
 |paper|code|
 |---|---|
@@ -17,7 +23,6 @@
 |[exact recovery of the support of piecewise constant images via total variation regularization](https://arxiv.org/abs/2307.03709)|[2023-support-recovery-tv](https://github.com/rpetit/2023-support-recovery-tv)|
 |[feature-driven strategies for trading wind power and hydrogen](https://arxiv.org/abs/2310.01385)|[feature-driven-trading-of-wind-power-and-hydrogen](https://github.com/emilhelgren/feature-driven-trading-of-wind-power-and-hydrogen)|
 |[algorithms for non-negative matrix factorization on noisy data with negative values](https://arxiv.org/abs/2311.04855)|[nearly_nmf](https://github.com/dylanagreen/nearly_nmf)|
-|[gegenbauer graph neural networks for time-varying signal reconstruction](https://arxiv.org/abs/2403.19800)|[gegengnn](https://github.com/jcastro295/gegengnn)|
 |[3d-speaker-toolkit: an open source toolkit for multi-modal speaker verification and diarization](https://arxiv.org/abs/2403.19971)|[3D-Speaker](https://github.com/alibaba-damo-academy/3D-Speaker)|
 |[dual simplex volume maximization for simplex-structured matrix factorization](https://arxiv.org/abs/2403.20197)|[maxvol_dual](https://github.com/mabdolali/maxvol_dual)|
 |[localising the seizure onset zone from single-pulse electrical stimulation responses with a transformer](https://arxiv.org/abs/2403.20324)|[localising_soz_from_spes](https://github.com/norrisjamie23/localising_soz_from_spes)|
