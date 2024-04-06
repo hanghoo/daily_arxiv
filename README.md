@@ -1,3 +1,15 @@
+## 2024-04-05
+|paper|code|
+|---|---|
+|[decoding natural images from eeg for object recognition](https://arxiv.org/abs/2308.13234)|[nice-eeg](https://github.com/eeyhsong/nice-eeg)|
+|[real-time control of electric autonomous mobility-on-demand systems via graph reinforcement learning](https://arxiv.org/abs/2311.05780)|[graph-rl-for-eamod](https://github.com/stanfordasl/graph-rl-for-eamod)|
+|[reinforcement learning based dynamic power control for uav mobility management](https://arxiv.org/abs/2312.04742)|[asilomar-2023-ee-uav-varying-reliability](https://github.com/irshadmeer/asilomar-2023-ee-uav-varying-reliability)|
+|[visual decoding and reconstruction via eeg embeddings with guided diffusion](https://arxiv.org/abs/2403.07721)|[eeg_image_decode](https://github.com/dongyangli-del/eeg_image_decode)|
+|[foundation models for structural health monitoring](https://arxiv.org/abs/2404.02944)|[tle-supervised](https://github.com/eml-eda/tle-supervised)|
+|[distributionally robust policy and lyapunov-certificate learning](https://arxiv.org/abs/2404.03017)|[DR_Stabilizing_Policy](https://github.com/KehanLong/DR_Stabilizing_Policy)|
+|[diffdet4sar: diffusion-based aircraft target detection network for sar images](https://arxiv.org/abs/2404.03595)|[DiffDet4SAR](https://github.com/JoyeZLearning/DiffDet4SAR)|
+|[bcamirs at semeval-2024 task 4: beyond words: a multimodal and multilingual exploration of persuasion in memes](https://arxiv.org/abs/2404.03022)|[beyond-words-a-multimodal-exploration-of-persuasion-in-memes](https://github.com/amirabaskohi/beyond-words-a-multimodal-exploration-of-persuasion-in-memes)|
+|[approximate gradient coding for privacy-flexible federated learning with non-iid data](https://arxiv.org/abs/2404.03524)|[label-heterogeneity](https://github.com/okkomakkonen/label-heterogeneity)|
 ## 2024-04-04
 |paper|code|
 |---|---|
@@ -10,6 +22,7 @@
 |[signal2image modules in deep neural networks for eeg classification](https://arxiv.org/abs/1904.13216)|[signal2image-modules-in-deep-neural-networks-for-eeg-classification](https://github.com/pbizopoulos/signal2image-modules-in-deep-neural-networks-for-eeg-classification)|
 |[learned kernels for sparse, interpretable, and efficient medical time series processing](https://arxiv.org/abs/2307.05385)|[smolk](https://github.com/sullychen/smolk)|
 |[singular control of (reflected) brownian motion: a computational method suitable for queueing applications](https://arxiv.org/abs/2312.11823)|[singularcontrol](https://github.com/nian-si/singularcontrol)|
+|[perfecting periodic trajectory tracking: model predictive control with a periodic observer ($\pi$-mpc)](https://arxiv.org/abs/2404.01550)|[pi-mpc](https://github.com/stanfordasl/pi-mpc)|
 ## 2024-04-02
 |paper|code|
 |---|---|
@@ -17,9 +30,14 @@
 |[task-oriented communication for edge video analytics](https://arxiv.org/abs/2211.14049)|[tocom-tem](https://github.com/shaojiawei07/tocom-tem)|
 |[computational solar energy -- ensemble learning methods for prediction of solar power generation based on meteorological parameters in eastern india](https://arxiv.org/abs/2301.10159)|[solar_energy_prediction_srra](https://github.com/debojyoti7/solar_energy_prediction_srra)|
 |[differentially private distributed estimation and learning](https://arxiv.org/abs/2306.15865)|[dp-distributed-estimation](https://github.com/papachristoumarios/dp-distributed-estimation)|
+|[information theoretically optimal sample complexity of learning dynamical directed acyclic graphs](https://arxiv.org/abs/2308.16859)|[learning-dynamical-dags](https://github.com/mishfad/learning-dynamical-dags)|
 |[sdemg: score-based diffusion model for surface electromyographic signal denoising](https://arxiv.org/abs/2402.03808)|[sdemg](https://github.com/tonyliu0910/sdemg)|
 |[anoca: ac network-aware optimal curtailment approach for dynamic hosting capacity](https://arxiv.org/abs/2403.18085)|[anoca](https://github.com/emmanuelbadmus/anoca)|
 |[hyrrt-connect: a bidirectional rapidly-exploring random trees motion planning algorithm for hybrid systems](https://arxiv.org/abs/2403.18413)|[hyrrtconnect](https://github.com/hybridsystemslab/hyrrtconnect)|
+|[creating synthetic energy meter data using conditional diffusion and building metadata](https://arxiv.org/abs/2404.00525)|[energy-diffusion](https://github.com/buds-lab/energy-diffusion)|
+|[complex neural network based joint aoa and aod estimation for bistatic isac](https://arxiv.org/abs/2404.00582)|[bistatic_isac](https://github.com/salmane-s9/bistatic_isac)|
+|[openmines: a light and comprehensive mining simulation environment for truck dispatching](https://arxiv.org/abs/2404.00622)|[openmines](https://github.com/370025263/openmines)|
+|[smooth information gathering in two-player noncooperative games](https://arxiv.org/abs/2404.00733)|[gamesvoi.jl](https://github.com/clearoboticslab/gamesvoi.jl)|
 |[fingerprinting web servers through transformer-encoded http response headers](https://arxiv.org/abs/2404.00056)|[bachelor-thesis-information-science](https://github.com/Darwinkel/bachelor-thesis-information-science)|
 ## 2024-04-01
 |paper|code|
@@ -31,6 +49,7 @@
 |[algorithms for non-negative matrix factorization on noisy data with negative values](https://arxiv.org/abs/2311.04855)|[nearly_nmf](https://github.com/dylanagreen/nearly_nmf)|
 |[3d-speaker-toolkit: an open source toolkit for multi-modal speaker verification and diarization](https://arxiv.org/abs/2403.19971)|[3D-Speaker](https://github.com/alibaba-damo-academy/3D-Speaker)|
 |[dual simplex volume maximization for simplex-structured matrix factorization](https://arxiv.org/abs/2403.20197)|[maxvol_dual](https://github.com/mabdolali/maxvol_dual)|
+|[evolving semantic communication with generative model](https://arxiv.org/abs/2403.20237)|[gan_secom](https://github.com/recusant7/gan_secom)|
 |[localising the seizure onset zone from single-pulse electrical stimulation responses with a transformer](https://arxiv.org/abs/2403.20324)|[localising_soz_from_spes](https://github.com/norrisjamie23/localising_soz_from_spes)|
 |[greedy poisson rejection sampling](https://arxiv.org/abs/2305.15313)|[greedy-poisson-rejection-sampling](https://github.com/gergely-flamich/greedy-poisson-rejection-sampling)|
 |[genos: general in-network unsupervised intrusion detection by rule extraction](https://arxiv.org/abs/2403.19248)|[genos-infocom24](https://github.com/ruoyu-li/genos-infocom24)|
