@@ -2,12 +2,11 @@
 |paper|code|
 |---|---|
 |[decoding natural images from eeg for object recognition](https://arxiv.org/abs/2308.13234)|[nice-eeg](https://github.com/eeyhsong/nice-eeg)|
+|[toward value-oriented renewable energy forecasting: an iterative learning approach](https://arxiv.org/abs/2309.00803)|[an-iterative-solution-approach-for-value-oriented-forecasting](https://github.com/yufan0157/an-iterative-solution-approach-for-value-oriented-forecasting)|
 |[real-time control of electric autonomous mobility-on-demand systems via graph reinforcement learning](https://arxiv.org/abs/2311.05780)|[graph-rl-for-eamod](https://github.com/stanfordasl/graph-rl-for-eamod)|
 |[reinforcement learning based dynamic power control for uav mobility management](https://arxiv.org/abs/2312.04742)|[asilomar-2023-ee-uav-varying-reliability](https://github.com/irshadmeer/asilomar-2023-ee-uav-varying-reliability)|
-|[visual decoding and reconstruction via eeg embeddings with guided diffusion](https://arxiv.org/abs/2403.07721)|[eeg_image_decode](https://github.com/dongyangli-del/eeg_image_decode)|
 |[foundation models for structural health monitoring](https://arxiv.org/abs/2404.02944)|[tle-supervised](https://github.com/eml-eda/tle-supervised)|
-|[distributionally robust policy and lyapunov-certificate learning](https://arxiv.org/abs/2404.03017)|[DR_Stabilizing_Policy](https://github.com/KehanLong/DR_Stabilizing_Policy)|
-|[diffdet4sar: diffusion-based aircraft target detection network for sar images](https://arxiv.org/abs/2404.03595)|[DiffDet4SAR](https://github.com/JoyeZLearning/DiffDet4SAR)|
+|[spatio-spectral structure tensor total variation for hyperspectral image denoising and destriping](https://arxiv.org/abs/2404.03313)|[spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping](https://github.com/mdi-tokyotech/spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping)|
 |[bcamirs at semeval-2024 task 4: beyond words: a multimodal and multilingual exploration of persuasion in memes](https://arxiv.org/abs/2404.03022)|[beyond-words-a-multimodal-exploration-of-persuasion-in-memes](https://github.com/amirabaskohi/beyond-words-a-multimodal-exploration-of-persuasion-in-memes)|
 |[approximate gradient coding for privacy-flexible federated learning with non-iid data](https://arxiv.org/abs/2404.03524)|[label-heterogeneity](https://github.com/okkomakkonen/label-heterogeneity)|
 ## 2024-04-04
@@ -23,12 +22,15 @@
 |[learned kernels for sparse, interpretable, and efficient medical time series processing](https://arxiv.org/abs/2307.05385)|[smolk](https://github.com/sullychen/smolk)|
 |[singular control of (reflected) brownian motion: a computational method suitable for queueing applications](https://arxiv.org/abs/2312.11823)|[singularcontrol](https://github.com/nian-si/singularcontrol)|
 |[perfecting periodic trajectory tracking: model predictive control with a periodic observer ($\pi$-mpc)](https://arxiv.org/abs/2404.01550)|[pi-mpc](https://github.com/stanfordasl/pi-mpc)|
+|[model predictive control of district heating grids using stabilizing terminal ingredients](https://arxiv.org/abs/2404.01820)|[mpcofdhg_ecc24](https://github.com/max65945/mpcofdhg_ecc24)|
+|[integrating systemc-ams power modeling with a risc-v iss for virtual prototyping of battery-operated embedded devices](https://arxiv.org/abs/2404.01861)|[messy](https://github.com/eml-eda/messy)|
 ## 2024-04-02
 |paper|code|
 |---|---|
 |[visually evaluating generative adversarial networks using itself under multivariate time series](https://arxiv.org/abs/2208.02649)|[GaussianGANs](https://github.com/jack-pan-ai/GaussianGANs)|
 |[task-oriented communication for edge video analytics](https://arxiv.org/abs/2211.14049)|[tocom-tem](https://github.com/shaojiawei07/tocom-tem)|
 |[computational solar energy -- ensemble learning methods for prediction of solar power generation based on meteorological parameters in eastern india](https://arxiv.org/abs/2301.10159)|[solar_energy_prediction_srra](https://github.com/debojyoti7/solar_energy_prediction_srra)|
+|[danse: data-driven non-linear state estimation of model-free process in unsupervised learning setup](https://arxiv.org/abs/2306.03897)|[danse-jrnl](https://github.com/saikatchatt/danse-jrnl)|
 |[differentially private distributed estimation and learning](https://arxiv.org/abs/2306.15865)|[dp-distributed-estimation](https://github.com/papachristoumarios/dp-distributed-estimation)|
 |[information theoretically optimal sample complexity of learning dynamical directed acyclic graphs](https://arxiv.org/abs/2308.16859)|[learning-dynamical-dags](https://github.com/mishfad/learning-dynamical-dags)|
 |[sdemg: score-based diffusion model for surface electromyographic signal denoising](https://arxiv.org/abs/2402.03808)|[sdemg](https://github.com/tonyliu0910/sdemg)|
