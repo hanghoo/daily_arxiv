@@ -1,3 +1,13 @@
+## 2024-04-08
+|paper|code|
+|---|---|
+|[csm-h-r: a context modeling framework in supporting reasoning automation for interoperable intelligent systems and privacy protection](https://arxiv.org/abs/2308.11066)|[csm-h-r](https://github.com/songhui01/csm-h-r)|
+|[visual decoding and reconstruction via eeg embeddings with guided diffusion](https://arxiv.org/abs/2403.07721)|[eeg_image_decode](https://github.com/dongyangli-del/eeg_image_decode)|
+|[distributionally robust policy and lyapunov-certificate learning](https://arxiv.org/abs/2404.03017)|[DR_Stabilizing_Policy](https://github.com/KehanLong/DR_Stabilizing_Policy)|
+|[diffdet4sar: diffusion-based aircraft target detection network for sar images](https://arxiv.org/abs/2404.03595)|[DiffDet4SAR](https://github.com/JoyeZLearning/DiffDet4SAR)|
+|[understanding the impact of coalitions between ev charging stations](https://arxiv.org/abs/2404.03919)|[coalition-ev](https://github.com/kkulk/coalition-ev)|
+|[field teams coordination for earthquake-damaged distribution system energization](https://arxiv.org/abs/2404.04087)|[powerraft](https://github.com/necrashter/powerraft)|
+|[generalizable temperature nowcasting with physics-constrained rnns for predictive maintenance of wind turbine components](https://arxiv.org/abs/2404.04126)|[pcrnn-wtg](https://github.com/jxnb/pcrnn-wtg)|
 ## 2024-04-05
 |paper|code|
 |---|---|
@@ -8,6 +18,7 @@
 |[foundation models for structural health monitoring](https://arxiv.org/abs/2404.02944)|[tle-supervised](https://github.com/eml-eda/tle-supervised)|
 |[spatio-spectral structure tensor total variation for hyperspectral image denoising and destriping](https://arxiv.org/abs/2404.03313)|[spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping](https://github.com/mdi-tokyotech/spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping)|
 |[bcamirs at semeval-2024 task 4: beyond words: a multimodal and multilingual exploration of persuasion in memes](https://arxiv.org/abs/2404.03022)|[beyond-words-a-multimodal-exploration-of-persuasion-in-memes](https://github.com/amirabaskohi/beyond-words-a-multimodal-exploration-of-persuasion-in-memes)|
+|[early warning systems for financial markets of emerging economies](https://arxiv.org/abs/2404.03319)|[ews_condent](https://github.com/kraevskiyaa/ews_condent)|
 |[approximate gradient coding for privacy-flexible federated learning with non-iid data](https://arxiv.org/abs/2404.03524)|[label-heterogeneity](https://github.com/okkomakkonen/label-heterogeneity)|
 ## 2024-04-04
 |paper|code|
