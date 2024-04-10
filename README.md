@@ -1,3 +1,13 @@
+## 2024-04-09
+|paper|code|
+|---|---|
+|[self-supervised learning for time series analysis: taxonomy, progress, and prospects](https://arxiv.org/abs/2306.10125)|[Awesome-SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS)|
+|[k-band: self-supervised mri reconstruction via stochastic gradient descent over k-space subsets](https://arxiv.org/abs/2308.02958)|[k-band](https://github.com/mikgroup/k-band)|
+|[spatial assisted human-drone collaborative navigation and interaction through immersive mixed reality](https://arxiv.org/abs/2402.04070)|[mri_ros_public](https://github.com/arplaboratory/mri_ros_public)|
+|[suppressing modulation instability with reinforcement learning](https://arxiv.org/abs/2404.04310)|[nlse-rl](https://github.com/rishatzagidullin/nlse-rl)|
+|[cell-free multi-user mimo equalization via in-context learning](https://arxiv.org/abs/2404.05538)|[cell-free-mimo-icl](https://github.com/kclip/cell-free-mimo-icl)|
+|[fedstellar: a platform for decentralized federated learning](https://arxiv.org/abs/2306.09750)|[fedstellar](https://github.com/enriquetomasmb/fedstellar)|
+|[multi-sources information fusion learning for multi-points nlos localization](https://arxiv.org/abs/2401.12538)|[AMDNloc](https://github.com/Horizontal666/AMDNloc)|
 ## 2024-04-08
 |paper|code|
 |---|---|
@@ -17,6 +27,7 @@
 |[reinforcement learning based dynamic power control for uav mobility management](https://arxiv.org/abs/2312.04742)|[asilomar-2023-ee-uav-varying-reliability](https://github.com/irshadmeer/asilomar-2023-ee-uav-varying-reliability)|
 |[foundation models for structural health monitoring](https://arxiv.org/abs/2404.02944)|[tle-supervised](https://github.com/eml-eda/tle-supervised)|
 |[spatio-spectral structure tensor total variation for hyperspectral image denoising and destriping](https://arxiv.org/abs/2404.03313)|[spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping](https://github.com/mdi-tokyotech/spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping)|
+|[alzheimer's disease detection in psg signals](https://arxiv.org/abs/2404.03549)|[DL4ADpred](https://github.com/LorenaGallego/DL4ADpred)|
 |[bcamirs at semeval-2024 task 4: beyond words: a multimodal and multilingual exploration of persuasion in memes](https://arxiv.org/abs/2404.03022)|[beyond-words-a-multimodal-exploration-of-persuasion-in-memes](https://github.com/amirabaskohi/beyond-words-a-multimodal-exploration-of-persuasion-in-memes)|
 |[early warning systems for financial markets of emerging economies](https://arxiv.org/abs/2404.03319)|[ews_condent](https://github.com/kraevskiyaa/ews_condent)|
 |[approximate gradient coding for privacy-flexible federated learning with non-iid data](https://arxiv.org/abs/2404.03524)|[label-heterogeneity](https://github.com/okkomakkonen/label-heterogeneity)|
@@ -25,7 +36,6 @@
 |---|---|
 |[learning robust output control barrier functions from safe expert demonstrations](https://arxiv.org/abs/2111.09971)|[learning-rocbfs](https://github.com/unstable-zeros/learning-rocbfs)|
 |[gegenbauer graph neural networks for time-varying signal reconstruction](https://arxiv.org/abs/2403.19800)|[gegengnn](https://github.com/jcastro295/gegengnn)|
-|[efficient computation of the quantum rate-distortion function](https://arxiv.org/abs/2309.15919)|[efficient-qrd](https://github.com/kerry-he/efficient-qrd)|
 ## 2024-04-03
 |paper|code|
 |---|---|
