@@ -1,3 +1,15 @@
+## 2024-04-10
+|paper|code|
+|---|---|
+|[breaking symmetries leads to diverse quadrupedal gaits](https://arxiv.org/abs/2303.04857)|[breakingsymmetryleadstodiversegaits](https://github.com/dlarlab/breakingsymmetryleadstodiversegaits)|
+|[on the existence of steady-state solutions to the equations governing fluid flow in networks](https://arxiv.org/abs/2309.04494)|[existencegasflowruns](https://github.com/kaarthiksundar/existencegasflowruns)|
+|[detecting and mitigating system-level anomalies of vision-based controllers](https://arxiv.org/abs/2309.13475)|[visual_failure_mitigation](https://github.com/phoenixrider12/visual_failure_mitigation)|
+|[learning to fly in seconds](https://arxiv.org/abs/2311.13081)|[learning-to-fly](https://github.com/arplaboratory/learning-to-fly)|
+|[mpc-inspired reinforcement learning for verifiable model-free control](https://arxiv.org/abs/2312.05332)|[learning-qp](https://github.com/yiwenlu66/learning-qp)|
+|[global geolocated realtime data of interfleet urban transit bus idling](https://arxiv.org/abs/2403.03489)|[idling](https://github.com/nickkunz/idling)|
+|[synaptogen: a cross-domain generative device model for large-scale neuromorphic circuit design](https://arxiv.org/abs/2404.06344)|[synaptogen](https://github.com/thennen/synaptogen)|
+|[efficient computation of the quantum rate-distortion function](https://arxiv.org/abs/2309.15919)|[efficient-qrd](https://github.com/kerry-he/efficient-qrd)|
+|[just wing it: optimal estimation of missing mass in a markovian sequence](https://arxiv.org/abs/2404.05819)|[missing-mass](https://github.com/andrewthan/missing-mass)|
 ## 2024-04-09
 |paper|code|
 |---|---|
@@ -5,7 +17,9 @@
 |[k-band: self-supervised mri reconstruction via stochastic gradient descent over k-space subsets](https://arxiv.org/abs/2308.02958)|[k-band](https://github.com/mikgroup/k-band)|
 |[spatial assisted human-drone collaborative navigation and interaction through immersive mixed reality](https://arxiv.org/abs/2402.04070)|[mri_ros_public](https://github.com/arplaboratory/mri_ros_public)|
 |[suppressing modulation instability with reinforcement learning](https://arxiv.org/abs/2404.04310)|[nlse-rl](https://github.com/rishatzagidullin/nlse-rl)|
+|[neuromorphic control of a pendulum](https://arxiv.org/abs/2404.05339)|[neuromorphic-pendulum-control](https://github.com/rjzs/neuromorphic-pendulum-control)|
 |[cell-free multi-user mimo equalization via in-context learning](https://arxiv.org/abs/2404.05538)|[cell-free-mimo-icl](https://github.com/kclip/cell-free-mimo-icl)|
+|[otterros: picking and programming an uncrewed surface vessel for experimental field robotics research with ros 2](https://arxiv.org/abs/2404.05627)|[otter_ros](https://github.com/offroad-robotics/otter_ros)|
 |[fedstellar: a platform for decentralized federated learning](https://arxiv.org/abs/2306.09750)|[fedstellar](https://github.com/enriquetomasmb/fedstellar)|
 |[multi-sources information fusion learning for multi-points nlos localization](https://arxiv.org/abs/2401.12538)|[AMDNloc](https://github.com/Horizontal666/AMDNloc)|
 ## 2024-04-08
