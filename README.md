@@ -1,10 +1,22 @@
+## 2024-04-12
+|paper|code|
+|---|---|
+|[automatic nonlinear mpc approximation with closed-loop guarantees](https://arxiv.org/abs/2312.10199)|[alkia-x](https://github.com/tokmaka1/alkia-x)|
+|[interpretation of intracardiac electrograms through textual representations](https://arxiv.org/abs/2402.01115)|[text-egm](https://github.com/willxxy/text-egm)|
+|[cell-free multi-user mimo equalization via in-context learning](https://arxiv.org/abs/2404.05538)|[cell-free-mimo-icl](https://github.com/kclip/cell-free-mimo-icl)|
+|[lyapunov-stable neural control for state and output feedback: a novel formulation for efficient synthesis and verification](https://arxiv.org/abs/2404.07956)|[lyapunov_stable_nn_controllers](https://github.com/verified-intelligence/lyapunov_stable_nn_controllers)|
+|[version control of speaker recognition systems](https://arxiv.org/abs/2007.12069)|[SpeakerVerSim](https://github.com/wq2012/SpeakerVerSim)|
+|[demystifying why local aggregation helps: convergence analysis of hierarchical sgd](https://arxiv.org/abs/2010.12998)|[hierarchical-sgd](https://github.com/c3atuofu/hierarchical-sgd)|
 ## 2024-04-11
 |paper|code|
 |---|---|
 |[bones: near-optimal neural-enhanced video streaming](https://arxiv.org/abs/2310.09920)|[bones](https://github.com/umass-lids/bones)|
 |[an experimental evaluation of deep reinforcement learning algorithms for hvac control](https://arxiv.org/abs/2401.05737)|[paper-drl_building](https://github.com/ugr-sail/paper-drl_building)|
+|[what is learnt by the learnable front-end (leaf)? adapting per-channel energy normalisation (pcen) to noisy conditions](https://arxiv.org/abs/2404.06702)|[adapting-leaf](https://github.com/hanyu-meng/adapting-leaf)|
 |[enhancing safety in mixed traffic: learning-based modeling and efficient control of autonomous and human-driven vehicles](https://arxiv.org/abs/2404.06732)|[mixed-traffic-gp-mpc](https://github.com/jwangjie/mixed-traffic-gp-mpc)|
 |[multi-agent soft actor-critic with global loss for autonomous mobility-on-demand fleet control](https://arxiv.org/abs/2404.06975)|[hybridmadrl-amod-relocation](https://github.com/tumbais/hybridmadrl-amod-relocation)|
+|[algebraic proofs of path disconnectedness using time-dependent barrier functions](https://arxiv.org/abs/2404.06985)|[set_connected](https://github.com/jarmill/set_connected)|
+|[cbfkit: a control barrier function toolbox for robotics applications](https://arxiv.org/abs/2404.07158)|[cbfkit](https://github.com/bardhh/cbfkit)|
 |[quantum message-passing algorithm for optimal and efficient decoding](https://arxiv.org/abs/2109.08170)|[quantum-message-passing-paper](https://github.com/chripiv/quantum-message-passing-paper)|
 |[on the salient limitations of the methods of assembly theory and their classification of molecular biosignatures](https://arxiv.org/abs/2210.00901)|[mscomplexity](https://github.com/abicumaran/mscomplexity)|
 ## 2024-04-10
@@ -32,6 +44,7 @@
 |[suppressing modulation instability with reinforcement learning](https://arxiv.org/abs/2404.04310)|[nlse-rl](https://github.com/rishatzagidullin/nlse-rl)|
 |[neuromorphic control of a pendulum](https://arxiv.org/abs/2404.05339)|[neuromorphic-pendulum-control](https://github.com/rjzs/neuromorphic-pendulum-control)|
 |[otterros: picking and programming an uncrewed surface vessel for experimental field robotics research with ros 2](https://arxiv.org/abs/2404.05627)|[otter_ros](https://github.com/offroad-robotics/otter_ros)|
+|[subspace phase retrieval](https://arxiv.org/abs/2206.02480)|[spr](https://github.com/mengchuxu97/spr)|
 |[fedstellar: a platform for decentralized federated learning](https://arxiv.org/abs/2306.09750)|[fedstellar](https://github.com/enriquetomasmb/fedstellar)|
 |[multi-sources information fusion learning for multi-points nlos localization](https://arxiv.org/abs/2401.12538)|[AMDNloc](https://github.com/Horizontal666/AMDNloc)|
 |[session types for the transport layer: towards an implementation of tcp](https://arxiv.org/abs/2404.05478)|[tcpst2](https://github.com/sammko/tcpst2)|
