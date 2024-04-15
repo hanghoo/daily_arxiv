@@ -2,11 +2,15 @@
 |paper|code|
 |---|---|
 |[automatic nonlinear mpc approximation with closed-loop guarantees](https://arxiv.org/abs/2312.10199)|[alkia-x](https://github.com/tokmaka1/alkia-x)|
-|[interpretation of intracardiac electrograms through textual representations](https://arxiv.org/abs/2402.01115)|[text-egm](https://github.com/willxxy/text-egm)|
 |[cell-free multi-user mimo equalization via in-context learning](https://arxiv.org/abs/2404.05538)|[cell-free-mimo-icl](https://github.com/kclip/cell-free-mimo-icl)|
+|[synthesizing neural network controllers with closed-loop dissipativity guarantees](https://arxiv.org/abs/2404.07373)|[stabilizing-ren](https://github.com/neelayjunnarkar/stabilizing-ren)|
+|[ekf-sindy: empowering the extended kalman filter with sparse identification of nonlinear dynamics](https://arxiv.org/abs/2404.07536)|[ekf-sindy](https://github.com/contipaolo/ekf-sindy)|
+|[trainable joint channel estimation, detection and decoding for mimo urllc systems](https://arxiv.org/abs/2404.07721)|[jcddnet](https://github.com/sunyi0101/jcddnet)|
 |[lyapunov-stable neural control for state and output feedback: a novel formulation for efficient synthesis and verification](https://arxiv.org/abs/2404.07956)|[lyapunov_stable_nn_controllers](https://github.com/verified-intelligence/lyapunov_stable_nn_controllers)|
 |[version control of speaker recognition systems](https://arxiv.org/abs/2007.12069)|[SpeakerVerSim](https://github.com/wq2012/SpeakerVerSim)|
 |[demystifying why local aggregation helps: convergence analysis of hierarchical sgd](https://arxiv.org/abs/2010.12998)|[hierarchical-sgd](https://github.com/c3atuofu/hierarchical-sgd)|
+|[representation learning of tangled key-value sequence data for early classification](https://arxiv.org/abs/2404.07454)|[kvec](https://github.com/tduan-xjtu/kvec)|
+|[on naisargik images of varshamov-tenengolts and helberg codes](https://arxiv.org/abs/2404.07670)|[grayvt](https://github.com/guptalab/grayvt)|
 ## 2024-04-11
 |paper|code|
 |---|---|
