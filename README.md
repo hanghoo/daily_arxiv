@@ -1,3 +1,14 @@
+## 2024-04-15
+|paper|code|
+|---|---|
+|[synthesis of stabilizing recurrent equilibrium network controllers](https://arxiv.org/abs/2204.00122)|[stabilizing-ren](https://github.com/neelayjunnarkar/stabilizing-ren)|
+|[neural-fly enables rapid learning for agile flight in strong winds](https://arxiv.org/abs/2205.06908)|[neural-fly](https://github.com/aerorobotics/neural-fly)|
+|[near-field velocity sensing and predictive beamforming](https://arxiv.org/abs/2311.09888)|[near-field-velocity-sensing-and-predictive-beamforming](https://github.com/zhaolin820/near-field-velocity-sensing-and-predictive-beamforming)|
+|[interpretation of intracardiac electrograms through textual representations](https://arxiv.org/abs/2402.01115)|[text-egm](https://github.com/willxxy/text-egm)|
+|[exponentially weighted moving models](https://arxiv.org/abs/2404.08136)|[ewmm_code](https://github.com/cvxgrp/ewmm_code)|
+|[lightweight multi-system multivariate interconnection and divergence discovery](https://arxiv.org/abs/2404.08453)|[lidd](https://github.com/muleina/lidd)|
+|[reinforcement learning with non-cumulative objective](https://arxiv.org/abs/2307.04957)|[reinforcement_learning_with_non-cumulative_objective](https://github.com/willtop/reinforcement_learning_with_non-cumulative_objective)|
+|[transfer learning with reconstruction loss](https://arxiv.org/abs/2404.00505)|[transfer_learning_with_reconstruction_loss](https://github.com/willtop/transfer_learning_with_reconstruction_loss)|
 ## 2024-04-12
 |paper|code|
 |---|---|
@@ -9,7 +20,7 @@
 |[lyapunov-stable neural control for state and output feedback: a novel formulation for efficient synthesis and verification](https://arxiv.org/abs/2404.07956)|[lyapunov_stable_nn_controllers](https://github.com/verified-intelligence/lyapunov_stable_nn_controllers)|
 |[version control of speaker recognition systems](https://arxiv.org/abs/2007.12069)|[SpeakerVerSim](https://github.com/wq2012/SpeakerVerSim)|
 |[demystifying why local aggregation helps: convergence analysis of hierarchical sgd](https://arxiv.org/abs/2010.12998)|[hierarchical-sgd](https://github.com/c3atuofu/hierarchical-sgd)|
-|[representation learning of tangled key-value sequence data for early classification](https://arxiv.org/abs/2404.07454)|[kvec](https://github.com/tduan-xjtu/kvec)|
+|[representation learning of tangled key-value sequence data for early classification](https://arxiv.org/abs/2404.07454)|[kvec_project](https://github.com/tduan-xjtu/kvec_project)|
 |[on naisargik images of varshamov-tenengolts and helberg codes](https://arxiv.org/abs/2404.07670)|[grayvt](https://github.com/guptalab/grayvt)|
 ## 2024-04-11
 |paper|code|
