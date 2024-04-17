@@ -1,3 +1,18 @@
+## 2024-04-16
+|paper|code|
+|---|---|
+|[adaptive hybrid local-global sampling for fast informed sampling-based optimal path planning](https://arxiv.org/abs/2208.09318)|[cari_motion_planning](https://github.com/jrl-cari-cnr-unibs/cari_motion_planning)|
+|[impact analysis of antenna array geometry on performance of semi-blind structured channel estimation for massive mimo-ofdm systems](https://arxiv.org/abs/2305.09263)|[CRB_of_3D_Antenna_Arrays_on_Performance_of_Semi-blind_Structured_Channel_Estimation](https://github.com/DoHaiSon/CRB_of_3D_Antenna_Arrays_on_Performance_of_Semi-blind_Structured_Channel_Estimation)|
+|[pegasus simulator: an isaac sim framework for multiple aerial vehicles simulation](https://arxiv.org/abs/2307.05263)|[PegasusSimulator](https://github.com/PegasusSimulator/PegasusSimulator)|
+|[circular economy meets building automation](https://arxiv.org/abs/2309.04568)|[GIFTS](https://github.com/hacai44/GIFTS)|
+|[on the semi-blind mutually referenced equalizers for mimo systems](https://arxiv.org/abs/2311.00325)|[Semi-blind_Mutually_Referenced_Equalizers](https://github.com/DoHaiSon/Semi-blind_Mutually_Referenced_Equalizers)|
+|[av4ev: open-source modular autonomous electric vehicle platform for making mobility research accessible](https://arxiv.org/abs/2312.00951)|[gokart-mechatronics](https://github.com/mlab-upenn/gokart-mechatronics)|
+|[diffdet4sar: diffusion-based aircraft target detection network for sar images](https://arxiv.org/abs/2404.03595)|[DiffDet4SAR](https://github.com/JoyeZLearning/DiffDet4SAR)|
+|[rf-diffusion: radio signal generation via time-frequency diffusion](https://arxiv.org/abs/2404.09140)|[rf-diffusion](https://github.com/mobicom24/rf-diffusion)|
+|[foundational gpt model for meg](https://arxiv.org/abs/2404.09256)|[meg-transfer-decoding](https://github.com/ricsinaruto/meg-transfer-decoding)|
+|[amplitude-phase fusion for enhanced electrocardiogram morphological analysis](https://arxiv.org/abs/2404.09729)|[ecg-mee-metric](https://github.com/fdu-harry/ecg-mee-metric)|
+|[toward an ai-enabled connected industry: agv communication and sensor measurement datasets](https://arxiv.org/abs/2301.03364)|[ai4mobile-industrial](https://github.com/fraunhoferhhi/ai4mobile-industrial)|
+|[interactive generative ai agents for satellite networks through a mixture of experts transmission](https://arxiv.org/abs/2404.09134)|[gai-agent-satellite](https://github.com/rickyzang/gai-agent-satellite)|
 ## 2024-04-15
 |paper|code|
 |---|---|
