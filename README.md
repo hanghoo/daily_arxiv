@@ -1,3 +1,11 @@
+## 2024-04-17
+|paper|code|
+|---|---|
+|[wemac: women and emotion multi-modal affective computing dataset](https://arxiv.org/abs/2203.00456)|[wemac_dataset_speech_processing](https://github.com/bindi-uc3m/wemac_dataset_speech_processing)|
+|[gauss-newton meets panoc: a fast and globally convergent algorithm for nonlinear optimal control](https://arxiv.org/abs/2212.04391)|[panoc-gauss-newton-ifac-experiments](https://github.com/kul-optec/panoc-gauss-newton-ifac-experiments)|
+|[learning-based optimal control with performance guarantees for unknown systems with latent states](https://arxiv.org/abs/2303.17963)|[pgopt](https://github.com/tum-itr/pgopt)|
+|[multi-agent reinforcement learning via distributed mpc as a function approximator](https://arxiv.org/abs/2312.05166)|[dmpcrl-concept](https://github.com/SamuelMallick/dmpcrl-concept)|
+|[graph neural network-based surrogate modelling for real-time hydraulic prediction of urban drainage networks](https://arxiv.org/abs/2404.10324)|[GNN-UDS](https://github.com/Zhiyu014/GNN-UDS)|
 ## 2024-04-16
 |paper|code|
 |---|---|
@@ -7,7 +15,6 @@
 |[circular economy meets building automation](https://arxiv.org/abs/2309.04568)|[GIFTS](https://github.com/hacai44/GIFTS)|
 |[on the semi-blind mutually referenced equalizers for mimo systems](https://arxiv.org/abs/2311.00325)|[Semi-blind_Mutually_Referenced_Equalizers](https://github.com/DoHaiSon/Semi-blind_Mutually_Referenced_Equalizers)|
 |[av4ev: open-source modular autonomous electric vehicle platform for making mobility research accessible](https://arxiv.org/abs/2312.00951)|[gokart-mechatronics](https://github.com/mlab-upenn/gokart-mechatronics)|
-|[diffdet4sar: diffusion-based aircraft target detection network for sar images](https://arxiv.org/abs/2404.03595)|[DiffDet4SAR](https://github.com/JoyeZLearning/DiffDet4SAR)|
 |[rf-diffusion: radio signal generation via time-frequency diffusion](https://arxiv.org/abs/2404.09140)|[rf-diffusion](https://github.com/mobicom24/rf-diffusion)|
 |[foundational gpt model for meg](https://arxiv.org/abs/2404.09256)|[meg-transfer-decoding](https://github.com/ricsinaruto/meg-transfer-decoding)|
 |[amplitude-phase fusion for enhanced electrocardiogram morphological analysis](https://arxiv.org/abs/2404.09729)|[ecg-mee-metric](https://github.com/fdu-harry/ecg-mee-metric)|
@@ -21,6 +28,7 @@
 |[near-field velocity sensing and predictive beamforming](https://arxiv.org/abs/2311.09888)|[near-field-velocity-sensing-and-predictive-beamforming](https://github.com/zhaolin820/near-field-velocity-sensing-and-predictive-beamforming)|
 |[interpretation of intracardiac electrograms through textual representations](https://arxiv.org/abs/2402.01115)|[text-egm](https://github.com/willxxy/text-egm)|
 |[exponentially weighted moving models](https://arxiv.org/abs/2404.08136)|[ewmm_code](https://github.com/cvxgrp/ewmm_code)|
+|[snake-fmri: a modular fmri data simulator from the space-time domain to k-space and back](https://arxiv.org/abs/2404.08282)|[snake-fmri](https://github.com/paquiteau/snake-fmri)|
 |[lightweight multi-system multivariate interconnection and divergence discovery](https://arxiv.org/abs/2404.08453)|[lidd](https://github.com/muleina/lidd)|
 |[reinforcement learning with non-cumulative objective](https://arxiv.org/abs/2307.04957)|[reinforcement_learning_with_non-cumulative_objective](https://github.com/willtop/reinforcement_learning_with_non-cumulative_objective)|
 |[transfer learning with reconstruction loss](https://arxiv.org/abs/2404.00505)|[transfer_learning_with_reconstruction_loss](https://github.com/willtop/transfer_learning_with_reconstruction_loss)|
