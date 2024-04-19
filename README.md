@@ -1,3 +1,16 @@
+## 2024-04-18
+|paper|code|
+|---|---|
+|[the luvira dataset: measurement description](https://arxiv.org/abs/2302.05309)|[luvira_dataset](https://github.com/ilaydayaman/luvira_dataset)|
+|[drift control of high-dimensional rbm: a computational method based on neural networks](https://arxiv.org/abs/2309.11651)|[rbmsolver](https://github.com/nian-si/rbmsolver)|
+|[caster: a computer-vision-assisted wireless channel simulator for gesture recognition](https://arxiv.org/abs/2311.07169)|[testspectrogram](https://github.com/rzy0901/testspectrogram)|
+|[singular control of (reflected) brownian motion: a computational method suitable for queueing applications](https://arxiv.org/abs/2312.11823)|[singularcontrol](https://github.com/nian-si/singularcontrol)|
+|[diffdet4sar: diffusion-based aircraft target detection network for sar images](https://arxiv.org/abs/2404.03595)|[DiffDet4SAR](https://github.com/JoyeZLearning/DiffDet4SAR)|
+|[cobrapro: a matlab toolbox for physics-based battery modeling and co-simulation parameter optimization](https://arxiv.org/abs/2404.10022)|[cobrapro](https://github.com/cobraprosimulator/cobrapro)|
+|[sustainability of data center digital twins with reinforcement learning](https://arxiv.org/abs/2404.10786)|[dc-rl](https://github.com/hewlettpackard/dc-rl)|
+|[sky-gvio: an enhanced gnss/ins/vision navigation with fcn-based sky-segmentation in urban canyon](https://arxiv.org/abs/2404.11070)|[sky-view-images](https://github.com/whuwangjr/sky-view-images)|
+|[personalized heart disease detection via ecg digital twin generation](https://arxiv.org/abs/2404.11171)|[lavq-editor](https://github.com/huyjj/lavq-editor)|
+|[on the salient limitations of the methods of assembly theory and their classification of molecular biosignatures](https://arxiv.org/abs/2210.00901)|[mscomplexity](https://github.com/abicumaran/mscomplexity)|
 ## 2024-04-17
 |paper|code|
 |---|---|
@@ -10,6 +23,7 @@
 |paper|code|
 |---|---|
 |[adaptive hybrid local-global sampling for fast informed sampling-based optimal path planning](https://arxiv.org/abs/2208.09318)|[cari_motion_planning](https://github.com/jrl-cari-cnr-unibs/cari_motion_planning)|
+|[on interference-rejection using riemannian geometry for direction of arrival estimation](https://arxiv.org/abs/2301.03399)|[interference-rejection-using-riemannian-geometry-for-doa-estimation](https://github.com/amitaybar/interference-rejection-using-riemannian-geometry-for-doa-estimation)|
 |[impact analysis of antenna array geometry on performance of semi-blind structured channel estimation for massive mimo-ofdm systems](https://arxiv.org/abs/2305.09263)|[CRB_of_3D_Antenna_Arrays_on_Performance_of_Semi-blind_Structured_Channel_Estimation](https://github.com/DoHaiSon/CRB_of_3D_Antenna_Arrays_on_Performance_of_Semi-blind_Structured_Channel_Estimation)|
 |[pegasus simulator: an isaac sim framework for multiple aerial vehicles simulation](https://arxiv.org/abs/2307.05263)|[PegasusSimulator](https://github.com/PegasusSimulator/PegasusSimulator)|
 |[circular economy meets building automation](https://arxiv.org/abs/2309.04568)|[GIFTS](https://github.com/hacai44/GIFTS)|
@@ -17,9 +31,12 @@
 |[av4ev: open-source modular autonomous electric vehicle platform for making mobility research accessible](https://arxiv.org/abs/2312.00951)|[gokart-mechatronics](https://github.com/mlab-upenn/gokart-mechatronics)|
 |[rf-diffusion: radio signal generation via time-frequency diffusion](https://arxiv.org/abs/2404.09140)|[rf-diffusion](https://github.com/mobicom24/rf-diffusion)|
 |[foundational gpt model for meg](https://arxiv.org/abs/2404.09256)|[meg-transfer-decoding](https://github.com/ricsinaruto/meg-transfer-decoding)|
+|[leveraging the doppler effect for channel charting](https://arxiv.org/abs/2404.09620)|[doppler-effect-channelcharting](https://github.com/jeija/doppler-effect-channelcharting)|
+|[openairlink: reproducible wireless channel emulation using software defined radios](https://arxiv.org/abs/2404.09660)|[openairlink](https://github.com/n3martix/openairlink)|
 |[amplitude-phase fusion for enhanced electrocardiogram morphological analysis](https://arxiv.org/abs/2404.09729)|[ecg-mee-metric](https://github.com/fdu-harry/ecg-mee-metric)|
 |[toward an ai-enabled connected industry: agv communication and sensor measurement datasets](https://arxiv.org/abs/2301.03364)|[ai4mobile-industrial](https://github.com/fraunhoferhhi/ai4mobile-industrial)|
 |[interactive generative ai agents for satellite networks through a mixture of experts transmission](https://arxiv.org/abs/2404.09134)|[gai-agent-satellite](https://github.com/rickyzang/gai-agent-satellite)|
+|[compression represents intelligence linearly](https://arxiv.org/abs/2404.09937)|[llm-compression-intelligence](https://github.com/hkust-nlp/llm-compression-intelligence)|
 ## 2024-04-15
 |paper|code|
 |---|---|
