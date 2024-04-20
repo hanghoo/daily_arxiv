@@ -1,3 +1,9 @@
+## 2024-04-19
+|paper|code|
+|---|---|
+|[beacon, a lightweight deep reinforcement learning benchmark library for flow control](https://arxiv.org/abs/2402.17402)|[beacon](https://github.com/jviquerat/beacon)|
+|[intention-aware control based on belief-space specifications and stochastic expansion](https://arxiv.org/abs/2404.09037)|[intentaware](https://github.com/zhang-zengjie/intentaware)|
+|[incremental measurement of structural entropy for dynamic graphs](https://arxiv.org/abs/2207.12653)|[incre-se](https://github.com/yangrunze1013/incre-se)|
 ## 2024-04-18
 |paper|code|
 |---|---|
