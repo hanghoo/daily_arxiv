@@ -1,3 +1,10 @@
+## 2024-04-22
+|paper|code|
+|---|---|
+|[ul-dl duality for cell-free massive mimo with per-ap power and information constraints](https://arxiv.org/abs/2301.06520)|[duality](https://github.com/lorenzomiretti/duality)|
+|[frequency-aware masked autoencoders for multimodal pretraining on biosignals](https://arxiv.org/abs/2309.05927)|[ml-famae](https://github.com/apple/ml-famae)|
+|[learning stable and passive neural differential equations](https://arxiv.org/abs/2404.12554)|[stablenode](https://github.com/ruigangwang7/stablenode)|
+|[flagvne: a flexible and generalizable reinforcement learning framework for network resource allocation](https://arxiv.org/abs/2404.12633)|[flag-vne](https://github.com/GeminiLight/flag-vne)|
 ## 2024-04-19
 |paper|code|
 |---|---|
