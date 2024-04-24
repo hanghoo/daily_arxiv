@@ -1,3 +1,20 @@
+## 2024-04-23
+|paper|code|
+|---|---|
+|[optimization-based exploration of the feasible power flow space for rapid data collection](https://arxiv.org/abs/2206.12214)|[data-collection-algorithm](https://github.com/ignasiven/data-collection-algorithm)|
+|[learning near-optimal intrusion responses against dynamic attackers](https://arxiv.org/abs/2301.06085)|[csle](https://github.com/limmen/csle)|
+|[scalable learning of intrusion responses through recursive decomposition](https://arxiv.org/abs/2309.03292)|[csle](https://github.com/limmen/csle)|
+|[using explainable ai to investigate electrocardiogram changes during healthy aging -- from expert features to raw signals](https://arxiv.org/abs/2310.07463)|[ecg-aging](https://github.com/ai4healthuol/ecg-aging)|
+|[input convex lstm: a convex approach for fast model predictive control](https://arxiv.org/abs/2311.07202)|[iclstm](https://github.com/killingbear999/iclstm)|
+|[scalable multi-modal model predictive control via duality-based interaction predictions](https://arxiv.org/abs/2402.01116)|[hmpc_raidnet](https://github.com/MPC-Berkeley/hmpc_raidnet)|
+|[adaptive heterogeneous client sampling for federated learning over wireless networks](https://arxiv.org/abs/2404.13804)|[wirelessfl](https://github.com/wenlixiao-cs/wirelessfl)|
+|[a multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities](https://arxiv.org/abs/2404.14019)|[mctseg](https://github.com/mkang315/mctseg)|
+|[finding effective security strategies through reinforcement learning and self-play](https://arxiv.org/abs/2009.08120)|[gym-idsgame](https://github.com/Limmen/gym-idsgame)|
+|[learning intrusion prevention policies through optimal stopping](https://arxiv.org/abs/2106.07160)|[gym-optimal-intrusion-response](https://github.com/Limmen/gym-optimal-intrusion-response)|
+|[intrusion prevention through optimal stopping](https://arxiv.org/abs/2111.00289)|[gym-optimal-intrusion-response](https://github.com/Limmen/gym-optimal-intrusion-response)|
+|[a high-performance design, implementation, deployment, and evaluation of the slim fly network](https://arxiv.org/abs/2310.03742)|[opensm](https://github.com/spcl/opensm)|
+|[5g-wave: a core network framework with decentralized authorization for network slices](https://arxiv.org/abs/2404.13242)|[5G-WAVE-Infocom2024](https://github.com/pragyasharmaa/5G-WAVE-Infocom2024)|
+|[icst-dnet: an interpretable causal spatio-temporal diffusion network for traffic speed prediction](https://arxiv.org/abs/2404.13853)|[icst-dnet](https://github.com/ry19970812/icst-dnet)|
 ## 2024-04-22
 |paper|code|
 |---|---|
