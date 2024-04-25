@@ -1,3 +1,8 @@
+## 2024-04-24
+|paper|code|
+|---|---|
+|[otterros: picking and programming an uncrewed surface vessel for experimental field robotics research with ros 2](https://arxiv.org/abs/2404.05627)|[otter_ros](https://github.com/offroad-robotics/otter_ros)|
+|[mutualized oblivious dns ($\mu$odns): hiding a tree in the wild forest](https://arxiv.org/abs/2104.13785)|[dnscrypt-proxy-modns](https://github.com/junkurihara/dnscrypt-proxy-modns)|
 ## 2024-04-23
 |paper|code|
 |---|---|
@@ -7,6 +12,7 @@
 |[using explainable ai to investigate electrocardiogram changes during healthy aging -- from expert features to raw signals](https://arxiv.org/abs/2310.07463)|[ecg-aging](https://github.com/ai4healthuol/ecg-aging)|
 |[input convex lstm: a convex approach for fast model predictive control](https://arxiv.org/abs/2311.07202)|[iclstm](https://github.com/killingbear999/iclstm)|
 |[scalable multi-modal model predictive control via duality-based interaction predictions](https://arxiv.org/abs/2402.01116)|[hmpc_raidnet](https://github.com/MPC-Berkeley/hmpc_raidnet)|
+|[integrating physics-informed neural networks into power system dynamic simulations](https://arxiv.org/abs/2404.13325)|[integrating-pinns-to-tds](https://github.com/ignvenad/integrating-pinns-to-tds)|
 |[adaptive heterogeneous client sampling for federated learning over wireless networks](https://arxiv.org/abs/2404.13804)|[wirelessfl](https://github.com/wenlixiao-cs/wirelessfl)|
 |[a multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities](https://arxiv.org/abs/2404.14019)|[mctseg](https://github.com/mkang315/mctseg)|
 |[finding effective security strategies through reinforcement learning and self-play](https://arxiv.org/abs/2009.08120)|[gym-idsgame](https://github.com/Limmen/gym-idsgame)|
@@ -15,13 +21,15 @@
 |[a high-performance design, implementation, deployment, and evaluation of the slim fly network](https://arxiv.org/abs/2310.03742)|[opensm](https://github.com/spcl/opensm)|
 |[5g-wave: a core network framework with decentralized authorization for network slices](https://arxiv.org/abs/2404.13242)|[5G-WAVE-Infocom2024](https://github.com/pragyasharmaa/5G-WAVE-Infocom2024)|
 |[icst-dnet: an interpretable causal spatio-temporal diffusion network for traffic speed prediction](https://arxiv.org/abs/2404.13853)|[icst-dnet](https://github.com/ry19970812/icst-dnet)|
+|[llamp: assessing network latency tolerance of hpc applications with linear programming](https://arxiv.org/abs/2404.14193)|[llamp](https://github.com/spcl/llamp)|
+|[collaborative filtering based on diffusion models: unveiling the potential of high-order connectivity](https://arxiv.org/abs/2404.14240)|[cf_diff](https://github.com/jackfrost168/cf_diff)|
+|[turbo-cf: matrix decomposition-free graph filtering for fast recommendation](https://arxiv.org/abs/2404.14243)|[turbo-cf](https://github.com/jindeok/turbo-cf)|
 ## 2024-04-22
 |paper|code|
 |---|---|
 |[ul-dl duality for cell-free massive mimo with per-ap power and information constraints](https://arxiv.org/abs/2301.06520)|[duality](https://github.com/lorenzomiretti/duality)|
 |[frequency-aware masked autoencoders for multimodal pretraining on biosignals](https://arxiv.org/abs/2309.05927)|[ml-famae](https://github.com/apple/ml-famae)|
 |[learning stable and passive neural differential equations](https://arxiv.org/abs/2404.12554)|[stablenode](https://github.com/ruigangwang7/stablenode)|
-|[flagvne: a flexible and generalizable reinforcement learning framework for network resource allocation](https://arxiv.org/abs/2404.12633)|[flag-vne](https://github.com/GeminiLight/flag-vne)|
 ## 2024-04-19
 |paper|code|
 |---|---|
