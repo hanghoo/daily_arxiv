@@ -1,3 +1,12 @@
+## 2024-04-26
+|paper|code|
+|---|---|
+|[coordinate-based neural representations for computational adaptive optics in widefield microscopy](https://arxiv.org/abs/2307.03812)|[cocoa](https://github.com/iksungk/cocoa)|
+|[luvira dataset validation and discussion: comparing vision, radio, and audio sensors for indoor localization](https://arxiv.org/abs/2309.02961)|[luvira_dataset](https://github.com/ilaydayaman/luvira_dataset)|
+|[simba: simplified mamba-based architecture for vision and multivariate time series](https://arxiv.org/abs/2403.15360)|[simba](https://github.com/badripatro/simba)|
+|[power failure cascade prediction using graph neural networks](https://arxiv.org/abs/2404.16134)|[failure-cascade](https://github.com/sathwikchadaga/failure-cascade)|
+|[distributed mpc for pwa systems based on switching admm](https://arxiv.org/abs/2404.16712)|[stable-dmpc-pwa](https://github.com/SamuelMallick/stable-dmpc-pwa)|
+|[flagvne: a flexible and generalizable reinforcement learning framework for network resource allocation](https://arxiv.org/abs/2404.12633)|[flag-vne](https://github.com/GeminiLight/flag-vne)|
 ## 2024-04-25
 |paper|code|
 |---|---|
