@@ -6,6 +6,7 @@
 |[simba: simplified mamba-based architecture for vision and multivariate time series](https://arxiv.org/abs/2403.15360)|[simba](https://github.com/badripatro/simba)|
 |[power failure cascade prediction using graph neural networks](https://arxiv.org/abs/2404.16134)|[failure-cascade](https://github.com/sathwikchadaga/failure-cascade)|
 |[distributed mpc for pwa systems based on switching admm](https://arxiv.org/abs/2404.16712)|[stable-dmpc-pwa](https://github.com/SamuelMallick/stable-dmpc-pwa)|
+|[learning-based efficient approximation of data-enabled predictive control](https://arxiv.org/abs/2404.16727)|[redpc](https://github.com/zhou-yh19/redpc)|
 |[flagvne: a flexible and generalizable reinforcement learning framework for network resource allocation](https://arxiv.org/abs/2404.12633)|[flag-vne](https://github.com/GeminiLight/flag-vne)|
 ## 2024-04-25
 |paper|code|
@@ -14,12 +15,16 @@
 |[mains: a magnetic field aided inertial navigation system for indoor positioning](https://arxiv.org/abs/2312.02599)|[mainsvsmagekf](https://github.com/huang-chuan/mainsvsmagekf)|
 |[exponentially weighted moving models](https://arxiv.org/abs/2404.08136)|[ewmm_code](https://github.com/cvxgrp/ewmm_code)|
 |[the largest eeg-based bci reproducibility study for open science: the moabb benchmark](https://arxiv.org/abs/2404.15319)|[moabb](https://github.com/NeuroTechX/moabb)|
+|[mp-dpd: low-complexity mixed-precision neural networks for energy-efficient digital predistortion of wideband power amplifiers](https://arxiv.org/abs/2404.15364)|[opendpd](https://github.com/lab-emi/opendpd)|
 |[a weight-aware-based multi-source unsupervised domain adaptation method for human motion intention recognition](https://arxiv.org/abs/2404.15366)|[WMDD](https://github.com/xiaoyinliu0714/WMDD)|
+|[leveraging visibility graphs for enhanced arrhythmia classification with graph convolutional networks](https://arxiv.org/abs/2404.15367)|[vg_for_arrhythmia_classification_with_gcn](https://github.com/raffoliveira/vg_for_arrhythmia_classification_with_gcn)|
+|[deep hankel matrices with random elements](https://arxiv.org/abs/2404.15512)|[deephankel](https://github.com/nplawrence/deephankel)|
 |[message-passing on hypergraphs: detectability, phase transitions and higher-order information](https://arxiv.org/abs/2312.00708)|[hypergraph-message-passing](https://github.com/nickruggeri/hypergraph-message-passing)|
 ## 2024-04-24
 |paper|code|
 |---|---|
 |[otterros: picking and programming an uncrewed surface vessel for experimental field robotics research with ros 2](https://arxiv.org/abs/2404.05627)|[otter_ros](https://github.com/offroad-robotics/otter_ros)|
+|[protect: parallelized construction of safety barrier certificates for nonlinear polynomial systems](https://arxiv.org/abs/2404.14804)|[protect](https://github.com/kiguli/protect)|
 |[mutualized oblivious dns ($\mu$odns): hiding a tree in the wild forest](https://arxiv.org/abs/2104.13785)|[dnscrypt-proxy-modns](https://github.com/junkurihara/dnscrypt-proxy-modns)|
 ## 2024-04-23
 |paper|code|
@@ -29,8 +34,10 @@
 |[scalable learning of intrusion responses through recursive decomposition](https://arxiv.org/abs/2309.03292)|[csle](https://github.com/limmen/csle)|
 |[using explainable ai to investigate electrocardiogram changes during healthy aging -- from expert features to raw signals](https://arxiv.org/abs/2310.07463)|[ecg-aging](https://github.com/ai4healthuol/ecg-aging)|
 |[input convex lstm: a convex approach for fast model predictive control](https://arxiv.org/abs/2311.07202)|[iclstm](https://github.com/killingbear999/iclstm)|
+|[multi-objective transmission expansion: an offshore wind power integration case study](https://arxiv.org/abs/2311.09563)|[motep-osw](https://github.com/sarojkhanal/motep-osw)|
 |[scalable multi-modal model predictive control via duality-based interaction predictions](https://arxiv.org/abs/2402.01116)|[hmpc_raidnet](https://github.com/MPC-Berkeley/hmpc_raidnet)|
 |[integrating physics-informed neural networks into power system dynamic simulations](https://arxiv.org/abs/2404.13325)|[integrating-pinns-to-tds](https://github.com/ignvenad/integrating-pinns-to-tds)|
+|[$\mathsf{quito}$ $\textsf{v.2}$: trajectory optimization with uniform error guarantees under path constraints](https://arxiv.org/abs/2404.13681)|[quitov2](https://github.com/chatterjee-d/quitov2)|
 |[adaptive heterogeneous client sampling for federated learning over wireless networks](https://arxiv.org/abs/2404.13804)|[wirelessfl](https://github.com/wenlixiao-cs/wirelessfl)|
 |[a multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities](https://arxiv.org/abs/2404.14019)|[mctseg](https://github.com/mkang315/mctseg)|
 |[finding effective security strategies through reinforcement learning and self-play](https://arxiv.org/abs/2009.08120)|[gym-idsgame](https://github.com/Limmen/gym-idsgame)|
@@ -47,7 +54,9 @@
 |---|---|
 |[ul-dl duality for cell-free massive mimo with per-ap power and information constraints](https://arxiv.org/abs/2301.06520)|[duality](https://github.com/lorenzomiretti/duality)|
 |[frequency-aware masked autoencoders for multimodal pretraining on biosignals](https://arxiv.org/abs/2309.05927)|[ml-famae](https://github.com/apple/ml-famae)|
+|[distributed model predictive control for heterogeneous platoons with affine spacing policies and arbitrary communication topologies](https://arxiv.org/abs/2404.12441)|[dmpc_itsc_2024](https://github.com/river-lab/dmpc_itsc_2024)|
 |[learning stable and passive neural differential equations](https://arxiv.org/abs/2404.12554)|[stablenode](https://github.com/ruigangwang7/stablenode)|
+|[leveraging p90 requirement: flexible resources bidding in nordic ancillary service markets](https://arxiv.org/abs/2404.12807)|[p90_drjcc](https://github.com/peteravg/p90_drjcc)|
 ## 2024-04-19
 |paper|code|
 |---|---|
