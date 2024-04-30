@@ -1,3 +1,10 @@
+## 2024-04-29
+|paper|code|
+|---|---|
+|[the luvira dataset: synchronized vision, radio, and audio sensors for indoor localization](https://arxiv.org/abs/2302.05309)|[luvira_dataset](https://github.com/ilaydayaman/luvira_dataset)|
+|[collision avoidance verification of multiagent systems with learned policies](https://arxiv.org/abs/2403.03314)|[rebar](https://github.com/neu-autonomy/rebar)|
+|[open world learning graph convolution for latency estimation in routing networks](https://arxiv.org/abs/2207.14643)|[routinggnn_appendix](https://github.com/bluelancer/routinggnn_appendix)|
+|[a novel protocol using captive portals for fido2 network authentication](https://arxiv.org/abs/2402.12864)|[fido2cap-server](https://github.com/martinord/fido2cap-server)|
 ## 2024-04-26
 |paper|code|
 |---|---|
