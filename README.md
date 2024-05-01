@@ -1,10 +1,24 @@
+## 2024-04-30
+|paper|code|
+|---|---|
+|[a new method of modeling the multi-stage decision-making process of crt using machine learning with uncertainty quantification](https://arxiv.org/abs/2309.08415)|[crt_multistageml_uncertainty](https://github.com/miilab-mtu/crt_multistageml_uncertainty)|
+|[enhanced power point tracking for high hysteresis perovskite solar cells: a galvanostatic approach](https://arxiv.org/abs/2312.03124)|[perovskino](https://github.com/ej-jp/perovskino)|
+|[the role of identification in data-driven policy iteration: a system theoretic study](https://arxiv.org/abs/2401.06721)|[datadrivenpolicyiteration-ipi-dpi](https://gitlab.com/col-tasas/datadrivenpolicyiteration-ipi-dpi)|
+|[fully differentiable ray tracing via discontinuity smoothing for radio network optimization](https://arxiv.org/abs/2401.11882)|[differt2d](https://github.com/jeertmans/differt2d)|
+|[optistate: state estimation of legged robots using gated networks with transformer-based vision and kalman filtering](https://arxiv.org/abs/2401.16719)|[optistate](https://github.com/alexs28/optistate)|
+|[adaptive reinforcement learning for robot control](https://arxiv.org/abs/2404.18713)|[adaptive_agent](https://github.com/robot-perception-group/adaptive_agent)|
+|[flagvne: a flexible and generalizable reinforcement learning framework for network resource allocation](https://arxiv.org/abs/2404.12633)|[flag-vne](https://github.com/GeminiLight/flag-vne)|
+|[cauchy-schwarz divergence information bottleneck for regression](https://arxiv.org/abs/2404.17951)|[cauchy-schwarz-information-bottleneck](https://github.com/sjyucnel/cauchy-schwarz-information-bottleneck)|
 ## 2024-04-29
 |paper|code|
 |---|---|
 |[the luvira dataset: synchronized vision, radio, and audio sensors for indoor localization](https://arxiv.org/abs/2302.05309)|[luvira_dataset](https://github.com/ilaydayaman/luvira_dataset)|
 |[collision avoidance verification of multiagent systems with learned policies](https://arxiv.org/abs/2403.03314)|[rebar](https://github.com/neu-autonomy/rebar)|
+|[interpreting deepcode, a learned feedback code](https://arxiv.org/abs/2404.17519)|[deepcode-interpretability](https://github.com/zyy-cc/deepcode-interpretability)|
 |[open world learning graph convolution for latency estimation in routing networks](https://arxiv.org/abs/2207.14643)|[routinggnn_appendix](https://github.com/bluelancer/routinggnn_appendix)|
+|[enumeration of minimum weight codewords of pre-transformed polar codes by tree intersection](https://arxiv.org/abs/2311.17774)|[ptpc](https://github.com/andreaszunker/ptpc)|
 |[a novel protocol using captive portals for fido2 network authentication](https://arxiv.org/abs/2402.12864)|[fido2cap-server](https://github.com/martinord/fido2cap-server)|
+|[compiler for distributed quantum computing: a reinforcement learning approach](https://arxiv.org/abs/2404.17077)|[compilerdqc](https://github.com/ppromponas/compilerdqc)|
 ## 2024-04-26
 |paper|code|
 |---|---|
@@ -14,7 +28,6 @@
 |[power failure cascade prediction using graph neural networks](https://arxiv.org/abs/2404.16134)|[failure-cascade](https://github.com/sathwikchadaga/failure-cascade)|
 |[distributed mpc for pwa systems based on switching admm](https://arxiv.org/abs/2404.16712)|[stable-dmpc-pwa](https://github.com/SamuelMallick/stable-dmpc-pwa)|
 |[learning-based efficient approximation of data-enabled predictive control](https://arxiv.org/abs/2404.16727)|[redpc](https://github.com/zhou-yh19/redpc)|
-|[flagvne: a flexible and generalizable reinforcement learning framework for network resource allocation](https://arxiv.org/abs/2404.12633)|[flag-vne](https://github.com/GeminiLight/flag-vne)|
 ## 2024-04-25
 |paper|code|
 |---|---|
@@ -23,10 +36,16 @@
 |[exponentially weighted moving models](https://arxiv.org/abs/2404.08136)|[ewmm_code](https://github.com/cvxgrp/ewmm_code)|
 |[eegdir: electroencephalogram denoising network for temporal information storage and global modeling through retentive network](https://arxiv.org/abs/2404.15289)|[EEGDiR](https://github.com/woldier/EEGDiR)|
 |[the largest eeg-based bci reproducibility study for open science: the moabb benchmark](https://arxiv.org/abs/2404.15319)|[moabb](https://github.com/NeuroTechX/moabb)|
+|[comparing self-supervised learning techniques for wearable human activity recognition](https://arxiv.org/abs/2404.15331)|[self-supervised-learning-har](https://github.com/getalp/self-supervised-learning-har)|
+|[classifier-guided neural blind deconvolution: a physics-informed denoising module for bearing fault diagnosis under heavy noise](https://arxiv.org/abs/2404.15341)|[classbd](https://github.com/asdvfghg/classbd)|
+|[evaluating fast adaptability of neural networks for brain-computer interface](https://arxiv.org/abs/2404.15350)|[fast_bci](https://github.com/anp-scp/fast_bci)|
+|[squwa: signal quality aware dnn architecture for enhanced accuracy in atrial fibrillation detection from noisy ppg signals](https://arxiv.org/abs/2404.15353)|[squwa](https://github.com/runz96/squwa)|
 |[mp-dpd: low-complexity mixed-precision neural networks for energy-efficient digital predistortion of wideband power amplifiers](https://arxiv.org/abs/2404.15364)|[opendpd](https://github.com/lab-emi/opendpd)|
 |[a weight-aware-based multi-source unsupervised domain adaptation method for human motion intention recognition](https://arxiv.org/abs/2404.15366)|[WMDD](https://github.com/xiaoyinliu0714/WMDD)|
 |[leveraging visibility graphs for enhanced arrhythmia classification with graph convolutional networks](https://arxiv.org/abs/2404.15367)|[vg_for_arrhythmia_classification_with_gcn](https://github.com/raffoliveira/vg_for_arrhythmia_classification_with_gcn)|
+|[unmasking the role of remote sensors in comfort, energy and demand response](https://arxiv.org/abs/2404.15368)|[sensors4singlezonesystems](https://github.com/inferlab/sensors4singlezonesystems)|
 |[deep hankel matrices with random elements](https://arxiv.org/abs/2404.15512)|[deephankel](https://github.com/nplawrence/deephankel)|
+|[jitter characterization of the hyti satellite](https://arxiv.org/abs/2404.15575)|[hyti_jitter_metrology](https://github.com/chase-urasaki/hyti_jitter_metrology)|
 |[message-passing on hypergraphs: detectability, phase transitions and higher-order information](https://arxiv.org/abs/2312.00708)|[hypergraph-message-passing](https://github.com/nickruggeri/hypergraph-message-passing)|
 ## 2024-04-24
 |paper|code|
