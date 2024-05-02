@@ -1,3 +1,14 @@
+## 2024-05-01
+|paper|code|
+|---|---|
+|[a sparse admm-based solver for linear mpc subject to terminal quadratic constraint](https://arxiv.org/abs/2105.08419)|[Spcies](https://github.com/GepocUS/Spcies)|
+|[multi-task learning for radar signal characterisation](https://arxiv.org/abs/2306.13105)|[radchar](https://github.com/abcxyzi/radchar)|
+|[scalable multi-modal model predictive control via duality-based interaction predictions](https://arxiv.org/abs/2402.01116)|[hmpc_raidnet](https://github.com/MPC-Berkeley/hmpc_raidnet)|
+|[goal-reaching trajectory design near danger with piecewise affine reach-avoid computation](https://arxiv.org/abs/2402.15604)|[parc](https://github.com/safe-robotics-lab-gt/parc)|
+|[formal verification of linear temporal logic specifications using hybrid zonotope-based reachability analysis](https://arxiv.org/abs/2404.03308)|[zonopy](https://github.com/loizoshad/zonopy)|
+|[timely status updates in slotted aloha network with energy harvesting](https://arxiv.org/abs/2404.18990)|[aoi_slottedaloha_energyharvesting](https://github.com/khachoang1412/aoi_slottedaloha_energyharvesting)|
+|[cachegen: kv cache compression and streaming for fast language model serving](https://arxiv.org/abs/2310.07240)|[cachegen](https://github.com/uchi-jcl/cachegen)|
+|[type-based unsourced multiple access](https://arxiv.org/abs/2404.19552)|[TUMA](https://github.com/khachoang1412/TUMA)|
 ## 2024-04-30
 |paper|code|
 |---|---|
