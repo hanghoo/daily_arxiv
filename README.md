@@ -1,3 +1,13 @@
+## 2024-05-02
+|paper|code|
+|---|---|
+|[titan: bringing the deep image prior to implicit representations](https://arxiv.org/abs/2211.00219)|[titan-implicit-prior](https://github.com/dlej/titan-implicit-prior)|
+|[guaranteed dynamic scheduling of ultra-reliable low-latency traffic via conformal prediction](https://arxiv.org/abs/2302.07675)|[online_cp_urllc](https://github.com/kclip/online_cp_urllc)|
+|[closed-loop koopman operator approximation](https://arxiv.org/abs/2303.15318)|[closed_loop_koopman](https://github.com/decargroup/closed_loop_koopman)|
+|[meta-state-space learning: an identification approach for stochastic dynamical systems](https://arxiv.org/abs/2307.06675)|[metass-code-repo](https://github.com/gerbenbeintema/metass-code-repo)|
+|[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
+|[a high-performance design, implementation, deployment, and evaluation of the slim fly network](https://arxiv.org/abs/2310.03742)|[opensm](https://github.com/spcl/opensm)|
+|[an efficient difference-of-convex solver for privacy funnel](https://arxiv.org/abs/2403.04778)|[dcaPF-torch](https://github.com/hui811116/dcaPF-torch)|
 ## 2024-05-01
 |paper|code|
 |---|---|
@@ -18,7 +28,6 @@
 |[fully differentiable ray tracing via discontinuity smoothing for radio network optimization](https://arxiv.org/abs/2401.11882)|[differt2d](https://github.com/jeertmans/differt2d)|
 |[optistate: state estimation of legged robots using gated networks with transformer-based vision and kalman filtering](https://arxiv.org/abs/2401.16719)|[optistate](https://github.com/alexs28/optistate)|
 |[adaptive reinforcement learning for robot control](https://arxiv.org/abs/2404.18713)|[adaptive_agent](https://github.com/robot-perception-group/adaptive_agent)|
-|[flagvne: a flexible and generalizable reinforcement learning framework for network resource allocation](https://arxiv.org/abs/2404.12633)|[flag-vne](https://github.com/GeminiLight/flag-vne)|
 |[cauchy-schwarz divergence information bottleneck for regression](https://arxiv.org/abs/2404.17951)|[cauchy-schwarz-information-bottleneck](https://github.com/sjyucnel/cauchy-schwarz-information-bottleneck)|
 ## 2024-04-29
 |paper|code|
