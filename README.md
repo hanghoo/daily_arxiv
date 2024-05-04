@@ -1,3 +1,15 @@
+## 2024-05-03
+|paper|code|
+|---|---|
+|[leveraging queue length and attention mechanisms for enhanced traffic signal control optimization](https://arxiv.org/abs/2201.00006)|[attentionlight](https://github.com/liangzhang1996/attentionlight)|
+|[denoiser-based projections for 2-d super-resolution multi-reference alignment](https://arxiv.org/abs/2204.04754)|[denoiser_projection](https://github.com/jonathanshani/denoiser_projection)|
+|[reinforcement learning based autonomous multi-rotor landing on moving platforms](https://arxiv.org/abs/2302.13192)|[rl_multi_rotor_landing](https://github.com/robot-perception-group/rl_multi_rotor_landing)|
+|[coordinate-based neural representations for computational adaptive optics in widefield microscopy](https://arxiv.org/abs/2307.03812)|[cocoa](https://github.com/iksungk/cocoa)|
+|[locality regularized reconstruction: structured sparsity and delaunay triangulations](https://arxiv.org/abs/2405.00837)|[LocalityRegularization](https://github.com/MarshMue/LocalityRegularization)|
+|[learning to boost the performance of stable nonlinear systems](https://arxiv.org/abs/2405.00871)|[performance-boosting_controllers](https://github.com/DecodEPFL/performance-boosting_controllers)|
+|[lipschitz constant estimation for general neural network architectures using control tools](https://arxiv.org/abs/2405.01125)|[GLipSDP](https://github.com/ppauli/GLipSDP)|
+|[koopman data-driven predictive control with robust stability and recursive feasibility guarantees](https://arxiv.org/abs/2405.01292)|[KDPC_RSRFG](https://github.com/todejong/KDPC_RSRFG)|
+|[flagvne: a flexible and generalizable reinforcement learning framework for network resource allocation](https://arxiv.org/abs/2404.12633)|[flag-vne](https://github.com/GeminiLight/flag-vne)|
 ## 2024-05-02
 |paper|code|
 |---|---|
@@ -17,6 +29,7 @@
 |[goal-reaching trajectory design near danger with piecewise affine reach-avoid computation](https://arxiv.org/abs/2402.15604)|[parc](https://github.com/safe-robotics-lab-gt/parc)|
 |[formal verification of linear temporal logic specifications using hybrid zonotope-based reachability analysis](https://arxiv.org/abs/2404.03308)|[zonopy](https://github.com/loizoshad/zonopy)|
 |[timely status updates in slotted aloha network with energy harvesting](https://arxiv.org/abs/2404.18990)|[aoi_slottedaloha_energyharvesting](https://github.com/khachoang1412/aoi_slottedaloha_energyharvesting)|
+|[ultra inertial poser: scalable motion capture and tracking from sparse inertial sensors and ultra-wideband ranging](https://arxiv.org/abs/2404.19541)|[ultrainertialposer](https://github.com/eth-siplab/ultrainertialposer)|
 |[cachegen: kv cache compression and streaming for fast language model serving](https://arxiv.org/abs/2310.07240)|[cachegen](https://github.com/uchi-jcl/cachegen)|
 |[type-based unsourced multiple access](https://arxiv.org/abs/2404.19552)|[TUMA](https://github.com/khachoang1412/TUMA)|
 ## 2024-04-30
@@ -27,6 +40,7 @@
 |[the role of identification in data-driven policy iteration: a system theoretic study](https://arxiv.org/abs/2401.06721)|[datadrivenpolicyiteration-ipi-dpi](https://gitlab.com/col-tasas/datadrivenpolicyiteration-ipi-dpi)|
 |[fully differentiable ray tracing via discontinuity smoothing for radio network optimization](https://arxiv.org/abs/2401.11882)|[differt2d](https://github.com/jeertmans/differt2d)|
 |[optistate: state estimation of legged robots using gated networks with transformer-based vision and kalman filtering](https://arxiv.org/abs/2401.16719)|[optistate](https://github.com/alexs28/optistate)|
+|[siamquality: a convnet-based foundation model for imperfect physiological signals](https://arxiv.org/abs/2404.17667)|[siamquality](https://github.com/chengding0713/siamquality)|
 |[adaptive reinforcement learning for robot control](https://arxiv.org/abs/2404.18713)|[adaptive_agent](https://github.com/robot-perception-group/adaptive_agent)|
 |[cauchy-schwarz divergence information bottleneck for regression](https://arxiv.org/abs/2404.17951)|[cauchy-schwarz-information-bottleneck](https://github.com/sjyucnel/cauchy-schwarz-information-bottleneck)|
 ## 2024-04-29
@@ -34,6 +48,7 @@
 |---|---|
 |[the luvira dataset: synchronized vision, radio, and audio sensors for indoor localization](https://arxiv.org/abs/2302.05309)|[luvira_dataset](https://github.com/ilaydayaman/luvira_dataset)|
 |[collision avoidance verification of multiagent systems with learned policies](https://arxiv.org/abs/2403.03314)|[rebar](https://github.com/neu-autonomy/rebar)|
+|[telco-rag: navigating the challenges of retrieval-augmented language models for telecommunications](https://arxiv.org/abs/2404.15939)|[telco-rag](https://github.com/netop-team/telco-rag)|
 |[interpreting deepcode, a learned feedback code](https://arxiv.org/abs/2404.17519)|[deepcode-interpretability](https://github.com/zyy-cc/deepcode-interpretability)|
 |[open world learning graph convolution for latency estimation in routing networks](https://arxiv.org/abs/2207.14643)|[routinggnn_appendix](https://github.com/bluelancer/routinggnn_appendix)|
 |[enumeration of minimum weight codewords of pre-transformed polar codes by tree intersection](https://arxiv.org/abs/2311.17774)|[ptpc](https://github.com/andreaszunker/ptpc)|
