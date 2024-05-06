@@ -9,6 +9,7 @@
 |[learning to boost the performance of stable nonlinear systems](https://arxiv.org/abs/2405.00871)|[performance-boosting_controllers](https://github.com/DecodEPFL/performance-boosting_controllers)|
 |[lipschitz constant estimation for general neural network architectures using control tools](https://arxiv.org/abs/2405.01125)|[GLipSDP](https://github.com/ppauli/GLipSDP)|
 |[koopman data-driven predictive control with robust stability and recursive feasibility guarantees](https://arxiv.org/abs/2405.01292)|[KDPC_RSRFG](https://github.com/todejong/KDPC_RSRFG)|
+|[dynamic online ensembles of basis expansions](https://arxiv.org/abs/2405.01365)|[DynamicOnlineBasisExpansions](https://github.com/danwaxman/DynamicOnlineBasisExpansions)|
 |[flagvne: a flexible and generalizable reinforcement learning framework for network resource allocation](https://arxiv.org/abs/2404.12633)|[flag-vne](https://github.com/GeminiLight/flag-vne)|
 ## 2024-05-02
 |paper|code|
@@ -20,6 +21,7 @@
 |[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
 |[a high-performance design, implementation, deployment, and evaluation of the slim fly network](https://arxiv.org/abs/2310.03742)|[opensm](https://github.com/spcl/opensm)|
 |[an efficient difference-of-convex solver for privacy funnel](https://arxiv.org/abs/2403.04778)|[dcaPF-torch](https://github.com/hui811116/dcaPF-torch)|
+|[age-minimal multicast by graph attention reinforcement learning](https://arxiv.org/abs/2404.18084)|[TGMS](https://github.com/Carlos0902/TGMS)|
 ## 2024-05-01
 |paper|code|
 |---|---|
