@@ -1,3 +1,9 @@
+## 2024-05-06
+|paper|code|
+|---|---|
+|[risk-aware continuous control with neural contextual bandits](https://arxiv.org/abs/2312.09961)|[risk_aware_contextual_bandit](https://github.com/jaayala/risk_aware_contextual_bandit)|
+|[extended kalman filter -- koopman operator for tractable stochastic optimal control](https://arxiv.org/abs/2402.18554)|[linearizing-uncertainty-for-control](https://github.com/msramada/linearizing-uncertainty-for-control)|
+|[reinforcement learning control strategies for electric vehicles and renewable energy sources virtual power plants](https://arxiv.org/abs/2405.01889)|[RL_VPP_Thesis](https://github.com/francescomaldonato/RL_VPP_Thesis)|
 ## 2024-05-03
 |paper|code|
 |---|---|
@@ -5,11 +11,12 @@
 |[denoiser-based projections for 2-d super-resolution multi-reference alignment](https://arxiv.org/abs/2204.04754)|[denoiser_projection](https://github.com/jonathanshani/denoiser_projection)|
 |[reinforcement learning based autonomous multi-rotor landing on moving platforms](https://arxiv.org/abs/2302.13192)|[rl_multi_rotor_landing](https://github.com/robot-perception-group/rl_multi_rotor_landing)|
 |[coordinate-based neural representations for computational adaptive optics in widefield microscopy](https://arxiv.org/abs/2307.03812)|[cocoa](https://github.com/iksungk/cocoa)|
+|[eeg-deformer: a dense convolutional transformer for brain-computer interfaces](https://arxiv.org/abs/2405.00719)|[eeg-deformer](https://github.com/yi-ding-cs/eeg-deformer)|
+|[joint signal detection and automatic modulation classification via deep learning](https://arxiv.org/abs/2405.00736)|[changshuoradiodata](https://github.com/singingkettle/changshuoradiodata)|
 |[locality regularized reconstruction: structured sparsity and delaunay triangulations](https://arxiv.org/abs/2405.00837)|[LocalityRegularization](https://github.com/MarshMue/LocalityRegularization)|
 |[learning to boost the performance of stable nonlinear systems](https://arxiv.org/abs/2405.00871)|[performance-boosting_controllers](https://github.com/DecodEPFL/performance-boosting_controllers)|
 |[lipschitz constant estimation for general neural network architectures using control tools](https://arxiv.org/abs/2405.01125)|[GLipSDP](https://github.com/ppauli/GLipSDP)|
 |[koopman data-driven predictive control with robust stability and recursive feasibility guarantees](https://arxiv.org/abs/2405.01292)|[KDPC_RSRFG](https://github.com/todejong/KDPC_RSRFG)|
-|[dynamic online ensembles of basis expansions](https://arxiv.org/abs/2405.01365)|[DynamicOnlineBasisExpansions](https://github.com/danwaxman/DynamicOnlineBasisExpansions)|
 |[flagvne: a flexible and generalizable reinforcement learning framework for network resource allocation](https://arxiv.org/abs/2404.12633)|[flag-vne](https://github.com/GeminiLight/flag-vne)|
 ## 2024-05-02
 |paper|code|
