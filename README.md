@@ -1,3 +1,11 @@
+## 2024-05-07
+|paper|code|
+|---|---|
+|[ultimatekalman: flexible kalman filtering and smoothing using orthogonal transformations](https://arxiv.org/abs/2207.13526)|[ultimate-kalman](https://github.com/sivantoledo/ultimate-kalman)|
+|[data augmentation for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
+|[providing safety assurances for systems with unknown dynamics](https://arxiv.org/abs/2403.05771)|[safety_assurances_for_unknown_dynamics](https://github.com/haowwang/safety_assurances_for_unknown_dynamics)|
+|[creating synthetic energy meter data using conditional diffusion and building metadata](https://arxiv.org/abs/2404.00525)|[energy-diffusion](https://github.com/buds-lab/energy-diffusion)|
+|[performance evaluation of real-time object detection for electric scooters](https://arxiv.org/abs/2405.03039)|[scooterdet](https://github.com/dongchen06/scooterdet)|
 ## 2024-05-06
 |paper|code|
 |---|---|
