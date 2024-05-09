@@ -1,10 +1,18 @@
+## 2024-05-08
+|paper|code|
+|---|---|
+|[global performance guarantees for neural network models of ac power flow](https://arxiv.org/abs/2211.07125)|[verifystrongsdp](https://github.com/samchevalier/verifystrongsdp)|
+|[match-based solution of general parametric eigenvalue problems](https://arxiv.org/abs/2308.05335)|[pevp_match](https://github.com/pradovera/pevp_match)|
+|[robofisense: attention-based robotic arm activity recognition with wifi sensing](https://arxiv.org/abs/2312.15345)|[robofisense](https://github.com/siamilab/robofisense)|
+|[a flow-based model for conditional and probabilistic electricity consumption profile generation and prediction](https://arxiv.org/abs/2405.02180)|[full-convolutional-time-series-flow](https://github.com/xiaweijie1996/full-convolutional-time-series-flow)|
+|[learning linear block error correction codes](https://arxiv.org/abs/2405.04050)|[e2e_dc_ecct](https://github.com/yonilc/e2e_dc_ecct)|
 ## 2024-05-07
 |paper|code|
 |---|---|
 |[ultimatekalman: flexible kalman filtering and smoothing using orthogonal transformations](https://arxiv.org/abs/2207.13526)|[ultimate-kalman](https://github.com/sivantoledo/ultimate-kalman)|
-|[data augmentation for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
 |[providing safety assurances for systems with unknown dynamics](https://arxiv.org/abs/2403.05771)|[safety_assurances_for_unknown_dynamics](https://github.com/haowwang/safety_assurances_for_unknown_dynamics)|
 |[creating synthetic energy meter data using conditional diffusion and building metadata](https://arxiv.org/abs/2404.00525)|[energy-diffusion](https://github.com/buds-lab/energy-diffusion)|
+|[generalised envelope spectrum-based signal-to-noise objectives: formulation, optimisation and application for gear fault detection under time-varying speed conditions](https://arxiv.org/abs/2405.00727)|[snrocl](https://gitlab.com/vspa/snrocl)|
 |[performance evaluation of real-time object detection for electric scooters](https://arxiv.org/abs/2405.03039)|[scooterdet](https://github.com/dongchen06/scooterdet)|
 ## 2024-05-06
 |paper|code|
