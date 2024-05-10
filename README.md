@@ -1,10 +1,21 @@
+## 2024-05-09
+|paper|code|
+|---|---|
+|[data augmentation for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
+|[probabilistic game-theoretic traffic routing](https://arxiv.org/abs/2303.03295)|[mdp_traffic_nonlinear](https://github.com/bemilio/mdp_traffic_nonlinear)|
+|[enhancing deep reinforcement learning: a tutorial on generative diffusion models in network optimization](https://arxiv.org/abs/2308.05384)|[gdmopt](https://github.com/hongyangdu/gdmopt)|
+|[tinympc: model-predictive control on resource-constrained microcontrollers](https://arxiv.org/abs/2310.16985)|[TinyMPC](https://github.com/TinyMPC/TinyMPC)|
+|[uncertainty-aware bayes' rule and its applications](https://arxiv.org/abs/2311.05532)|[bayes-rule](https://github.com/spratm-asleaf/bayes-rule)|
+|[exploiting symmetry in dynamics for model-based reinforcement learning with asymmetric rewards](https://arxiv.org/abs/2403.19024)|[symmetry-cs285](https://github.com/yasinsonmez/symmetry-cs285)|
+|[communication-efficient collaborative perception via information filling with codebook](https://arxiv.org/abs/2405.04966)|[codefilling](https://github.com/phyllish/codefilling)|
 ## 2024-05-08
 |paper|code|
 |---|---|
 |[global performance guarantees for neural network models of ac power flow](https://arxiv.org/abs/2211.07125)|[verifystrongsdp](https://github.com/samchevalier/verifystrongsdp)|
 |[match-based solution of general parametric eigenvalue problems](https://arxiv.org/abs/2308.05335)|[pevp_match](https://github.com/pradovera/pevp_match)|
 |[robofisense: attention-based robotic arm activity recognition with wifi sensing](https://arxiv.org/abs/2312.15345)|[robofisense](https://github.com/siamilab/robofisense)|
-|[a flow-based model for conditional and probabilistic electricity consumption profile generation and prediction](https://arxiv.org/abs/2405.02180)|[full-convolutional-time-series-flow](https://github.com/xiaweijie1996/full-convolutional-time-series-flow)|
+|[role of sensing and computer vision in 6g wireless communications](https://arxiv.org/abs/2405.03945)|[VOBEM2](https://github.com/islab-github/VOBEM2)|
+|[utnt: unikernels for efficient and flexible internet probing](https://arxiv.org/abs/2405.04036)|[utnt](https://gitlab.uliege.be/Gaulthier.Gain/utnt)|
 |[learning linear block error correction codes](https://arxiv.org/abs/2405.04050)|[e2e_dc_ecct](https://github.com/yonilc/e2e_dc_ecct)|
 ## 2024-05-07
 |paper|code|
@@ -13,13 +24,17 @@
 |[providing safety assurances for systems with unknown dynamics](https://arxiv.org/abs/2403.05771)|[safety_assurances_for_unknown_dynamics](https://github.com/haowwang/safety_assurances_for_unknown_dynamics)|
 |[creating synthetic energy meter data using conditional diffusion and building metadata](https://arxiv.org/abs/2404.00525)|[energy-diffusion](https://github.com/buds-lab/energy-diffusion)|
 |[generalised envelope spectrum-based signal-to-noise objectives: formulation, optimisation and application for gear fault detection under time-varying speed conditions](https://arxiv.org/abs/2405.00727)|[snrocl](https://gitlab.com/vspa/snrocl)|
+|[antenna failure resilience: deep learning-enabled robust doa estimation with single snapshot sparse arrays](https://arxiv.org/abs/2405.02788)|[deep_rsa_doa](https://github.com/ruxinzh/deep_rsa_doa)|
+|[analysis of the identifying regulation with adversarial surrogates algorithm](https://arxiv.org/abs/2405.02953)|[iras](https://github.com/ronteichner/iras)|
 |[performance evaluation of real-time object detection for electric scooters](https://arxiv.org/abs/2405.03039)|[scooterdet](https://github.com/dongchen06/scooterdet)|
+|[reinwifi: a reinforcement-learning-based framework for the application-layer qos optimization of wifi networks](https://arxiv.org/abs/2405.03526)|[ReinWiFi](https://github.com/QianrenLi/ReinWiFi)|
 ## 2024-05-06
 |paper|code|
 |---|---|
 |[risk-aware continuous control with neural contextual bandits](https://arxiv.org/abs/2312.09961)|[risk_aware_contextual_bandit](https://github.com/jaayala/risk_aware_contextual_bandit)|
 |[extended kalman filter -- koopman operator for tractable stochastic optimal control](https://arxiv.org/abs/2402.18554)|[linearizing-uncertainty-for-control](https://github.com/msramada/linearizing-uncertainty-for-control)|
 |[reinforcement learning control strategies for electric vehicles and renewable energy sources virtual power plants](https://arxiv.org/abs/2405.01889)|[RL_VPP_Thesis](https://github.com/francescomaldonato/RL_VPP_Thesis)|
+|[identification of snps in genomes using gramep, an alignment-free method based on the principle of maximum entropy](https://arxiv.org/abs/2405.01715)|[gramep](https://github.com/omatheuspimenta/gramep)|
 ## 2024-05-03
 |paper|code|
 |---|---|
