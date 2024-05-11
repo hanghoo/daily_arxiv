@@ -1,3 +1,10 @@
+## 2024-05-10
+|paper|code|
+|---|---|
+|[ecg-based estimation of respiratory modulation of av nodal conduction during atrial fibrillation](https://arxiv.org/abs/2309.05458)|[ecg-based_estimation_of_respiratory_modulation_of_av_nodal_conduction_during_atrial_fibrillation](https://github.com/plappertf/ecg-based_estimation_of_respiratory_modulation_of_av_nodal_conduction_during_atrial_fibrillation)|
+|[physics-informed representation and learning: control and risk quantification](https://arxiv.org/abs/2312.10594)|[path-integral-pinn](https://github.com/jacobwang925/path-integral-pinn)|
+|[a flow-based model for conditional and probabilistic electricity consumption profile generation and prediction](https://arxiv.org/abs/2405.02180)|[full-convolutional-time-series-flow](https://github.com/xiaweijie1996/full-convolutional-time-series-flow)|
+|[layerplexrank: exploring node centrality and layer influence through algebraic connectivity in multiplex networks](https://arxiv.org/abs/2405.05576)|[LayerPlexRank](https://github.com/ninn-kou/LayerPlexRank)|
 ## 2024-05-09
 |paper|code|
 |---|---|
