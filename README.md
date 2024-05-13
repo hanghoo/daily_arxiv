@@ -1,3 +1,7 @@
+## 2024-05-12
+|paper|code|
+|---|---|
+|[outlier-robust kalman filtering through generalised bayes](https://arxiv.org/abs/2405.05646)|[weighted-likelihood-filter](https://github.com/gerdm/weighted-likelihood-filter)|
 ## 2024-05-10
 |paper|code|
 |---|---|
@@ -14,6 +18,7 @@
 |[tinympc: model-predictive control on resource-constrained microcontrollers](https://arxiv.org/abs/2310.16985)|[TinyMPC](https://github.com/TinyMPC/TinyMPC)|
 |[uncertainty-aware bayes' rule and its applications](https://arxiv.org/abs/2311.05532)|[bayes-rule](https://github.com/spratm-asleaf/bayes-rule)|
 |[exploiting symmetry in dynamics for model-based reinforcement learning with asymmetric rewards](https://arxiv.org/abs/2403.19024)|[symmetry-cs285](https://github.com/yasinsonmez/symmetry-cs285)|
+|[regime learning for differentiable particle filters](https://arxiv.org/abs/2405.04865)|[Regime_Switching](https://github.com/John-JoB/Regime_Switching)|
 |[communication-efficient collaborative perception via information filling with codebook](https://arxiv.org/abs/2405.04966)|[codefilling](https://github.com/phyllish/codefilling)|
 ## 2024-05-08
 |paper|code|
@@ -34,6 +39,10 @@
 |[antenna failure resilience: deep learning-enabled robust doa estimation with single snapshot sparse arrays](https://arxiv.org/abs/2405.02788)|[deep_rsa_doa](https://github.com/ruxinzh/deep_rsa_doa)|
 |[analysis of the identifying regulation with adversarial surrogates algorithm](https://arxiv.org/abs/2405.02953)|[iras](https://github.com/ronteichner/iras)|
 |[performance evaluation of real-time object detection for electric scooters](https://arxiv.org/abs/2405.03039)|[scooterdet](https://github.com/dongchen06/scooterdet)|
+|[fully reversing the shoebox image source method: from impulse responses to room parameters](https://arxiv.org/abs/2405.03385)|[acoustic-sfw](https://github.com/sprunckt/acoustic-sfw)|
+|[performance evaluation of pac decoding with deep neural networks](https://arxiv.org/abs/2405.02590)|[Performance-Evaluation-of-PAC-Decoding-with-Deep-Neural-Networks](https://github.com/daijingixn/Performance-Evaluation-of-PAC-Decoding-with-Deep-Neural-Networks)|
+|[deduplicator: when computation reuse meets load balancing at the network edge](https://arxiv.org/abs/2405.02682)|[deduplicator](https://github.com/malazad/deduplicator)|
+|[perfect codes over non-prime power alphabets: an approach based on diophantine equations](https://arxiv.org/abs/2405.03347)|[perfect-q-ary-codes](https://github.com/pjcazorla/perfect-q-ary-codes)|
 |[reinwifi: a reinforcement-learning-based framework for the application-layer qos optimization of wifi networks](https://arxiv.org/abs/2405.03526)|[ReinWiFi](https://github.com/QianrenLi/ReinWiFi)|
 ## 2024-05-06
 |paper|code|
