@@ -1,3 +1,13 @@
+## 2024-05-13
+|paper|code|
+|---|---|
+|[compressing sign information in dct-based image coding via deep sign retrieval](https://arxiv.org/abs/2209.10712)|[dsr](https://github.com/ctsutake/dsr)|
+|[closed-loop koopman operator approximation](https://arxiv.org/abs/2303.15318)|[closed_loop_koopman](https://github.com/decargroup/closed_loop_koopman)|
+|[physics-inspired neural networks for parameter learning of adaptive cruise control systems](https://arxiv.org/abs/2309.01211)|[acc_identification_pinns](https://github.com/theocharisap/acc_identification_pinns)|
+|[asf-yolo: a novel yolo model with attentional scale sequence fusion for cell instance segmentation](https://arxiv.org/abs/2312.06458)|[asf-yolo](https://github.com/mkang315/asf-yolo)|
+|[diffusion-aided joint source channel coding for high realism wireless image transmission](https://arxiv.org/abs/2404.17736)|[diffjscc](https://github.com/mingyuyng/diffjscc)|
+|[state-free inference of state-space models: the transfer function approach](https://arxiv.org/abs/2405.06147)|[RTF](https://github.com/ruke1ire/RTF)|
+|[dyst (did you see that?): an amplified covert channel that points to previously seen data](https://arxiv.org/abs/2212.11850)|[dyst](https://github.com/niosat/dyst)|
 ## 2024-05-12
 |paper|code|
 |---|---|
