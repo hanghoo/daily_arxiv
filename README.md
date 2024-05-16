@@ -1,3 +1,11 @@
+## 2024-05-15
+|paper|code|
+|---|---|
+|[differentiable bilevel programming for stackelberg congestion games](https://arxiv.org/abs/2209.07618)|[Differentiable-Bilevel-Programming](https://github.com/jiayangli-nu/Differentiable-Bilevel-Programming)|
+|[multi-target tracking with transferable convolutional neural networks](https://arxiv.org/abs/2210.15539)|[mtt](https://github.com/damowerko/mtt)|
+|[clash: contrastive learning through alignment shifting to extract stimulus information from eeg](https://arxiv.org/abs/2302.01924)|[shift_detection_icassp2023](https://github.com/exporl/shift_detection_icassp2023)|
+|[dissipativity-based decentralized co-design of distributed controllers and communication topologies for vehicular platoons](https://arxiv.org/abs/2312.06472)|[longitudinal-vehicular-platoon-simulator](https://github.com/ndzsong2/longitudinal-vehicular-platoon-simulator)|
+|[genet: a graph neural network-based anti-noise task-oriented semantic communication paradigm](https://arxiv.org/abs/2403.18296)|[genet](https://github.com/chunbaobao/genet)|
 ## 2024-05-14
 |paper|code|
 |---|---|
@@ -12,6 +20,7 @@
 |[transition role of entangled data in quantum machine learning](https://arxiv.org/abs/2306.03481)|[transition-role-of-entangled-data-in-qml](https://github.com/wangxinbiao08/transition-role-of-entangled-data-in-qml)|
 |[texshape: information theoretic sentence embedding for language models](https://arxiv.org/abs/2402.05132)|[neuralinformationshaping](https://github.com/hesfahanizadeh/neuralinformationshaping)|
 |[accelerating time-to-science by streaming detector data directly into perlmutter compute nodes](https://arxiv.org/abs/2403.14352)|[streaming-paper-with-code](https://github.com/swelborn/streaming-paper-with-code)|
+|[partial information decomposition as information bottleneck](https://arxiv.org/abs/2405.07665)|[pid-as-ib](https://github.com/artemyk/pid-as-ib)|
 |[localized adaptive risk control](https://arxiv.org/abs/2405.07976)|[localized-adaptive-risk-control](https://github.com/kclip/localized-adaptive-risk-control)|
 ## 2024-05-13
 |paper|code|
