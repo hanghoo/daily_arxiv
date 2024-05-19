@@ -13,12 +13,14 @@
 |[calibrating wireless ray tracing for digital twinning using local phase error estimates](https://arxiv.org/abs/2312.12625)|[phase-aware-rt-calibration](https://github.com/kclip/phase-aware-rt-calibration)|
 |[unsupervised learning based end-to-end delayless generative fixed-filter active noise control](https://arxiv.org/abs/2402.09460)|[unsupervised-gfanc](https://github.com/luo-zhengding/unsupervised-gfanc)|
 |[unsupervised learning for joint beamforming design in ris-aided isac systems](https://arxiv.org/abs/2403.17324)|[DL-Beamforming-RIS-ISAC](https://github.com/Yejacky456/DL-Beamforming-RIS-ISAC)|
+|[adaptive koopman embedding for robust control of complex dynamical systems](https://arxiv.org/abs/2405.09101)|[adaptive-koopman](https://github.com/rajpal9/adaptive-koopman)|
+|[on identifying the non-linear dynamics of a hovercraft using an end-to-end deep learning approach](https://arxiv.org/abs/2405.09405)|[holohover-sysid](https://github.com/predict-epfl/holohover-sysid)|
+|[a quantum of quic: dissecting cryptography with post-quantum insights](https://arxiv.org/abs/2405.09264)|[quic-crypto-paper](https://github.com/tumi8/quic-crypto-paper)|
 ## 2024-05-15
 |paper|code|
 |---|---|
 |[differentiable bilevel programming for stackelberg congestion games](https://arxiv.org/abs/2209.07618)|[Differentiable-Bilevel-Programming](https://github.com/jiayangli-nu/Differentiable-Bilevel-Programming)|
 |[multi-target tracking with transferable convolutional neural networks](https://arxiv.org/abs/2210.15539)|[mtt](https://github.com/damowerko/mtt)|
-|[clash: contrastive learning through alignment shifting to extract stimulus information from eeg](https://arxiv.org/abs/2302.01924)|[shift_detection_icassp2023](https://github.com/exporl/shift_detection_icassp2023)|
 |[dissipativity-based decentralized co-design of distributed controllers and communication topologies for vehicular platoons](https://arxiv.org/abs/2312.06472)|[longitudinal-vehicular-platoon-simulator](https://github.com/ndzsong2/longitudinal-vehicular-platoon-simulator)|
 |[genet: a graph neural network-based anti-noise task-oriented semantic communication paradigm](https://arxiv.org/abs/2403.18296)|[genet](https://github.com/chunbaobao/genet)|
 ## 2024-05-14
@@ -32,9 +34,11 @@
 |[timely status updates in slotted aloha networks with energy harvesting](https://arxiv.org/abs/2404.18990)|[aoi_slottedaloha_energyharvesting](https://github.com/khachoang1412/aoi_slottedaloha_energyharvesting)|
 |[time-of-arrival estimation and phase unwrapping of head-related transfer functions with integer linear programming](https://arxiv.org/abs/2405.06804)|[hrtf-ilp](https://github.com/yoyololicon/hrtf-ilp)|
 |[a supervised information enhanced multi-granularity contrastive learning framework for eeg based emotion recognition](https://arxiv.org/abs/2405.07260)|[si-cleer](https://github.com/muzixiang/si-cleer)|
+|[a decentralized and self-adaptive approach for monitoring volatile edge environments](https://arxiv.org/abs/2405.07806)|[demon](https://github.com/hpc-tuwien/demon)|
 |[transition role of entangled data in quantum machine learning](https://arxiv.org/abs/2306.03481)|[transition-role-of-entangled-data-in-qml](https://github.com/wangxinbiao08/transition-role-of-entangled-data-in-qml)|
 |[texshape: information theoretic sentence embedding for language models](https://arxiv.org/abs/2402.05132)|[neuralinformationshaping](https://github.com/hesfahanizadeh/neuralinformationshaping)|
 |[accelerating time-to-science by streaming detector data directly into perlmutter compute nodes](https://arxiv.org/abs/2403.14352)|[streaming-paper-with-code](https://github.com/swelborn/streaming-paper-with-code)|
+|[an efficient compression method for sign information of dct coefficients via sign retrieval](https://arxiv.org/abs/2405.07487)|[sr](https://github.com/ctsutake/sr)|
 |[partial information decomposition as information bottleneck](https://arxiv.org/abs/2405.07665)|[pid-as-ib](https://github.com/artemyk/pid-as-ib)|
 |[localized adaptive risk control](https://arxiv.org/abs/2405.07976)|[localized-adaptive-risk-control](https://github.com/kclip/localized-adaptive-risk-control)|
 ## 2024-05-13
@@ -46,6 +50,7 @@
 |[asf-yolo: a novel yolo model with attentional scale sequence fusion for cell instance segmentation](https://arxiv.org/abs/2312.06458)|[asf-yolo](https://github.com/mkang315/asf-yolo)|
 |[diffusion-aided joint source channel coding for high realism wireless image transmission](https://arxiv.org/abs/2404.17736)|[diffjscc](https://github.com/mingyuyng/diffjscc)|
 |[state-free inference of state-space models: the transfer function approach](https://arxiv.org/abs/2405.06147)|[RTF](https://github.com/ruke1ire/RTF)|
+|[optimal beamforming of ris-aided wireless communications: an alternating inner product maximization approach](https://arxiv.org/abs/2405.06442)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
 |[dyst (did you see that?): an amplified covert channel that points to previously seen data](https://arxiv.org/abs/2212.11850)|[dyst](https://github.com/niosat/dyst)|
 ## 2024-05-12
 |paper|code|
