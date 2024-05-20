@@ -23,6 +23,7 @@
 |[multi-target tracking with transferable convolutional neural networks](https://arxiv.org/abs/2210.15539)|[mtt](https://github.com/damowerko/mtt)|
 |[dissipativity-based decentralized co-design of distributed controllers and communication topologies for vehicular platoons](https://arxiv.org/abs/2312.06472)|[longitudinal-vehicular-platoon-simulator](https://github.com/ndzsong2/longitudinal-vehicular-platoon-simulator)|
 |[genet: a graph neural network-based anti-noise task-oriented semantic communication paradigm](https://arxiv.org/abs/2403.18296)|[genet](https://github.com/chunbaobao/genet)|
+|[modeling of time-varying wireless communication channel with fading and shadowing](https://arxiv.org/abs/2405.08199)|[Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing](https://github.com/BrightBlueCheese/Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing)|
 ## 2024-05-14
 |paper|code|
 |---|---|
