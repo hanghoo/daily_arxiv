@@ -1,3 +1,13 @@
+## 2024-05-20
+|paper|code|
+|---|---|
+|[safety guarantees for neural network dynamic systems via stochastic barrier functions](https://arxiv.org/abs/2206.07811)|[neuralnetcontrolbarrier](https://github.com/aria-systems-group/neuralnetcontrolbarrier)|
+|[stlccp: an efficient convex optimization-based framework for signal temporal logic specifications](https://arxiv.org/abs/2305.09441)|[stlccp](https://github.com/yotakayama/stlccp)|
+|[secure set-based state estimation for linear systems under adversarial attacks on sensors](https://arxiv.org/abs/2309.05075)|[Secure-Set-Based-Estimation](https://github.com/aalanwar/Secure-Set-Based-Estimation)|
+|[simba: system identification methods leveraging backpropagation](https://arxiv.org/abs/2311.13889)|[simba](https://github.com/cemempamoi/simba)|
+|[input convex lipschitz rnn: a fast and robust approach for engineering tasks](https://arxiv.org/abs/2401.07494)|[iclrnn](https://github.com/killingbear999/iclrnn)|
+|[agile but safe: learning collision-free high-speed legged locomotion](https://arxiv.org/abs/2401.17583)|[abs](https://github.com/lecar-lab/abs)|
+|[implementation of openapi wireshark dissectors to validate sbi messages of 5g core networks](https://arxiv.org/abs/2405.10635)|[OpenAPI-Dissector](https://github.com/telekom/OpenAPI-Dissector)|
 ## 2024-05-17
 |paper|code|
 |---|---|
@@ -13,7 +23,6 @@
 |[calibrating wireless ray tracing for digital twinning using local phase error estimates](https://arxiv.org/abs/2312.12625)|[phase-aware-rt-calibration](https://github.com/kclip/phase-aware-rt-calibration)|
 |[unsupervised learning based end-to-end delayless generative fixed-filter active noise control](https://arxiv.org/abs/2402.09460)|[unsupervised-gfanc](https://github.com/luo-zhengding/unsupervised-gfanc)|
 |[unsupervised learning for joint beamforming design in ris-aided isac systems](https://arxiv.org/abs/2403.17324)|[DL-Beamforming-RIS-ISAC](https://github.com/Yejacky456/DL-Beamforming-RIS-ISAC)|
-|[adaptive koopman embedding for robust control of complex dynamical systems](https://arxiv.org/abs/2405.09101)|[adaptive-koopman](https://github.com/rajpal9/adaptive-koopman)|
 |[on identifying the non-linear dynamics of a hovercraft using an end-to-end deep learning approach](https://arxiv.org/abs/2405.09405)|[holohover-sysid](https://github.com/predict-epfl/holohover-sysid)|
 |[a quantum of quic: dissecting cryptography with post-quantum insights](https://arxiv.org/abs/2405.09264)|[quic-crypto-paper](https://github.com/tumi8/quic-crypto-paper)|
 ## 2024-05-15
