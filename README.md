@@ -1,3 +1,27 @@
+## 2024-05-21
+|paper|code|
+|---|---|
+|[openstreetmap-based autonomous navigation with lidar naive-valley-path obstacle avoidance](https://arxiv.org/abs/2108.09117)|[lib_planning](https://github.com/aurova-lab/lib_planning)|
+|[surrogate-based cross-correlation for particle image velocimetry](https://arxiv.org/abs/2112.05303)|[sbcc](https://github.com/yongleex/sbcc)|
+|[discrete approximations of gaussian smoothing and gaussian derivatives](https://arxiv.org/abs/2311.11317)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[learning reduced-order linear parameter-varying models of nonlinear systems](https://arxiv.org/abs/2312.06217)|[sysid-2024-rom-lpv-learning](https://gitlab.com/patrickkoelewijn/sysid-2024-rom-lpv-learning)|
+|[system-level safety guard: safe tracking control through uncertain neural network dynamics models](https://arxiv.org/abs/2312.06810)|[milpsafetyguard](https://github.com/xiaolisean/milpsafetyguard)|
+|[global rewards in multi-agent deep reinforcement learning for autonomous mobility on demand systems](https://arxiv.org/abs/2312.08884)|[gr-madrl-amod](https://github.com/tumbais/gr-madrl-amod)|
+|[stable and safe human-aligned reinforcement learning through neural ordinary differential equations](https://arxiv.org/abs/2401.13148)|[neural-ordinary-differential-equations-based-lyapunov-barrier-actor-critic-nlbac](https://github.com/liqunzhao/neural-ordinary-differential-equations-based-lyapunov-barrier-actor-critic-nlbac)|
+|[rscnet: dynamic csi compression for cloud-based wifi sensing](https://arxiv.org/abs/2402.04888)|[rscnet](https://github.com/bornabr/rscnet)|
+|[surrogate modeling and control of medical digital twins](https://arxiv.org/abs/2402.05750)|[Metamodeling-and-Control-of-Medical-Digital-Twins_2024](https://github.com/LaboratoryForSystemsMedicine/Metamodeling-and-Control-of-Medical-Digital-Twins_2024)|
+|[joint chance constrained optimal control via linear programming](https://arxiv.org/abs/2402.19360)|[jcc_opt_control_lp](https://github.com/niklasschmidresearch/jcc_opt_control_lp)|
+|[bounding stochastic safety: leveraging freedman's inequality with discrete-time control barrier functions](https://arxiv.org/abs/2403.05745)|[freedman](https://github.com/rkcosner/freedman)|
+|[on the equivalence of direct and indirect data-driven predictive control approaches](https://arxiv.org/abs/2403.05860)|[ddpc](https://github.com/bonassifabio/ddpc)|
+|[eegdir: electroencephalogram denoising network for temporal information storage and global modeling through retentive network](https://arxiv.org/abs/2404.15289)|[EEGDiR](https://github.com/woldier/EEGDiR)|
+|[approximation properties relative to continuous scale space for hybrid discretizations of gaussian derivative operators](https://arxiv.org/abs/2405.05095)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[adaptive koopman embedding for robust control of complex nonlinear dynamical systems](https://arxiv.org/abs/2405.09101)|[adaptive-koopman](https://github.com/rajpal9/adaptive-koopman)|
+|[pde control gym: a benchmark for data-driven boundary control of partial differential equations](https://arxiv.org/abs/2405.11401)|[pdecontrolgym](https://github.com/lukebhan/pdecontrolgym)|
+|[on robust reinforcement learning with lipschitz-bounded policy networks](https://arxiv.org/abs/2405.11432)|[Lipschitz-RL-Atari](https://github.com/nic-barbara/Lipschitz-RL-Atari)|
+|[teal: learning-accelerated optimization of wan traffic engineering](https://arxiv.org/abs/2210.13763)|[teal](https://github.com/harvard-cns/teal)|
+|[interpretable diffusion via information decomposition](https://arxiv.org/abs/2310.07972)|[info-decomp](https://github.com/kxh001/info-decomp)|
+|[differentially private fair binary classifications](https://arxiv.org/abs/2402.15603)|[dp_fair_binary](https://github.com/hradghoukasian/dp_fair_binary)|
+|[netmamba: efficient network traffic classification via pre-training unidirectional mamba](https://arxiv.org/abs/2405.11449)|[NetMamba](https://github.com/wangtz19/NetMamba)|
 ## 2024-05-20
 |paper|code|
 |---|---|
@@ -6,7 +30,10 @@
 |[secure set-based state estimation for linear systems under adversarial attacks on sensors](https://arxiv.org/abs/2309.05075)|[Secure-Set-Based-Estimation](https://github.com/aalanwar/Secure-Set-Based-Estimation)|
 |[simba: system identification methods leveraging backpropagation](https://arxiv.org/abs/2311.13889)|[simba](https://github.com/cemempamoi/simba)|
 |[input convex lipschitz rnn: a fast and robust approach for engineering tasks](https://arxiv.org/abs/2401.07494)|[iclrnn](https://github.com/killingbear999/iclrnn)|
-|[agile but safe: learning collision-free high-speed legged locomotion](https://arxiv.org/abs/2401.17583)|[abs](https://github.com/lecar-lab/abs)|
+|[exploring new territory: calibration-free decoding for c-vep bci](https://arxiv.org/abs/2403.15521)|[pyntbci](https://github.com/thijor/pyntbci)|
+|[robust beamforming with gradient-based liquid neural network](https://arxiv.org/abs/2405.07291)|[GLNN](https://github.com/tp1000d/GLNN)|
+|[physics-informed heterogeneous graph neural networks for dc blocker placement](https://arxiv.org/abs/2405.10389)|[swmp_ml](https://github.com/cshjin/swmp_ml)|
+|[baseline results for selected nonlinear system identification benchmarks](https://arxiv.org/abs/2405.10779)|[nonlinear_baselines](https://github.com/MDCHAMP/nonlinear_baselines)|
 |[implementation of openapi wireshark dissectors to validate sbi messages of 5g core networks](https://arxiv.org/abs/2405.10635)|[OpenAPI-Dissector](https://github.com/telekom/OpenAPI-Dissector)|
 ## 2024-05-17
 |paper|code|
@@ -23,6 +50,7 @@
 |[calibrating wireless ray tracing for digital twinning using local phase error estimates](https://arxiv.org/abs/2312.12625)|[phase-aware-rt-calibration](https://github.com/kclip/phase-aware-rt-calibration)|
 |[unsupervised learning based end-to-end delayless generative fixed-filter active noise control](https://arxiv.org/abs/2402.09460)|[unsupervised-gfanc](https://github.com/luo-zhengding/unsupervised-gfanc)|
 |[unsupervised learning for joint beamforming design in ris-aided isac systems](https://arxiv.org/abs/2403.17324)|[DL-Beamforming-RIS-ISAC](https://github.com/Yejacky456/DL-Beamforming-RIS-ISAC)|
+|[joint instantaneous amplitude-frequency analysis of vibration signals for vibration-based condition monitoring of rolling bearings](https://arxiv.org/abs/2405.08919)|[Joint-Instantaneous-Amplitude-Frequency-Analysis-for-Vibration-Based-Condition-Monitoring](https://github.com/Western-OC2-Lab/Joint-Instantaneous-Amplitude-Frequency-Analysis-for-Vibration-Based-Condition-Monitoring)|
 |[on identifying the non-linear dynamics of a hovercraft using an end-to-end deep learning approach](https://arxiv.org/abs/2405.09405)|[holohover-sysid](https://github.com/predict-epfl/holohover-sysid)|
 |[a quantum of quic: dissecting cryptography with post-quantum insights](https://arxiv.org/abs/2405.09264)|[quic-crypto-paper](https://github.com/tumi8/quic-crypto-paper)|
 ## 2024-05-15
