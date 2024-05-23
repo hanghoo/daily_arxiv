@@ -1,3 +1,13 @@
+## 2024-05-22
+|paper|code|
+|---|---|
+|[reinforcement learning with model predictive control for highway ramp metering](https://arxiv.org/abs/2311.08820)|[mpcrl-for-ramp-metering](https://github.com/filippoairaldi/mpcrl-for-ramp-metering)|
+|[agile but safe: learning collision-free high-speed legged locomotion](https://arxiv.org/abs/2401.17583)|[abs](https://github.com/lecar-lab/abs)|
+|[optimizing polynomial graph filters: a novel adaptive krylov subspace approach](https://arxiv.org/abs/2403.07954)|[AdaptKry](https://github.com/kkhuang81/AdaptKry)|
+|[neuromorphic control of a pendulum](https://arxiv.org/abs/2404.05339)|[neuromorphic-pendulum-control](https://github.com/rjzs/neuromorphic-pendulum-control)|
+|[real-time safe control of neural network dynamic models with sound approximation](https://arxiv.org/abs/2404.13456)|[bond](https://github.com/intelligent-control-lab/bond)|
+|[wav-kan: wavelet kolmogorov-arnold networks](https://arxiv.org/abs/2405.12832)|[Wav-KAN](https://github.com/zavareh1/Wav-KAN)|
+|[an efficient compression method for sign information of dct coefficients via sign retrieval](https://arxiv.org/abs/2405.07487)|[sr](https://github.com/ctsutake/sr)|
 ## 2024-05-21
 |paper|code|
 |---|---|
@@ -40,6 +50,7 @@
 |---|---|
 |[reinforcement learning based autonomous multi-rotor landing on moving platforms](https://arxiv.org/abs/2302.13192)|[rl_multi_rotor_landing](https://github.com/robot-perception-group/rl_multi_rotor_landing)|
 |[$f$-divergence based classification: beyond the use of cross-entropy](https://arxiv.org/abs/2401.01268)|[discriminative-classification-fdiv](https://github.com/tonellolab/discriminative-classification-fdiv)|
+|[kid-ppg: knowledge informed deep learning for extracting heart rate from a smartwatch](https://arxiv.org/abs/2405.09559)|[KID-PPG](https://github.com/esl-epfl/KID-PPG)|
 |[dynamic gnns for precise seizure detection and classification from eeg data](https://arxiv.org/abs/2405.09568)|[NeuroGNN](https://github.com/USC-InfoLab/NeuroGNN)|
 |[language-oriented semantic latent representation for image transmission](https://arxiv.org/abs/2405.09976)|[img2img-sc](https://github.com/ispamm/img2img-sc)|
 |[towards task-compatible compressible representations](https://arxiv.org/abs/2405.10244)|[research](https://github.com/adeandrade/research)|
