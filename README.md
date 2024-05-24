@@ -23,7 +23,6 @@
 |[joint chance constrained optimal control via linear programming](https://arxiv.org/abs/2402.19360)|[jcc_opt_control_lp](https://github.com/niklasschmidresearch/jcc_opt_control_lp)|
 |[bounding stochastic safety: leveraging freedman's inequality with discrete-time control barrier functions](https://arxiv.org/abs/2403.05745)|[freedman](https://github.com/rkcosner/freedman)|
 |[on the equivalence of direct and indirect data-driven predictive control approaches](https://arxiv.org/abs/2403.05860)|[ddpc](https://github.com/bonassifabio/ddpc)|
-|[eegdir: electroencephalogram denoising network for temporal information storage and global modeling through retentive network](https://arxiv.org/abs/2404.15289)|[EEGDiR](https://github.com/woldier/EEGDiR)|
 |[approximation properties relative to continuous scale space for hybrid discretizations of gaussian derivative operators](https://arxiv.org/abs/2405.05095)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
 |[adaptive koopman embedding for robust control of complex nonlinear dynamical systems](https://arxiv.org/abs/2405.09101)|[adaptive-koopman](https://github.com/rajpal9/adaptive-koopman)|
 |[pde control gym: a benchmark for data-driven boundary control of partial differential equations](https://arxiv.org/abs/2405.11401)|[pdecontrolgym](https://github.com/lukebhan/pdecontrolgym)|
