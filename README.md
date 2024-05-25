@@ -1,13 +1,25 @@
+## 2024-05-24
+|paper|code|
+|---|---|
+|[planar friction modelling with lugre dynamics and limit surfaces](https://arxiv.org/abs/2308.01123)|[frictionmodelling](https://github.com/gabrieleenx/frictionmodelling)|
+|[k-band: self-supervised mri reconstruction via stochastic gradient descent over k-space subsets](https://arxiv.org/abs/2308.02958)|[k-band](https://github.com/mikgroup/k-band)|
+|[signal processing meets sgd: from momentum to filter](https://arxiv.org/abs/2311.02818)|[SGDF-Optimizer](https://github.com/LilYau350/SGDF-Optimizer)|
+|[eegdir: electroencephalogram denoising network for temporal information storage and global modeling through retentive network](https://arxiv.org/abs/2404.15289)|[EEGDiR](https://github.com/woldier/EEGDiR)|
+|[identifiability of differential-algebraic systems](https://arxiv.org/abs/2405.13818)|[identifiabilitydae](https://github.com/montanariarthur/identifiabilitydae)|
+|[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
 ## 2024-05-22
 |paper|code|
 |---|---|
+|[learning-based rigid tube model predictive control](https://arxiv.org/abs/2304.05105)|[tube-robust-mpc-with-uncertainty-quantification](https://github.com/jianzhou1212/tube-robust-mpc-with-uncertainty-quantification)|
 |[reinforcement learning with model predictive control for highway ramp metering](https://arxiv.org/abs/2311.08820)|[mpcrl-for-ramp-metering](https://github.com/filippoairaldi/mpcrl-for-ramp-metering)|
 |[agile but safe: learning collision-free high-speed legged locomotion](https://arxiv.org/abs/2401.17583)|[abs](https://github.com/lecar-lab/abs)|
 |[optimizing polynomial graph filters: a novel adaptive krylov subspace approach](https://arxiv.org/abs/2403.07954)|[AdaptKry](https://github.com/kkhuang81/AdaptKry)|
+|[adversarial attacks and defenses in automated control systems: a comprehensive benchmark](https://arxiv.org/abs/2403.13502)|[fdd-defense](https://github.com/airi-institute/fdd-defense)|
 |[neuromorphic control of a pendulum](https://arxiv.org/abs/2404.05339)|[neuromorphic-pendulum-control](https://github.com/rjzs/neuromorphic-pendulum-control)|
 |[real-time safe control of neural network dynamic models with sound approximation](https://arxiv.org/abs/2404.13456)|[bond](https://github.com/intelligent-control-lab/bond)|
 |[wav-kan: wavelet kolmogorov-arnold networks](https://arxiv.org/abs/2405.12832)|[Wav-KAN](https://github.com/zavareh1/Wav-KAN)|
 |[an efficient compression method for sign information of dct coefficients via sign retrieval](https://arxiv.org/abs/2405.07487)|[sr](https://github.com/ctsutake/sr)|
+|[a gan-based data poisoning attack against federated learning systems and its countermeasure](https://arxiv.org/abs/2405.11440)|[vaguegan-data-poisoning-attack-and-its-countermeasure](https://github.com/ssssweissss/vaguegan-data-poisoning-attack-and-its-countermeasure)|
 ## 2024-05-21
 |paper|code|
 |---|---|
@@ -25,6 +37,7 @@
 |[on the equivalence of direct and indirect data-driven predictive control approaches](https://arxiv.org/abs/2403.05860)|[ddpc](https://github.com/bonassifabio/ddpc)|
 |[approximation properties relative to continuous scale space for hybrid discretizations of gaussian derivative operators](https://arxiv.org/abs/2405.05095)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
 |[adaptive koopman embedding for robust control of complex nonlinear dynamical systems](https://arxiv.org/abs/2405.09101)|[adaptive-koopman](https://github.com/rajpal9/adaptive-koopman)|
+|[mamca -- optimal on accuracy and efficiency for automatic modulation classification with extended signal length](https://arxiv.org/abs/2405.11263)|[mamca](https://github.com/zhangyezhuo/mamca)|
 |[pde control gym: a benchmark for data-driven boundary control of partial differential equations](https://arxiv.org/abs/2405.11401)|[pdecontrolgym](https://github.com/lukebhan/pdecontrolgym)|
 |[on robust reinforcement learning with lipschitz-bounded policy networks](https://arxiv.org/abs/2405.11432)|[Lipschitz-RL-Atari](https://github.com/nic-barbara/Lipschitz-RL-Atari)|
 |[teal: learning-accelerated optimization of wan traffic engineering](https://arxiv.org/abs/2210.13763)|[teal](https://github.com/harvard-cns/teal)|
