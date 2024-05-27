@@ -38,7 +38,6 @@
 |[approximation properties relative to continuous scale space for hybrid discretizations of gaussian derivative operators](https://arxiv.org/abs/2405.05095)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
 |[adaptive koopman embedding for robust control of complex nonlinear dynamical systems](https://arxiv.org/abs/2405.09101)|[adaptive-koopman](https://github.com/rajpal9/adaptive-koopman)|
 |[mamca -- optimal on accuracy and efficiency for automatic modulation classification with extended signal length](https://arxiv.org/abs/2405.11263)|[mamca](https://github.com/zhangyezhuo/mamca)|
-|[pde control gym: a benchmark for data-driven boundary control of partial differential equations](https://arxiv.org/abs/2405.11401)|[pdecontrolgym](https://github.com/lukebhan/pdecontrolgym)|
 |[on robust reinforcement learning with lipschitz-bounded policy networks](https://arxiv.org/abs/2405.11432)|[Lipschitz-RL-MJX](https://github.com/nic-barbara/Lipschitz-RL-MJX)|
 |[teal: learning-accelerated optimization of wan traffic engineering](https://arxiv.org/abs/2210.13763)|[teal](https://github.com/harvard-cns/teal)|
 |[interpretable diffusion via information decomposition](https://arxiv.org/abs/2310.07972)|[info-decomp](https://github.com/kxh001/info-decomp)|
