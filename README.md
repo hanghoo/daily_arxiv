@@ -1,3 +1,12 @@
+## 2024-05-27
+|paper|code|
+|---|---|
+|[adversarial imitation learning from visual observations using latent information](https://arxiv.org/abs/2309.17371)|[ail_from_visual_obs](https://github.com/vittoriogiammarino/ail_from_visual_obs)|
+|[pde control gym: a benchmark for data-driven boundary control of partial differential equations](https://arxiv.org/abs/2405.11401)|[pdecontrolgym](https://github.com/lukebhan/pdecontrolgym)|
+|[on robust controlled invariants for continuous-time monotone systems](https://arxiv.org/abs/2405.14920)|[Contro_invariants](https://github.com/YoungDevil-glitch/Contro_invariants)|
+|[analog or digital in-memory computing? benchmarking through quantitative modeling](https://arxiv.org/abs/2405.14978)|[zigzag-imc](https://github.com/KULeuven-MICAS/zigzag-imc)|
+|[understanding the differences in foundation models: attention, state space models, and recurrent neural networks](https://arxiv.org/abs/2405.15731)|[dsf-mqar](https://github.com/intelligentcontrolsystems/dsf-mqar)|
+|[perfect codes over non-prime power alphabets: an approach based on diophantine equations](https://arxiv.org/abs/2405.03347)|[perfect-q-ary-codes](https://github.com/pjcazorla/perfect-q-ary-codes)|
 ## 2024-05-24
 |paper|code|
 |---|---|
@@ -17,7 +26,6 @@
 |[adversarial attacks and defenses in automated control systems: a comprehensive benchmark](https://arxiv.org/abs/2403.13502)|[fdd-defense](https://github.com/airi-institute/fdd-defense)|
 |[neuromorphic control of a pendulum](https://arxiv.org/abs/2404.05339)|[neuromorphic-pendulum-control](https://github.com/rjzs/neuromorphic-pendulum-control)|
 |[real-time safe control of neural network dynamic models with sound approximation](https://arxiv.org/abs/2404.13456)|[bond](https://github.com/intelligent-control-lab/bond)|
-|[wav-kan: wavelet kolmogorov-arnold networks](https://arxiv.org/abs/2405.12832)|[Wav-KAN](https://github.com/zavareh1/Wav-KAN)|
 |[an efficient compression method for sign information of dct coefficients via sign retrieval](https://arxiv.org/abs/2405.07487)|[sr](https://github.com/ctsutake/sr)|
 |[a gan-based data poisoning attack against federated learning systems and its countermeasure](https://arxiv.org/abs/2405.11440)|[vaguegan-data-poisoning-attack-and-its-countermeasure](https://github.com/ssssweissss/vaguegan-data-poisoning-attack-and-its-countermeasure)|
 ## 2024-05-21
