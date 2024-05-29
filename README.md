@@ -1,3 +1,15 @@
+## 2024-05-28
+|paper|code|
+|---|---|
+|[a non-interior-point continuation method for the optimal control problem with equilibrium constraints](https://arxiv.org/abs/2210.10336)|[nipocpec](https://github.com/ky-lin22/nipocpec)|
+|[enn: a neural network with dct adaptive activation functions](https://arxiv.org/abs/2307.00673)|[enn](https://github.com/marcmartinezgost/enn)|
+|[dynamics harmonic analysis of robotic systems: application in data-driven koopman modelling](https://arxiv.org/abs/2312.07457)|[dynamicsharmonicsanalysis](https://github.com/danfoa/dynamicsharmonicsanalysis)|
+|[physics-informed appliance signatures generator for energy disaggregation](https://arxiv.org/abs/2401.01828)|[edframe](https://github.com/arx7ti/edframe)|
+|[complete and near-optimal robotic crack coverage and filling in civil infrastructure](https://arxiv.org/abs/2403.00613)|[crack-filling-robot](https://github.com/binghamton-acsr-lab/crack-filling-robot)|
+|[intention-aware control based on belief-space specifications and stochastic expansion](https://arxiv.org/abs/2404.09037)|[intentaware](https://github.com/zhang-zengjie/intentaware)|
+|[wav-kan: wavelet kolmogorov-arnold networks](https://arxiv.org/abs/2405.12832)|[Wav-KAN](https://github.com/zavareh1/Wav-KAN)|
+|[usd: unsupervised soft contrastive learning for fault detection in multivariate time series](https://arxiv.org/abs/2405.16258)|[code_usd](https://github.com/zangzelin/code_usd)|
+|[netmamba: efficient network traffic classification via pre-training unidirectional mamba](https://arxiv.org/abs/2405.11449)|[NetMamba](https://github.com/wangtz19/NetMamba)|
 ## 2024-05-27
 |paper|code|
 |---|---|
