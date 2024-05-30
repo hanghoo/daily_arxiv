@@ -1,3 +1,19 @@
+## 2024-05-29
+|paper|code|
+|---|---|
+|[assessment of unsteady flow predictions using hybrid deep learning based reduced order models](https://arxiv.org/abs/2009.04396)|[Assessment-of-hybrid-DLROM](https://github.com/rachit1307-code/Assessment-of-hybrid-DLROM)|
+|[multi-device task-oriented communication via maximal coding rate reduction](https://arxiv.org/abs/2309.02888)|[taskcommmcr2](https://github.com/chang-cai/taskcommmcr2)|
+|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[learning locally interacting discrete dynamical systems: towards data-efficient and scalable prediction](https://arxiv.org/abs/2404.06460)|[arnca](https://github.com/beomseokg/arnca)|
+|[a general framework for supporting economic feasibility of generator and storage energy systems through capacity and dispatch optimization](https://arxiv.org/abs/2404.14583)|[ecogen-ccd](https://github.com/azadsaeed/ecogen-ccd)|
+|[outlier-robust kalman filtering through generalised bayes](https://arxiv.org/abs/2405.05646)|[weighted-likelihood-filter](https://github.com/gerdm/weighted-likelihood-filter)|
+|[reinforced model predictive control via trust-region quasi-newton policy optimization](https://arxiv.org/abs/2405.17983)|[ecc24_tr_improved_qn_po_for_mpc_in_rl](https://github.com/deanbrandner/ecc24_tr_improved_qn_po_for_mpc_in_rl)|
+|[llm experiments with simulation: large language model multi-agent system for process simulation parametrization in digital twins](https://arxiv.org/abs/2405.18092)|[llmdrivensimulation](https://github.com/yuchenxia/llmdrivensimulation)|
+|[sensor-based distributionally robust control for safe robot navigation in dynamic environments](https://arxiv.org/abs/2405.18251)|[DR_Safe_Navigation](https://github.com/ExistentialRobotics/DR_Safe_Navigation)|
+|[a linear algebraic framework for dynamic scheduling over memory-equipped quantum networks](https://arxiv.org/abs/2307.06009)|[dynschedsimulator_journal](https://github.com/pfittipaldi/dynschedsimulator_journal)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
+|[mambavc: learned visual compression with selective state spaces](https://arxiv.org/abs/2405.15413)|[2024-mambavc](https://github.com/qinsy123/2024-mambavc)|
+|[enhancing sustainable urban mobility prediction with telecom data: a spatio-temporal framework approach](https://arxiv.org/abs/2405.17507)|[teltomob](https://github.com/cy07gn/teltomob)|
 ## 2024-05-28
 |paper|code|
 |---|---|
@@ -24,7 +40,6 @@
 |---|---|
 |[planar friction modelling with lugre dynamics and limit surfaces](https://arxiv.org/abs/2308.01123)|[frictionmodelling](https://github.com/gabrieleenx/frictionmodelling)|
 |[k-band: self-supervised mri reconstruction via stochastic gradient descent over k-space subsets](https://arxiv.org/abs/2308.02958)|[k-band](https://github.com/mikgroup/k-band)|
-|[signal processing meets sgd: from momentum to filter](https://arxiv.org/abs/2311.02818)|[SGDF-Optimizer](https://github.com/LilYau350/SGDF-Optimizer)|
 |[eegdir: electroencephalogram denoising network for temporal information storage and global modeling through retentive network](https://arxiv.org/abs/2404.15289)|[EEGDiR](https://github.com/woldier/EEGDiR)|
 |[identifiability of differential-algebraic systems](https://arxiv.org/abs/2405.13818)|[identifiabilitydae](https://github.com/montanariarthur/identifiabilitydae)|
 |[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
