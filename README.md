@@ -21,6 +21,7 @@
 |[learning locally interacting discrete dynamical systems: towards data-efficient and scalable prediction](https://arxiv.org/abs/2404.06460)|[arnca](https://github.com/beomseokg/arnca)|
 |[a general framework for supporting economic feasibility of generator and storage energy systems through capacity and dispatch optimization](https://arxiv.org/abs/2404.14583)|[ecogen-ccd](https://github.com/azadsaeed/ecogen-ccd)|
 |[outlier-robust kalman filtering through generalised bayes](https://arxiv.org/abs/2405.05646)|[weighted-likelihood-filter](https://github.com/gerdm/weighted-likelihood-filter)|
+|[sleepfm: multi-modal representation learning for sleep across brain activity, ecg and respiratory signals](https://arxiv.org/abs/2405.17766)|[sleepfm-codebase](https://github.com/rthapa84/sleepfm-codebase)|
 |[reinforced model predictive control via trust-region quasi-newton policy optimization](https://arxiv.org/abs/2405.17983)|[ecc24_tr_improved_qn_po_for_mpc_in_rl](https://github.com/deanbrandner/ecc24_tr_improved_qn_po_for_mpc_in_rl)|
 |[llm experiments with simulation: large language model multi-agent system for process simulation parametrization in digital twins](https://arxiv.org/abs/2405.18092)|[llmdrivensimulation](https://github.com/yuchenxia/llmdrivensimulation)|
 |[sensor-based distributionally robust control for safe robot navigation in dynamic environments](https://arxiv.org/abs/2405.18251)|[DR_Safe_Navigation](https://github.com/ExistentialRobotics/DR_Safe_Navigation)|
@@ -38,6 +39,7 @@
 |[complete and near-optimal robotic crack coverage and filling in civil infrastructure](https://arxiv.org/abs/2403.00613)|[crack-filling-robot](https://github.com/binghamton-acsr-lab/crack-filling-robot)|
 |[intention-aware control based on belief-space specifications and stochastic expansion](https://arxiv.org/abs/2404.09037)|[intentaware](https://github.com/zhang-zengjie/intentaware)|
 |[wav-kan: wavelet kolmogorov-arnold networks](https://arxiv.org/abs/2405.12832)|[Wav-KAN](https://github.com/zavareh1/Wav-KAN)|
+|[safe deep model-based reinforcement learning with lyapunov functions](https://arxiv.org/abs/2405.16184)|[salved](https://github.com/harryzhangOG/salved)|
 |[usd: unsupervised soft contrastive learning for fault detection in multivariate time series](https://arxiv.org/abs/2405.16258)|[code_usd](https://github.com/zangzelin/code_usd)|
 |[netmamba: efficient network traffic classification via pre-training unidirectional mamba](https://arxiv.org/abs/2405.11449)|[NetMamba](https://github.com/wangtz19/NetMamba)|
 ## 2024-05-27
