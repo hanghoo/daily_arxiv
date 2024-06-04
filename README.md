@@ -1,3 +1,7 @@
+## 2024-06-03
+|paper|code|
+|---|---|
+|[mixed-integer optimal control via reinforcement learning: a case study on hybrid electric vehicle energy management](https://arxiv.org/abs/2305.01461)|[td3aq](https://github.com/xujinming01/td3aq)|
 ## 2024-05-31
 |paper|code|
 |---|---|
@@ -26,7 +30,6 @@
 |[llm experiments with simulation: large language model multi-agent system for process simulation parametrization in digital twins](https://arxiv.org/abs/2405.18092)|[llmdrivensimulation](https://github.com/yuchenxia/llmdrivensimulation)|
 |[sensor-based distributionally robust control for safe robot navigation in dynamic environments](https://arxiv.org/abs/2405.18251)|[DR_Safe_Navigation](https://github.com/ExistentialRobotics/DR_Safe_Navigation)|
 |[a linear algebraic framework for dynamic scheduling over memory-equipped quantum networks](https://arxiv.org/abs/2307.06009)|[dynschedsimulator_journal](https://github.com/pfittipaldi/dynschedsimulator_journal)|
-|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
 |[mambavc: learned visual compression with selective state spaces](https://arxiv.org/abs/2405.15413)|[2024-mambavc](https://github.com/qinsy123/2024-mambavc)|
 |[enhancing sustainable urban mobility prediction with telecom data: a spatio-temporal framework approach](https://arxiv.org/abs/2405.17507)|[teltomob](https://github.com/cy07gn/teltomob)|
 ## 2024-05-28
