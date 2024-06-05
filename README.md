@@ -1,3 +1,19 @@
+## 2024-06-04
+|paper|code|
+|---|---|
+|[deep optimal transport for domain adaptation on spd manifolds](https://arxiv.org/abs/2201.05745)|[deep-optimal-transport-for-domain-adaptation-on-spd-manifolds](https://github.com/geometricbci/deep-optimal-transport-for-domain-adaptation-on-spd-manifolds)|
+|[hypergraph-mlp: learning on hypergraphs without message passing](https://arxiv.org/abs/2312.09778)|[hypergraph-mlp](https://github.com/tbh-98/hypergraph-mlp)|
+|[a simulation preorder for koopman-like lifted control systems](https://arxiv.org/abs/2401.14909)|[simlifsys](https://github.com/aaspeel/simlifsys)|
+|[scalable multi-modal model predictive control via duality-based interaction predictions](https://arxiv.org/abs/2402.01116)|[hmpc_raidnet](https://github.com/MPC-Berkeley/hmpc_raidnet)|
+|[implicit bias of policy gradient in linear quadratic control: extrapolation to unseen initial states](https://arxiv.org/abs/2402.07875)|[imp_bias_control](https://github.com/noamrazin/imp_bias_control)|
+|[learning to optimize with convergence guarantees using nonlinear system theory](https://arxiv.org/abs/2403.09389)|[convergentl2o](https://github.com/andrea-martin/convergentl2o)|
+|[regime learning for differentiable particle filters](https://arxiv.org/abs/2405.04865)|[Regime_Switching](https://github.com/John-JoB/Regime_Switching)|
+|[state-free inference of state-space models: the transfer function approach](https://arxiv.org/abs/2405.06147)|[RTF](https://github.com/ruke1ire/RTF)|
+|[vertecs: a cots-based payload interface board to enable next generation astronomical imaging payloads](https://arxiv.org/abs/2406.00935)|[vertecs-ccb](https://github.com/ezrafielding/vertecs-ccb)|
+|[implementing reinforcement learning datacenter congestion control in nvidia nics](https://arxiv.org/abs/2207.02295)|[rl-cc](https://github.com/benja263/rl-cc)|
+|[how can we train deep learning models across clouds and continents? an experimental study](https://arxiv.org/abs/2306.03163)|[hivemind-multi-cloud](https://github.com/cirquit/hivemind-multi-cloud)|
+|[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
 ## 2024-06-03
 |paper|code|
 |---|---|
