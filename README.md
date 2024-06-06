@@ -1,3 +1,13 @@
+## 2024-06-05
+|paper|code|
+|---|---|
+|[robust waveform design for integrated sensing and communication](https://arxiv.org/abs/2311.00071)|[robust-waveform](https://github.com/spratm-asleaf/robust-waveform)|
+|[dynamics harmonic analysis of robotic systems: application in data-driven koopman modelling](https://arxiv.org/abs/2312.07457)|[dynamicsharmonicsanalysis](https://github.com/danfoa/dynamicsharmonicsanalysis)|
+|[morphological symmetries in robotics](https://arxiv.org/abs/2402.15552)|[morphosymm](https://github.com/danfoa/morphosymm)|
+|[understanding the differences in foundation models: attention, state space models, and recurrent neural networks](https://arxiv.org/abs/2405.15731)|[dsf-mqar](https://github.com/intelligentcontrolsystems/dsf-mqar)|
+|[fast networked data selection via distributed smoothed quantile estimation](https://arxiv.org/abs/2406.01929)|[distributedfasttopkselection](https://github.com/connorzhangxu/distributedfasttopkselection)|
+|[version control of speaker recognition systems](https://arxiv.org/abs/2007.12069)|[SpeakerVerSim](https://github.com/wq2012/SpeakerVerSim)|
+|[kernel vs. kernel: exploring how the data structure affects neural collapse](https://arxiv.org/abs/2406.02105)|[shallow_nc1](https://github.com/kvignesh1420/shallow_nc1)|
 ## 2024-06-04
 |paper|code|
 |---|---|
@@ -9,11 +19,14 @@
 |[learning to optimize with convergence guarantees using nonlinear system theory](https://arxiv.org/abs/2403.09389)|[convergentl2o](https://github.com/andrea-martin/convergentl2o)|
 |[regime learning for differentiable particle filters](https://arxiv.org/abs/2405.04865)|[Regime_Switching](https://github.com/John-JoB/Regime_Switching)|
 |[state-free inference of state-space models: the transfer function approach](https://arxiv.org/abs/2405.06147)|[RTF](https://github.com/ruke1ire/RTF)|
+|[a case study comparing both stochastic and worst-case robust control co-design under different control structures](https://arxiv.org/abs/2405.20496)|[uncertain-control-co-design-sasa-example](https://github.com/azadsaeed/uncertain-control-co-design-sasa-example)|
+|[a gaussian process-based streaming algorithm for prediction of time series with regimes and outliers](https://arxiv.org/abs/2406.00570)|[Lintel](https://github.com/DanWaxman/Lintel)|
 |[vertecs: a cots-based payload interface board to enable next generation astronomical imaging payloads](https://arxiv.org/abs/2406.00935)|[vertecs-ccb](https://github.com/ezrafielding/vertecs-ccb)|
 |[implementing reinforcement learning datacenter congestion control in nvidia nics](https://arxiv.org/abs/2207.02295)|[rl-cc](https://github.com/benja263/rl-cc)|
 |[how can we train deep learning models across clouds and continents? an experimental study](https://arxiv.org/abs/2306.03163)|[hivemind-multi-cloud](https://github.com/cirquit/hivemind-multi-cloud)|
 |[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
 |[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
+|[physics-informed deep learning and compressive collocation for high-dimensional diffusion-reaction equations: practical existence theory and numerics](https://arxiv.org/abs/2406.01539)|[PINN_high_dimensional_PDE](https://github.com/WeiqiWangMath/PINN_high_dimensional_PDE)|
 ## 2024-06-03
 |paper|code|
 |---|---|
@@ -22,6 +35,8 @@
 |paper|code|
 |---|---|
 |[a large-scale evaluation of speech foundation models](https://arxiv.org/abs/2404.09385)|[s3prl](https://github.com/s3prl/s3prl)|
+|[eeg-dbnet: a dual-branch network for temporal-spectral decoding in motor-imagery brain-computer interfaces](https://arxiv.org/abs/2405.16090)|[eeg-dbnet](https://github.com/xicheng105/eeg-dbnet)|
+|[medformer: a multi-granularity patching transformer for medical time-series classification](https://arxiv.org/abs/2405.19363)|[medformer](https://github.com/dl4mhealth/medformer)|
 ## 2024-05-30
 |paper|code|
 |---|---|
