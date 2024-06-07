@@ -1,3 +1,11 @@
+## 2024-06-06
+|paper|code|
+|---|---|
+|[lyapunov-stable neural control for state and output feedback: a novel formulation](https://arxiv.org/abs/2404.07956)|[lyapunov_stable_nn_controllers](https://github.com/verified-intelligence/lyapunov_stable_nn_controllers)|
+|[interpreting deepcode, a learned feedback code](https://arxiv.org/abs/2404.17519)|[deepcode-interpretability](https://github.com/zyy-cc/deepcode-interpretability)|
+|[random matrix theory improved fr\'echet mean of symmetric positive definite matrices](https://arxiv.org/abs/2405.06558)|[icml-rmt-2024](https://github.com/ammarmian/icml-rmt-2024)|
+|[commonpower: supercharging machine learning for smart grids](https://arxiv.org/abs/2406.03231)|[commonpower](https://github.com/tumcps/commonpower)|
+|[deeppolar: inventing nonlinear large-kernel polar codes via deep learning](https://arxiv.org/abs/2402.08864)|[deeppolar](https://github.com/hebbarashwin/deeppolar)|
 ## 2024-06-05
 |paper|code|
 |---|---|
