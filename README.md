@@ -1,3 +1,12 @@
+## 2024-06-07
+|paper|code|
+|---|---|
+|[clarifying the effect of mean subtraction on dynamic mode decomposition](https://arxiv.org/abs/2105.03607)|[msub_mdselect_dmd](https://github.com/gowtham-ss-ragavan/msub_mdselect_dmd)|
+|[selective noise suppression methods using random svpwm to shape the noise spectrum of pmsms](https://arxiv.org/abs/2302.08053)|[SNS-in-random-SVPWM](https://github.com/IoaJianWen/SNS-in-random-SVPWM)|
+|[boosting reinforcement learning with strongly delayed feedback through auxiliary short delays](https://arxiv.org/abs/2402.03141)|[ad-rl](https://github.com/qingyuanwunothing/ad-rl)|
+|[parameter-adaptive approximate mpc: tuning neural-network controllers without retraining](https://arxiv.org/abs/2404.05835)|[adaptive-ampc-cartpole](https://github.com/hshose/adaptive-ampc-cartpole)|
+|[privacy preserving semi-decentralized mean estimation over intermittently-connected networks](https://arxiv.org/abs/2406.03766)|[private-collaborative-relaying](https://github.com/rajarshisaha95/private-collaborative-relaying)|
+|[active ml for 6g: towards efficient data generation, acquisition, and annotation](https://arxiv.org/abs/2406.03630)|[active_ML_6G](https://github.com/OmarSababha/active_ML_6G)|
 ## 2024-06-06
 |paper|code|
 |---|---|
