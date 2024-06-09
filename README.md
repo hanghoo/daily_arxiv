@@ -6,15 +6,21 @@
 |[boosting reinforcement learning with strongly delayed feedback through auxiliary short delays](https://arxiv.org/abs/2402.03141)|[ad-rl](https://github.com/qingyuanwunothing/ad-rl)|
 |[parameter-adaptive approximate mpc: tuning neural-network controllers without retraining](https://arxiv.org/abs/2404.05835)|[adaptive-ampc-cartpole](https://github.com/hshose/adaptive-ampc-cartpole)|
 |[privacy preserving semi-decentralized mean estimation over intermittently-connected networks](https://arxiv.org/abs/2406.03766)|[private-collaborative-relaying](https://github.com/rajarshisaha95/private-collaborative-relaying)|
+|[compressible dynamics in deep overparameterized low-rank learning & adaptation](https://arxiv.org/abs/2406.04112)|[deep-lora-transformers](https://github.com/cjyaras/deep-lora-transformers)|
 |[active ml for 6g: towards efficient data generation, acquisition, and annotation](https://arxiv.org/abs/2406.03630)|[active_ML_6G](https://github.com/OmarSababha/active_ML_6G)|
+|[untrained neural nets for snapshot compressive imaging: theory and algorithms](https://arxiv.org/abs/2406.03694)|[SCI-BDVP](https://github.com/Computational-Imaging-RU/SCI-BDVP)|
 ## 2024-06-06
 |paper|code|
 |---|---|
 |[lyapunov-stable neural control for state and output feedback: a novel formulation](https://arxiv.org/abs/2404.07956)|[lyapunov_stable_nn_controllers](https://github.com/verified-intelligence/lyapunov_stable_nn_controllers)|
 |[interpreting deepcode, a learned feedback code](https://arxiv.org/abs/2404.17519)|[deepcode-interpretability](https://github.com/zyy-cc/deepcode-interpretability)|
 |[random matrix theory improved fr\'echet mean of symmetric positive definite matrices](https://arxiv.org/abs/2405.06558)|[icml-rmt-2024](https://github.com/ammarmian/icml-rmt-2024)|
+|[sound heuristic search value iteration for undiscounted pomdps with reachability objectives](https://arxiv.org/abs/2406.02871)|[hsvi-rp](https://github.com/aria-systems-group/hsvi-rp)|
+|[singing voice graph modeling for singfake detection](https://arxiv.org/abs/2406.03111)|[singgraph](https://github.com/xjchengit/singgraph)|
 |[commonpower: supercharging machine learning for smart grids](https://arxiv.org/abs/2406.03231)|[commonpower](https://github.com/tumcps/commonpower)|
+|[solving differential equations using physics-informed deep equilibrium models](https://arxiv.org/abs/2406.03472)|[pideq](https://github.com/brunompacheco/pideq)|
 |[deeppolar: inventing nonlinear large-kernel polar codes via deep learning](https://arxiv.org/abs/2402.08864)|[deeppolar](https://github.com/hebbarashwin/deeppolar)|
+|[routeplacer: an end-to-end routability-aware placer with graph neural network](https://arxiv.org/abs/2406.02651)|[routeplacer](https://github.com/sorarain/routeplacer)|
 ## 2024-06-05
 |paper|code|
 |---|---|
@@ -36,7 +42,7 @@
 |[learning to optimize with convergence guarantees using nonlinear system theory](https://arxiv.org/abs/2403.09389)|[convergentl2o](https://github.com/andrea-martin/convergentl2o)|
 |[regime learning for differentiable particle filters](https://arxiv.org/abs/2405.04865)|[Regime_Switching](https://github.com/John-JoB/Regime_Switching)|
 |[state-free inference of state-space models: the transfer function approach](https://arxiv.org/abs/2405.06147)|[RTF](https://github.com/ruke1ire/RTF)|
-|[a case study comparing both stochastic and worst-case robust control co-design under different control structures](https://arxiv.org/abs/2405.20496)|[uncertain-control-co-design-sasa-example](https://github.com/azadsaeed/uncertain-control-co-design-sasa-example)|
+|[an unsupervised approach for periodic source detection in time series](https://arxiv.org/abs/2406.00566)|[unsupervised_periodicity_detection](https://github.com/eth-siplab/unsupervised_periodicity_detection)|
 |[a gaussian process-based streaming algorithm for prediction of time series with regimes and outliers](https://arxiv.org/abs/2406.00570)|[Lintel](https://github.com/DanWaxman/Lintel)|
 |[vertecs: a cots-based payload interface board to enable next generation astronomical imaging payloads](https://arxiv.org/abs/2406.00935)|[vertecs-ccb](https://github.com/ezrafielding/vertecs-ccb)|
 |[implementing reinforcement learning datacenter congestion control in nvidia nics](https://arxiv.org/abs/2207.02295)|[rl-cc](https://github.com/benja263/rl-cc)|
