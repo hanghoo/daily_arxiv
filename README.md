@@ -1,3 +1,16 @@
+## 2024-06-10
+|paper|code|
+|---|---|
+|[safe value functions](https://arxiv.org/abs/2105.12204)|[vibly](https://github.com/sheim/vibly)|
+|[data-driven observability analysis for nonlinear stochastic systems](https://arxiv.org/abs/2302.11979)|[data-obs](https://github.com/data-science-in-mechanical-engineering/data-obs)|
+|[learning coverage paths in unknown environments with deep reinforcement learning](https://arxiv.org/abs/2306.16978)|[rl-cpp](https://github.com/arvijj/rl-cpp)|
+|[neural control system for continuous glucose monitoring and maintenance](https://arxiv.org/abs/2402.13852)|[NeuralCGMM](https://github.com/azminewasi/NeuralCGMM)|
+|[active sensing for reciprocal mimo channels](https://arxiv.org/abs/2403.00134)|[active-sensing-for-reciprocal-mimo-channels](https://github.com/taojiang-github/active-sensing-for-reciprocal-mimo-channels)|
+|[adversarial attacks and defenses in fault detection and diagnosis: a comprehensive benchmark on the tennessee eastman process](https://arxiv.org/abs/2403.13502)|[fdd-defense](https://github.com/airi-institute/fdd-defense)|
+|[configuration-constrained tube mpc for tracking](https://arxiv.org/abs/2405.03629)|[CCTMPC_tracking](https://github.com/samku/CCTMPC_tracking)|
+|[dyst (did you see that?): an amplified covert channel that points to previously seen data](https://arxiv.org/abs/2212.11850)|[dyst](https://github.com/niosat/dyst)|
+|[s$\omega$i: score-based o-information estimation](https://arxiv.org/abs/2402.05667)|[soi](https://github.com/mustaphabounoua/soi)|
+|[revisiting attention weights as interpretations of message-passing neural networks](https://arxiv.org/abs/2406.04612)|[gatt](https://github.com/jordan7186/gatt)|
 ## 2024-06-07
 |paper|code|
 |---|---|
@@ -6,7 +19,6 @@
 |[boosting reinforcement learning with strongly delayed feedback through auxiliary short delays](https://arxiv.org/abs/2402.03141)|[ad-rl](https://github.com/qingyuanwunothing/ad-rl)|
 |[parameter-adaptive approximate mpc: tuning neural-network controllers without retraining](https://arxiv.org/abs/2404.05835)|[adaptive-ampc-cartpole](https://github.com/hshose/adaptive-ampc-cartpole)|
 |[privacy preserving semi-decentralized mean estimation over intermittently-connected networks](https://arxiv.org/abs/2406.03766)|[private-collaborative-relaying](https://github.com/rajarshisaha95/private-collaborative-relaying)|
-|[compressible dynamics in deep overparameterized low-rank learning & adaptation](https://arxiv.org/abs/2406.04112)|[deep-lora-transformers](https://github.com/cjyaras/deep-lora-transformers)|
 |[active ml for 6g: towards efficient data generation, acquisition, and annotation](https://arxiv.org/abs/2406.03630)|[active_ML_6G](https://github.com/OmarSababha/active_ML_6G)|
 |[untrained neural nets for snapshot compressive imaging: theory and algorithms](https://arxiv.org/abs/2406.03694)|[SCI-BDVP](https://github.com/Computational-Imaging-RU/SCI-BDVP)|
 ## 2024-06-06
@@ -16,7 +28,6 @@
 |[interpreting deepcode, a learned feedback code](https://arxiv.org/abs/2404.17519)|[deepcode-interpretability](https://github.com/zyy-cc/deepcode-interpretability)|
 |[random matrix theory improved fr\'echet mean of symmetric positive definite matrices](https://arxiv.org/abs/2405.06558)|[icml-rmt-2024](https://github.com/ammarmian/icml-rmt-2024)|
 |[sound heuristic search value iteration for undiscounted pomdps with reachability objectives](https://arxiv.org/abs/2406.02871)|[hsvi-rp](https://github.com/aria-systems-group/hsvi-rp)|
-|[singing voice graph modeling for singfake detection](https://arxiv.org/abs/2406.03111)|[singgraph](https://github.com/xjchengit/singgraph)|
 |[commonpower: supercharging machine learning for smart grids](https://arxiv.org/abs/2406.03231)|[commonpower](https://github.com/tumcps/commonpower)|
 |[solving differential equations using physics-informed deep equilibrium models](https://arxiv.org/abs/2406.03472)|[pideq](https://github.com/brunompacheco/pideq)|
 |[deeppolar: inventing nonlinear large-kernel polar codes via deep learning](https://arxiv.org/abs/2402.08864)|[deeppolar](https://github.com/hebbarashwin/deeppolar)|
