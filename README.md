@@ -1,3 +1,18 @@
+## 2024-06-11
+|paper|code|
+|---|---|
+|[a unified multi-task semantic communication system for multimodal data](https://arxiv.org/abs/2209.07689)|[t-udeepsc](https://github.com/zhang-guangyi/t-udeepsc)|
+|[comparisons of two-stage models for flood mitigation of electrical substations](https://arxiv.org/abs/2302.12872)|[2023.0125](https://github.com/INFORMSJoC/2023.0125)|
+|[dh-ptam: a deep hybrid stereo events-frames parallel tracking and mapping system](https://arxiv.org/abs/2306.01891)|[dh-ptam](https://github.com/abanobsoliman/dh-ptam)|
+|[global geolocated realtime data of interfleet urban transit bus idling](https://arxiv.org/abs/2403.03489)|[idling](https://github.com/nickkunz/idling)|
+|[solving inverse problems with model mismatch using untrained neural networks within model-based architectures](https://arxiv.org/abs/2403.04847)|[a-adaptive-model-based-methods](https://github.com/invprobs/a-adaptive-model-based-methods)|
+|[singing voice graph modeling for singfake detection](https://arxiv.org/abs/2406.03111)|[singgraph](https://github.com/xjchengit/singgraph)|
+|[compressible dynamics in deep overparameterized low-rank learning & adaptation](https://arxiv.org/abs/2406.04112)|[deep-lora-transformers](https://github.com/cjyaras/deep-lora-transformers)|
+|[winner-takes-all learners are geometry-aware conditional density estimators](https://arxiv.org/abs/2406.04706)|[VoronoiWTA](https://github.com/Victorletzelter/VoronoiWTA)|
+|[lessons from generalization error analysis of federated learning: you may communicate less often!](https://arxiv.org/abs/2306.05862)|[generalization_fl_icml2024](https://github.com/romainchor/generalization_fl_icml2024)|
+|[localized adaptive risk control](https://arxiv.org/abs/2405.07976)|[localized-adaptive-risk-control](https://github.com/kclip/localized-adaptive-risk-control)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
+|[physics-informed deep learning and compressive collocation for high-dimensional diffusion-reaction equations: practical existence theory and numerics](https://arxiv.org/abs/2406.01539)|[PINN_high_dimensional_PDE](https://github.com/WeiqiWangMath/PINN_high_dimensional_PDE)|
 ## 2024-06-10
 |paper|code|
 |---|---|
@@ -8,6 +23,8 @@
 |[active sensing for reciprocal mimo channels](https://arxiv.org/abs/2403.00134)|[active-sensing-for-reciprocal-mimo-channels](https://github.com/taojiang-github/active-sensing-for-reciprocal-mimo-channels)|
 |[adversarial attacks and defenses in fault detection and diagnosis: a comprehensive benchmark on the tennessee eastman process](https://arxiv.org/abs/2403.13502)|[fdd-defense](https://github.com/airi-institute/fdd-defense)|
 |[configuration-constrained tube mpc for tracking](https://arxiv.org/abs/2405.03629)|[CCTMPC_tracking](https://github.com/samku/CCTMPC_tracking)|
+|[learning optimal linear precoding for cell-free massive mimo with gnn](https://arxiv.org/abs/2406.04456)|[olp-gnn](https://github.com/Nokia-Bell-Labs/olp-gnn)|
+|[digital twins of the em environment: benchmark for ray launching models](https://arxiv.org/abs/2406.05042)|[ray-launching-benchmark](https://github.com/Michele-Zhu/ray-launching-benchmark)|
 |[dyst (did you see that?): an amplified covert channel that points to previously seen data](https://arxiv.org/abs/2212.11850)|[dyst](https://github.com/niosat/dyst)|
 |[s$\omega$i: score-based o-information estimation](https://arxiv.org/abs/2402.05667)|[soi](https://github.com/mustaphabounoua/soi)|
 |[revisiting attention weights as interpretations of message-passing neural networks](https://arxiv.org/abs/2406.04612)|[gatt](https://github.com/jordan7186/gatt)|
@@ -19,6 +36,7 @@
 |[boosting reinforcement learning with strongly delayed feedback through auxiliary short delays](https://arxiv.org/abs/2402.03141)|[ad-rl](https://github.com/qingyuanwunothing/ad-rl)|
 |[parameter-adaptive approximate mpc: tuning neural-network controllers without retraining](https://arxiv.org/abs/2404.05835)|[adaptive-ampc-cartpole](https://github.com/hshose/adaptive-ampc-cartpole)|
 |[privacy preserving semi-decentralized mean estimation over intermittently-connected networks](https://arxiv.org/abs/2406.03766)|[private-collaborative-relaying](https://github.com/rajarshisaha95/private-collaborative-relaying)|
+|[informed graph learning by domain knowledge injection and smooth graph signal representation](https://arxiv.org/abs/2406.03898)|[igl](https://github.com/keiv4n/igl)|
 |[active ml for 6g: towards efficient data generation, acquisition, and annotation](https://arxiv.org/abs/2406.03630)|[active_ML_6G](https://github.com/OmarSababha/active_ML_6G)|
 |[untrained neural nets for snapshot compressive imaging: theory and algorithms](https://arxiv.org/abs/2406.03694)|[SCI-BDVP](https://github.com/Computational-Imaging-RU/SCI-BDVP)|
 ## 2024-06-06
@@ -27,6 +45,7 @@
 |[lyapunov-stable neural control for state and output feedback: a novel formulation](https://arxiv.org/abs/2404.07956)|[lyapunov_stable_nn_controllers](https://github.com/verified-intelligence/lyapunov_stable_nn_controllers)|
 |[interpreting deepcode, a learned feedback code](https://arxiv.org/abs/2404.17519)|[deepcode-interpretability](https://github.com/zyy-cc/deepcode-interpretability)|
 |[random matrix theory improved fr\'echet mean of symmetric positive definite matrices](https://arxiv.org/abs/2405.06558)|[icml-rmt-2024](https://github.com/ammarmian/icml-rmt-2024)|
+|[constructive safety-critical control: synthesizing control barrier functions for partially feedback linearizable systems](https://arxiv.org/abs/2406.02709)|[reducedordermodelcbfs.jl](https://github.com/maxhcohen/reducedordermodelcbfs.jl)|
 |[sound heuristic search value iteration for undiscounted pomdps with reachability objectives](https://arxiv.org/abs/2406.02871)|[hsvi-rp](https://github.com/aria-systems-group/hsvi-rp)|
 |[commonpower: supercharging machine learning for smart grids](https://arxiv.org/abs/2406.03231)|[commonpower](https://github.com/tumcps/commonpower)|
 |[solving differential equations using physics-informed deep equilibrium models](https://arxiv.org/abs/2406.03472)|[pideq](https://github.com/brunompacheco/pideq)|
