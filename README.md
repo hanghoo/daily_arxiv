@@ -1,9 +1,24 @@
+## 2024-06-13
+|paper|code|
+|---|---|
+|[can transformers learn optimal filtering for unknown systems?](https://arxiv.org/abs/2308.08536)|[meta-output-predictor](https://github.com/haldunbalim/meta-output-predictor)|
+|[melep: a novel predictive measure of transferability in multi-label ecg diagnosis](https://arxiv.org/abs/2311.04224)|[melep-ecg](https://github.com/cuongvng/melep-ecg)|
+|[unitsa: a universal reinforcement learning framework for v2x traffic signal control](https://arxiv.org/abs/2312.05090)|[universal_light](https://github.com/wmn7/universal_light)|
+|[port-hamiltonian neural ode networks on lie groups for robot dynamics learning and control](https://arxiv.org/abs/2401.09520)|[LieGroupHamDL](https://github.com/thaipduong/LieGroupHamDL)|
+|[llm-assisted light: leveraging large language model capabilities for human-mimetic traffic signal control in complex urban environments](https://arxiv.org/abs/2403.08337)|[llm-assisted-light](https://github.com/traffic-alpha/llm-assisted-light)|
+|[provably robust score-based diffusion posterior sampling for plug-and-play image reconstruction](https://arxiv.org/abs/2403.17042)|[diffusion-plug-and-play](https://github.com/x1xu/diffusion-plug-and-play)|
+|[regime learning for differentiable particle filters](https://arxiv.org/abs/2405.04865)|[Regime_Switching](https://github.com/John-JoB/Regime_Switching)|
+|[approximation properties relative to continuous scale space for hybrid discretizations of gaussian derivative operators](https://arxiv.org/abs/2405.05095)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[bcamirs at semeval-2024 task 4: beyond words: a multimodal and multilingual exploration of persuasion in memes](https://arxiv.org/abs/2404.03022)|[beyond-words-a-multimodal-exploration-of-persuasion-in-memes](https://github.com/amirabaskohi/beyond-words-a-multimodal-exploration-of-persuasion-in-memes)|
+|[individual packet features are a risk to model generalisation in ml-based intrusion detection](https://arxiv.org/abs/2406.07578)|[IPF](https://github.com/kahramankostas/IPF)|
 ## 2024-06-12
 |paper|code|
 |---|---|
 |[optimization-based motion planning for autonomous agricultural vehicles turning in constrained headlands](https://arxiv.org/abs/2308.01117)|[headland_trajectory_planning](https://github.com/agroboticsresearch/headland_trajectory_planning)|
+|[disco might not be funky: random intelligent reflective surface configurations that attack](https://arxiv.org/abs/2310.00687)|[disco-intelligent-reflecting-surfaces-active-channel-aging-for-fully-passive-jamming-attacks](https://github.com/huanhuan1799/disco-intelligent-reflecting-surfaces-active-channel-aging-for-fully-passive-jamming-attacks)|
 |[room transfer function reconstruction using complex-valued neural networks and irregularly distributed microphones](https://arxiv.org/abs/2402.04866)|[complex-sound-field](https://github.com/ronfrancesca/complex-sound-field)|
 |[flexloc: conditional neural networks for zero-shot sensor perspective invariance in object localization with distributed multimodal sensors](https://arxiv.org/abs/2406.06796)|[flexloc](https://github.com/nesl/flexloc)|
+|[accelerating ill-conditioned hankel matrix recovery via structured newton-like descent](https://arxiv.org/abs/2406.07409)|[HSNLD](https://github.com/caesarcai/HSNLD)|
 |[analog information decoding of bosonic quantum ldpc codes](https://arxiv.org/abs/2311.01328)|[mqt-qecc](https://github.com/cda-tum/mqt-qecc)|
 |[scaling large-language-model-based multi-agent collaboration](https://arxiv.org/abs/2406.07155)|[chatdev](https://github.com/openbmb/chatdev)|
 |[image and video tokenization with binary spherical quantization](https://arxiv.org/abs/2406.07548)|[bsq-vit](https://github.com/zhaoyue-zephyrus/bsq-vit)|
@@ -13,11 +28,14 @@
 |[a unified multi-task semantic communication system for multimodal data](https://arxiv.org/abs/2209.07689)|[t-udeepsc](https://github.com/zhang-guangyi/t-udeepsc)|
 |[comparisons of two-stage models for flood mitigation of electrical substations](https://arxiv.org/abs/2302.12872)|[2023.0125](https://github.com/INFORMSJoC/2023.0125)|
 |[dh-ptam: a deep hybrid stereo events-frames parallel tracking and mapping system](https://arxiv.org/abs/2306.01891)|[dh-ptam](https://github.com/abanobsoliman/dh-ptam)|
+|[distributionally robust receive beamforming](https://arxiv.org/abs/2401.12345)|[beamforming](https://github.com/spratm-asleaf/beamforming)|
 |[global geolocated realtime data of interfleet urban transit bus idling](https://arxiv.org/abs/2403.03489)|[idling](https://github.com/nickkunz/idling)|
 |[solving inverse problems with model mismatch using untrained neural networks within model-based architectures](https://arxiv.org/abs/2403.04847)|[a-adaptive-model-based-methods](https://github.com/invprobs/a-adaptive-model-based-methods)|
 |[singing voice graph modeling for singfake detection](https://arxiv.org/abs/2406.03111)|[singgraph](https://github.com/xjchengit/singgraph)|
 |[compressible dynamics in deep overparameterized low-rank learning & adaptation](https://arxiv.org/abs/2406.04112)|[deep-lora-transformers](https://github.com/cjyaras/deep-lora-transformers)|
 |[winner-takes-all learners are geometry-aware conditional density estimators](https://arxiv.org/abs/2406.04706)|[VoronoiWTA](https://github.com/Victorletzelter/VoronoiWTA)|
+|[risk-aware finite-horizon social optimal control of mean-field coupled linear-quadratic subsystems](https://arxiv.org/abs/2406.05239)|[risk-aware-mean-field-coupled-lq-simulations-and-plots](https://github.com/pateldhairya0328/risk-aware-mean-field-coupled-lq-simulations-and-plots)|
+|[soundscape captioning using sound affective quality network and large language model](https://arxiv.org/abs/2406.05914)|[soundscaper](https://github.com/yuanbo2020/soundscaper)|
 |[lessons from generalization error analysis of federated learning: you may communicate less often!](https://arxiv.org/abs/2306.05862)|[generalization_fl_icml2024](https://github.com/romainchor/generalization_fl_icml2024)|
 |[localized adaptive risk control](https://arxiv.org/abs/2405.07976)|[localized-adaptive-risk-control](https://github.com/kclip/localized-adaptive-risk-control)|
 |[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
