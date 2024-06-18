@@ -1,3 +1,13 @@
+## 2024-06-17
+|paper|code|
+|---|---|
+|[neural operators for pde backstepping control of first-order hyperbolic pide with recycle and delay](https://arxiv.org/abs/2307.11436)|[no_hyperbolic_delay](https://github.com/jingzhang-jz/no_hyperbolic_delay)|
+|[guarantees on robot system performance using stochastic simulation rollouts](https://arxiv.org/abs/2309.10874)|[performance_guarantees](https://github.com/stanfordmsl/performance_guarantees)|
+|[semantic: semantic interference cancellation towards 6g wireless communications](https://arxiv.org/abs/2310.12768)|[SemantIC](https://github.com/linwest/SemantIC)|
+|[harmonics of learning: universal fourier features emerge in invariant networks](https://arxiv.org/abs/2312.08550)|[spectral-universality](https://github.com/sophiaas/spectral-universality)|
+|[some contributions to lagrangian modelling of power converters](https://arxiv.org/abs/2406.09826)|[H-F-Dc-Dc-Power-converters](https://github.com/ShakirSofi/H-F-Dc-Dc-Power-converters)|
+|[version control of speaker recognition systems](https://arxiv.org/abs/2007.12069)|[SpeakerVerSim](https://github.com/wq2012/SpeakerVerSim)|
+|[algebra of nonlocal boxes and the collapse of communication complexity](https://arxiv.org/abs/2312.00725)|[algebra-of-boxes-code](https://github.com/pierre-botteron/algebra-of-boxes-code)|
 ## 2024-06-14
 |paper|code|
 |---|---|
