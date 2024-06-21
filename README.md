@@ -1,3 +1,7 @@
+## 2024-06-20
+|paper|code|
+|---|---|
+|[autonomous integration of tsn-unaware applications with qos requirements in tsn networks](https://arxiv.org/abs/2402.16454)|[tsn-unaware-integration](https://github.com/uni-tue-kn/tsn-unaware-integration)|
 ## 2024-06-19
 |paper|code|
 |---|---|
