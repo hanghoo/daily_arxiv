@@ -1,3 +1,14 @@
+## 2024-06-21
+|paper|code|
+|---|---|
+|[self-supervised learning for human activity recognition using 700,000 person-days of wearable data](https://arxiv.org/abs/2206.02909)|[ssl-wearables](https://github.com/OxWearables/ssl-wearables)|
+|[vessim: a testbed for carbon-aware applications and systems](https://arxiv.org/abs/2306.09774)|[vessim](https://github.com/dos-group/vessim)|
+|[using power system modelling outputs to identify weather-induced extreme events in highly renewable systems](https://arxiv.org/abs/2307.13520)|[stressful-weather](https://github.com/koen-vg/stressful-weather)|
+|[agent coordination via contextual regression (agentconcur) for data center flexibility](https://arxiv.org/abs/2309.16792)|[agentconcur](https://github.com/wdvorkin/agentconcur)|
+|[reachability analysis using constrained polynomial logical zonotopes](https://arxiv.org/abs/2403.18564)|[Logical-Zonotope](https://github.com/aalanwar/Logical-Zonotope)|
+|[eeg-dbnet: a dual-branch network for temporal-spectral decoding in motor-imagery brain-computer interfaces](https://arxiv.org/abs/2405.16090)|[eeg-dbnet](https://github.com/xicheng105/eeg-dbnet)|
+|[abnet: attention barriernet for safe and scalable robot learning](https://arxiv.org/abs/2406.13025)|[ABNet](https://github.com/Weixy21/ABNet)|
+|[on the inductive biases of demographic parity-based fair learning algorithms](https://arxiv.org/abs/2402.18129)|[fairness-ib](https://github.com/lh218/fairness-ib)|
 ## 2024-06-20
 |paper|code|
 |---|---|
