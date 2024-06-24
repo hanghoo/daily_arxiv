@@ -16,7 +16,6 @@
 ## 2024-06-19
 |paper|code|
 |---|---|
-|[a geometry-based stochastic wireless channel model using channel images](https://arxiv.org/abs/2312.06637)|[geostochasticchanmodel](https://github.com/sk8053/geostochasticchanmodel)|
 |[a comparison benchmark for distributed hybrid mpc control methods: distributed vehicle platooning](https://arxiv.org/abs/2401.09878)|[hybrid-vehicle-platoon](https://github.com/SamuelMallick/hybrid-vehicle-platoon)|
 |[eeg2rep: enhancing self-supervised eeg representation through informative masked inputs](https://arxiv.org/abs/2402.17772)|[eeg2rep](https://github.com/navidfoumani/eeg2rep)|
 |[interpretable modulated differentiable stft and physics-informed balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations](https://arxiv.org/abs/2406.11917)|[PyDSN](https://github.com/liguge/PyDSN)|
