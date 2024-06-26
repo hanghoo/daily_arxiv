@@ -1,9 +1,18 @@
+## 2024-06-25
+|paper|code|
+|---|---|
+|[motion-robust free-running volumetric cardiovascular mri](https://arxiv.org/abs/2308.02088)|[motion-robust-CMR](https://github.com/OSU-MR/motion-robust-CMR)|
+|[discrete approximations of gaussian smoothing and gaussian derivatives](https://arxiv.org/abs/2311.11317)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[enhancing system-level safety in mixed-autonomy platoon via safe reinforcement learning](https://arxiv.org/abs/2401.11148)|[Safe_RL_Mixed_Traffic](https://github.com/JingyuanZhou/Safe_RL_Mixed_Traffic)|
+|[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
+|[differentiable distributionally robust optimization layers](https://arxiv.org/abs/2406.16571)|[differentiable_dro_layers](https://github.com/docu-lab/differentiable_dro_layers)|
+|[learning and communications co-design for remote inference systems: feature length selection and transmission scheduling](https://arxiv.org/abs/2308.10094)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
 ## 2024-06-24
 |paper|code|
 |---|---|
 |[a comparative study of deep learning and iterative algorithms for joint channel estimation and signal detection in ofdm systems](https://arxiv.org/abs/2303.03678)|[mimo_jcesd](https://github.com/j991222/mimo_jcesd)|
 |[a geometry-based stochastic wireless channel model using channel images](https://arxiv.org/abs/2312.06637)|[geostochasticchanmodel](https://github.com/sk8053/geostochasticchanmodel)|
-|[explainable online unsupervised anomaly detection for cyber-physical systems via causal discovery from time series](https://arxiv.org/abs/2404.09871)|[causal_anomaly_detection](https://github.com/isla-lab/causal_anomaly_detection)|
+|[diffusion-based failure sampling for cyber-physical systems](https://arxiv.org/abs/2406.14761)|[difs](https://github.com/sisl/difs)|
 |[large language model-driven curriculum design for mobile networks](https://arxiv.org/abs/2405.18039)|[LLM-CL](https://github.com/OmarErak/LLM-CL)|
 ## 2024-06-21
 |paper|code|
