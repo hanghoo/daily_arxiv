@@ -1,3 +1,15 @@
+## 2024-06-26
+|paper|code|
+|---|---|
+|[coordinate-based neural representations for computational adaptive optics in widefield microscopy](https://arxiv.org/abs/2307.03812)|[cocoa](https://github.com/iksungk/cocoa)|
+|[multi-modal conformal prediction regions with simple structures by optimizing convex shape templates](https://arxiv.org/abs/2312.07434)|[conformal_region_designer](https://github.com/nandantumu/conformal_region_designer)|
+|[neuromorphic control of a pendulum](https://arxiv.org/abs/2404.05339)|[neuromorphic-pendulum-control](https://github.com/rjzs/neuromorphic-pendulum-control)|
+|[explainable online unsupervised anomaly detection for cyber-physical systems via causal discovery from time series](https://arxiv.org/abs/2404.09871)|[causal_anomaly_detection](https://github.com/isla-lab/causal_anomaly_detection)|
+|[convex optimization of initial perturbations toward quantitative weather control](https://arxiv.org/abs/2405.19546)|[Weather-Control-by-InitCond](https://github.com/ohtsukalab/Weather-Control-by-InitCond)|
+|[mind's eye: image recognition by eeg via multimodal similarity-keeping contrastive learning](https://arxiv.org/abs/2406.16910)|[MUSE_EEG](https://github.com/ChiShengChen/MUSE_EEG)|
+|[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
+|[evaluating ml-based anomaly detection across datasets of varied integrity: a case study](https://arxiv.org/abs/2401.16843)|[cyberml-dataquality](https://github.com/flowfrontiers/cyberml-dataquality)|
+|[joint admission control and resource allocation of virtual network embedding via hierarchical deep reinforcement learning](https://arxiv.org/abs/2406.17334)|[hrl-acra](https://github.com/geminilight/hrl-acra)|
 ## 2024-06-25
 |paper|code|
 |---|---|
@@ -5,6 +17,7 @@
 |[discrete approximations of gaussian smoothing and gaussian derivatives](https://arxiv.org/abs/2311.11317)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
 |[enhancing system-level safety in mixed-autonomy platoon via safe reinforcement learning](https://arxiv.org/abs/2401.11148)|[Safe_RL_Mixed_Traffic](https://github.com/JingyuanZhou/Safe_RL_Mixed_Traffic)|
 |[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
+|[combining neural networks and symbolic regression for analytical lyapunov function discovery](https://arxiv.org/abs/2406.15675)|[CoNSAL](https://github.com/HaohanZou/CoNSAL)|
 |[differentiable distributionally robust optimization layers](https://arxiv.org/abs/2406.16571)|[differentiable_dro_layers](https://github.com/docu-lab/differentiable_dro_layers)|
 |[learning and communications co-design for remote inference systems: feature length selection and transmission scheduling](https://arxiv.org/abs/2308.10094)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
 ## 2024-06-24
