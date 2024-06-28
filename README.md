@@ -1,3 +1,14 @@
+## 2024-06-27
+|paper|code|
+|---|---|
+|[algorithm to find new identifiable reparametrizations of parametric rational ode models](https://arxiv.org/abs/2310.03057)|[new-identifiable-reparametrizations](https://github.com/alexeyovchinnikov/new-identifiable-reparametrizations)|
+|[federated learning compression designed for lightweight communications](https://arxiv.org/abs/2310.14693)|[fl_exps](https://github.com/lgrativol/fl_exps)|
+|[whalenet: a novel deep learning architecture for marine mammals vocalizations on watkins marine mammal sound database](https://arxiv.org/abs/2402.17775)|[whalenet](https://github.com/alelicciardi99/whalenet)|
+|[listening to the noise: blind denoising with gibbs diffusion](https://arxiv.org/abs/2402.19455)|[gibbs-diffusion](https://github.com/rubenohana/gibbs-diffusion)|
+|[bounding stochastic safety: leveraging freedman's inequality with discrete-time control barrier functions](https://arxiv.org/abs/2403.05745)|[freedman](https://github.com/rkcosner/freedman)|
+|[towards task-compatible compressible representations](https://arxiv.org/abs/2405.10244)|[research](https://github.com/adeandrade/research)|
+|[benchmarking mortality risk prediction from electrocardiograms](https://arxiv.org/abs/2406.17002)|[ecg-survival-benchmark](https://github.com/cavalab/ecg-survival-benchmark)|
+|[emt: a novel transformer for generalized cross-subject eeg emotion recognition](https://arxiv.org/abs/2406.18345)|[emt](https://github.com/yi-ding-cs/emt)|
 ## 2024-06-26
 |paper|code|
 |---|---|
@@ -7,17 +18,22 @@
 |[explainable online unsupervised anomaly detection for cyber-physical systems via causal discovery from time series](https://arxiv.org/abs/2404.09871)|[causal_anomaly_detection](https://github.com/isla-lab/causal_anomaly_detection)|
 |[convex optimization of initial perturbations toward quantitative weather control](https://arxiv.org/abs/2405.19546)|[Weather-Control-by-InitCond](https://github.com/ohtsukalab/Weather-Control-by-InitCond)|
 |[mind's eye: image recognition by eeg via multimodal similarity-keeping contrastive learning](https://arxiv.org/abs/2406.16910)|[MUSE_EEG](https://github.com/ChiShengChen/MUSE_EEG)|
+|[constructing structured tensor priors for bayesian inverse problems](https://arxiv.org/abs/2406.17597)|[AbTensors](https://github.com/TUDelft-DeTAIL/AbTensors)|
 |[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
 |[evaluating ml-based anomaly detection across datasets of varied integrity: a case study](https://arxiv.org/abs/2401.16843)|[cyberml-dataquality](https://github.com/flowfrontiers/cyberml-dataquality)|
 |[joint admission control and resource allocation of virtual network embedding via hierarchical deep reinforcement learning](https://arxiv.org/abs/2406.17334)|[hrl-acra](https://github.com/geminilight/hrl-acra)|
 ## 2024-06-25
 |paper|code|
 |---|---|
+|[sigma-point kalman filter with nonlinear unknown input estimation via optimization and data-driven approach for dynamic systems](https://arxiv.org/abs/2306.12361)|[SPKF-nUI](https://github.com/ljun0004/SPKF-nUI)|
 |[motion-robust free-running volumetric cardiovascular mri](https://arxiv.org/abs/2308.02088)|[motion-robust-CMR](https://github.com/OSU-MR/motion-robust-CMR)|
 |[discrete approximations of gaussian smoothing and gaussian derivatives](https://arxiv.org/abs/2311.11317)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[markov chain monte carlo multi-scan data association for sets of trajectories](https://arxiv.org/abs/2312.03423)|[batch-tpmbm-using-mcmc-sampling](https://github.com/yuhsuansia/batch-tpmbm-using-mcmc-sampling)|
 |[enhancing system-level safety in mixed-autonomy platoon via safe reinforcement learning](https://arxiv.org/abs/2401.11148)|[Safe_RL_Mixed_Traffic](https://github.com/JingyuanZhou/Safe_RL_Mixed_Traffic)|
 |[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
 |[combining neural networks and symbolic regression for analytical lyapunov function discovery](https://arxiv.org/abs/2406.15675)|[CoNSAL](https://github.com/HaohanZou/CoNSAL)|
+|[automatic ai model selection for wireless systems: online learning via digital twinning](https://arxiv.org/abs/2406.15819)|[DT-powered-AMS](https://github.com/qiushuo0913/DT-powered-AMS)|
+|[compact model parameter extraction via derivative-free optimization](https://arxiv.org/abs/2406.16355)|[dfo_parameter_extraction](https://github.com/rafapm/dfo_parameter_extraction)|
 |[differentiable distributionally robust optimization layers](https://arxiv.org/abs/2406.16571)|[differentiable_dro_layers](https://github.com/docu-lab/differentiable_dro_layers)|
 |[learning and communications co-design for remote inference systems: feature length selection and transmission scheduling](https://arxiv.org/abs/2308.10094)|[impact-of-data-freshness-in-learning](https://github.com/kamran0153/impact-of-data-freshness-in-learning)|
 ## 2024-06-24
@@ -27,6 +43,7 @@
 |[a geometry-based stochastic wireless channel model using channel images](https://arxiv.org/abs/2312.06637)|[geostochasticchanmodel](https://github.com/sk8053/geostochasticchanmodel)|
 |[diffusion-based failure sampling for cyber-physical systems](https://arxiv.org/abs/2406.14761)|[difs](https://github.com/sisl/difs)|
 |[large language model-driven curriculum design for mobile networks](https://arxiv.org/abs/2405.18039)|[LLM-CL](https://github.com/OmarErak/LLM-CL)|
+|[reinforcement-learning based routing for packet-optical networks with hybrid telemetry](https://arxiv.org/abs/2406.12602)|[packetopticallatencyrl](https://github.com/alexgaarciia/packetopticallatencyrl)|
 ## 2024-06-21
 |paper|code|
 |---|---|
