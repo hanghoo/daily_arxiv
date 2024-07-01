@@ -3,13 +3,13 @@
 |---|---|
 |[real-time machine-learning-based optimization using input convex lstm](https://arxiv.org/abs/2311.07202)|[iclstm](https://github.com/killingbear999/iclstm)|
 |[a deep automotive radar detector using the radelft dataset](https://arxiv.org/abs/2406.04723)|[RaDelft-Dataset](https://github.com/RaDelft/RaDelft-Dataset)|
+|[robust low-cost drone detection and classification in low snr environments](https://arxiv.org/abs/2406.18624)|[noisy-drone-rf-signal-classification-v2](https://github.com/sgluege/noisy-drone-rf-signal-classification-v2)|
 |[incremental measurement of structural entropy for dynamic graphs](https://arxiv.org/abs/2207.12653)|[incre-se](https://github.com/yangrunze1013/incre-se)|
 |[partial information decomposition: redundancy as information bottleneck](https://arxiv.org/abs/2405.07665)|[pid-as-ib](https://github.com/artemyk/pid-as-ib)|
 |[local to global: learning dynamics and effect of initialization for transformers](https://arxiv.org/abs/2406.03072)|[markov](https://github.com/bond1995/markov)|
 ## 2024-06-27
 |paper|code|
 |---|---|
-|[algorithm to find new identifiable reparametrizations of parametric rational ode models](https://arxiv.org/abs/2310.03057)|[new-identifiable-reparametrizations](https://github.com/alexeyovchinnikov/new-identifiable-reparametrizations)|
 |[federated learning compression designed for lightweight communications](https://arxiv.org/abs/2310.14693)|[fl_exps](https://github.com/lgrativol/fl_exps)|
 |[whalenet: a novel deep learning architecture for marine mammals vocalizations on watkins marine mammal sound database](https://arxiv.org/abs/2402.17775)|[whalenet](https://github.com/alelicciardi99/whalenet)|
 |[listening to the noise: blind denoising with gibbs diffusion](https://arxiv.org/abs/2402.19455)|[gibbs-diffusion](https://github.com/rubenohana/gibbs-diffusion)|
@@ -24,8 +24,9 @@
 |[multi-modal conformal prediction regions with simple structures by optimizing convex shape templates](https://arxiv.org/abs/2312.07434)|[conformal_region_designer](https://github.com/nandantumu/conformal_region_designer)|
 |[neuromorphic control of a pendulum](https://arxiv.org/abs/2404.05339)|[neuromorphic-pendulum-control](https://github.com/rjzs/neuromorphic-pendulum-control)|
 |[explainable online unsupervised anomaly detection for cyber-physical systems via causal discovery from time series](https://arxiv.org/abs/2404.09871)|[causal_anomaly_detection](https://github.com/isla-lab/causal_anomaly_detection)|
-|[convex optimization of initial perturbations toward quantitative weather control](https://arxiv.org/abs/2405.19546)|[Weather-Control-by-InitCond](https://github.com/ohtsukalab/Weather-Control-by-InitCond)|
 |[mind's eye: image recognition by eeg via multimodal similarity-keeping contrastive learning](https://arxiv.org/abs/2406.16910)|[MUSE_EEG](https://github.com/ChiShengChen/MUSE_EEG)|
+|[a multi-resolution mutual learning network for multi-label ecg classification](https://arxiv.org/abs/2406.16928)|[mrm](https://github.com/wxhdf/mrm)|
+|[xi-net: transformer based seismic waveform reconstructor](https://arxiv.org/abs/2406.16932)|[waveformreconstructor](https://github.com/anshuman04/waveformreconstructor)|
 |[constructing structured tensor priors for bayesian inverse problems](https://arxiv.org/abs/2406.17597)|[AbTensors](https://github.com/TUDelft-DeTAIL/AbTensors)|
 |[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
 |[evaluating ml-based anomaly detection across datasets of varied integrity: a case study](https://arxiv.org/abs/2401.16843)|[cyberml-dataquality](https://github.com/flowfrontiers/cyberml-dataquality)|
