@@ -1,11 +1,26 @@
+## 2024-07-02
+|paper|code|
+|---|---|
+|[towards improving unit commitment economics: an add-on tailor for renewable energy and reserve predictions](https://arxiv.org/abs/2208.13065)|[bilevel_mip_cpo](https://github.com/asxadf/bilevel_mip_cpo)|
+|[turbidity control in sedimentation columns by direction dependent models](https://arxiv.org/abs/2305.18605)|[tunepi](https://gitlab.com/toledozucco/tunepi)|
+|[on completeness of sdp-based barrier certificate synthesis over unbounded domains](https://arxiv.org/abs/2312.15416)|[bcunbounded](https://github.com/ecstasyh/bcunbounded)|
+|[stimulus-informed generalized canonical correlation analysis for group analysis of neural responses to natural stimuli](https://arxiv.org/abs/2401.17841)|[si-gcca](https://github.com/alexanderbertrandlab/si-gcca)|
+|[integrating pre-trained language model with physical layer communications](https://arxiv.org/abs/2402.11656)|[on-device-ai-comm](https://github.com/abman23/on-device-ai-comm)|
+|[srvit: vision transformers for estimating radar reflectivity from satellite observations at scale](https://arxiv.org/abs/2406.16955)|[srvit](https://github.com/stockeh/srvit)|
+|[robust low-cost drone detection and classification in low snr environments](https://arxiv.org/abs/2406.18624)|[noisy-drone-rf-signal-classification-v2](https://github.com/sgluege/noisy-drone-rf-signal-classification-v2)|
+|[uav trajectory planning with path processing](https://arxiv.org/abs/2407.01366)|[TrajectoryPathProcess](https://github.com/zboucek/TrajectoryPathProcess)|
+|[neural distributed source coding](https://arxiv.org/abs/2106.02797)|[neural-dsc](https://github.com/acnagle/neural-dsc)|
+|[generalization error of graph neural networks in the mean-field regime](https://arxiv.org/abs/2402.07025)|[gnn_mf_ge](https://github.com/sherylhyx/gnn_mf_ge)|
 ## 2024-07-01
 |paper|code|
 |---|---|
+|[linear periodically time-variant digital pll phase noise modeling using conversion matrices and uncorrelated upsampling](https://arxiv.org/abs/2401.13897)|[PLL](https://github.com/patmercier/PLL)|
 |[spatio-spectral structure tensor total variation for hyperspectral image denoising and destriping](https://arxiv.org/abs/2404.03313)|[spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping](https://github.com/mdi-tokyotech/spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping)|
 |[convex optimization of initial perturbations toward quantitative weather control](https://arxiv.org/abs/2405.19546)|[Weather-Control-by-InitCond](https://github.com/ohtsukalab/Weather-Control-by-InitCond)|
 |[solving differential equations using physics-informed deep equilibrium models](https://arxiv.org/abs/2406.03472)|[pideq](https://github.com/brunompacheco/pideq)|
 |[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
 |[kernel vs. kernel: exploring how the data structure affects neural collapse](https://arxiv.org/abs/2406.02105)|[shallow_nc1](https://github.com/kvignesh1420/shallow_nc1)|
+|[machine learning predictors for min-entropy estimation](https://arxiv.org/abs/2406.19983)|[ml-predictors-min-entropy-estimation](https://github.com/qursa-uc3m/ml-predictors-min-entropy-estimation)|
 ## 2024-06-28
 |paper|code|
 |---|---|
