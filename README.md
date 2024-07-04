@@ -1,3 +1,12 @@
+## 2024-07-03
+|paper|code|
+|---|---|
+|[rapid scalable distributed power flow with open-source implementation](https://arxiv.org/abs/2203.16335)|[rapidPF](https://github.com/xinliang-dai/rapidPF)|
+|[hypergraph-based fast distributed ac power flow optimization](https://arxiv.org/abs/2307.06728)|[rapidPF](https://github.com/xinliang-dai/rapidPF)|
+|[deep imbalanced regression to estimate vascular age from ppg data: a novel digital biomarker for cardiovascular health](https://arxiv.org/abs/2406.14953)|[Dist-Loss](https://github.com/Ngk03/Dist-Loss)|
+|[comparative evaluation of learning models for bionic robots: non-linear transfer function identifications](https://arxiv.org/abs/2407.02428)|[model-free-robotics](https://github.com/poyuhs/model-free-robotics)|
+|[accelerating time-to-science by streaming detector data directly into perlmutter compute nodes](https://arxiv.org/abs/2403.14352)|[streaming-paper-with-code](https://github.com/swelborn/streaming-paper-with-code)|
+|[optimizing age of information in vehicular edge computing with federated graph neural network multi-agent reinforcement learning](https://arxiv.org/abs/2407.02342)|[optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning](https://github.com/qiongwu86/optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning)|
 ## 2024-07-02
 |paper|code|
 |---|---|
