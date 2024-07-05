@@ -1,3 +1,10 @@
+## 2024-07-04
+|paper|code|
+|---|---|
+|[fullsubnet: a full-band and sub-band fusion model for real-time single-channel speech enhancement](https://arxiv.org/abs/2010.15508)|[FullSubNet](https://github.com/haoxiangsnr/FullSubNet)|
+|[regret optimal control for uncertain stochastic systems](https://arxiv.org/abs/2304.14835)|[scenariosafeminregret](https://github.com/decodepfl/scenariosafeminregret)|
+|[comparing lazy constraint selection strategies in train routing with moving block control](https://arxiv.org/abs/2405.18977)|[mtct](https://github.com/cda-tum/mtct)|
+|[evaluating ml-based anomaly detection across datasets of varied integrity: a case study](https://arxiv.org/abs/2401.16843)|[cyberml-dataquality](https://github.com/flowfrontiers/cyberml-dataquality)|
 ## 2024-07-03
 |paper|code|
 |---|---|
