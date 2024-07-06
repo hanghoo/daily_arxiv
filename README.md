@@ -11,6 +11,7 @@
 |[rapid scalable distributed power flow with open-source implementation](https://arxiv.org/abs/2203.16335)|[rapidPF](https://github.com/xinliang-dai/rapidPF)|
 |[hypergraph-based fast distributed ac power flow optimization](https://arxiv.org/abs/2307.06728)|[rapidPF](https://github.com/xinliang-dai/rapidPF)|
 |[deep imbalanced regression to estimate vascular age from ppg data: a novel digital biomarker for cardiovascular health](https://arxiv.org/abs/2406.14953)|[Dist-Loss](https://github.com/Ngk03/Dist-Loss)|
+|[adaptive control of reaction-diffusion pdes via neural operator-approximated gain kernels](https://arxiv.org/abs/2407.01745)|[NeuralOperatorParabolicAdaptiveControl](https://github.com/lukebhan/NeuralOperatorParabolicAdaptiveControl)|
 |[comparative evaluation of learning models for bionic robots: non-linear transfer function identifications](https://arxiv.org/abs/2407.02428)|[model-free-robotics](https://github.com/poyuhs/model-free-robotics)|
 |[accelerating time-to-science by streaming detector data directly into perlmutter compute nodes](https://arxiv.org/abs/2403.14352)|[streaming-paper-with-code](https://github.com/swelborn/streaming-paper-with-code)|
 |[optimizing age of information in vehicular edge computing with federated graph neural network multi-agent reinforcement learning](https://arxiv.org/abs/2407.02342)|[optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning](https://github.com/qiongwu86/optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning)|
@@ -21,9 +22,14 @@
 |[turbidity control in sedimentation columns by direction dependent models](https://arxiv.org/abs/2305.18605)|[tunepi](https://gitlab.com/toledozucco/tunepi)|
 |[on completeness of sdp-based barrier certificate synthesis over unbounded domains](https://arxiv.org/abs/2312.15416)|[bcunbounded](https://github.com/ecstasyh/bcunbounded)|
 |[stimulus-informed generalized canonical correlation analysis for group analysis of neural responses to natural stimuli](https://arxiv.org/abs/2401.17841)|[si-gcca](https://github.com/alexanderbertrandlab/si-gcca)|
+|[structure-preserving discretization and model order reduction of boundary-controlled 1d port-hamiltonian systems](https://arxiv.org/abs/2402.06425)|[drb](https://gitlab.com/toledozucco/drb)|
 |[integrating pre-trained language model with physical layer communications](https://arxiv.org/abs/2402.11656)|[on-device-ai-comm](https://github.com/abman23/on-device-ai-comm)|
 |[srvit: vision transformers for estimating radar reflectivity from satellite observations at scale](https://arxiv.org/abs/2406.16955)|[srvit](https://github.com/stockeh/srvit)|
 |[robust low-cost drone detection and classification in low snr environments](https://arxiv.org/abs/2406.18624)|[noisy-drone-rf-signal-classification-v2](https://github.com/sgluege/noisy-drone-rf-signal-classification-v2)|
+|[large language models for power scheduling: a user-centric approach](https://arxiv.org/abs/2407.00476)|[llm-power-scheduling](https://github.com/thomasmong/llm-power-scheduling)|
+|[dadee: well-calibrated uncertainty quantification in neural networks for barriers-based robot safety](https://arxiv.org/abs/2407.00616)|[DADEE](https://github.com/Ataei67/DADEE)|
+|[marlp: time-series forecasting control for agricultural managed aquifer recharge](https://arxiv.org/abs/2407.01005)|[kdd24_marlp](https://github.com/ycucm/kdd24_marlp)|
+|[bayesian grey-box identification of nonlinear convection effects in heat transfer dynamics](https://arxiv.org/abs/2407.01226)|[CCTA2024-BIDconvection](https://github.com/biaslab/CCTA2024-BIDconvection)|
 |[uav trajectory planning with path processing](https://arxiv.org/abs/2407.01366)|[TrajectoryPathProcess](https://github.com/zboucek/TrajectoryPathProcess)|
 |[neural distributed source coding](https://arxiv.org/abs/2106.02797)|[neural-dsc](https://github.com/acnagle/neural-dsc)|
 |[generalization error of graph neural networks in the mean-field regime](https://arxiv.org/abs/2402.07025)|[gnn_mf_ge](https://github.com/sherylhyx/gnn_mf_ge)|
