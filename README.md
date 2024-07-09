@@ -1,3 +1,17 @@
+## 2024-07-08
+|paper|code|
+|---|---|
+|[neuro-bert: rethinking masked autoencoding for self-supervised neurological pretraining](https://arxiv.org/abs/2204.12440)|[OpenBioSeq](https://github.com/Westlake-AI/OpenBioSeq)|
+|[design tasks and their complexity for the european train control system with hybrid train detection](https://arxiv.org/abs/2308.02572)|[mtct](https://github.com/cda-tum/mtct)|
+|[swinjscc: taming swin transformer for deep joint source-channel coding](https://arxiv.org/abs/2308.09361)|[swinjscc](https://github.com/semcomm/swinjscc)|
+|[learning multi-frequency partial correlation graphs](https://arxiv.org/abs/2311.15756)|[bspcg](https://github.com/officiallydac/bspcg)|
+|[mt-hccar: multi-task deep learning with hierarchical classification and attention-based regression for cloud property retrieval](https://arxiv.org/abs/2401.16520)|[mt-hccar](https://github.com/ai-4-atmosphere-remote-sensing/mt-hccar)|
+|[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
+|[comparative evaluation of learning models for bionic robots: non-linear transfer function identifications](https://arxiv.org/abs/2407.02428)|[model-free-robotics](https://github.com/poyuhs/model-free-robotics)|
+|[biometric authentication based on enhanced remote photoplethysmography signal morphology](https://arxiv.org/abs/2407.04127)|[rppg_biometrics](https://github.com/zhaodongsun/rppg_biometrics)|
+|[inference through innovation processes tested in the authorship attribution task](https://arxiv.org/abs/2306.05186)|[InnovationProcessesInference](https://github.com/GiulioTani/InnovationProcessesInference)|
+|[wetlinks: a large-scale longitudinal starlink dataset with contiguous weather data](https://arxiv.org/abs/2402.16448)|[wetlinks](https://github.com/sys-uos/wetlinks)|
+|[starlink on the road: a first look at mobile starlink performance in central europe](https://arxiv.org/abs/2403.13497)|[starlink-on-the-road](https://github.com/sys-uos/starlink-on-the-road)|
 ## 2024-07-04
 |paper|code|
 |---|---|
