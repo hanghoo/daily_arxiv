@@ -1,3 +1,15 @@
+## 2024-07-09
+|paper|code|
+|---|---|
+|[towards improving unit commitment economics: an add-on tailor for renewable energy and reserve predictions](https://arxiv.org/abs/2208.13065)|[bilevel_mip_cpo](https://github.com/asxadf/bilevel_mip_cpo)|
+|[an active learning method for solving competitive multi-agent decision-making and control problems](https://arxiv.org/abs/2212.12561)|[gnep-learn](https://github.com/bemporad/gnep-learn)|
+|[identifiable specializations for ode models](https://arxiv.org/abs/2308.16273)|[identifiable-specializations-for-ode-models](https://github.com/alexeyovchinnikov/identifiable-specializations-for-ode-models)|
+|[cafnet: a confidence-driven framework for radar camera depth estimation](https://arxiv.org/abs/2407.00697)|[cafnet](https://github.com/harborsarah/cafnet)|
+|[annotation of sleep depth index with scalable deep learning yields novel digital biomarkers for sleep health](https://arxiv.org/abs/2407.04753)|[SDI](https://github.com/sczzz3/SDI)|
+|[ldgcn: an edge-end lightweight dual gcn based on single-channel eeg for driver drowsiness monitoring](https://arxiv.org/abs/2407.05749)|[driver-drowsiness-monitoring](https://github.com/bryantdom/driver-drowsiness-monitoring)|
+|[sem-o-ran: semantic and flexible o-ran slicing for nextg edge-assisted mobile systems](https://arxiv.org/abs/2212.11853)|[semoran](https://github.com/corrado113/semoran)|
+|[information limits and thouless-anderson-palmer equations for spiked matrix models with structured noise](https://arxiv.org/abs/2405.20993)|[spiked-matrix-models-with-structured-noise](https://github.com/xu-yz19/spiked-matrix-models-with-structured-noise)|
+|[rpn: reconciled polynomial network towards unifying pgms, kernel svms, mlp and kan](https://arxiv.org/abs/2407.04819)|[tinyBIG](https://github.com/jwzhanggy/tinyBIG)|
 ## 2024-07-08
 |paper|code|
 |---|---|
@@ -7,7 +19,7 @@
 |[learning multi-frequency partial correlation graphs](https://arxiv.org/abs/2311.15756)|[bspcg](https://github.com/officiallydac/bspcg)|
 |[mt-hccar: multi-task deep learning with hierarchical classification and attention-based regression for cloud property retrieval](https://arxiv.org/abs/2401.16520)|[mt-hccar](https://github.com/ai-4-atmosphere-remote-sensing/mt-hccar)|
 |[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
-|[comparative evaluation of learning models for bionic robots: non-linear transfer function identifications](https://arxiv.org/abs/2407.02428)|[model-free-robotics](https://github.com/poyuhs/model-free-robotics)|
+|[a fast multitaper power spectrum estimation in nonuniformly sampled time series](https://arxiv.org/abs/2407.01943)|[mtnufft](https://github.com/jiecui/mtnufft)|
 |[biometric authentication based on enhanced remote photoplethysmography signal morphology](https://arxiv.org/abs/2407.04127)|[rppg_biometrics](https://github.com/zhaodongsun/rppg_biometrics)|
 |[inference through innovation processes tested in the authorship attribution task](https://arxiv.org/abs/2306.05186)|[InnovationProcessesInference](https://github.com/GiulioTani/InnovationProcessesInference)|
 |[wetlinks: a large-scale longitudinal starlink dataset with contiguous weather data](https://arxiv.org/abs/2402.16448)|[wetlinks](https://github.com/sys-uos/wetlinks)|
@@ -18,6 +30,7 @@
 |[fullsubnet: a full-band and sub-band fusion model for real-time single-channel speech enhancement](https://arxiv.org/abs/2010.15508)|[FullSubNet](https://github.com/haoxiangsnr/FullSubNet)|
 |[regret optimal control for uncertain stochastic systems](https://arxiv.org/abs/2304.14835)|[scenariosafeminregret](https://github.com/decodepfl/scenariosafeminregret)|
 |[comparing lazy constraint selection strategies in train routing with moving block control](https://arxiv.org/abs/2405.18977)|[mtct](https://github.com/cda-tum/mtct)|
+|[edpnet: an efficient dual prototype network for motor imagery eeg decoding](https://arxiv.org/abs/2407.03177)|[edpnet](https://github.com/hancan16/edpnet)|
 |[evaluating ml-based anomaly detection across datasets of varied integrity: a case study](https://arxiv.org/abs/2401.16843)|[cyberml-dataquality](https://github.com/flowfrontiers/cyberml-dataquality)|
 ## 2024-07-03
 |paper|code|
