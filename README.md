@@ -1,3 +1,13 @@
+## 2024-07-10
+|paper|code|
+|---|---|
+|[on completeness of sdp-based barrier certificate synthesis over unbounded domains](https://arxiv.org/abs/2312.15416)|[bcunbounded](https://github.com/ecstasyh/bcunbounded)|
+|[subject-adaptive transfer learning using resting state eeg signals for cross-subject eeg motor imagery classification](https://arxiv.org/abs/2405.19346)|[miccai2024-restl](https://github.com/sionan/miccai2024-restl)|
+|[combining neural networks and symbolic regression for analytical lyapunov function discovery](https://arxiv.org/abs/2406.15675)|[CoNSAL](https://github.com/HaohanZou/CoNSAL)|
+|[bayesian grey-box identification of nonlinear convection effects in heat transfer dynamics](https://arxiv.org/abs/2407.01226)|[CCTA2024-BIDconvection](https://github.com/biaslab/CCTA2024-BIDconvection)|
+|[comparative evaluation of learning models for bionic robots: non-linear transfer function identifications](https://arxiv.org/abs/2407.02428)|[model-free-robotics](https://github.com/poyuhs/model-free-robotics)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
+|[graph neural networks and deep reinforcement learning based resource allocation for v2x communications](https://arxiv.org/abs/2407.06518)|[gnn-and-drl-based-resource-allocation-for-v2x-communications](https://github.com/qiongwu86/gnn-and-drl-based-resource-allocation-for-v2x-communications)|
 ## 2024-07-09
 |paper|code|
 |---|---|
