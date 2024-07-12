@@ -1,3 +1,11 @@
+## 2024-07-11
+|paper|code|
+|---|---|
+|[principal component analysis in space forms](https://arxiv.org/abs/2301.02750)|[HoroPCA](https://github.com/HazyResearch/HoroPCA)|
+|[irka is a riemannian gradient descent method](https://arxiv.org/abs/2311.02031)|[rgd-irka-experiments](https://github.com/pmli/rgd-irka-experiments)|
+|[a coding-theoretic analysis of hyperspherical prototypical learning geometry](https://arxiv.org/abs/2407.07664)|[coding_theoretic_hpl](https://github.com/martinlindstrom/coding_theoretic_hpl)|
+|[squid: faster analytics via sampled quantile estimation](https://arxiv.org/abs/2211.01726)|[squid](https://github.com/squid12/squid)|
+|[resource allocation for twin maintenance and computing task processing in digital twin vehicular edge computing network](https://arxiv.org/abs/2407.07575)|[resource-allocation-for-twin-maintenance-and-computing-tasks-in-digital-twin-mobile-edge-network](https://github.com/qiongwu86/resource-allocation-for-twin-maintenance-and-computing-tasks-in-digital-twin-mobile-edge-network)|
 ## 2024-07-10
 |paper|code|
 |---|---|
@@ -29,7 +37,6 @@
 |[learning multi-frequency partial correlation graphs](https://arxiv.org/abs/2311.15756)|[bspcg](https://github.com/officiallydac/bspcg)|
 |[mt-hccar: multi-task deep learning with hierarchical classification and attention-based regression for cloud property retrieval](https://arxiv.org/abs/2401.16520)|[mt-hccar](https://github.com/ai-4-atmosphere-remote-sensing/mt-hccar)|
 |[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
-|[a fast multitaper power spectrum estimation in nonuniformly sampled time series](https://arxiv.org/abs/2407.01943)|[mtnufft](https://github.com/jiecui/mtnufft)|
 |[biometric authentication based on enhanced remote photoplethysmography signal morphology](https://arxiv.org/abs/2407.04127)|[rppg_biometrics](https://github.com/zhaodongsun/rppg_biometrics)|
 |[inference through innovation processes tested in the authorship attribution task](https://arxiv.org/abs/2306.05186)|[InnovationProcessesInference](https://github.com/GiulioTani/InnovationProcessesInference)|
 |[wetlinks: a large-scale longitudinal starlink dataset with contiguous weather data](https://arxiv.org/abs/2402.16448)|[wetlinks](https://github.com/sys-uos/wetlinks)|
