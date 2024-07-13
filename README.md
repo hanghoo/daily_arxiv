@@ -1,10 +1,19 @@
+## 2024-07-12
+|paper|code|
+|---|---|
+|[subspacenet: deep learning-aided subspace methods for doa estimation](https://arxiv.org/abs/2306.02271)|[subspacenet](https://github.com/shlezingerlab/subspacenet)|
+|[generalizable sleep staging via multi-level domain alignment](https://arxiv.org/abs/2401.05363)|[sleepdg](https://github.com/wjq-learning/sleepdg)|
+|[a fast multitaper power spectrum estimation in nonuniformly sampled time series](https://arxiv.org/abs/2407.01943)|[mtnufft](https://github.com/jiecui/mtnufft)|
+|[viability of low-cost infrared sensors for short range tracking](https://arxiv.org/abs/2407.08071)|[experimentProgram.py](https://github.com/noah-haeske/research/blob/main/experimentProgram.py)|
+|[joint optimization of age of information and energy consumption in nr-v2x system based on deep reinforcement learning](https://arxiv.org/abs/2407.08458)|[joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl](https://github.com/qiongwu86/joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl)|
+|[hardware neural control of cartpole and f1tenth race car](https://arxiv.org/abs/2407.08681)|[neural-control-tools](https://github.com/sensorsini/neural-control-tools)|
+|[real-time scheduling for 802.1qbv time-sensitive networking (tsn): a systematic review and experimental study](https://arxiv.org/abs/2305.16772)|[tsnkit](https://github.com/ChuanyuXue/tsnkit)|
 ## 2024-07-11
 |paper|code|
 |---|---|
 |[principal component analysis in space forms](https://arxiv.org/abs/2301.02750)|[HoroPCA](https://github.com/HazyResearch/HoroPCA)|
 |[irka is a riemannian gradient descent method](https://arxiv.org/abs/2311.02031)|[rgd-irka-experiments](https://github.com/pmli/rgd-irka-experiments)|
 |[a coding-theoretic analysis of hyperspherical prototypical learning geometry](https://arxiv.org/abs/2407.07664)|[coding_theoretic_hpl](https://github.com/martinlindstrom/coding_theoretic_hpl)|
-|[squid: faster analytics via sampled quantile estimation](https://arxiv.org/abs/2211.01726)|[squid](https://github.com/squid12/squid)|
 |[resource allocation for twin maintenance and computing task processing in digital twin vehicular edge computing network](https://arxiv.org/abs/2407.07575)|[resource-allocation-for-twin-maintenance-and-computing-tasks-in-digital-twin-mobile-edge-network](https://github.com/qiongwu86/resource-allocation-for-twin-maintenance-and-computing-tasks-in-digital-twin-mobile-edge-network)|
 ## 2024-07-10
 |paper|code|
@@ -14,7 +23,9 @@
 |[combining neural networks and symbolic regression for analytical lyapunov function discovery](https://arxiv.org/abs/2406.15675)|[CoNSAL](https://github.com/HaohanZou/CoNSAL)|
 |[bayesian grey-box identification of nonlinear convection effects in heat transfer dynamics](https://arxiv.org/abs/2407.01226)|[CCTA2024-BIDconvection](https://github.com/biaslab/CCTA2024-BIDconvection)|
 |[comparative evaluation of learning models for bionic robots: non-linear transfer function identifications](https://arxiv.org/abs/2407.02428)|[model-free-robotics](https://github.com/poyuhs/model-free-robotics)|
+|[safe and reliable training of learning-based aerospace controllers](https://arxiv.org/abs/2407.07088)|[artifact-dasc-docking](https://github.com/neuralnetworkverification/artifact-dasc-docking)|
 |[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
+|[oran-bench-13k: an open source benchmark for assessing llms in open radio access networks](https://arxiv.org/abs/2407.06245)|[oran-bench-13k](https://github.com/prnshv/oran-bench-13k)|
 |[graph neural networks and deep reinforcement learning based resource allocation for v2x communications](https://arxiv.org/abs/2407.06518)|[gnn-and-drl-based-resource-allocation-for-v2x-communications](https://github.com/qiongwu86/gnn-and-drl-based-resource-allocation-for-v2x-communications)|
 ## 2024-07-09
 |paper|code|
@@ -24,6 +35,7 @@
 |[identifiable specializations for ode models](https://arxiv.org/abs/2308.16273)|[identifiable-specializations-for-ode-models](https://github.com/alexeyovchinnikov/identifiable-specializations-for-ode-models)|
 |[cafnet: a confidence-driven framework for radar camera depth estimation](https://arxiv.org/abs/2407.00697)|[cafnet](https://github.com/harborsarah/cafnet)|
 |[annotation of sleep depth index with scalable deep learning yields novel digital biomarkers for sleep health](https://arxiv.org/abs/2407.04753)|[SDI](https://github.com/sczzz3/SDI)|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
 |[ldgcn: an edge-end lightweight dual gcn based on single-channel eeg for driver drowsiness monitoring](https://arxiv.org/abs/2407.05749)|[driver-drowsiness-monitoring](https://github.com/bryantdom/driver-drowsiness-monitoring)|
 |[sem-o-ran: semantic and flexible o-ran slicing for nextg edge-assisted mobile systems](https://arxiv.org/abs/2212.11853)|[semoran](https://github.com/corrado113/semoran)|
 |[information limits and thouless-anderson-palmer equations for spiked matrix models with structured noise](https://arxiv.org/abs/2405.20993)|[spiked-matrix-models-with-structured-noise](https://github.com/xu-yz19/spiked-matrix-models-with-structured-noise)|
@@ -37,6 +49,8 @@
 |[learning multi-frequency partial correlation graphs](https://arxiv.org/abs/2311.15756)|[bspcg](https://github.com/officiallydac/bspcg)|
 |[mt-hccar: multi-task deep learning with hierarchical classification and attention-based regression for cloud property retrieval](https://arxiv.org/abs/2401.16520)|[mt-hccar](https://github.com/ai-4-atmosphere-remote-sensing/mt-hccar)|
 |[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
+|[groupwise deformable registration of diffusion tensor cardiovascular magnetic resonance: disentangling diffusion contrast, respiratory and cardiac motions](https://arxiv.org/abs/2406.13788)|[dtcmr-reg](https://github.com/ayanglab/dtcmr-reg)|
+|[prediction of rare channel conditions using bayesian statistics and extreme value theory](https://arxiv.org/abs/2407.01188)|[bayesian_evt_urllc](https://github.com/aau-cnt/bayesian_evt_urllc)|
 |[biometric authentication based on enhanced remote photoplethysmography signal morphology](https://arxiv.org/abs/2407.04127)|[rppg_biometrics](https://github.com/zhaodongsun/rppg_biometrics)|
 |[inference through innovation processes tested in the authorship attribution task](https://arxiv.org/abs/2306.05186)|[InnovationProcessesInference](https://github.com/GiulioTani/InnovationProcessesInference)|
 |[wetlinks: a large-scale longitudinal starlink dataset with contiguous weather data](https://arxiv.org/abs/2402.16448)|[wetlinks](https://github.com/sys-uos/wetlinks)|
