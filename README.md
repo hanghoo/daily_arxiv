@@ -1,10 +1,16 @@
+## 2024-07-15
+|paper|code|
+|---|---|
+|[compressed sensing: a discrete optimization approach](https://arxiv.org/abs/2306.04647)|[discretecompressedsensing.jl](https://github.com/nicholasjohnson2020/discretecompressedsensing.jl)|
+|[traffic signal optimization in large-scale urban road networks: an adaptive-predictive controller using ising models](https://arxiv.org/abs/2406.03690)|[ampic](https://github.com/toyotacrdl/ampic)|
+|[joint load and capacity scheduling for flexible radio resource management of high-throughput satellites](https://arxiv.org/abs/2407.08981)|[HTS_RRM_Joint-Load-and-Capacity-Scheduling](https://github.com/crystal-zwz/HTS_RRM_Joint-Load-and-Capacity-Scheduling)|
 ## 2024-07-12
 |paper|code|
 |---|---|
 |[subspacenet: deep learning-aided subspace methods for doa estimation](https://arxiv.org/abs/2306.02271)|[subspacenet](https://github.com/shlezingerlab/subspacenet)|
 |[generalizable sleep staging via multi-level domain alignment](https://arxiv.org/abs/2401.05363)|[sleepdg](https://github.com/wjq-learning/sleepdg)|
 |[a fast multitaper power spectrum estimation in nonuniformly sampled time series](https://arxiv.org/abs/2407.01943)|[mtnufft](https://github.com/jiecui/mtnufft)|
-|[viability of low-cost infrared sensors for short range tracking](https://arxiv.org/abs/2407.08071)|[experimentProgram.py](https://github.com/noah-haeske/research/blob/main/experimentProgram.py)|
+|[viability of low-cost infrared sensors for short range tracking](https://arxiv.org/abs/2407.08071)|[research](https://github.com/noah-haeske/research)|
 |[joint optimization of age of information and energy consumption in nr-v2x system based on deep reinforcement learning](https://arxiv.org/abs/2407.08458)|[joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl](https://github.com/qiongwu86/joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl)|
 |[hardware neural control of cartpole and f1tenth race car](https://arxiv.org/abs/2407.08681)|[neural-control-tools](https://github.com/sensorsini/neural-control-tools)|
 |[real-time scheduling for 802.1qbv time-sensitive networking (tsn): a systematic review and experimental study](https://arxiv.org/abs/2305.16772)|[tsnkit](https://github.com/ChuanyuXue/tsnkit)|
@@ -20,12 +26,11 @@
 |---|---|
 |[on completeness of sdp-based barrier certificate synthesis over unbounded domains](https://arxiv.org/abs/2312.15416)|[bcunbounded](https://github.com/ecstasyh/bcunbounded)|
 |[subject-adaptive transfer learning using resting state eeg signals for cross-subject eeg motor imagery classification](https://arxiv.org/abs/2405.19346)|[miccai2024-restl](https://github.com/sionan/miccai2024-restl)|
-|[combining neural networks and symbolic regression for analytical lyapunov function discovery](https://arxiv.org/abs/2406.15675)|[CoNSAL](https://github.com/HaohanZou/CoNSAL)|
 |[bayesian grey-box identification of nonlinear convection effects in heat transfer dynamics](https://arxiv.org/abs/2407.01226)|[CCTA2024-BIDconvection](https://github.com/biaslab/CCTA2024-BIDconvection)|
 |[comparative evaluation of learning models for bionic robots: non-linear transfer function identifications](https://arxiv.org/abs/2407.02428)|[model-free-robotics](https://github.com/poyuhs/model-free-robotics)|
+|[chance-constrained energy storage pricing for social welfare maximization](https://arxiv.org/abs/2407.07068)|[Storage_Pricing_for_Social_Welfare_Maximization](https://github.com/thuqining/Storage_Pricing_for_Social_Welfare_Maximization)|
 |[safe and reliable training of learning-based aerospace controllers](https://arxiv.org/abs/2407.07088)|[artifact-dasc-docking](https://github.com/neuralnetworkverification/artifact-dasc-docking)|
 |[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
-|[oran-bench-13k: an open source benchmark for assessing llms in open radio access networks](https://arxiv.org/abs/2407.06245)|[oran-bench-13k](https://github.com/prnshv/oran-bench-13k)|
 |[graph neural networks and deep reinforcement learning based resource allocation for v2x communications](https://arxiv.org/abs/2407.06518)|[gnn-and-drl-based-resource-allocation-for-v2x-communications](https://github.com/qiongwu86/gnn-and-drl-based-resource-allocation-for-v2x-communications)|
 ## 2024-07-09
 |paper|code|
