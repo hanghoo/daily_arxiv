@@ -1,3 +1,17 @@
+## 2024-07-16
+|paper|code|
+|---|---|
+|[you can wash hands better: accurate daily handwashing assessment with smartwatches](https://arxiv.org/abs/2112.06657)|[uwash](https://github.com/aiotgroup/uwash)|
+|[sample average approximation for stochastic programming with equality constraints](https://arxiv.org/abs/2206.09963)|[stochasticedl](https://github.com/stanfordasl/stochasticedl)|
+|[constrained reinforcement learning using distributional representation for trustworthy quadrotor uav tracking control](https://arxiv.org/abs/2302.11694)|[consdred-smpc](https://github.com/alex-yanranwang/consdred-smpc)|
+|[single-shot quantum signal processing interferometry](https://arxiv.org/abs/2311.13703)|[qsp-interferometry](https://github.com/yuanliu1/qsp-interferometry)|
+|[enhancing reinforcement learning agents with local guides](https://arxiv.org/abs/2402.13930)|[hebo](https://github.com/huawei-noah/hebo)|
+|[towards task-compatible compressible representations](https://arxiv.org/abs/2405.10244)|[research](https://github.com/adeandrade/research)|
+|[auto-multilift: distributed learning and control for cooperative load transportation with quadrotors](https://arxiv.org/abs/2406.04858)|[Auto-Multilift](https://github.com/RCL-NUS/Auto-Multilift)|
+|[combining neural networks and symbolic regression for analytical lyapunov function discovery](https://arxiv.org/abs/2406.15675)|[CoNSAL](https://github.com/HaohanZou/CoNSAL)|
+|[type-based unsourced multiple access](https://arxiv.org/abs/2404.19552)|[TUMA](https://github.com/khachoang1412/TUMA)|
+|[a taxonomy and comparative analysis of ipv4 id selection correctness, security, and performance](https://arxiv.org/abs/2406.06483)|[IPIDSurvey-Code](https://github.com/DaymudeLab/IPIDSurvey-Code)|
+|[oran-bench-13k: an open source benchmark for assessing llms in open radio access networks](https://arxiv.org/abs/2407.06245)|[oran-bench-13k](https://github.com/prnshv/oran-bench-13k)|
 ## 2024-07-15
 |paper|code|
 |---|---|
