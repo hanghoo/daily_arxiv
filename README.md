@@ -3,8 +3,12 @@
 |---|---|
 |[multi-scale transformer-based network for emotion recognition from multi physiological signals](https://arxiv.org/abs/2305.00769)|[EPiC-2023-ACII](https://github.com/vsl-team/EPiC-2023-ACII)|
 |[thraws: a novel dataset for thermal hotspots detection in raw sentinel-2 data](https://arxiv.org/abs/2305.11891)|[pyraws](https://github.com/esa-philab/pyraws)|
+|[advanced mathematical modelling for energy-efficient data transmission and fusion in wireless sensor networks](https://arxiv.org/abs/2407.12806)|[bpnn_wsn](https://github.com/hikomal/bpnn_wsn)|
+|[reconfigurable intelligent surface aided vehicular edge computing: joint phase-shift optimization and multi-user power allocation](https://arxiv.org/abs/2407.13123)|[DDPG-RIS-MADDPG-POWER](https://github.com/qiongwu86/DDPG-RIS-MADDPG-POWER)|
 |[an empirical investigation into the time and frequency response characteristics of hopf resonators](https://arxiv.org/abs/2407.13629)|[DetectorBank](https://github.com/keziah55/DetectorBank)|
+|[adaptive foundation models for online decisions: hyperagent with fast incremental uncertainty estimation](https://arxiv.org/abs/2407.13195)|[GPT-HyperAgent](https://github.com/szrlee/GPT-HyperAgent)|
 |[the language of infographics: toward understanding conceptual metaphor use in scientific storytelling](https://arxiv.org/abs/2407.13416)|[metaphortool](https://github.com/lauragarrison87/metaphortool)|
+|[non-asymptotic uncertainty quantification in high-dimensional learning](https://arxiv.org/abs/2407.13666)|[UQ_high_dim_learning](https://github.com/frederikhoppe/UQ_high_dim_learning)|
 ## 2024-07-18
 |paper|code|
 |---|---|
@@ -14,6 +18,7 @@
 |[diffusion-aided joint source channel coding for high realism wireless image transmission](https://arxiv.org/abs/2404.17736)|[diffjscc](https://github.com/mingyuyng/diffjscc)|
 |[mmvr: millimeter-wave multi-view radar dataset and benchmark for indoor perception](https://arxiv.org/abs/2406.10708)|[12611978](https://zenodo.org/record/12611978)|
 |[netmind: adaptive ran baseband function placement by gcn encoding and maze-solving drl](https://arxiv.org/abs/2401.06722)|[netmind](https://github.com/ocean-98/netmind)|
+|[friedkin-johnsen model for opinion dynamics on signed graphs](https://arxiv.org/abs/2407.10680)|[signfj](https://github.com/signfj/signfj)|
 ## 2024-07-17
 |paper|code|
 |---|---|
@@ -39,6 +44,7 @@
 |[a taxonomy and comparative analysis of ipv4 id selection correctness, security, and performance](https://arxiv.org/abs/2406.06483)|[IPIDSurvey-Code](https://github.com/DaymudeLab/IPIDSurvey-Code)|
 |[oran-bench-13k: an open source benchmark for assessing llms in open radio access networks](https://arxiv.org/abs/2407.06245)|[oran-bench-13k](https://github.com/prnshv/oran-bench-13k)|
 |[group projected subspace pursuit for block sparse signal reconstruction: convergence analysis and applications](https://arxiv.org/abs/2407.07707)|[BlockSparse](https://github.com/RoyYuchenHe/BlockSparse)|
+|[fast and provable simultaneous blind super-resolution and demixing for point source signals: scaled gradient descent without regularization](https://arxiv.org/abs/2407.09900)|[Simultaneous-Blind-Super-Resolution-and-Demixing](https://github.com/jcchen2017/Simultaneous-Blind-Super-Resolution-and-Demixing)|
 ## 2024-07-15
 |paper|code|
 |---|---|
