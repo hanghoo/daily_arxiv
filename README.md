@@ -1,3 +1,16 @@
+## 2024-07-23
+|paper|code|
+|---|---|
+|[learned kernels for sparse, interpretable, and efficient medical time series processing](https://arxiv.org/abs/2307.05385)|[smolk](https://github.com/sullychen/smolk)|
+|[ensemble kalman filtering meets gaussian process ssm for non-mean-field and online inference](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[distributed model predictive control for heterogeneous platoons with affine spacing policies and arbitrary communication topologies](https://arxiv.org/abs/2404.12441)|[dmpc_itsc_2024](https://github.com/river-lab/dmpc_itsc_2024)|
+|[llm experiments with simulation: large language model multi-agent system for simulation model parametrization in digital twins](https://arxiv.org/abs/2405.18092)|[llmdrivensimulation](https://github.com/yuchenxia/llmdrivensimulation)|
+|[rifo: pushing the efficiency of programmable packet schedulers](https://arxiv.org/abs/2308.07442)|[rifo](https://github.com/mostafaei/rifo)|
+|[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
+|[cachegen: kv cache compression and streaming for fast large language model serving](https://arxiv.org/abs/2310.07240)|[cachegen](https://github.com/uchi-jcl/cachegen)|
+|[multi-sources information fusion learning for multi-points nlos localization](https://arxiv.org/abs/2401.12538)|[AMDNloc](https://github.com/Horizontal666/AMDNloc)|
+|[adaptive foundation models for online decisions: hyperagent with fast incremental uncertainty estimation](https://arxiv.org/abs/2407.13195)|[GPT-HyperAgent](https://github.com/szrlee/GPT-HyperAgent)|
+|[schedulability analysis in time-sensitive networking: a systematic literature review](https://arxiv.org/abs/2407.15031)|[Database-schedulability-analysis-in-TSN](https://github.com/Zitong-W/Database-schedulability-analysis-in-TSN)|
 ## 2024-07-22
 |paper|code|
 |---|---|
