@@ -1,3 +1,10 @@
+## 2024-07-25
+|paper|code|
+|---|---|
+|[lab-scale vibration analysis dataset and baseline methods for machinery fault diagnosis with machine learning](https://arxiv.org/abs/2212.14732)|[vbl-va001](https://github.com/bagustris/vbl-va001)|
+|[ekf-sindy: empowering the extended kalman filter with sparse identification of nonlinear dynamics](https://arxiv.org/abs/2404.07536)|[ekf-sindy](https://github.com/contipaolo/ekf-sindy)|
+|[toward real-time digital twins of em environments: computational benchmark of ray launching software](https://arxiv.org/abs/2406.05042)|[ray-launching-benchmark](https://github.com/Michele-Zhu/ray-launching-benchmark)|
+|[probing the information theoretical roots of spatial dependence measures](https://arxiv.org/abs/2405.18459)|[spatial-self-information](https://github.com/octopolugal/spatial-self-information)|
 ## 2024-07-24
 |paper|code|
 |---|---|
@@ -13,11 +20,15 @@
 |[ensemble kalman filtering meets gaussian process ssm for non-mean-field and online inference](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
 |[distributed model predictive control for heterogeneous platoons with affine spacing policies and arbitrary communication topologies](https://arxiv.org/abs/2404.12441)|[dmpc_itsc_2024](https://github.com/river-lab/dmpc_itsc_2024)|
 |[llm experiments with simulation: large language model multi-agent system for simulation model parametrization in digital twins](https://arxiv.org/abs/2405.18092)|[llmdrivensimulation](https://github.com/yuchenxia/llmdrivensimulation)|
+|[dreamer: dual-ris-aided imager in complementary modes](https://arxiv.org/abs/2407.14820)|[dreamer](https://github.com/fuhaiwang/dreamer)|
+|[efficient sampling for data-driven frequency stability constraint via forward-mode automatic differentiation](https://arxiv.org/abs/2407.15045)|[frequency_sample_ad](https://github.com/xuwkk/frequency_sample_ad)|
+|[the rlign algorithm for enhanced electrocardiogram analysis through r-peak alignment for explainable classification and clustering](https://arxiv.org/abs/2407.15555)|[rlign](https://github.com/imi-ms/rlign)|
 |[rifo: pushing the efficiency of programmable packet schedulers](https://arxiv.org/abs/2308.07442)|[rifo](https://github.com/mostafaei/rifo)|
 |[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
 |[cachegen: kv cache compression and streaming for fast large language model serving](https://arxiv.org/abs/2310.07240)|[cachegen](https://github.com/uchi-jcl/cachegen)|
 |[multi-sources information fusion learning for multi-points nlos localization](https://arxiv.org/abs/2401.12538)|[AMDNloc](https://github.com/Horizontal666/AMDNloc)|
 |[adaptive foundation models for online decisions: hyperagent with fast incremental uncertainty estimation](https://arxiv.org/abs/2407.13195)|[GPT-HyperAgent](https://github.com/szrlee/GPT-HyperAgent)|
+|[attention-based sic ordering and power allocation for non-orthogonal multiple access networks](https://arxiv.org/abs/2407.14740)|[asopa](https://github.com/jil-menzerna/asopa)|
 |[schedulability analysis in time-sensitive networking: a systematic literature review](https://arxiv.org/abs/2407.15031)|[Database-schedulability-analysis-in-TSN](https://github.com/Zitong-W/Database-schedulability-analysis-in-TSN)|
 ## 2024-07-22
 |paper|code|
