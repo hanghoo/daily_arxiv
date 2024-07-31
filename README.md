@@ -1,3 +1,16 @@
+## 2024-07-30
+|paper|code|
+|---|---|
+|[convex hulls of reachable sets](https://arxiv.org/abs/2303.17674)|[chreach](https://github.com/stanfordasl/chreach)|
+|[ensemble kalman filters with resampling](https://arxiv.org/abs/2308.08751)|[enkf-with-resampling](https://github.com/jiajun-bao/enkf-with-resampling)|
+|[benchmarking domain adaptation for chemical processes on the tennessee eastman process](https://arxiv.org/abs/2308.11247)|[tep-domain-adaptation](https://github.com/eddardd/tep-domain-adaptation)|
+|[smart hpa: a resource-efficient horizontal pod auto-scaler for microservice architectures](https://arxiv.org/abs/2403.07909)|[smart_hpa](https://github.com/hussainahmad05/smart_hpa)|
+|[explainable online unsupervised anomaly detection for cyber-physical systems via causal discovery from time series](https://arxiv.org/abs/2404.09871)|[causal_anomaly_detection](https://github.com/isla-lab/causal_anomaly_detection)|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[optimization-based outlier accommodation for tightly coupled rtk-aided inertial navigation systems in urban environments](https://arxiv.org/abs/2407.13912)|[UrbanRTK-INS-OutlierOpt](https://github.com/Azurehappen/UrbanRTK-INS-OutlierOpt)|
+|[computing an aircraft's gliding range and minimal return altitude in presence of obstacles and wind](https://arxiv.org/abs/2407.18056)|[glikonal](https://github.com/giovannipiccioli/glikonal)|
+|[selection for short-term empowerment accelerates the evolution of homeostatic neural cellular automata](https://arxiv.org/abs/2305.15220)|[empowered-nca-ii](https://github.com/caitlingrasso/empowered-nca-ii)|
+|[online network traffic classification based on external attention and convolution by ip packet header](https://arxiv.org/abs/2309.09440)|[ECM-for-Network-Traffic-Classification](https://github.com/CNZZQ1030/ECM-for-Network-Traffic-Classification)|
 ## 2024-07-29
 |paper|code|
 |---|---|
@@ -7,7 +20,6 @@
 ## 2024-07-26
 |paper|code|
 |---|---|
-|[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
 |[physics-enhanced graph neural networks for soft sensing in industrial internet of things](https://arxiv.org/abs/2404.08061)|[PEGNN_SS](https://github.com/EPFL-IMOS/PEGNN_SS)|
 |[detection of manatee vocalisations using the audio spectrogram transformer](https://arxiv.org/abs/2407.18083)|[manatees](https://github.com/tdewolff/manatees)|
 |[scaling training data with lossy image compression](https://arxiv.org/abs/2407.17954)|[lossycompressionscalingkdd2024](https://github.com/granica-ai/lossycompressionscalingkdd2024)|
