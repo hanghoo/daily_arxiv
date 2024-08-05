@@ -4,7 +4,6 @@
 |[localization of brain activity from eeg/meg using mv-pure framework](https://arxiv.org/abs/1809.03930)|[supFunSim](https://github.com/IS-UMK/supFunSim)|
 |[hierarchical state space models for continuous sequence-to-sequence modeling](https://arxiv.org/abs/2402.10211)|[hiss](https://github.com/raunaqbhirangi/hiss)|
 |[graph neural network-based surrogate modelling for real-time hydraulic prediction of urban drainage networks](https://arxiv.org/abs/2404.10324)|[GNN-UDS](https://github.com/Zhiyu014/GNN-UDS)|
-|[robust beamforming with gradient-based liquid neural network](https://arxiv.org/abs/2405.07291)|[GLNN](https://github.com/tp1000d/GLNN)|
 ## 2024-08-01
 |paper|code|
 |---|---|
