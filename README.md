@@ -1,3 +1,10 @@
+## 2024-08-06
+|paper|code|
+|---|---|
+|[the computation of approximate feedback stackelberg equilibria in multi-player nonlinear constrained dynamic games](https://arxiv.org/abs/2401.15745)|[feedbackstackelberggames.jl](https://github.com/jamesjingqili/feedbackstackelberggames.jl)|
+|[distributionally robust policy and lyapunov-certificate learning](https://arxiv.org/abs/2404.03017)|[DR_Stabilizing_Policy](https://github.com/KehanLong/DR_Stabilizing_Policy)|
+|[sky-gvio: an enhanced gnss/ins/vision navigation with fcn-based sky-segmentation in urban canyon](https://arxiv.org/abs/2404.11070)|[sky-view-images](https://github.com/whuwangjr/sky-view-images)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
 ## 2024-08-05
 |paper|code|
 |---|---|
