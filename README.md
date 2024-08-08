@@ -1,3 +1,9 @@
+## 2024-08-07
+|paper|code|
+|---|---|
+|[learning-based optimal control with performance guarantees for unknown systems with latent states](https://arxiv.org/abs/2303.17963)|[pgopt](https://github.com/tum-itr/pgopt)|
+|[radial partitioning with spectral penalty parameter selection in distributed optimization for power systems](https://arxiv.org/abs/2305.01032)|[dicarp](https://github.com/mehdi-karimi-math/dicarp)|
+|[comparison analysis between standard polysomnographic data and in-ear-eeg signals: a preliminary study](https://arxiv.org/abs/2401.10107)|[in_ear_eeg_vs_psg](https://github.com/gianpaolopalo13/in_ear_eeg_vs_psg)|
 ## 2024-08-06
 |paper|code|
 |---|---|
