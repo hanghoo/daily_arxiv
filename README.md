@@ -1,3 +1,12 @@
+## 2024-08-09
+|paper|code|
+|---|---|
+|[drift control of high-dimensional rbm: a computational method based on neural networks](https://arxiv.org/abs/2309.11651)|[rbmsolver](https://github.com/nian-si/rbmsolver)|
+|[analyzing operator states and the impact of ai-enhanced decision support in control rooms: a human-in-the-loop specialized reinforcement learning framework for intervention strategies](https://arxiv.org/abs/2402.13219)|[drl-based-decision-support](https://github.com/ammar-n-abbas/drl-based-decision-support)|
+|[rl-adn: a high-performance deep reinforcement learning environment for optimal energy storage systems dispatch in active distribution networks](https://arxiv.org/abs/2408.03685)|[rl-adn](https://github.com/distributionnetworkstudelft/rl-adn)|
+|[inference with the upper confidence bound algorithm](https://arxiv.org/abs/2408.04595)|[ucb-stability-plots](https://github.com/koulikberkeley/ucb-stability-plots)|
+|[fool: addressing the downlink bottleneck in satellite computing with neural feature compression](https://arxiv.org/abs/2403.16677)|[the-fool](https://github.com/rezafuru/the-fool)|
+|[exploiting structure in quantum relative entropy programs](https://arxiv.org/abs/2407.00241)|[qrep-structure](https://github.com/kerry-he/qrep-structure)|
 ## 2024-08-08
 |paper|code|
 |---|---|
