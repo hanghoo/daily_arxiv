@@ -1,3 +1,13 @@
+## 2024-08-13
+|paper|code|
+|---|---|
+|[convolutional proximal neural networks and plug-and-play algorithms](https://arxiv.org/abs/2011.02281)|[Proximal_Neural_Networks](https://github.com/johertrich/Proximal_Neural_Networks)|
+|[learning barrier-certified polynomial dynamical systems for obstacle avoidance with robots](https://arxiv.org/abs/2403.08178)|[abc-ds](https://github.com/martinschonger/abc-ds)|
+|[robust co-design of canonical underactuated systems for increased certifiable stability](https://arxiv.org/abs/2403.10966)|[robust_codesign](https://github.com/dfki-ric-underactuated-lab/robust_codesign)|
+|[localising the seizure onset zone from single-pulse electrical stimulation responses with a cnn transformer](https://arxiv.org/abs/2403.20324)|[localising_soz_from_spes](https://github.com/norrisjamie23/localising_soz_from_spes)|
+|[efficient discovery of actual causality using abstraction-refinement](https://arxiv.org/abs/2407.16629)|[Causality_abs_refinement](https://github.com/arshiarafiei/Causality_abs_refinement)|
+|[time is not enough: time-frequency based explanation for time-series black-box models](https://arxiv.org/abs/2408.03636)|[time_is_not_enough](https://github.com/gustmd0121/time_is_not_enough)|
+|[on zero-shot learning in neural state estimation of power distribution systems](https://arxiv.org/abs/2408.05787)|[nse-tl-paper](https://gitlab.com/transense/nse-tl-paper)|
 ## 2024-08-12
 |paper|code|
 |---|---|
