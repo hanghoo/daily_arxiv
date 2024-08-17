@@ -1,7 +1,19 @@
+## 2024-08-16
+|paper|code|
+|---|---|
+|[gatekeeper: online safety verification and control for nonlinear systems in dynamic environments](https://arxiv.org/abs/2211.14361)|[gatekeeper](https://github.com/dev10110/gatekeeper)|
+|[learning tube-certified neural robust contraction metrics](https://arxiv.org/abs/2309.07443)|[nnrccm](https://github.com/viveksharmaaa/nnrccm)|
+|[exact tensor completion powered by slim transforms](https://arxiv.org/abs/2402.03468)|[transformed_tnn](https://github.com/vecevecev/transformed_tnn)|
+|[formally verifying deep reinforcement learning controllers with lyapunov barrier certificates](https://arxiv.org/abs/2405.14058)|[artifact-fmcad24-docking](https://github.com/neuralnetworkverification/artifact-fmcad24-docking)|
+|[accelerating high-fidelity waveform generation via adversarial flow matching optimization](https://arxiv.org/abs/2408.08019)|[periodwave](https://github.com/sh-lee-prml/periodwave)|
+|[catalogbank: a structured and interoperable catalog dataset with a semi-automatic annotation tool (documentlabeler) for engineering system design](https://arxiv.org/abs/2408.08238)|[DocumentLabeler](https://github.com/bankh/DocumentLabeler)|
+|[gsvd-nmf: recovering missing features in non-negative matrix factorization](https://arxiv.org/abs/2408.08260)|[gsvdinitialization.jl](https://github.com/holylab/gsvdinitialization.jl)|
+|[josephson oscillations of two weakly coupled bose-einstein condensates](https://arxiv.org/abs/2407.06208)|[BecJosephsonCurrent](https://github.com/alexej-schelle/BecJosephsonCurrent)|
 ## 2024-08-15
 |paper|code|
 |---|---|
 |[self-supervised scalable deep compressed sensing](https://arxiv.org/abs/2308.13777)|[scnet](https://github.com/guaishou74851/scnet)|
+|[virus-nerf -- vision, infrared and ultrasonic based neural radiance fields](https://arxiv.org/abs/2403.09477)|[virus_nerf](https://github.com/ethz-asl/virus_nerf)|
 |[using explainable ai for eeg-based reduced montage neonatal seizure detection](https://arxiv.org/abs/2406.16908)|[braineocare](https://github.com/dinuka-1999/braineocare)|
 |[lipcot: linear predictive coding based tokenizer for self-supervised learning of time series data via language models](https://arxiv.org/abs/2408.07292)|[lipcot](https://github.com/mdfahimanjum/lipcot)|
 |[adaptive basis function selection for computationally efficient predictions](https://arxiv.org/abs/2408.07480)|[adaptive-bf-selection](https://github.com/aokullberg/adaptive-bf-selection)|
@@ -9,6 +21,7 @@
 |[sigmarl: a sample-efficient and generalizable multi-agent reinforcement learning framework for motion planning](https://arxiv.org/abs/2408.07644)|[sigmarl](https://github.com/cas-lab-munich/sigmarl)|
 |[outsourcing control requires control complexity](https://arxiv.org/abs/2209.01418)|[learningrequiresintinf](https://github.com/carlottalanger/learningrequiresintinf)|
 |[on the salient limitations of the methods of assembly theory and their classification of molecular biosignatures](https://arxiv.org/abs/2210.00901)|[mscomplexity](https://github.com/abicumaran/mscomplexity)|
+|[information-theoretic measures on lattices for high-order interactions](https://arxiv.org/abs/2408.07533)|[nips2024hoi](https://github.com/neurips2024hoi/nips2024hoi)|
 ## 2024-08-14
 |paper|code|
 |---|---|
@@ -25,11 +38,14 @@
 |[localising the seizure onset zone from single-pulse electrical stimulation responses with a cnn transformer](https://arxiv.org/abs/2403.20324)|[localising_soz_from_spes](https://github.com/norrisjamie23/localising_soz_from_spes)|
 |[efficient discovery of actual causality using abstraction-refinement](https://arxiv.org/abs/2407.16629)|[Causality_abs_refinement](https://github.com/arshiarafiei/Causality_abs_refinement)|
 |[time is not enough: time-frequency based explanation for time-series black-box models](https://arxiv.org/abs/2408.03636)|[time_is_not_enough](https://github.com/gustmd0121/time_is_not_enough)|
+|[a robust baro-radar-inertial odometry m-estimator for multicopter navigation in cities and forests](https://arxiv.org/abs/2408.05764)|[rio](https://github.com/ethz-asl/rio)|
 |[on zero-shot learning in neural state estimation of power distribution systems](https://arxiv.org/abs/2408.05787)|[nse-tl-paper](https://gitlab.com/transense/nse-tl-paper)|
+|[residual-inr: communication efficient on-device learning using implicit neural representation](https://arxiv.org/abs/2408.05617)|[residual-inr](https://github.com/sharc-lab/residual-inr)|
 ## 2024-08-12
 |paper|code|
 |---|---|
 |[linear quadratic control of nonlinear systems with koopman operator learning and the nystr\"om method](https://arxiv.org/abs/2403.02811)|[nys-koop-lqr](https://github.com/lcsl/nys-koop-lqr)|
+|[a parallel vector-form $ldl^\top$ decomposition for accelerating execution-time-certified $\ell_1$-penalty soft-constrained mpc](https://arxiv.org/abs/2403.18235)|[l1-penalty-qp](https://github.com/liangwu2019/l1-penalty-qp)|
 |[the rlign algorithm for enhanced electrocardiogram analysis through r-peak alignment for explainable classification and clustering](https://arxiv.org/abs/2407.15555)|[rlign](https://github.com/imi-ms/rlign)|
 ## 2024-08-09
 |paper|code|
