@@ -1,3 +1,11 @@
+## 2024-08-19
+|paper|code|
+|---|---|
+|[multistatic-radar rcs-signature recognition of aerial vehicles: a bayesian fusion approach](https://arxiv.org/abs/2402.17987)|[rcs_atr](https://github.com/mlpotter/rcs_atr)|
+|[airpilot: a ppo-based drl auto-tuned nonlinear pid drone controller for robust autonomous flights](https://arxiv.org/abs/2404.00204)|[drlpiddronecontrol](https://github.com/garyz712/drlpiddronecontrol)|
+|[an efficient and explainable transformer-based few-shot learning for modeling electricity consumption profiles across thousands of domains](https://arxiv.org/abs/2408.08399)|[transformerem-gmm](https://github.com/xiaweijie1996/transformerem-gmm)|
+|[radiodiff: an effective generative diffusion model for sampling-free dynamic radio map construction](https://arxiv.org/abs/2408.08593)|[radiodiff](https://github.com/unic-lab/radiodiff)|
+|[entropy coding of unordered data structures](https://arxiv.org/abs/2408.08837)|[shuffle-coding](https://github.com/juliuskunze/shuffle-coding)|
 ## 2024-08-16
 |paper|code|
 |---|---|
@@ -5,8 +13,9 @@
 |[learning tube-certified neural robust contraction metrics](https://arxiv.org/abs/2309.07443)|[nnrccm](https://github.com/viveksharmaaa/nnrccm)|
 |[exact tensor completion powered by slim transforms](https://arxiv.org/abs/2402.03468)|[transformed_tnn](https://github.com/vecevecev/transformed_tnn)|
 |[formally verifying deep reinforcement learning controllers with lyapunov barrier certificates](https://arxiv.org/abs/2405.14058)|[artifact-fmcad24-docking](https://github.com/neuralnetworkverification/artifact-fmcad24-docking)|
+|[spectrum prediction with deep 3d pyramid vision transformer learning](https://arxiv.org/abs/2408.06870)|[Real-world-Spectrum](https://github.com/pgl1234/Real-world-Spectrum)|
 |[accelerating high-fidelity waveform generation via adversarial flow matching optimization](https://arxiv.org/abs/2408.08019)|[periodwave](https://github.com/sh-lee-prml/periodwave)|
-|[catalogbank: a structured and interoperable catalog dataset with a semi-automatic annotation tool (documentlabeler) for engineering system design](https://arxiv.org/abs/2408.08238)|[DocumentLabeler](https://github.com/bankh/DocumentLabeler)|
+|[catalogbank: a structured and interoperable catalog dataset with a semi-automatic annotation tool (documentlabeler) for engineering system design](https://arxiv.org/abs/2408.08238)|[catalogbank](https://github.com/bankh/catalogbank)|
 |[gsvd-nmf: recovering missing features in non-negative matrix factorization](https://arxiv.org/abs/2408.08260)|[gsvdinitialization.jl](https://github.com/holylab/gsvdinitialization.jl)|
 |[josephson oscillations of two weakly coupled bose-einstein condensates](https://arxiv.org/abs/2407.06208)|[BecJosephsonCurrent](https://github.com/alexej-schelle/BecJosephsonCurrent)|
 ## 2024-08-15
@@ -18,6 +27,7 @@
 |[lipcot: linear predictive coding based tokenizer for self-supervised learning of time series data via language models](https://arxiv.org/abs/2408.07292)|[lipcot](https://github.com/mdfahimanjum/lipcot)|
 |[adaptive basis function selection for computationally efficient predictions](https://arxiv.org/abs/2408.07480)|[adaptive-bf-selection](https://github.com/aokullberg/adaptive-bf-selection)|
 |[periodwave: multi-period flow matching for high-fidelity waveform generation](https://arxiv.org/abs/2408.07547)|[periodwave](https://github.com/sh-lee-prml/periodwave)|
+|[remote tube-based mpc for tracking over lossy networks](https://arxiv.org/abs/2408.07553)|[robust-tracking-mpc-over-lossy-networks](https://github.com/ericssonresearch/robust-tracking-mpc-over-lossy-networks)|
 |[sigmarl: a sample-efficient and generalizable multi-agent reinforcement learning framework for motion planning](https://arxiv.org/abs/2408.07644)|[sigmarl](https://github.com/cas-lab-munich/sigmarl)|
 |[outsourcing control requires control complexity](https://arxiv.org/abs/2209.01418)|[learningrequiresintinf](https://github.com/carlottalanger/learningrequiresintinf)|
 |[on the salient limitations of the methods of assembly theory and their classification of molecular biosignatures](https://arxiv.org/abs/2210.00901)|[mscomplexity](https://github.com/abicumaran/mscomplexity)|
@@ -28,6 +38,8 @@
 |[pid optimization using lagrangian mechanics](https://arxiv.org/abs/2310.00016)|[pid](https://github.com/bubblybingbong/pid)|
 |[eeg-macs: manifold attention and confidence stratification for eeg-based cross-center brain disease diagnosis under unreliable annotations](https://arxiv.org/abs/2405.00734)|[eeg-disease-macs](https://github.com/ici-bci/eeg-disease-macs)|
 |[interpretable pre-trained transformers for heart time-series data](https://arxiv.org/abs/2407.20775)|[heartgpt](https://github.com/harryjdavies/heartgpt)|
+|[passivity-based gain-scheduled control with scheduling matrices](https://arxiv.org/abs/2408.06476)|[matrix_scheduling_vsp_controllers](https://github.com/decargroup/matrix_scheduling_vsp_controllers)|
+|[robustness of optimal quantum annealing protocols](https://arxiv.org/abs/2408.06782)|[njp_2024_roqa](https://github.com/eragon10/njp_2024_roqa)|
 |[how transformers learn causal structure with gradient descent](https://arxiv.org/abs/2402.14735)|[transformers-learn-causal-structure](https://github.com/eshnich/transformers-learn-causal-structure)|
 ## 2024-08-13
 |paper|code|
