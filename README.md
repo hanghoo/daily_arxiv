@@ -1,3 +1,16 @@
+## 2024-08-20
+|paper|code|
+|---|---|
+|[a generalizable physics-informed learning framework for risk probability estimation](https://arxiv.org/abs/2305.06432)|[pipe-l4dc](https://github.com/jacobwang925/pipe-l4dc)|
+|[textless unit-to-unit training for many-to-many multilingual speech-to-speech translation](https://arxiv.org/abs/2308.01831)|[utut](https://github.com/choijeongsoo/utut)|
+|[forzaeth race stack -- scaled autonomous head-to-head racing on fully commercial off-the-shelf hardware](https://arxiv.org/abs/2403.11784)|[race_stack](https://github.com/forzaeth/race_stack)|
+|[sim2real in reconstructive spectroscopy: deep learning with augmented device-informed data simulation](https://arxiv.org/abs/2403.12354)|[rec_spectrometer](https://github.com/j1goblue/rec_spectrometer)|
+|[exploiting symmetry in dynamics for model-based reinforcement learning with asymmetric rewards](https://arxiv.org/abs/2403.19024)|[symmetry-cs285](https://github.com/yasinsonmez/symmetry-cs285)|
+|[intention-aware control based on belief-space specifications and stochastic expansion](https://arxiv.org/abs/2404.09037)|[intentaware](https://github.com/zhang-zengjie/intentaware)|
+|[an observability-constrained magnetic field-aided inertial navigation system -- extended version](https://arxiv.org/abs/2406.02161)|[OC-MAINS-code](https://github.com/Huang-Chuan/OC-MAINS-code)|
+|[compression represents intelligence linearly](https://arxiv.org/abs/2404.09937)|[llm-compression-intelligence](https://github.com/hkust-nlp/llm-compression-intelligence)|
+|[hookchain: a new perspective for bypassing edr solutions](https://arxiv.org/abs/2404.16856)|[hookchain](https://github.com/helviojunior/hookchain)|
+|[drl-based resource allocation for motion blur resistant federated self-supervised learning in iov](https://arxiv.org/abs/2408.09194)|[drl-bfssl](https://github.com/qiongwu86/drl-bfssl)|
 ## 2024-08-19
 |paper|code|
 |---|---|
@@ -13,7 +26,6 @@
 |[learning tube-certified neural robust contraction metrics](https://arxiv.org/abs/2309.07443)|[nnrccm](https://github.com/viveksharmaaa/nnrccm)|
 |[exact tensor completion powered by slim transforms](https://arxiv.org/abs/2402.03468)|[transformed_tnn](https://github.com/vecevecev/transformed_tnn)|
 |[formally verifying deep reinforcement learning controllers with lyapunov barrier certificates](https://arxiv.org/abs/2405.14058)|[artifact-fmcad24-docking](https://github.com/neuralnetworkverification/artifact-fmcad24-docking)|
-|[spectrum prediction with deep 3d pyramid vision transformer learning](https://arxiv.org/abs/2408.06870)|[Real-world-Spectrum](https://github.com/pgl1234/Real-world-Spectrum)|
 |[accelerating high-fidelity waveform generation via adversarial flow matching optimization](https://arxiv.org/abs/2408.08019)|[periodwave](https://github.com/sh-lee-prml/periodwave)|
 |[catalogbank: a structured and interoperable catalog dataset with a semi-automatic annotation tool (documentlabeler) for engineering system design](https://arxiv.org/abs/2408.08238)|[catalogbank](https://github.com/bankh/catalogbank)|
 |[gsvd-nmf: recovering missing features in non-negative matrix factorization](https://arxiv.org/abs/2408.08260)|[gsvdinitialization.jl](https://github.com/holylab/gsvdinitialization.jl)|
