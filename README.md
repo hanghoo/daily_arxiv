@@ -1,3 +1,20 @@
+## 2024-08-22
+|paper|code|
+|---|---|
+|[reducing transmission expansion by co-optimizing sizing of wind, solar, storage and grid connection capacity](https://arxiv.org/abs/2303.11586)|[genx](https://github.com/aneeshamanocha/genx)|
+|[2-level reinforcement learning for ships on inland waterways: path planning and following](https://arxiv.org/abs/2307.16769)|[tud_rl](https://github.com/marwaltz/tud_rl)|
+|[learning model predictive control with error dynamics regression for autonomous racing](https://arxiv.org/abs/2309.10716)|[racing-lmpc-ros2](https://github.com/mpc-berkeley/racing-lmpc-ros2)|
+|[s4sleep: elucidating the design space of deep-learning-based sleep stage classification models](https://arxiv.org/abs/2310.06715)|[s4sleep](https://github.com/ai4healthuol/s4sleep)|
+|[energy-efficient beamforming for riss-aided communications: gradient based meta learning](https://arxiv.org/abs/2311.06861)|[GMML](https://github.com/fenghaozhu/GMML)|
+|[towards end-to-end gps localization with neural pseudorange correction](https://arxiv.org/abs/2401.10685)|[e2eprnet](https://github.com/ailocar/e2eprnet)|
+|[comtraq-mpc: meta-trained dqn-mpc integration for trajectory tracking with limited active localization updates](https://arxiv.org/abs/2403.01564)|[ComTraq-MPC](https://github.com/gokulp01/ComTraq-MPC)|
+|[learning deep dissipative dynamics](https://arxiv.org/abs/2408.11479)|[deepdissipativemodel](https://github.com/kojima-r/deepdissipativemodel)|
+|[trellis bma: coded trace reconstruction on ids channels for dna storage](https://arxiv.org/abs/2107.06440)|[clustered-nanopore-reads-dataset](https://github.com/microsoft/clustered-nanopore-reads-dataset)|
+|[on confidence sequences for bounded random processes via universal gambling strategies](https://arxiv.org/abs/2207.12382)|[confidence-sequence-via-gambling](https://github.com/jongharyu/confidence-sequence-via-gambling)|
+|[fast erasure decoder for hypergraph product codes](https://arxiv.org/abs/2208.01002)|[pruned-peeling-and-vh-decoder](https://github.com/nicholas-connolly/pruned-peeling-and-vh-decoder)|
+|[improved field size bounds for higher order mds codes](https://arxiv.org/abs/2212.11262)|[mds3-groebner](https://github.com/jbrakensiek/mds3-groebner)|
+|[understanding is compression](https://arxiv.org/abs/2407.07723)|[medal](https://github.com/mcGill-NLP/medal)|
+|[leveraging fine-tuned retrieval-augmented generation with long-context support: for 3gpp standards](https://arxiv.org/abs/2408.11775)|[oKUmura_AI_Telecom_challenge](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)|
 ## 2024-08-21
 |paper|code|
 |---|---|
@@ -5,16 +22,20 @@
 |[real-time control of electric autonomous mobility-on-demand systems via graph reinforcement learning](https://arxiv.org/abs/2311.05780)|[graph-rl-for-eamod](https://github.com/stanfordasl/graph-rl-for-eamod)|
 |[robust mri reconstruction by smoothed unrolling (smug)](https://arxiv.org/abs/2312.07784)|[smug_journal](https://github.com/sjames40/smug_journal)|
 |[spectrum prediction with deep 3d pyramid vision transformer learning](https://arxiv.org/abs/2408.06870)|[Real-world-Spectrum](https://github.com/pgl1234/Real-world-Spectrum)|
+|[parkinson's disease classification via eeg: all you need is a single convolutional layer](https://arxiv.org/abs/2408.10457)|[LightCNNforPD](https://github.com/MDFahimAnjum/LightCNNforPD)|
 ## 2024-08-20
 |paper|code|
 |---|---|
 |[a generalizable physics-informed learning framework for risk probability estimation](https://arxiv.org/abs/2305.06432)|[pipe-l4dc](https://github.com/jacobwang925/pipe-l4dc)|
 |[textless unit-to-unit training for many-to-many multilingual speech-to-speech translation](https://arxiv.org/abs/2308.01831)|[utut](https://github.com/choijeongsoo/utut)|
+|[learning based dynamic cluster reconfiguration for uav mobility management with 3d beamforming](https://arxiv.org/abs/2402.00224)|[icmlcn-2024-dynamic-clustering](https://github.com/irshadmeer/icmlcn-2024-dynamic-clustering)|
 |[forzaeth race stack -- scaled autonomous head-to-head racing on fully commercial off-the-shelf hardware](https://arxiv.org/abs/2403.11784)|[race_stack](https://github.com/forzaeth/race_stack)|
 |[sim2real in reconstructive spectroscopy: deep learning with augmented device-informed data simulation](https://arxiv.org/abs/2403.12354)|[rec_spectrometer](https://github.com/j1goblue/rec_spectrometer)|
 |[exploiting symmetry in dynamics for model-based reinforcement learning with asymmetric rewards](https://arxiv.org/abs/2403.19024)|[symmetry-cs285](https://github.com/yasinsonmez/symmetry-cs285)|
 |[intention-aware control based on belief-space specifications and stochastic expansion](https://arxiv.org/abs/2404.09037)|[intentaware](https://github.com/zhang-zengjie/intentaware)|
 |[an observability-constrained magnetic field-aided inertial navigation system -- extended version](https://arxiv.org/abs/2406.02161)|[OC-MAINS-code](https://github.com/Huang-Chuan/OC-MAINS-code)|
+|[certifiable deep learning for reachability using a new lipschitz continuous value function](https://arxiv.org/abs/2408.07866)|[Lipschitz_Continuous_Reachability_Learning](https://github.com/jamesjingqili/Lipschitz_Continuous_Reachability_Learning)|
+|[an optimal pairwise merge algorithm improves the quality and consistency of nonnegative matrix factorization](https://arxiv.org/abs/2408.09013)|[NMFMerge.jl](https://github.com/HolyLab/NMFMerge.jl)|
 |[compression represents intelligence linearly](https://arxiv.org/abs/2404.09937)|[llm-compression-intelligence](https://github.com/hkust-nlp/llm-compression-intelligence)|
 |[hookchain: a new perspective for bypassing edr solutions](https://arxiv.org/abs/2404.16856)|[hookchain](https://github.com/helviojunior/hookchain)|
 |[drl-based resource allocation for motion blur resistant federated self-supervised learning in iov](https://arxiv.org/abs/2408.09194)|[drl-bfssl](https://github.com/qiongwu86/drl-bfssl)|
@@ -23,7 +44,8 @@
 |---|---|
 |[multistatic-radar rcs-signature recognition of aerial vehicles: a bayesian fusion approach](https://arxiv.org/abs/2402.17987)|[rcs_atr](https://github.com/mlpotter/rcs_atr)|
 |[airpilot: a ppo-based drl auto-tuned nonlinear pid drone controller for robust autonomous flights](https://arxiv.org/abs/2404.00204)|[drlpiddronecontrol](https://github.com/garyz712/drlpiddronecontrol)|
-|[an efficient and explainable transformer-based few-shot learning for modeling electricity consumption profiles across thousands of domains](https://arxiv.org/abs/2408.08399)|[transformerem-gmm](https://github.com/xiaweijie1996/transformerem-gmm)|
+|[physics-guided reinforcement learning system for realistic vehicle active suspension control](https://arxiv.org/abs/2408.08425)|[rl4suspension-icmla23](https://github.com/anh-nn01/rl4suspension-icmla23)|
+|[adversarial contrastive learning based physics-informed temporal networks for cuffless blood pressure estimation](https://arxiv.org/abs/2408.08488)|[acl-pitn](https://github.com/zest86/acl-pitn)|
 |[radiodiff: an effective generative diffusion model for sampling-free dynamic radio map construction](https://arxiv.org/abs/2408.08593)|[radiodiff](https://github.com/unic-lab/radiodiff)|
 |[entropy coding of unordered data structures](https://arxiv.org/abs/2408.08837)|[shuffle-coding](https://github.com/juliuskunze/shuffle-coding)|
 ## 2024-08-16
