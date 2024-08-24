@@ -1,3 +1,17 @@
+## 2024-08-23
+|paper|code|
+|---|---|
+|[self-supervised learning for clustering of wireless spectrum activity](https://arxiv.org/abs/2210.02899)|[self-supervised-spectrum-sensing](https://github.com/sensorlab/self-supervised-spectrum-sensing)|
+|[pulse shape discrimination based on the tempotron: a powerful classifier on gpu](https://arxiv.org/abs/2305.18205)|[TempotronGPU](https://github.com/HaoranLiu507/TempotronGPU)|
+|[leveraging variational autoencoders for parameterized mmse estimation](https://arxiv.org/abs/2307.05352)|[vae-estimator](https://github.com/tum-msv/vae-estimator)|
+|[an agent design with goal reaching guarantees for enhancement of learning](https://arxiv.org/abs/2405.18118)|[regelum-calf](https://github.com/osinenkop/regelum-calf)|
+|[real-time event recognition of long-distance distributed vibration sensing with knowledge distillation and hardware acceleration](https://arxiv.org/abs/2408.03647)|[efficient-dvs](https://github.com/hust-iof/efficient-dvs)|
+|[an efficient and explainable transformer-based few-shot learning for modeling electricity consumption profiles across thousands of domains](https://arxiv.org/abs/2408.08399)|[transformerem-gmm](https://github.com/xiaweijie1996/transformerem-gmm)|
+|[accounts of using the tustin-net architecture on a rotary inverted pendulum](https://arxiv.org/abs/2408.12266)|[tustinNetTransferLearning](https://github.com/svanesch/tustinNetTransferLearning)|
+|[gram-schmidt methods for unsupervised feature extraction and selection](https://arxiv.org/abs/2311.09386)|[gram_schmidt_feature_extraction](https://github.com/byaghooti/gram_schmidt_feature_extraction)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
+|[a scalable quantum non-local neural network for image classification](https://arxiv.org/abs/2407.18906)|[QNL-Net](https://github.com/sparshgup/QNL-Net)|
+|[ktwin: a serverless kubernetes-based digital twin platform](https://arxiv.org/abs/2408.01635)|[ktwin-article](https://github.com/Open-Digital-Twin/ktwin-article)|
 ## 2024-08-22
 |paper|code|
 |---|---|
