@@ -1,3 +1,15 @@
+## 2024-08-28
+|paper|code|
+|---|---|
+|[multi-scale transformer-based network for emotion recognition from multi physiological signals](https://arxiv.org/abs/2305.00769)|[EPiC-2023-ACII](https://github.com/vsl-team/EPiC-2023-ACII)|
+|[graph gospa metric: a metric to measure the discrepancy between graphs of different sizes](https://arxiv.org/abs/2311.07596)|[the-graph-gospa-metric](https://github.com/jinhaogu/the-graph-gospa-metric)|
+|[neural network-based successive interference cancellation for non-linear bandlimited channels](https://arxiv.org/abs/2401.09217)|[nn-mi](https://github.com/dplabst/nn-mi)|
+|[structured deep neural networks-based backstepping trajectory tracking control for lagrangian systems](https://arxiv.org/abs/2403.00381)|[neural-backstepping-tracking-controller](https://github.com/jiajqian/neural-backstepping-tracking-controller)|
+|[localising the seizure onset zone from single-pulse electrical stimulation responses with a cnn transformer](https://arxiv.org/abs/2403.20324)|[localising_soz_from_spes](https://github.com/norrisjamie23/localising_soz_from_spes)|
+|[baseline results for selected nonlinear system identification benchmarks](https://arxiv.org/abs/2405.10779)|[nonlinear_baselines](https://github.com/MDCHAMP/nonlinear_baselines)|
+|[minimal algorithmic information loss methods for dimension reduction, feature selection and network sparsification](https://arxiv.org/abs/1802.05843)|[Network-Robustness-by-Kolmogorov-Complexity](https://github.com/andandandand/Network-Robustness-by-Kolmogorov-Complexity)|
+|[fast erasure decoder for hypergraph product codes](https://arxiv.org/abs/2208.01002)|[pruned-peeling-and-vh-decoder](https://github.com/nicholas-connolly/pruned-peeling-and-vh-decoder)|
+|[drl-based federated self-supervised learning for task offloading and resource allocation in isac-enabled vehicle edge computing](https://arxiv.org/abs/2408.14831)|[federated-ssl-task-offloading-and-resource-allocation](https://github.com/qiongwu86/federated-ssl-task-offloading-and-resource-allocation)|
 ## 2024-08-27
 |paper|code|
 |---|---|
@@ -28,6 +40,7 @@
 |[real-time event recognition of long-distance distributed vibration sensing with knowledge distillation and hardware acceleration](https://arxiv.org/abs/2408.03647)|[efficient-dvs](https://github.com/hust-iof/efficient-dvs)|
 |[an efficient and explainable transformer-based few-shot learning for modeling electricity consumption profiles across thousands of domains](https://arxiv.org/abs/2408.08399)|[transformerem-gmm](https://github.com/xiaweijie1996/transformerem-gmm)|
 |[accounts of using the tustin-net architecture on a rotary inverted pendulum](https://arxiv.org/abs/2408.12266)|[tustinNetTransferLearning](https://github.com/svanesch/tustinNetTransferLearning)|
+|[recursive distributed collaborative aided inertial navigation](https://arxiv.org/abs/2408.12360)|[ikf_lib](https://github.com/aau-cns/ikf_lib)|
 |[gram-schmidt methods for unsupervised feature extraction and selection](https://arxiv.org/abs/2311.09386)|[gram_schmidt_feature_extraction](https://github.com/byaghooti/gram_schmidt_feature_extraction)|
 |[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
 |[a scalable quantum non-local neural network for image classification](https://arxiv.org/abs/2407.18906)|[QNL-Net](https://github.com/sparshgup/QNL-Net)|
