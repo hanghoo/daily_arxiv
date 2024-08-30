@@ -1,3 +1,11 @@
+## 2024-08-29
+|paper|code|
+|---|---|
+|[receding-constraint model predictive control using a learned approximate control-invariant set](https://arxiv.org/abs/2309.11124)|[safe-mpc](https://github.com/idra-lab/safe-mpc)|
+|[geometric neural network based on phase space for bci-eeg decoding](https://arxiv.org/abs/2403.05645)|[Phase-SPDNet](https://github.com/carraraig/Phase-SPDNet)|
+|[scaling learning based policy optimization for temporal logic tasks by controller network dropout](https://arxiv.org/abs/2403.15826)|[STL_dropout](https://github.com/Navidhashemicodes/STL_dropout)|
+|[online event-triggered switching for frequency control in power grids with variable inertia](https://arxiv.org/abs/2408.15436)|[Online-Event-Triggered-Switching-for-Frequency-Control](https://github.com/JieFeng-cse/Online-Event-Triggered-Switching-for-Frequency-Control)|
+|[cbf-llm: safe control for llm alignment](https://arxiv.org/abs/2408.15625)|[cbf-llm](https://github.com/mya-mya/cbf-llm)|
 ## 2024-08-28
 |paper|code|
 |---|---|
