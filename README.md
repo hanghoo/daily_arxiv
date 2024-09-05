@@ -1,3 +1,18 @@
+## 2024-09-04
+|paper|code|
+|---|---|
+|[aerostack2: a software framework for developing multi-robot aerial systems](https://arxiv.org/abs/2303.18237)|[aerostack2](https://github.com/aerostack2/aerostack2)|
+|[an experimental evaluation of deep reinforcement learning algorithms for hvac control](https://arxiv.org/abs/2401.05737)|[paper-drl_building](https://github.com/ugr-sail/paper-drl_building)|
+|[opendpd: an open-source end-to-end learning & benchmarking framework for wideband power amplifier modeling and digital pre-distortion](https://arxiv.org/abs/2401.08318)|[opendpd](https://github.com/lab-emi/opendpd)|
+|[interpretation of intracardiac electrograms through textual representations](https://arxiv.org/abs/2402.01115)|[text-egm](https://github.com/willxxy/text-egm)|
+|[airpilot: interpretable ppo-based drl auto-tuned nonlinear pid drone controller for robust autonomous flights](https://arxiv.org/abs/2404.00204)|[drlpiddronecontrol](https://github.com/garyz712/drlpiddronecontrol)|
+|[perfecting periodic trajectory tracking: model predictive control with a periodic observer ($\pi$-mpc)](https://arxiv.org/abs/2404.01550)|[pi-mpc](https://github.com/stanfordasl/pi-mpc)|
+|[control of unknown quadrotors from a single throw](https://arxiv.org/abs/2406.11723)|[indiflightSupport](https://github.com/tudelft/indiflightSupport)|
+|[efficient discovery of actual causality using abstraction-refinement](https://arxiv.org/abs/2407.16629)|[Causality_abs_refinement](https://github.com/arshiarafiei/Causality_abs_refinement)|
+|[buet multi-disease heart sound dataset: a comprehensive auscultation dataset for developing computer-aided diagnostic systems](https://arxiv.org/abs/2409.00724)|[bmd-hs-dataset](https://github.com/mhealthbuet/bmd-hs-dataset)|
+|[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
+|[palantir: towards efficient super resolution for ultra-high-definition live streaming](https://arxiv.org/abs/2408.06152)|[palantir](https://github.com/Palantir-SR/palantir)|
+|[entropy loss: an interpretability amplifier of 3d object detection network for intelligent driving](https://arxiv.org/abs/2409.00839)|[Eloss-Interpretability](https://github.com/yhbcode000/Eloss-Interpretability)|
 ## 2024-09-02
 |paper|code|
 |---|---|
@@ -19,11 +34,9 @@
 |---|---|
 |[ultimatekalman: flexible kalman filtering and smoothing using orthogonal transformations](https://arxiv.org/abs/2207.13526)|[ultimate-kalman](https://github.com/sivantoledo/ultimate-kalman)|
 |[massive digital over-the-air computation for communication-efficient federated edge learning](https://arxiv.org/abs/2405.15969)|[md-aircomp](https://github.com/liqiao19/md-aircomp)|
-|[variational mode decomposition and linear embeddings are what you need for time-series forecasting](https://arxiv.org/abs/2408.16122)|[vmd-with-ltsf-linear](https://github.com/espalemit/vmd-with-ltsf-linear)|
 |[flexible framework for generating synthetic electrocardiograms and photoplethysmograms](https://arxiv.org/abs/2408.16291)|[framework_for_synthetic_biosignals](https://github.com/utu-health-research/framework_for_synthetic_biosignals)|
 |[deep deepc: data-enabled predictive control with low or no online optimization using deep learning](https://arxiv.org/abs/2408.16338)|[deep-deepc](https://github.com/qiyuan-zhang/deep-deepc)|
 |[espargos: phase-coherent wifi csi datasets for wireless sensing research](https://arxiv.org/abs/2408.16377)|[espargos-wifi-channelcharting](https://github.com/jeija/espargos-wifi-channelcharting)|
-|[wavtokenizer: an efficient acoustic discrete codec tokenizer for audio language modeling](https://arxiv.org/abs/2408.16532)|[wavtokenizer](https://github.com/jishengpeng/wavtokenizer)|
 |[robomnist: a multimodal dataset for multi-robot activity recognition using wifi sensing, video, and audio](https://arxiv.org/abs/2408.16703)|[robomnist](https://github.com/siamilab/robomnist)|
 |[protograph-based batched network codes](https://arxiv.org/abs/2408.16365)|[bnc](https://github.com/zhu-mingyang/bnc)|
 ## 2024-08-29
