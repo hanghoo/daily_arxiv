@@ -1,3 +1,13 @@
+## 2024-09-05
+|paper|code|
+|---|---|
+|[fast system level synthesis: robust model predictive control using riccati recursions](https://arxiv.org/abs/2401.13762)|[fast-sls](https://gitlab.ethz.ch/ics/fast-sls)|
+|[large language models for explainable decisions in dynamic digital twins](https://arxiv.org/abs/2405.14411)|[rag-dddas](https://github.com/explainable-digital-twins/rag-dddas)|
+|[variational mode decomposition and linear embeddings are what you need for time-series forecasting](https://arxiv.org/abs/2408.16122)|[vmd-with-ltsf-linear](https://github.com/espalemit/vmd-with-ltsf-linear)|
+|[hybrid-segmentor: a hybrid approach to automated fine-grained crack segmentation in civil infrastructure](https://arxiv.org/abs/2409.02866)|[Hybrid-Segmentor](https://github.com/junegoo94/Hybrid-Segmentor)|
+|[quantum state preparation using an exact cnot synthesis formulation](https://arxiv.org/abs/2401.01009)|[quantum-xyz](https://github.com/nozidoali/quantum-xyz)|
+|[netmamba: efficient network traffic classification via pre-training unidirectional mamba](https://arxiv.org/abs/2405.11449)|[NetMamba](https://github.com/wangtz19/NetMamba)|
+|[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
 ## 2024-09-04
 |paper|code|
 |---|---|
@@ -9,7 +19,9 @@
 |[perfecting periodic trajectory tracking: model predictive control with a periodic observer ($\pi$-mpc)](https://arxiv.org/abs/2404.01550)|[pi-mpc](https://github.com/stanfordasl/pi-mpc)|
 |[control of unknown quadrotors from a single throw](https://arxiv.org/abs/2406.11723)|[indiflightSupport](https://github.com/tudelft/indiflightSupport)|
 |[efficient discovery of actual causality using abstraction-refinement](https://arxiv.org/abs/2407.16629)|[Causality_abs_refinement](https://github.com/arshiarafiei/Causality_abs_refinement)|
-|[buet multi-disease heart sound dataset: a comprehensive auscultation dataset for developing computer-aided diagnostic systems](https://arxiv.org/abs/2409.00724)|[bmd-hs-dataset](https://github.com/mhealthbuet/bmd-hs-dataset)|
+|[robust model predictive control exploiting monotonicity properties](https://arxiv.org/abs/2408.17348)|[robmpcexploitmon](https://github.com/moritzhein/robmpcexploitmon)|
+|[buet multi-disease heart sound dataset: a comprehensive auscultation dataset for developing computer-aided diagnostic systems](https://arxiv.org/abs/2409.00724)|[HS-Dataset](https://github.com/sani002/HS-Dataset)|
+|[unsure: unknown noise level stein's unbiased risk estimator](https://arxiv.org/abs/2409.01985)|[unsure](https://github.com/tachella/unsure)|
 |[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
 |[palantir: towards efficient super resolution for ultra-high-definition live streaming](https://arxiv.org/abs/2408.06152)|[palantir](https://github.com/Palantir-SR/palantir)|
 |[entropy loss: an interpretability amplifier of 3d object detection network for intelligent driving](https://arxiv.org/abs/2409.00839)|[Eloss-Interpretability](https://github.com/yhbcode000/Eloss-Interpretability)|
@@ -23,8 +35,12 @@
 |[on robust reinforcement learning with lipschitz-bounded policy networks](https://arxiv.org/abs/2405.11432)|[Lipschitz-RL-Atari](https://github.com/nic-barbara/Lipschitz-RL-Atari)|
 |[reinforced model predictive control via trust-region quasi-newton policy optimization](https://arxiv.org/abs/2405.17983)|[ecc24_tr_improved_qn_po_for_mpc_in_rl](https://github.com/deanbrandner/ecc24_tr_improved_qn_po_for_mpc_in_rl)|
 |[biomedbench: a benchmark suite of tinyml biomedical applications for low-power wearables](https://arxiv.org/abs/2406.03886)|[biomedbench](https://github.com/esl-epfl/biomedbench)|
+|[gpu-accelerated dcopf using gradient-based optimization](https://arxiv.org/abs/2406.13191)|[gpu-enabled-gradient-based-dcopf](https://github.com/srafiei95/gpu-enabled-gradient-based-dcopf)|
 |[cafnet: a confidence-driven framework for radar camera depth estimation](https://arxiv.org/abs/2407.00697)|[cafnet](https://github.com/harborsarah/cafnet)|
+|[mpada: open source framework for multimodal time series antenna array measurements](https://arxiv.org/abs/2408.16850)|[mpada](https://github.com/yuyichang/mpada)|
 |[machine learning & wi-fi: unveiling the path towards ai/ml-native ieee 802.11 networks](https://arxiv.org/abs/2405.11504)|[towards_ai-native_wifi](https://github.com/mlwifitutorial/towards_ai-native_wifi)|
+|[characterizing user platforms for video streaming in broadband networks](https://arxiv.org/abs/2408.16995)|[chlo_extract](https://github.com/wyf99/chlo_extract)|
+|[pib: prioritized information bottleneck framework for collaborative edge video analytics](https://arxiv.org/abs/2408.17047)|[pib-prioritized-information-bottleneck-framework](https://github.com/fangzr/pib-prioritized-information-bottleneck-framework)|
 ## 2024-08-31
 |paper|code|
 |---|---|
