@@ -1,10 +1,16 @@
+## 2024-09-06
+|paper|code|
+|---|---|
+|[online learning for robust voltage control under uncertain grid topology](https://arxiv.org/abs/2306.16674)|[voltctrl](https://github.com/chrisyeh96/voltctrl)|
+|[wind turbine condition monitoring based on intra- and inter-farm federated learning](https://arxiv.org/abs/2409.03672)|[FL-Wind-NBM](https://github.com/EnergyWeatherAI/FL-Wind-NBM)|
+|[an efficient frequency diversity scheme for ultra-reliable communications in two-path fading channels](https://arxiv.org/abs/2206.13459)|[two-ray-ultra-reliability](https://github.com/klb2/two-ray-ultra-reliability)|
+|[towards autonomous cybersecurity: an intelligent automl framework for autonomous intrusion detection](https://arxiv.org/abs/2409.03141)|[autonomouscyber-automl-based-autonomous-intrusion-detection-system](https://github.com/western-oc2-lab/autonomouscyber-automl-based-autonomous-intrusion-detection-system)|
 ## 2024-09-05
 |paper|code|
 |---|---|
 |[fast system level synthesis: robust model predictive control using riccati recursions](https://arxiv.org/abs/2401.13762)|[fast-sls](https://gitlab.ethz.ch/ics/fast-sls)|
 |[large language models for explainable decisions in dynamic digital twins](https://arxiv.org/abs/2405.14411)|[rag-dddas](https://github.com/explainable-digital-twins/rag-dddas)|
 |[variational mode decomposition and linear embeddings are what you need for time-series forecasting](https://arxiv.org/abs/2408.16122)|[vmd-with-ltsf-linear](https://github.com/espalemit/vmd-with-ltsf-linear)|
-|[hybrid-segmentor: a hybrid approach to automated fine-grained crack segmentation in civil infrastructure](https://arxiv.org/abs/2409.02866)|[Hybrid-Segmentor](https://github.com/junegoo94/Hybrid-Segmentor)|
 |[quantum state preparation using an exact cnot synthesis formulation](https://arxiv.org/abs/2401.01009)|[quantum-xyz](https://github.com/nozidoali/quantum-xyz)|
 |[netmamba: efficient network traffic classification via pre-training unidirectional mamba](https://arxiv.org/abs/2405.11449)|[NetMamba](https://github.com/wangtz19/NetMamba)|
 |[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
