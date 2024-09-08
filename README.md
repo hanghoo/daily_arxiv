@@ -11,6 +11,7 @@
 |[fast system level synthesis: robust model predictive control using riccati recursions](https://arxiv.org/abs/2401.13762)|[fast-sls](https://gitlab.ethz.ch/ics/fast-sls)|
 |[large language models for explainable decisions in dynamic digital twins](https://arxiv.org/abs/2405.14411)|[rag-dddas](https://github.com/explainable-digital-twins/rag-dddas)|
 |[variational mode decomposition and linear embeddings are what you need for time-series forecasting](https://arxiv.org/abs/2408.16122)|[vmd-with-ltsf-linear](https://github.com/espalemit/vmd-with-ltsf-linear)|
+|[force-limited control of wave energy converters using a describing function linearization](https://arxiv.org/abs/2409.02408)|[IFAC_CAMS_2024](https://github.com/symbiotic-engineering/IFAC_CAMS_2024)|
 |[quantum state preparation using an exact cnot synthesis formulation](https://arxiv.org/abs/2401.01009)|[quantum-xyz](https://github.com/nozidoali/quantum-xyz)|
 |[netmamba: efficient network traffic classification via pre-training unidirectional mamba](https://arxiv.org/abs/2405.11449)|[NetMamba](https://github.com/wangtz19/NetMamba)|
 |[fadam: adam is a natural gradient optimizer using diagonal empirical fisher information](https://arxiv.org/abs/2405.12807)|[fadam_pytorch](https://github.com/lessw2020/fadam_pytorch)|
