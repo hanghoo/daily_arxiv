@@ -1,9 +1,26 @@
+## 2024-09-10
+|paper|code|
+|---|---|
+|[network-aware flexibility requests for distribution-level flexibility markets](https://arxiv.org/abs/2110.05983)|[flexrequest-creation](https://github.com/eleaprat/flexrequest-creation)|
+|[doubly-iterative sparsified mmse turbo equalization for otfs modulation](https://arxiv.org/abs/2207.00866)|[dismmse-turbo-equalizer-for-otfs](https://github.com/alga53/dismmse-turbo-equalizer-for-otfs)|
+|[monte carlo grid dynamic programming: almost sure convergence and probability constraints](https://arxiv.org/abs/2303.06200)|[mc_dynamicprogramming](https://github.com/msramada/mc_dynamicprogramming)|
+|[patching approximately safe value functions leveraging local hamilton-jacobi reachability analysis](https://arxiv.org/abs/2304.09850)|[hj-patch](https://github.com/ucsd-saslab/hj-patch)|
+|[polynomial logical zonotope: a set representation for reachability analysis of logical systems](https://arxiv.org/abs/2306.12508)|[Logical-Zonotope](https://github.com/aalanwar/Logical-Zonotope)|
+|[actively learning reinforcement learning: a stochastic optimal control approach](https://arxiv.org/abs/2309.10831)|[active-learning-reinforcement-learning](https://github.com/msramada/active-learning-reinforcement-learning)|
+|[learning lyapunov-stable polynomial dynamical systems through imitation](https://arxiv.org/abs/2310.20605)|[stable-imitation-policy](https://github.com/aminabyaneh/stable-imitation-policy)|
+|[rscnet: dynamic csi compression for cloud-based wifi sensing](https://arxiv.org/abs/2402.04888)|[rscnet](https://github.com/bornabr/rscnet)|
+|[providing safety assurances for systems with unknown dynamics](https://arxiv.org/abs/2403.05771)|[safety_assurances_for_unknown_dynamics](https://github.com/haowwang/safety_assurances_for_unknown_dynamics)|
+|[multistep inverse is not all you need](https://arxiv.org/abs/2403.11940)|[acdf](https://github.com/midi-lab/acdf)|
+|[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
+|[joint load and capacity scheduling for flexible radio resource management of high-throughput satellites](https://arxiv.org/abs/2407.08981)|[HTS_RRM_Joint-Load-and-Capacity-Scheduling](https://github.com/crystal-zwz/HTS_RRM_Joint-Load-and-Capacity-Scheduling)|
+|[indicvoices-r: unlocking a massive multilingual multi-speaker speech corpus for scaling indian tts](https://arxiv.org/abs/2409.05356)|[indicvoices-r](https://github.com/ai4bharat/indicvoices-r)|
+|[estimating conditional mutual information for dynamic feature selection](https://arxiv.org/abs/2306.03301)|[dime](https://github.com/suinleelab/dime)|
+|[on the computational entanglement of distant features in adversarial machine learning](https://arxiv.org/abs/2309.15669)|[adversary-example-through-relativity](https://github.com/yenlunglai/adversary-example-through-relativity)|
 ## 2024-09-09
 |paper|code|
 |---|---|
 |[topology of surface electromyogram signals: hand gesture decoding on riemannian manifolds](https://arxiv.org/abs/2311.08548)|[geometryofsemg](https://github.com/harshavardhanatg/geometryofsemg)|
 |[mixnet: joining force of classical and modern approaches toward the comprehensive pipeline in motor imagery eeg classification](https://arxiv.org/abs/2409.04104)|[mixnet](https://github.com/max-phairot-a/mixnet)|
-|[minimax optimal algorithms with fixed-$k$-nearest neighbors](https://arxiv.org/abs/2202.02464)|[split-knn-rules](https://github.com/jongharyu/split-knn-rules)|
 ## 2024-09-06
 |paper|code|
 |---|---|
