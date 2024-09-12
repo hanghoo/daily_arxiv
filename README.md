@@ -1,3 +1,13 @@
+## 2024-09-11
+|paper|code|
+|---|---|
+|[unlocking the use of raw multispectral earth observation imagery for onboard artificial intelligence](https://arxiv.org/abs/2305.11891)|[pyraws](https://github.com/esa-philab/pyraws)|
+|[introducing a deep neural network-based model predictive control framework for rapid controller implementation](https://arxiv.org/abs/2310.08392)|[DnnTrainingHcci_pub](https://github.com/alexwin9478/DnnTrainingHcci_pub)|
+|[real-time machine-learning-based optimization using input convex long short-term memory network](https://arxiv.org/abs/2311.07202)|[iclstm](https://github.com/killingbear999/iclstm)|
+|[probabilistic energy forecasting through quantile regression in reproducing kernel hilbert spaces](https://arxiv.org/abs/2408.04405)|[kernel_quantile_regression](https://github.com/luca-pernigo/kernel_quantile_regression)|
+|[get-up: geometric-aware depth estimation with radar points upsampling](https://arxiv.org/abs/2409.02720)|[get-up](https://github.com/harborsarah/get-up)|
+|[minimax optimal algorithms with fixed-$k$-nearest neighbors](https://arxiv.org/abs/2202.02464)|[split-knn-rules](https://github.com/jongharyu/split-knn-rules)|
+|[role of sensing and computer vision in 6g wireless communications](https://arxiv.org/abs/2405.03945)|[VOBEM2](https://github.com/islab-github/VOBEM2)|
 ## 2024-09-10
 |paper|code|
 |---|---|
