@@ -1,3 +1,11 @@
+## 2024-09-12
+|paper|code|
+|---|---|
+|[end-to-end reinforcement learning for torque based variable height hopping](https://arxiv.org/abs/2307.16676)|[hopping_leg](https://github.com/dfki-ric-underactuated-lab/hopping_leg)|
+|[state-augmented linear games with antagonistic error for high-dimensional, nonlinear hamilton-jacobi reachability](https://arxiv.org/abs/2403.16982)|[hopfreachability](https://github.com/ucsd-saslab/hopfreachability)|
+|[learning-based efficient approximation of data-enabled predictive control](https://arxiv.org/abs/2404.16727)|[redpc](https://github.com/zhou-yh19/redpc)|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[tinychirp: bird song recognition using tinyml models on low-power wireless acoustic sensors](https://arxiv.org/abs/2407.21453)|[tinychirp](https://github.com/tinypart/tinychirp)|
 ## 2024-09-11
 |paper|code|
 |---|---|
@@ -7,6 +15,7 @@
 |[probabilistic energy forecasting through quantile regression in reproducing kernel hilbert spaces](https://arxiv.org/abs/2408.04405)|[kernel_quantile_regression](https://github.com/luca-pernigo/kernel_quantile_regression)|
 |[get-up: geometric-aware depth estimation with radar points upsampling](https://arxiv.org/abs/2409.02720)|[get-up](https://github.com/harborsarah/get-up)|
 |[minimax optimal algorithms with fixed-$k$-nearest neighbors](https://arxiv.org/abs/2202.02464)|[split-knn-rules](https://github.com/jongharyu/split-knn-rules)|
+|[can large language models learn independent causal mechanisms?](https://arxiv.org/abs/2402.02636)|[modular-lm](https://github.com/strong-ai-lab/modular-lm)|
 |[role of sensing and computer vision in 6g wireless communications](https://arxiv.org/abs/2405.03945)|[VOBEM2](https://github.com/islab-github/VOBEM2)|
 ## 2024-09-10
 |paper|code|
@@ -29,8 +38,10 @@
 ## 2024-09-09
 |paper|code|
 |---|---|
+|[a black-box physics-informed estimator based on gaussian process regression for robot inverse dynamics identification](https://arxiv.org/abs/2310.06585)|[LIP4RobotInverseDynamics](https://github.com/merlresearch/LIP4RobotInverseDynamics)|
 |[topology of surface electromyogram signals: hand gesture decoding on riemannian manifolds](https://arxiv.org/abs/2311.08548)|[geometryofsemg](https://github.com/harshavardhanatg/geometryofsemg)|
 |[mixnet: joining force of classical and modern approaches toward the comprehensive pipeline in motor imagery eeg classification](https://arxiv.org/abs/2409.04104)|[mixnet](https://github.com/max-phairot-a/mixnet)|
+|[3d-gp-lmvic: learning-based multi-view image coding with 3d gaussian geometric priors](https://arxiv.org/abs/2409.04013)|[3D-GP-LMVIC](https://github.com/YujunHuang063/3D-GP-LMVIC)|
 ## 2024-09-06
 |paper|code|
 |---|---|
