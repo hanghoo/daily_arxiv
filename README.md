@@ -4,6 +4,7 @@
 |[structured deep neural network-based backstepping trajectory tracking control for lagrangian systems](https://arxiv.org/abs/2403.00381)|[neural-backstepping-tracking-controller](https://github.com/jiajqian/neural-backstepping-tracking-controller)|
 |[dero: dead reckoning based on radar odometry with accelerometers aided for robot localization](https://arxiv.org/abs/2403.05136)|[dero](https://github.com/hoangvietdo/dero)|
 |[auto-multilift: distributed learning and control for cooperative load transportation with quadrotors](https://arxiv.org/abs/2406.04858)|[Auto-Multilift](https://github.com/RCL-NUS/Auto-Multilift)|
+|[linear energy storage and flexibility model with ramp rate, ramping, deadline and capacity constraints](https://arxiv.org/abs/2409.08084)|[FlexibilityAndStorageModel](https://github.com/umar-hashmi/FlexibilityAndStorageModel)|
 |[optimizing falsification for learning-based control systems: a multi-fidelity bayesian approach](https://arxiv.org/abs/2409.08097)|[mfbo_falsification](https://github.com/sailrit/mfbo_falsification)|
 |[wirelessagent: large language model agents for intelligent wireless networks](https://arxiv.org/abs/2409.07964)|[wireless-agent](https://github.com/weiiguo/wireless-agent)|
 |[llm honeypot: leveraging large language models as advanced interactive honeypot systems](https://arxiv.org/abs/2409.08234)|[llm-honeypot](https://github.com/ai-in-complex-systems-lab/llm-honeypot)|
