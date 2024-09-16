@@ -4,8 +4,10 @@
 |[structured deep neural network-based backstepping trajectory tracking control for lagrangian systems](https://arxiv.org/abs/2403.00381)|[neural-backstepping-tracking-controller](https://github.com/jiajqian/neural-backstepping-tracking-controller)|
 |[dero: dead reckoning based on radar odometry with accelerometers aided for robot localization](https://arxiv.org/abs/2403.05136)|[dero](https://github.com/hoangvietdo/dero)|
 |[auto-multilift: distributed learning and control for cooperative load transportation with quadrotors](https://arxiv.org/abs/2406.04858)|[Auto-Multilift](https://github.com/RCL-NUS/Auto-Multilift)|
+|[domain adaptation for doa estimation in multipath channels with interferences](https://arxiv.org/abs/2409.07782)|[domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)|
 |[linear energy storage and flexibility model with ramp rate, ramping, deadline and capacity constraints](https://arxiv.org/abs/2409.08084)|[FlexibilityAndStorageModel](https://github.com/umar-hashmi/FlexibilityAndStorageModel)|
 |[optimizing falsification for learning-based control systems: a multi-fidelity bayesian approach](https://arxiv.org/abs/2409.08097)|[mfbo_falsification](https://github.com/sailrit/mfbo_falsification)|
+|[identification of head impact locations, speeds, and force based on head kinematics](https://arxiv.org/abs/2409.08177)|[impact_retriever](https://github.com/xzhan96-stf/impact_retriever)|
 |[wirelessagent: large language model agents for intelligent wireless networks](https://arxiv.org/abs/2409.07964)|[wireless-agent](https://github.com/weiiguo/wireless-agent)|
 |[llm honeypot: leveraging large language models as advanced interactive honeypot systems](https://arxiv.org/abs/2409.08234)|[llm-honeypot](https://github.com/ai-in-complex-systems-lab/llm-honeypot)|
 ## 2024-09-12
@@ -14,7 +16,6 @@
 |[end-to-end reinforcement learning for torque based variable height hopping](https://arxiv.org/abs/2307.16676)|[hopping_leg](https://github.com/dfki-ric-underactuated-lab/hopping_leg)|
 |[state-augmented linear games with antagonistic error for high-dimensional, nonlinear hamilton-jacobi reachability](https://arxiv.org/abs/2403.16982)|[hopfreachability](https://github.com/ucsd-saslab/hopfreachability)|
 |[learning-based efficient approximation of data-enabled predictive control](https://arxiv.org/abs/2404.16727)|[redpc](https://github.com/zhou-yh19/redpc)|
-|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
 |[tinychirp: bird song recognition using tinyml models on low-power wireless acoustic sensors](https://arxiv.org/abs/2407.21453)|[tinychirp](https://github.com/tinypart/tinychirp)|
 ## 2024-09-11
 |paper|code|
@@ -24,6 +25,7 @@
 |[real-time machine-learning-based optimization using input convex long short-term memory network](https://arxiv.org/abs/2311.07202)|[iclstm](https://github.com/killingbear999/iclstm)|
 |[probabilistic energy forecasting through quantile regression in reproducing kernel hilbert spaces](https://arxiv.org/abs/2408.04405)|[kernel_quantile_regression](https://github.com/luca-pernigo/kernel_quantile_regression)|
 |[get-up: geometric-aware depth estimation with radar points upsampling](https://arxiv.org/abs/2409.02720)|[get-up](https://github.com/harborsarah/get-up)|
+|[peernet: an end-to-end profiling tool for real-time networked robotic systems](https://arxiv.org/abs/2409.06078)|[peernet](https://github.com/utaustin-swarmlab/peernet)|
 |[minimax optimal algorithms with fixed-$k$-nearest neighbors](https://arxiv.org/abs/2202.02464)|[split-knn-rules](https://github.com/jongharyu/split-knn-rules)|
 |[can large language models learn independent causal mechanisms?](https://arxiv.org/abs/2402.02636)|[modular-lm](https://github.com/strong-ai-lab/modular-lm)|
 |[role of sensing and computer vision in 6g wireless communications](https://arxiv.org/abs/2405.03945)|[VOBEM2](https://github.com/islab-github/VOBEM2)|
@@ -33,7 +35,6 @@
 |[network-aware flexibility requests for distribution-level flexibility markets](https://arxiv.org/abs/2110.05983)|[flexrequest-creation](https://github.com/eleaprat/flexrequest-creation)|
 |[doubly-iterative sparsified mmse turbo equalization for otfs modulation](https://arxiv.org/abs/2207.00866)|[dismmse-turbo-equalizer-for-otfs](https://github.com/alga53/dismmse-turbo-equalizer-for-otfs)|
 |[monte carlo grid dynamic programming: almost sure convergence and probability constraints](https://arxiv.org/abs/2303.06200)|[mc_dynamicprogramming](https://github.com/msramada/mc_dynamicprogramming)|
-|[patching approximately safe value functions leveraging local hamilton-jacobi reachability analysis](https://arxiv.org/abs/2304.09850)|[hj-patch](https://github.com/ucsd-saslab/hj-patch)|
 |[polynomial logical zonotope: a set representation for reachability analysis of logical systems](https://arxiv.org/abs/2306.12508)|[Logical-Zonotope](https://github.com/aalanwar/Logical-Zonotope)|
 |[actively learning reinforcement learning: a stochastic optimal control approach](https://arxiv.org/abs/2309.10831)|[active-learning-reinforcement-learning](https://github.com/msramada/active-learning-reinforcement-learning)|
 |[learning lyapunov-stable polynomial dynamical systems through imitation](https://arxiv.org/abs/2310.20605)|[stable-imitation-policy](https://github.com/aminabyaneh/stable-imitation-policy)|
@@ -45,6 +46,8 @@
 |[indicvoices-r: unlocking a massive multilingual multi-speaker speech corpus for scaling indian tts](https://arxiv.org/abs/2409.05356)|[indicvoices-r](https://github.com/ai4bharat/indicvoices-r)|
 |[estimating conditional mutual information for dynamic feature selection](https://arxiv.org/abs/2306.03301)|[dime](https://github.com/suinleelab/dime)|
 |[on the computational entanglement of distant features in adversarial machine learning](https://arxiv.org/abs/2309.15669)|[adversary-example-through-relativity](https://github.com/yenlunglai/adversary-example-through-relativity)|
+|[adaptive $k$-nearest neighbor classifier based on the local estimation of the shape operator](https://arxiv.org/abs/2409.05084)|[kknn](https://github.com/alexandrelevada/kknn)|
+|[tele-llms: a series of specialized large language models for telecommunications](https://arxiv.org/abs/2409.05314)|[tele-llms](https://github.com/ali-maatouk/tele-llms)|
 ## 2024-09-09
 |paper|code|
 |---|---|
