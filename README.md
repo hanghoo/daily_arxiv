@@ -1,3 +1,11 @@
+## 2024-09-16
+|paper|code|
+|---|---|
+|[synthesizing control laws from data using sum-of-squares optimization](https://arxiv.org/abs/2307.01089)|[data-clf](https://github.com/jbramburger/data-clf)|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[biased backpressure routing using link features and graph neural networks](https://arxiv.org/abs/2407.09753)|[dutybp](https://github.com/zhongyuanzhao/dutybp)|
+|[deep deepc: data-enabled predictive control with low or no online optimization using deep learning](https://arxiv.org/abs/2408.16338)|[deep-deepc](https://github.com/qiyuan-zhang/deep-deepc)|
+|[learning short codes for fading channels with no or receiver-only channel state information](https://arxiv.org/abs/2409.08581)|[Learning-Short-Codes-for-Fading-Channels-with-No-or-Receiver-Only-Channel-State-Information](https://github.com/RishP11/Learning-Short-Codes-for-Fading-Channels-with-No-or-Receiver-Only-Channel-State-Information)|
 ## 2024-09-13
 |paper|code|
 |---|---|
@@ -9,7 +17,6 @@
 |[optimizing falsification for learning-based control systems: a multi-fidelity bayesian approach](https://arxiv.org/abs/2409.08097)|[mfbo_falsification](https://github.com/sailrit/mfbo_falsification)|
 |[identification of head impact locations, speeds, and force based on head kinematics](https://arxiv.org/abs/2409.08177)|[impact_retriever](https://github.com/xzhan96-stf/impact_retriever)|
 |[wirelessagent: large language model agents for intelligent wireless networks](https://arxiv.org/abs/2409.07964)|[wireless-agent](https://github.com/weiiguo/wireless-agent)|
-|[llm honeypot: leveraging large language models as advanced interactive honeypot systems](https://arxiv.org/abs/2409.08234)|[llm-honeypot](https://github.com/ai-in-complex-systems-lab/llm-honeypot)|
 ## 2024-09-12
 |paper|code|
 |---|---|
@@ -23,7 +30,6 @@
 |[unlocking the use of raw multispectral earth observation imagery for onboard artificial intelligence](https://arxiv.org/abs/2305.11891)|[pyraws](https://github.com/esa-philab/pyraws)|
 |[introducing a deep neural network-based model predictive control framework for rapid controller implementation](https://arxiv.org/abs/2310.08392)|[DnnTrainingHcci_pub](https://github.com/alexwin9478/DnnTrainingHcci_pub)|
 |[real-time machine-learning-based optimization using input convex long short-term memory network](https://arxiv.org/abs/2311.07202)|[iclstm](https://github.com/killingbear999/iclstm)|
-|[probabilistic energy forecasting through quantile regression in reproducing kernel hilbert spaces](https://arxiv.org/abs/2408.04405)|[kernel_quantile_regression](https://github.com/luca-pernigo/kernel_quantile_regression)|
 |[get-up: geometric-aware depth estimation with radar points upsampling](https://arxiv.org/abs/2409.02720)|[get-up](https://github.com/harborsarah/get-up)|
 |[peernet: an end-to-end profiling tool for real-time networked robotic systems](https://arxiv.org/abs/2409.06078)|[peernet](https://github.com/utaustin-swarmlab/peernet)|
 |[minimax optimal algorithms with fixed-$k$-nearest neighbors](https://arxiv.org/abs/2202.02464)|[split-knn-rules](https://github.com/jongharyu/split-knn-rules)|
