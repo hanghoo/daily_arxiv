@@ -1,3 +1,15 @@
+## 2024-09-17
+|paper|code|
+|---|---|
+|[zero-order optimization for gaussian process-based model predictive control](https://arxiv.org/abs/2211.15522)|[zero-order-gp-mpc.git](https://gitlab.ethz.ch/ics/zero-order-gp-mpc.git)|
+|[anoca: ac network-aware optimal curtailment approach for dynamic hosting capacity](https://arxiv.org/abs/2403.18085)|[anoca](https://github.com/emmanuelbadmus/anoca)|
+|[compact model parameter extraction via derivative-free optimization](https://arxiv.org/abs/2406.16355)|[dfo_parameter_extraction](https://github.com/rafapm/dfo_parameter_extraction)|
+|[probabilistic energy forecasting through quantile regression in reproducing kernel hilbert spaces](https://arxiv.org/abs/2408.04405)|[kernel_quantile_regression](https://github.com/luca-pernigo/kernel_quantile_regression)|
+|[robustness of optimal quantum annealing protocols](https://arxiv.org/abs/2408.06782)|[njp_2024_roqa](https://github.com/eragon10/njp_2024_roqa)|
+|[response surface methodology coupled with desirability functions for multi-objective optimization: minimizing indoor overheating hours and maximizing useful daylight illuminance](https://arxiv.org/abs/2409.09093)|[rsm-thermal-daylight-optimization](https://github.com/juan-gamero-salinas/rsm-thermal-daylight-optimization)|
+|[harnessing the power of federated learning in federated contextual bandits](https://arxiv.org/abs/2312.16341)|[fedigw](https://github.com/shengroup/fedigw)|
+|[tele-llms: a series of specialized large language models for telecommunications](https://arxiv.org/abs/2409.05314)|[tele-llms](https://github.com/ali-maatouk/tele-llms)|
+|[llm honeypot: leveraging large language models as advanced interactive honeypot systems](https://arxiv.org/abs/2409.08234)|[llm-honeypot](https://github.com/ai-in-complex-systems-lab/llm-honeypot)|
 ## 2024-09-16
 |paper|code|
 |---|---|
