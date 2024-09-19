@@ -1,3 +1,19 @@
+## 2024-09-18
+|paper|code|
+|---|---|
+|[managing power grids through topology actions: a comparative study between advanced rule-based and reinforcement learning agents](https://arxiv.org/abs/2304.00765)|[curriculumagent](https://github.com/fraunhoferiee/curriculumagent)|
+|[end-to-end reinforcement learning for torque based variable height hopping](https://arxiv.org/abs/2307.16676)|[hopping_leg](https://github.com/dfki-ric-underactuated-lab/hopping_leg)|
+|[a time-causal and time-recursive analogue of the gabor transform](https://arxiv.org/abs/2308.14512)|[pygabor](https://github.com/tonylindeberg/pygabor)|
+|[detecting and mitigating system-level anomalies of vision-based controllers](https://arxiv.org/abs/2309.13475)|[visual_failure_mitigation](https://github.com/phoenixrider12/visual_failure_mitigation)|
+|[3d-speaker-toolkit: an open-source toolkit for multimodal speaker verification and diarization](https://arxiv.org/abs/2403.19971)|[3D-Speaker](https://github.com/alibaba-damo-academy/3D-Speaker)|
+|[adaptive reinforcement learning for robot control](https://arxiv.org/abs/2404.18713)|[adaptive_agent](https://github.com/robot-perception-group/adaptive_agent)|
+|[laugh now cry later: controlling time-varying emotional states of flow-matching-based zero-shot text-to-speech](https://arxiv.org/abs/2407.12229)|[emoctrltts-eval](https://github.com/hbwu-ntu/emoctrltts-eval)|
+|[neural fields for adaptive photoacoustic computed tomography](https://arxiv.org/abs/2409.10876)|[NF-APACT](https://github.com/Lukeli0425/NF-APACT)|
+|[reactive environments for active inference agents with rxenvironments.jl](https://arxiv.org/abs/2409.11087)|[RxEnvironments.jl](https://github.com/biaslab/RxEnvironments.jl)|
+|[sample complexity bounds for linear system identification from a finite set](https://arxiv.org/abs/2409.11141)|[2024-bounds-finite-set-id](https://github.com/col-tasas/2024-bounds-finite-set-id)|
+|[5g-wave: a core network framework with decentralized authorization for network slices](https://arxiv.org/abs/2404.13242)|[5G-WAVE-Infocom2024](https://github.com/pragyasharmaa/5G-WAVE-Infocom2024)|
+|[muse: flexible voiceprint receptive fields and multi-path fusion enhanced taylor transformer for u-net-based speech enhancement](https://arxiv.org/abs/2406.04589)|[MUSE-Speech-Enhancement](https://github.com/huaidanquede/MUSE-Speech-Enhancement)|
+|[generalized measures of anticipation and responsivity in online language processing](https://arxiv.org/abs/2409.10728)|[generalized-surprisal](https://github.com/rycolab/generalized-surprisal)|
 ## 2024-09-17
 |paper|code|
 |---|---|
