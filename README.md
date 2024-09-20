@@ -1,3 +1,8 @@
+## 2024-09-19
+|paper|code|
+|---|---|
+|[adversarial attacks on neural networks through canonical riemannian foliations](https://arxiv.org/abs/2203.00922)|[curvnetattack](https://github.com/eliot-tron/curvnetattack)|
+|[design and implementation of intelligent packet filtering in iot microcontroller-based devices](https://arxiv.org/abs/2305.19214)|[t800](https://github.com/c2dc/t800)|
 ## 2024-09-18
 |paper|code|
 |---|---|
@@ -6,23 +11,29 @@
 |[a time-causal and time-recursive analogue of the gabor transform](https://arxiv.org/abs/2308.14512)|[pygabor](https://github.com/tonylindeberg/pygabor)|
 |[detecting and mitigating system-level anomalies of vision-based controllers](https://arxiv.org/abs/2309.13475)|[visual_failure_mitigation](https://github.com/phoenixrider12/visual_failure_mitigation)|
 |[3d-speaker-toolkit: an open-source toolkit for multimodal speaker verification and diarization](https://arxiv.org/abs/2403.19971)|[3D-Speaker](https://github.com/alibaba-damo-academy/3D-Speaker)|
-|[adaptive reinforcement learning for robot control](https://arxiv.org/abs/2404.18713)|[adaptive_agent](https://github.com/robot-perception-group/adaptive_agent)|
 |[laugh now cry later: controlling time-varying emotional states of flow-matching-based zero-shot text-to-speech](https://arxiv.org/abs/2407.12229)|[emoctrltts-eval](https://github.com/hbwu-ntu/emoctrltts-eval)|
-|[neural fields for adaptive photoacoustic computed tomography](https://arxiv.org/abs/2409.10876)|[NF-APACT](https://github.com/Lukeli0425/NF-APACT)|
 |[reactive environments for active inference agents with rxenvironments.jl](https://arxiv.org/abs/2409.11087)|[RxEnvironments.jl](https://github.com/biaslab/RxEnvironments.jl)|
 |[sample complexity bounds for linear system identification from a finite set](https://arxiv.org/abs/2409.11141)|[2024-bounds-finite-set-id](https://github.com/col-tasas/2024-bounds-finite-set-id)|
 |[5g-wave: a core network framework with decentralized authorization for network slices](https://arxiv.org/abs/2404.13242)|[5G-WAVE-Infocom2024](https://github.com/pragyasharmaa/5G-WAVE-Infocom2024)|
 |[muse: flexible voiceprint receptive fields and multi-path fusion enhanced taylor transformer for u-net-based speech enhancement](https://arxiv.org/abs/2406.04589)|[MUSE-Speech-Enhancement](https://github.com/huaidanquede/MUSE-Speech-Enhancement)|
+|[j\"ager: automated telephone call traceback](https://arxiv.org/abs/2409.02839)|[jaeger](https://github.com/wspr-ncsu/jaeger)|
 |[generalized measures of anticipation and responsivity in online language processing](https://arxiv.org/abs/2409.10728)|[generalized-surprisal](https://github.com/rycolab/generalized-surprisal)|
 ## 2024-09-17
 |paper|code|
 |---|---|
 |[zero-order optimization for gaussian process-based model predictive control](https://arxiv.org/abs/2211.15522)|[zero-order-gp-mpc.git](https://gitlab.ethz.ch/ics/zero-order-gp-mpc.git)|
+|[an efficient learning-based solver for two-stage dc optimal power flow with feasibility guarantees](https://arxiv.org/abs/2304.01409)|[two-stage-dcopf-neural-solver](https://github.com/zhang-linnng/two-stage-dcopf-neural-solver)|
+|[interpretable ecg analysis for myocardial infarction detection through counterfactuals](https://arxiv.org/abs/2312.08304)|[vcce](https://github.com/tanyelai/vcce)|
 |[anoca: ac network-aware optimal curtailment approach for dynamic hosting capacity](https://arxiv.org/abs/2403.18085)|[anoca](https://github.com/emmanuelbadmus/anoca)|
+|[csi-gpt: integrating generative pre-trained transformer with federated-tuning to acquire downlink massive mimo channels](https://arxiv.org/abs/2406.03438)|[csi-gpt](https://github.com/bit-zy/csi-gpt)|
 |[compact model parameter extraction via derivative-free optimization](https://arxiv.org/abs/2406.16355)|[dfo_parameter_extraction](https://github.com/rafapm/dfo_parameter_extraction)|
+|[verification and synthesis of compatible control lyapunov and control barrier functions](https://arxiv.org/abs/2406.18914)|[compatible_clf_cbf](https://github.com/hongkai-dai/compatible_clf_cbf)|
 |[probabilistic energy forecasting through quantile regression in reproducing kernel hilbert spaces](https://arxiv.org/abs/2408.04405)|[kernel_quantile_regression](https://github.com/luca-pernigo/kernel_quantile_regression)|
 |[robustness of optimal quantum annealing protocols](https://arxiv.org/abs/2408.06782)|[njp_2024_roqa](https://github.com/eragon10/njp_2024_roqa)|
+|[towards safe and tractable gaussian process-based mpc: efficient sampling within a sequential quadratic programming framework](https://arxiv.org/abs/2409.08616)|[sampling-gpmpc](https://github.com/manish-pra/sampling-gpmpc)|
 |[response surface methodology coupled with desirability functions for multi-objective optimization: minimizing indoor overheating hours and maximizing useful daylight illuminance](https://arxiv.org/abs/2409.09093)|[rsm-thermal-daylight-optimization](https://github.com/juan-gamero-salinas/rsm-thermal-daylight-optimization)|
+|[hyperedge representations with hypergraph wavelets: applications to spatial transcriptomics](https://arxiv.org/abs/2409.09469)|[hypergraph-wavelets](https://github.com/KrishnaswamyLab/hypergraph-wavelets)|
+|[efficient network embedding by approximate equitable partitions](https://arxiv.org/abs/2409.10160)|[EmbNetworks](https://github.com/EmbNet01/EmbNetworks)|
 |[harnessing the power of federated learning in federated contextual bandits](https://arxiv.org/abs/2312.16341)|[fedigw](https://github.com/shengroup/fedigw)|
 |[tele-llms: a series of specialized large language models for telecommunications](https://arxiv.org/abs/2409.05314)|[tele-llms](https://github.com/ali-maatouk/tele-llms)|
 |[llm honeypot: leveraging large language models as advanced interactive honeypot systems](https://arxiv.org/abs/2409.08234)|[llm-honeypot](https://github.com/ai-in-complex-systems-lab/llm-honeypot)|
@@ -33,6 +44,7 @@
 |[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
 |[biased backpressure routing using link features and graph neural networks](https://arxiv.org/abs/2407.09753)|[dutybp](https://github.com/zhongyuanzhao/dutybp)|
 |[deep deepc: data-enabled predictive control with low or no online optimization using deep learning](https://arxiv.org/abs/2408.16338)|[deep-deepc](https://github.com/qiyuan-zhang/deep-deepc)|
+|[online learning of expanding graphs](https://arxiv.org/abs/2409.08660)|[online_ntf_expanding](https://github.com/reysam93/online_ntf_expanding)|
 |[learning short codes for fading channels with no or receiver-only channel state information](https://arxiv.org/abs/2409.08581)|[Learning-Short-Codes-for-Fading-Channels-with-No-or-Receiver-Only-Channel-State-Information](https://github.com/RishP11/Learning-Short-Codes-for-Fading-Channels-with-No-or-Receiver-Only-Channel-State-Information)|
 ## 2024-09-13
 |paper|code|
