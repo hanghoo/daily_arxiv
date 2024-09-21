@@ -1,6 +1,14 @@
+## 2024-09-20
+|paper|code|
+|---|---|
+|[ma-vae: multi-head attention-based variational autoencoder approach for anomaly detection in multivariate time-series applied to automotive endurance powertrain testing](https://arxiv.org/abs/2309.02253)|[ma-vae](https://github.com/lcs-crr/ma-vae)|
+|[task and domain adaptive reinforcement learning for robot control](https://arxiv.org/abs/2404.18713)|[adaptive_agent](https://github.com/robot-perception-group/adaptive_agent)|
+|[mission planning on autonomous avoidance for spacecraft confronting orbital debris](https://arxiv.org/abs/2409.09959)|[debris-avoidance](https://github.com/chenxingwen/debris-avoidance)|
+|[on the computational entanglement of distant features in adversarial machine learning](https://arxiv.org/abs/2309.15669)|[adversary-example-through-relativity](https://github.com/yenlunglai/adversary-example-through-relativity)|
 ## 2024-09-19
 |paper|code|
 |---|---|
+|[a mmwave software-defined array platform for wireless experimentation at 24-29.5 ghz](https://arxiv.org/abs/2409.11480)|[design_pynq_28GHz](https://github.com/alphansahin/mmWaveSDR/tree/main/design_pynq_28GHz)|
 |[adversarial attacks on neural networks through canonical riemannian foliations](https://arxiv.org/abs/2203.00922)|[curvnetattack](https://github.com/eliot-tron/curvnetattack)|
 |[design and implementation of intelligent packet filtering in iot microcontroller-based devices](https://arxiv.org/abs/2305.19214)|[t800](https://github.com/c2dc/t800)|
 ## 2024-09-18
@@ -32,6 +40,7 @@
 |[robustness of optimal quantum annealing protocols](https://arxiv.org/abs/2408.06782)|[njp_2024_roqa](https://github.com/eragon10/njp_2024_roqa)|
 |[towards safe and tractable gaussian process-based mpc: efficient sampling within a sequential quadratic programming framework](https://arxiv.org/abs/2409.08616)|[sampling-gpmpc](https://github.com/manish-pra/sampling-gpmpc)|
 |[response surface methodology coupled with desirability functions for multi-objective optimization: minimizing indoor overheating hours and maximizing useful daylight illuminance](https://arxiv.org/abs/2409.09093)|[rsm-thermal-daylight-optimization](https://github.com/juan-gamero-salinas/rsm-thermal-daylight-optimization)|
+|[train-on-request: an on-device continual learning workflow for adaptive real-world brain machine interfaces](https://arxiv.org/abs/2409.09161)|[bmi-odcl](https://github.com/pulp-bio/bmi-odcl)|
 |[hyperedge representations with hypergraph wavelets: applications to spatial transcriptomics](https://arxiv.org/abs/2409.09469)|[hypergraph-wavelets](https://github.com/KrishnaswamyLab/hypergraph-wavelets)|
 |[efficient network embedding by approximate equitable partitions](https://arxiv.org/abs/2409.10160)|[EmbNetworks](https://github.com/EmbNet01/EmbNetworks)|
 |[harnessing the power of federated learning in federated contextual bandits](https://arxiv.org/abs/2312.16341)|[fedigw](https://github.com/shengroup/fedigw)|
