@@ -1,3 +1,10 @@
+## 2024-09-21
+|paper|code|
+|---|---|
+|[reachable polyhedral marching (rpm): an exact analysis tool for deep-learned control systems](https://arxiv.org/abs/2210.08339)|[Neural-Network-Reach](https://github.com/StanfordMSL/Neural-Network-Reach)|
+|[fleet rebalancing for expanding shared e-mobility systems: a multi-agent deep reinforcement learning approach](https://arxiv.org/abs/2211.06136)|[ev-simulator](https://github.com/manluow/ev-simulator)|
+|[a holistic approach for equity-aware carbon reduction of ridesharing platforms](https://arxiv.org/abs/2402.01644)|[e2_ridekit](https://github.com/mahsahebdel/e2_ridekit)|
+|[stealthy deactivation of safety filters](https://arxiv.org/abs/2403.17861)|[ecc24-sf](https://github.com/darnstrom/ecc24-sf)|
 ## 2024-09-20
 |paper|code|
 |---|---|
