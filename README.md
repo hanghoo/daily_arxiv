@@ -1,3 +1,10 @@
+## 2024-09-23
+|paper|code|
+|---|---|
+|[machine learning and system identification for estimation in physical systems](https://arxiv.org/abs/1906.02003)|[Robotlib.jl](https://github.com/baggepinnen/Robotlib.jl)|
+|[region of attraction for power systems using gaussian process and converse lyapunov function -- part i: theoretical framework and off-line study](https://arxiv.org/abs/1906.03590)|[ROA-for-Power-Systems](https://github.com/Chaocas/ROA-for-Power-Systems)|
+|[symmetry-guided reinforcement learning for versatile quadrupedal gait generation](https://arxiv.org/abs/2403.10723)|[bittle_leveraging_symmetries_in_rl](https://github.com/dlarlab/bittle_leveraging_symmetries_in_rl)|
+|[high perceptual quality wireless image delivery with denoising diffusion models](https://arxiv.org/abs/2309.15889)|[deepjscc-diffusion](https://github.com/ipc-lab/deepjscc-diffusion)|
 ## 2024-09-21
 |paper|code|
 |---|---|
@@ -12,10 +19,12 @@
 |[task and domain adaptive reinforcement learning for robot control](https://arxiv.org/abs/2404.18713)|[adaptive_agent](https://github.com/robot-perception-group/adaptive_agent)|
 |[mission planning on autonomous avoidance for spacecraft confronting orbital debris](https://arxiv.org/abs/2409.09959)|[debris-avoidance](https://github.com/chenxingwen/debris-avoidance)|
 |[on the computational entanglement of distant features in adversarial machine learning](https://arxiv.org/abs/2309.15669)|[adversary-example-through-relativity](https://github.com/yenlunglai/adversary-example-through-relativity)|
+|[enhancing 3d robotic vision robustness by minimizing adversarial mutual information through a curriculum training approach](https://arxiv.org/abs/2409.12379)|[mine-n-learn](https://github.com/nstrndrbi/mine-n-learn)|
 ## 2024-09-19
 |paper|code|
 |---|---|
 |[a mmwave software-defined array platform for wireless experimentation at 24-29.5 ghz](https://arxiv.org/abs/2409.11480)|[design_pynq_28GHz](https://github.com/alphansahin/mmWaveSDR/tree/main/design_pynq_28GHz)|
+|[real-time sound event localization and detection: deployment challenges on edge devices](https://arxiv.org/abs/2409.11700)|[realtime-seld-edge](https://github.com/itsjunwei/realtime-seld-edge)|
 |[adversarial attacks on neural networks through canonical riemannian foliations](https://arxiv.org/abs/2203.00922)|[curvnetattack](https://github.com/eliot-tron/curvnetattack)|
 |[design and implementation of intelligent packet filtering in iot microcontroller-based devices](https://arxiv.org/abs/2305.19214)|[t800](https://github.com/c2dc/t800)|
 ## 2024-09-18
@@ -25,10 +34,11 @@
 |[end-to-end reinforcement learning for torque based variable height hopping](https://arxiv.org/abs/2307.16676)|[hopping_leg](https://github.com/dfki-ric-underactuated-lab/hopping_leg)|
 |[a time-causal and time-recursive analogue of the gabor transform](https://arxiv.org/abs/2308.14512)|[pygabor](https://github.com/tonylindeberg/pygabor)|
 |[detecting and mitigating system-level anomalies of vision-based controllers](https://arxiv.org/abs/2309.13475)|[visual_failure_mitigation](https://github.com/phoenixrider12/visual_failure_mitigation)|
-|[3d-speaker-toolkit: an open-source toolkit for multimodal speaker verification and diarization](https://arxiv.org/abs/2403.19971)|[3D-Speaker](https://github.com/alibaba-damo-academy/3D-Speaker)|
+|[3d-speaker-toolkit: an open-source toolkit for multimodal speaker verification and diarization](https://arxiv.org/abs/2403.19971)|[3D-Speaker](https://github.com/modelscope/3D-Speaker)|
 |[laugh now cry later: controlling time-varying emotional states of flow-matching-based zero-shot text-to-speech](https://arxiv.org/abs/2407.12229)|[emoctrltts-eval](https://github.com/hbwu-ntu/emoctrltts-eval)|
 |[reactive environments for active inference agents with rxenvironments.jl](https://arxiv.org/abs/2409.11087)|[RxEnvironments.jl](https://github.com/biaslab/RxEnvironments.jl)|
 |[sample complexity bounds for linear system identification from a finite set](https://arxiv.org/abs/2409.11141)|[2024-bounds-finite-set-id](https://github.com/col-tasas/2024-bounds-finite-set-id)|
+|[nirvawave: an accurate and efficient near field wave propagation simulator for 6g and beyond](https://arxiv.org/abs/2409.11293)|[nirvawave](https://github.com/vahidyazdnian1378/nirvawave)|
 |[5g-wave: a core network framework with decentralized authorization for network slices](https://arxiv.org/abs/2404.13242)|[5G-WAVE-Infocom2024](https://github.com/pragyasharmaa/5G-WAVE-Infocom2024)|
 |[muse: flexible voiceprint receptive fields and multi-path fusion enhanced taylor transformer for u-net-based speech enhancement](https://arxiv.org/abs/2406.04589)|[MUSE-Speech-Enhancement](https://github.com/huaidanquede/MUSE-Speech-Enhancement)|
 |[j\"ager: automated telephone call traceback](https://arxiv.org/abs/2409.02839)|[jaeger](https://github.com/wspr-ncsu/jaeger)|
