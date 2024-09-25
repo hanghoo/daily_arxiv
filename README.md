@@ -1,3 +1,21 @@
+## 2024-09-24
+|paper|code|
+|---|---|
+|[asymmetry underlies stability in power grids](https://arxiv.org/abs/2103.10952)|[csb_powergrid](https://github.com/fmolnar-notredame/csb_powergrid)|
+|[super-linear scaling behavior for electric vehicle chargers and road map to addressing the infrastructure gap](https://arxiv.org/abs/2204.03094)|[evse-scaling-behavior](https://github.com/BattModels/evse-scaling-behavior)|
+|[beamfocusing optimization for near-field wideband multi-user communications](https://arxiv.org/abs/2306.16861)|[beamfocusing-optimization-for-near-field-wideband-multi-user-communications](https://github.com/zhaolin820/beamfocusing-optimization-for-near-field-wideband-multi-user-communications)|
+|[real-time machine-learning-based optimization using input convex long short-term memory network](https://arxiv.org/abs/2311.07202)|[iclstm](https://github.com/killingbear999/iclstm)|
+|[near-field velocity sensing and predictive beamforming](https://arxiv.org/abs/2311.09888)|[near-field-velocity-sensing-and-predictive-beamforming](https://github.com/zhaolin820/near-field-velocity-sensing-and-predictive-beamforming)|
+|[automated security response through online learning with adaptive conjectures](https://arxiv.org/abs/2402.12499)|[csle](https://github.com/limmen/csle)|
+|[szcore: a seizure community open-source research evaluation framework for the validation of eeg-based automated seizure detection algorithms](https://arxiv.org/abs/2402.13005)|[sz-validation-framework](https://github.com/esl-epfl/sz-validation-framework)|
+|[genet: a graph neural network-based anti-noise task-oriented semantic communication paradigm](https://arxiv.org/abs/2403.18296)|[genet](https://github.com/chunbaobao/genet)|
+|[parameter-adaptive approximate mpc: tuning neural-network controllers without retraining](https://arxiv.org/abs/2404.05835)|[adaptive-ampc-cartpole](https://github.com/hshose/adaptive-ampc-cartpole)|
+|[some contributions to lagrangian modelling of power converters](https://arxiv.org/abs/2406.09826)|[H-F-Dc-Dc-Power-converters](https://github.com/ShakirSofi/H-F-Dc-Dc-Power-converters)|
+|[compact model parameter extraction via derivative-free optimization](https://arxiv.org/abs/2406.16355)|[dfo_parameter_extraction](https://github.com/rafapm/dfo_parameter_extraction)|
+|[optimization-based outlier accommodation for tightly coupled rtk-aided inertial navigation systems in urban environments](https://arxiv.org/abs/2407.13912)|[UrbanRTK-INS-OutlierOpt](https://github.com/Azurehappen/UrbanRTK-INS-OutlierOpt)|
+|[speed: scalable preprocessing of eeg data for self-supervised learning](https://arxiv.org/abs/2408.08065)|[speed](https://github.com/andersgmadsen/speed)|
+|[train-on-request: an on-device continual learning workflow for adaptive real-world brain machine interfaces](https://arxiv.org/abs/2409.09161)|[bmi-odcl](https://github.com/pulp-bio/bmi-odcl)|
+|[performance evaluation of pac decoding with deep neural networks](https://arxiv.org/abs/2405.02590)|[Performance-Evaluation-of-PAC-Decoding-with-Deep-Neural-Networks](https://github.com/daijingixn/Performance-Evaluation-of-PAC-Decoding-with-Deep-Neural-Networks)|
 ## 2024-09-23
 |paper|code|
 |---|---|
