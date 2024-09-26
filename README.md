@@ -1,3 +1,9 @@
+## 2024-09-25
+|paper|code|
+|---|---|
+|[physics-informed multi-agent reinforcement learning for distributed multi-robot problems](https://arxiv.org/abs/2401.00212)|[phmarl](https://github.com/eduardosebastianrodriguez/phmarl)|
+|[data-driven system identification of quadrotors subject to motor delays](https://arxiv.org/abs/2404.07837)|[data-driven-system-identification](https://github.com/arplaboratory/data-driven-system-identification)|
+|[mds-ed: multimodal decision support in the emergency department -- a benchmark dataset for diagnoses and deterioration prediction in emergency medicine](https://arxiv.org/abs/2407.17856)|[mds-ed](https://github.com/ai4healthuol/mds-ed)|
 ## 2024-09-24
 |paper|code|
 |---|---|
@@ -16,6 +22,7 @@
 |[speed: scalable preprocessing of eeg data for self-supervised learning](https://arxiv.org/abs/2408.08065)|[speed](https://github.com/andersgmadsen/speed)|
 |[train-on-request: an on-device continual learning workflow for adaptive real-world brain machine interfaces](https://arxiv.org/abs/2409.09161)|[bmi-odcl](https://github.com/pulp-bio/bmi-odcl)|
 |[performance evaluation of pac decoding with deep neural networks](https://arxiv.org/abs/2405.02590)|[Performance-Evaluation-of-PAC-Decoding-with-Deep-Neural-Networks](https://github.com/daijingixn/Performance-Evaluation-of-PAC-Decoding-with-Deep-Neural-Networks)|
+|[alphazip: neural network-enhanced lossless text compression](https://arxiv.org/abs/2409.15046)|[alphazip](https://github.com/swathi-shree-narashiman/alphazip)|
 ## 2024-09-23
 |paper|code|
 |---|---|
@@ -36,6 +43,7 @@
 |[ma-vae: multi-head attention-based variational autoencoder approach for anomaly detection in multivariate time-series applied to automotive endurance powertrain testing](https://arxiv.org/abs/2309.02253)|[ma-vae](https://github.com/lcs-crr/ma-vae)|
 |[task and domain adaptive reinforcement learning for robot control](https://arxiv.org/abs/2404.18713)|[adaptive_agent](https://github.com/robot-perception-group/adaptive_agent)|
 |[mission planning on autonomous avoidance for spacecraft confronting orbital debris](https://arxiv.org/abs/2409.09959)|[debris-avoidance](https://github.com/chenxingwen/debris-avoidance)|
+|[online proximal admm for graph learning from streaming smooth signals](https://arxiv.org/abs/2409.12916)|[ogl](https://github.com/hchahuara/ogl)|
 |[on the computational entanglement of distant features in adversarial machine learning](https://arxiv.org/abs/2309.15669)|[adversary-example-through-relativity](https://github.com/yenlunglai/adversary-example-through-relativity)|
 |[enhancing 3d robotic vision robustness by minimizing adversarial mutual information through a curriculum training approach](https://arxiv.org/abs/2409.12379)|[mine-n-learn](https://github.com/nstrndrbi/mine-n-learn)|
 ## 2024-09-19
