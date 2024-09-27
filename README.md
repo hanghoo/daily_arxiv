@@ -1,3 +1,13 @@
+## 2024-09-26
+|paper|code|
+|---|---|
+|[stable training of probabilistic models using the leave-one-out maximum log-likelihood objective](https://arxiv.org/abs/2310.03556)|[leave-one-out_maximum-log-likelihood](https://github.com/kabolat/leave-one-out_maximum-log-likelihood)|
+|[optimal vintage factor analysis with deflation varimax](https://arxiv.org/abs/2310.10545)|[optimal_deflation_varimax](https://github.com/jindiande/optimal_deflation_varimax)|
+|[simba: system identification methods leveraging backpropagation](https://arxiv.org/abs/2311.13889)|[simba](https://github.com/cemempamoi/simba)|
+|[visual decoding and reconstruction via eeg embeddings with guided diffusion](https://arxiv.org/abs/2403.07721)|[eeg_image_decode](https://github.com/dongyangli-del/eeg_image_decode)|
+|[gpu-accelerated dcopf using gradient-based optimization](https://arxiv.org/abs/2406.13191)|[gpu-enabled-gradient-based-dcopf](https://github.com/srafiei95/gpu-enabled-gradient-based-dcopf)|
+|[precision aquaculture: an integrated computer vision and iot approach for optimized tilapia feeding](https://arxiv.org/abs/2409.08695)|[fish-counting](https://github.com/ahmedheakl/fish-counting)|
+|[the language of infographics: toward understanding conceptual metaphor use in scientific storytelling](https://arxiv.org/abs/2407.13416)|[metaphortool](https://github.com/lauragarrison87/metaphortool)|
 ## 2024-09-25
 |paper|code|
 |---|---|
@@ -28,7 +38,7 @@
 |---|---|
 |[machine learning and system identification for estimation in physical systems](https://arxiv.org/abs/1906.02003)|[Robotlib.jl](https://github.com/baggepinnen/Robotlib.jl)|
 |[region of attraction for power systems using gaussian process and converse lyapunov function -- part i: theoretical framework and off-line study](https://arxiv.org/abs/1906.03590)|[ROA-for-Power-Systems](https://github.com/Chaocas/ROA-for-Power-Systems)|
-|[symmetry-guided reinforcement learning for versatile quadrupedal gait generation](https://arxiv.org/abs/2403.10723)|[bittle_leveraging_symmetries_in_rl](https://github.com/dlarlab/bittle_leveraging_symmetries_in_rl)|
+|[symmetry-guided reinforcement learning for versatile quadrupedal gait generation](https://arxiv.org/abs/2403.10723)|[Bittle_Symmetry_RL](https://github.com/Amaranth819/Bittle_Symmetry_RL)|
 |[high perceptual quality wireless image delivery with denoising diffusion models](https://arxiv.org/abs/2309.15889)|[deepjscc-diffusion](https://github.com/ipc-lab/deepjscc-diffusion)|
 ## 2024-09-21
 |paper|code|
