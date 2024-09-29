@@ -1,3 +1,7 @@
+## 2024-09-27
+|paper|code|
+|---|---|
+|[control industrial automation system with large language models](https://arxiv.org/abs/2409.18009)|[llm4ias](https://github.com/yuchenxia/llm4ias)|
 ## 2024-09-26
 |paper|code|
 |---|---|
