@@ -1,3 +1,53 @@
+## 2024-10-04
+|paper|code|
+|---|---|
+|[algorithms for non-negative matrix factorization on noisy data with negative values](https://arxiv.org/abs/2311.04855)|[nearly_nmf](https://github.com/dylanagreen/nearly_nmf)|
+|[multi-channel masked autoencoder and comprehensive evaluations for reconstructing 12-lead ecg from arbitrary single-lead ecg](https://arxiv.org/abs/2407.11481)|[mcma](https://github.com/chenjiar3/mcma)|
+|[custom non-linear model predictive control for obstacle avoidance in indoor and outdoor environments](https://arxiv.org/abs/2410.02732)|[nmpc_flash_multi_obstacle](https://github.com/larasupernovae/nmpc_flash_multi_obstacle)|
+## 2024-10-03
+|paper|code|
+|---|---|
+|[controllable preference optimization: toward controllable multi-objective alignment](https://arxiv.org/abs/2402.19085)|[CPO](https://github.com/OpenBMB/CPO)|
+|[a deep learning method for beat-level risk analysis and interpretation of atrial fibrillation patients during sinus rhythm](https://arxiv.org/abs/2403.11405)|[ecgbeat4afsinus](https://github.com/leijsen/ecgbeat4afsinus)|
+|[decentralized optimization in time-varying networks with arbitrary delays](https://arxiv.org/abs/2405.19513)|[dt-go](https://github.com/tomasortega/dt-go)|
+|[toward real-time digital twins of em environments: computational benchmark of ray launching software](https://arxiv.org/abs/2406.05042)|[ray-launching-benchmark](https://github.com/Michele-Zhu/ray-launching-benchmark)|
+|[uncertainty modelling and robust observer synthesis using the koopman operator](https://arxiv.org/abs/2410.01057)|[robust_observer_koopman](https://github.com/decargroup/robust_observer_koopman)|
+|[optimal causal representations and the causal information bottleneck](https://arxiv.org/abs/2410.00535)|[cib-optimization-psagd](https://github.com/francisco-simoes/cib-optimization-psagd)|
+## 2024-10-02
+|paper|code|
+|---|---|
+|[quantifying the safety of trajectories using peak-minimizing control](https://arxiv.org/abs/2303.11896)|[crash-safety](https://github.com/jarmill/crash-safety)|
+|[is data all that matters? the role of control frequency for learning-based sampled-data control of uncertain systems](https://arxiv.org/abs/2403.09504)|[lb_sd](https://github.com/ralfroemer99/lb_sd)|
+|[posterior-mean rectified flow: towards minimum mse photo-realistic image restoration](https://arxiv.org/abs/2410.00418)|[PMRF](https://github.com/ohayonguy/PMRF)|
+|[vicious classifiers: assessing inference-time data reconstruction risk in edge computing](https://arxiv.org/abs/2212.04223)|[vicious-classifiers](https://github.com/mmalekzadeh/vicious-classifiers)|
+## 2024-10-01
+|paper|code|
+|---|---|
+|[detecting and mitigating system-level anomalies of vision-based controllers](https://arxiv.org/abs/2309.13475)|[visual_failure_mitigation](https://github.com/phoenixrider12/visual_failure_mitigation)|
+|[deep model predictive optimization](https://arxiv.org/abs/2310.04590)|[dmpo](https://github.com/jisacks/dmpo)|
+|[efficient path planning in large unknown environments with switchable system models for automated vehicles](https://arxiv.org/abs/2310.06974)|[guided-extended-hybrid-astar](https://github.com/oliver-schumann/guided-extended-hybrid-astar)|
+|[density adaptive attention is all you need: robust parameter-efficient fine-tuning across multiple modalities](https://arxiv.org/abs/2401.11143)|[gaussian-adaptive-attention](https://github.com/gioannides/gaussian-adaptive-attention)|
+|[complete and near-optimal robotic crack coverage and filling in civil infrastructure](https://arxiv.org/abs/2403.00613)|[crack-filling-robot](https://github.com/binghamton-acsr-lab/crack-filling-robot)|
+|[experimenting with adaptive bitrate algorithms for virtual reality streaming over wi-fi](https://arxiv.org/abs/2407.15614)|[ALVR_ABR_UPF](https://github.com/wn-upf/ALVR_ABR_UPF)|
+|[unsure: unknown noise level stein's unbiased risk estimator](https://arxiv.org/abs/2409.01985)|[unsure](https://github.com/tachella/unsure)|
+|[summit vitals: multi-camera and multi-signal biosensing at high altitudes](https://arxiv.org/abs/2409.19223)|[SUMS](https://github.com/thuhci/SUMS)|
+|[constrained reinforcement learning for safe heat pump control](https://arxiv.org/abs/2409.19716)|[i4b](https://github.com/lfrison/i4b)|
+|[swim: short-window cnn integrated with mamba for eeg-based auditory spatial attention decoding](https://arxiv.org/abs/2409.19884)|[swim-asad](https://github.com/windowso/swim-asad)|
+|[numerically robust fixed-point smoothing without state augmentation](https://arxiv.org/abs/2409.20004)|[code-numerically-robust-fixedpoint-smoother](https://github.com/pnkraemer/code-numerically-robust-fixedpoint-smoother)|
+|[on the computational entanglement of distant features in adversarial machine learning](https://arxiv.org/abs/2309.15669)|[adversary-example-through-relativity](https://github.com/yenlunglai/adversary-example-through-relativity)|
+|[hrgraph: leveraging llms for hr data knowledge graphs with information propagation-based job recommendation](https://arxiv.org/abs/2408.13521)|[hrgraph](https://github.com/azminewasi/hrgraph)|
+|[curate: scaling-up differentially private causal graph discovery](https://arxiv.org/abs/2409.19060)|[cgdCURATE](https://github.com/PayelBhattacharjee14/cgdCURATE)|
+## 2024-09-30
+|paper|code|
+|---|---|
+|[interpretation of intracardiac electrograms through textual representations](https://arxiv.org/abs/2402.01115)|[text-egm](https://github.com/willxxy/text-egm)|
+|[proprioception is all you need: terrain classification for boreal forests](https://arxiv.org/abs/2403.16877)|[BorealTC](https://github.com/norlab-ulaval/BorealTC)|
+|[distributed model predictive control for piecewise affine systems based on switching admm](https://arxiv.org/abs/2404.16712)|[stable-dmpc-pwa](https://github.com/SamuelMallick/stable-dmpc-pwa)|
+|[learning to boost the performance of stable nonlinear systems](https://arxiv.org/abs/2405.00871)|[performance-boosting_controllers](https://github.com/DecodEPFL/performance-boosting_controllers)|
+|[sustaindc -- benchmarking for sustainable data center control](https://arxiv.org/abs/2408.07841)|[dc-rl](https://github.com/hewlettpackard/dc-rl)|
+|[curricullm: automatic task curricula design for learning complex robot skills using large language models](https://arxiv.org/abs/2409.18382)|[curricullm](https://github.com/labicon/curricullm)|
+|[simpler gradient methods for blind super-resolution with lower iteration complexity](https://arxiv.org/abs/2409.18387)|[SimplerGDs-VHL](https://github.com/Jinshengg/SimplerGDs-VHL)|
+|[explainable enrichment-driven graph reasoner (edgar) for large knowledge graphs with applications in drug repurposing](https://arxiv.org/abs/2409.18659)|[edgar](https://github.com/ranking-agent/edgar)|
 ## 2024-09-27
 |paper|code|
 |---|---|
