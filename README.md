@@ -1,8 +1,36 @@
+## 2024-10-08
+|paper|code|
+|---|---|
+|[fast variational block-sparse bayesian learning](https://arxiv.org/abs/2306.00442)|[fast-variational-block-sparse-bayesian-learning](https://gitlab.com/jmoederl/fast-variational-block-sparse-bayesian-learning)|
+|[cst-yolo: a novel method for blood cell detection based on improved yolov7 and cnn-swin transformer](https://arxiv.org/abs/2306.14590)|[CST-YOLO](https://github.com/mkang315/CST-YOLO)|
+|[sparse learned kernels for interpretable and efficient medical time series processing](https://arxiv.org/abs/2307.05385)|[smolk](https://github.com/sullychen/smolk)|
+|[feedback-feedforward signal control with exogenous demand estimation in congested urban road networks](https://arxiv.org/abs/2312.07359)|[saffron](https://github.com/decenter2021/saffron)|
+|[real-time eeg-based emotion recognition model using principal component analysis and tree-based models for neurohumanities](https://arxiv.org/abs/2401.15743)|[neurohumanities-lab](https://github.com/miltoncandela/neurohumanities-lab)|
+|[decentralized robust data-driven predictive control for smoothing mixed traffic flow](https://arxiv.org/abs/2401.15826)|[Decentralized-DeeP-LCC](https://github.com/soc-ucsd/Decentralized-DeeP-LCC)|
+|[symbolic-numeric algorithm for parameter estimation in discrete-time models with $\exp$](https://arxiv.org/abs/2401.16220)|[larva-pupa-adult](https://github.com/jedforrest/larva-pupa-adult)|
+|[auto-multilift: distributed learning and control for cooperative load transportation with quadrotors](https://arxiv.org/abs/2406.04858)|[Auto-Multilift](https://github.com/RCL-NUS/Auto-Multilift)|
+|[comparative evaluation of learning models for bionic robots: non-linear transfer function identifications](https://arxiv.org/abs/2407.02428)|[model-free-robotics](https://github.com/poyuhs/model-free-robotics)|
+|[pointwise-sparse actuator scheduling for linear systems with controllability guarantee](https://arxiv.org/abs/2407.12125)|[sparse-control](https://github.com/lucaballotta/sparse-control)|
+|[sustaindc -- benchmarking for sustainable data center control](https://arxiv.org/abs/2408.07841)|[dc-rl](https://github.com/hewlettpackard/dc-rl)|
+|[cbf-llm: safe control for llm alignment](https://arxiv.org/abs/2408.15625)|[cbf-llm](https://github.com/mya-mya/cbf-llm)|
+|[indicvoices-r: unlocking a massive multilingual multi-speaker speech corpus for scaling indian tts](https://arxiv.org/abs/2409.05356)|[indicvoices-r](https://github.com/ai4bharat/indicvoices-r)|
+|[bisimulation metric for model predictive control](https://arxiv.org/abs/2410.04553)|[BSMPC](https://github.com/purewater0901/BSMPC)|
+|[predictive spliner: data-driven overtaking in autonomous racing using opponent trajectory prediction](https://arxiv.org/abs/2410.04868)|[predictive-spliner](https://github.com/forzaeth/predictive-spliner)|
+## 2024-10-07
+|paper|code|
+|---|---|
+|[visual decoding and reconstruction via eeg embeddings with guided diffusion](https://arxiv.org/abs/2403.07721)|[eeg_image_decode](https://github.com/ncclab-sustech/eeg_image_decode)|
+|[understanding the impact of coalitions between ev charging stations](https://arxiv.org/abs/2404.03919)|[coalition-ev](https://github.com/kkulk/coalition-ev)|
+|[ekf-sindy: empowering the extended kalman filter with sparse identification of nonlinear dynamics](https://arxiv.org/abs/2404.07536)|[ekf-sindy](https://github.com/contipaolo/ekf-sindy)|
+|[manikin-recorded cardiopulmonary sounds dataset using digital stethoscope](https://arxiv.org/abs/2410.03280)|[hls-cmds](https://github.com/torabiy/hls-cmds)|
+|[an ebpf-based trace-driven emulation method for satellite networks](https://arxiv.org/abs/2408.15581)|[ebpf-trace-emu](https://github.com/yeliqseu/ebpf-trace-emu)|
+|[receptors cluster in high-curvature membrane regions for optimal spatial gradient sensing](https://arxiv.org/abs/2410.03395)|[recloc](https://github.com/kirkegaardlab/recloc)|
 ## 2024-10-04
 |paper|code|
 |---|---|
 |[algorithms for non-negative matrix factorization on noisy data with negative values](https://arxiv.org/abs/2311.04855)|[nearly_nmf](https://github.com/dylanagreen/nearly_nmf)|
 |[multi-channel masked autoencoder and comprehensive evaluations for reconstructing 12-lead ecg from arbitrary single-lead ecg](https://arxiv.org/abs/2407.11481)|[mcma](https://github.com/chenjiar3/mcma)|
+|[capturing complex hand movements and object interactions using machine learning-powered stretchable smart textile gloves](https://arxiv.org/abs/2410.02221)|[SmartTextileGlove](https://github.com/arvintashakori/SmartTextileGlove)|
 |[custom non-linear model predictive control for obstacle avoidance in indoor and outdoor environments](https://arxiv.org/abs/2410.02732)|[nmpc_flash_multi_obstacle](https://github.com/larasupernovae/nmpc_flash_multi_obstacle)|
 ## 2024-10-03
 |paper|code|
