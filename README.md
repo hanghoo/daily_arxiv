@@ -1,3 +1,23 @@
+## 2024-10-11
+|paper|code|
+|---|---|
+|[vrem-fl: mobility-aware computation-scheduling co-design for vehicular federated learning](https://arxiv.org/abs/2311.18741)|[vrem-fl](https://github.com/lucaballotta/vrem-fl)|
+|[the computation of approximate feedback stackelberg equilibria in multi-player nonlinear constrained dynamic games](https://arxiv.org/abs/2401.15745)|[feedbackstackelberggames.jl](https://github.com/jamesjingqili/feedbackstackelberggames.jl)|
+|[localized adaptive risk control](https://arxiv.org/abs/2405.07976)|[localized-adaptive-risk-control](https://github.com/kclip/localized-adaptive-risk-control)|
+## 2024-10-10
+|paper|code|
+|---|---|
+|[an active learning method for solving competitive multi-agent decision-making and control problems](https://arxiv.org/abs/2212.12561)|[gnep-learn](https://github.com/bemporad/gnep-learn)|
+|[approximate non-linear model predictive control with safety-augmented neural networks](https://arxiv.org/abs/2304.09575)|[soeampc](https://github.com/hshose/soeampc)|
+|[exploring new territory: calibration-free decoding for c-vep bci](https://arxiv.org/abs/2403.15521)|[pyntbci](https://github.com/thijor/pyntbci)|
+|[kid-ppg: knowledge informed deep learning for extracting heart rate from a smartwatch](https://arxiv.org/abs/2405.09559)|[KID-PPG](https://github.com/esl-epfl/KID-PPG)|
+|[trustemg-net: using representation-masking transformer with u-net for surface electromyography enhancement](https://arxiv.org/abs/2410.03843)|[TrustEMG](https://github.com/eric-wang135/TrustEMG)|
+|[synthesizing interpretable control policies through large language model guided search](https://arxiv.org/abs/2410.05406)|[synthesizing_interpretable_control_policies](https://github.com/muellerlab/synthesizing_interpretable_control_policies)|
+|[qgym: scalable simulation and benchmarking of queuing network controllers](https://arxiv.org/abs/2410.06170)|[qgym](https://github.com/namkoong-lab/qgym)|
+|[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
+|[bic-mppi: goal-pursuing, sampling-based bidirectional rollout clustering path integral for trajectory optimization](https://arxiv.org/abs/2410.06493)|[BiC-MPPI](https://github.com/i-ASL/BiC-MPPI)|
+|[message-passing on hypergraphs: detectability, phase transitions and higher-order information](https://arxiv.org/abs/2312.00708)|[hypergraph-message-passing](https://github.com/nickruggeri/hypergraph-message-passing)|
+|[accelerating error correction code transformers](https://arxiv.org/abs/2410.05911)|[aecct](https://github.com/mlaetvayn/aecct)|
 ## 2024-10-08
 |paper|code|
 |---|---|
@@ -14,6 +34,7 @@
 |[sustaindc -- benchmarking for sustainable data center control](https://arxiv.org/abs/2408.07841)|[dc-rl](https://github.com/hewlettpackard/dc-rl)|
 |[cbf-llm: safe control for llm alignment](https://arxiv.org/abs/2408.15625)|[cbf-llm](https://github.com/mya-mya/cbf-llm)|
 |[indicvoices-r: unlocking a massive multilingual multi-speaker speech corpus for scaling indian tts](https://arxiv.org/abs/2409.05356)|[indicvoices-r](https://github.com/ai4bharat/indicvoices-r)|
+|[widistill: distilling large-scale wi-fi datasets with trajectory matching](https://arxiv.org/abs/2410.04073)|[widistill](https://github.com/the-sky001/widistill)|
 |[bisimulation metric for model predictive control](https://arxiv.org/abs/2410.04553)|[BSMPC](https://github.com/purewater0901/BSMPC)|
 |[predictive spliner: data-driven overtaking in autonomous racing using opponent trajectory prediction](https://arxiv.org/abs/2410.04868)|[predictive-spliner](https://github.com/forzaeth/predictive-spliner)|
 ## 2024-10-07
