@@ -3,7 +3,12 @@
 |---|---|
 |[vrem-fl: mobility-aware computation-scheduling co-design for vehicular federated learning](https://arxiv.org/abs/2311.18741)|[vrem-fl](https://github.com/lucaballotta/vrem-fl)|
 |[the computation of approximate feedback stackelberg equilibria in multi-player nonlinear constrained dynamic games](https://arxiv.org/abs/2401.15745)|[feedbackstackelberggames.jl](https://github.com/jamesjingqili/feedbackstackelberggames.jl)|
+|[eegunity: open-source tool in facilitating unified eeg datasets towards large-scale eeg model](https://arxiv.org/abs/2410.07196)|[eegunity](https://github.com/baizhige/eegunity)|
+|[rfboost: understanding and boosting deep wifi sensing via physical data augmentation](https://arxiv.org/abs/2410.07230)|[rfboost](https://github.com/aiot-lab/rfboost)|
+|[orthogonal nonnegative matrix factorization with the kullback-leibler divergence](https://arxiv.org/abs/2410.07786)|[kl-onmf](https://gitlab.com/ngillis/kl-onmf)|
+|[reachability analysis for black-box dynamical systems](https://arxiv.org/abs/2410.07796)|[blackbox_reachability](https://github.com/sia-lab-git/blackbox_reachability)|
 |[localized adaptive risk control](https://arxiv.org/abs/2405.07976)|[localized-adaptive-risk-control](https://github.com/kclip/localized-adaptive-risk-control)|
+|[almost minimax optimal best arm identification in piecewise stationary linear bandits](https://arxiv.org/abs/2410.07638)|[BAI-in-PSLB](https://github.com/Y-Hou/BAI-in-PSLB)|
 ## 2024-10-10
 |paper|code|
 |---|---|
@@ -12,11 +17,15 @@
 |[exploring new territory: calibration-free decoding for c-vep bci](https://arxiv.org/abs/2403.15521)|[pyntbci](https://github.com/thijor/pyntbci)|
 |[kid-ppg: knowledge informed deep learning for extracting heart rate from a smartwatch](https://arxiv.org/abs/2405.09559)|[KID-PPG](https://github.com/esl-epfl/KID-PPG)|
 |[trustemg-net: using representation-masking transformer with u-net for surface electromyography enhancement](https://arxiv.org/abs/2410.03843)|[TrustEMG](https://github.com/eric-wang135/TrustEMG)|
+|[episodic fine-tuning prototypical networks for optimization-based few-shot learning: application to audio classification](https://arxiv.org/abs/2410.05302)|[proto-MAML](https://github.com/zdsy/proto-MAML)|
+|[greenlight-gym: a reinforcement learning benchmark environment for greenhouse crop production control](https://arxiv.org/abs/2410.05336)|[GreenLightGym](https://github.com/BartvLaatum/GreenLightGym)|
 |[synthesizing interpretable control policies through large language model guided search](https://arxiv.org/abs/2410.05406)|[synthesizing_interpretable_control_policies](https://github.com/muellerlab/synthesizing_interpretable_control_policies)|
+|[closed-loop phase selection in eeg-tms using bayesian optimization](https://arxiv.org/abs/2410.05747)|[BO_for_EEG-TMS_phase](https://github.com/MiriamKirchhoff/BO_for_EEG-TMS_phase)|
 |[qgym: scalable simulation and benchmarking of queuing network controllers](https://arxiv.org/abs/2410.06170)|[qgym](https://github.com/namkoong-lab/qgym)|
 |[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
 |[bic-mppi: goal-pursuing, sampling-based bidirectional rollout clustering path integral for trajectory optimization](https://arxiv.org/abs/2410.06493)|[BiC-MPPI](https://github.com/i-ASL/BiC-MPPI)|
 |[message-passing on hypergraphs: detectability, phase transitions and higher-order information](https://arxiv.org/abs/2312.00708)|[hypergraph-message-passing](https://github.com/nickruggeri/hypergraph-message-passing)|
+|[deep reinforcement learning for delay-optimized task offloading in vehicular fog computing](https://arxiv.org/abs/2410.03472)|[VFC-Offloading-RL](https://github.com/Procedurally-Generated-Human/VFC-Offloading-RL)|
 |[accelerating error correction code transformers](https://arxiv.org/abs/2410.05911)|[aecct](https://github.com/mlaetvayn/aecct)|
 ## 2024-10-08
 |paper|code|
@@ -35,7 +44,9 @@
 |[cbf-llm: safe control for llm alignment](https://arxiv.org/abs/2408.15625)|[cbf-llm](https://github.com/mya-mya/cbf-llm)|
 |[indicvoices-r: unlocking a massive multilingual multi-speaker speech corpus for scaling indian tts](https://arxiv.org/abs/2409.05356)|[indicvoices-r](https://github.com/ai4bharat/indicvoices-r)|
 |[widistill: distilling large-scale wi-fi datasets with trajectory matching](https://arxiv.org/abs/2410.04073)|[widistill](https://github.com/the-sky001/widistill)|
+|[distribution grids may be a barrier to residential electrification](https://arxiv.org/abs/2410.04540)|[edgie](https://github.com/priyada7/edgie)|
 |[bisimulation metric for model predictive control](https://arxiv.org/abs/2410.04553)|[BSMPC](https://github.com/purewater0901/BSMPC)|
+|[large-scale gnss spreading code optimization](https://arxiv.org/abs/2410.04653)|[decor](https://github.com/Stanford-NavLab/decor)|
 |[predictive spliner: data-driven overtaking in autonomous racing using opponent trajectory prediction](https://arxiv.org/abs/2410.04868)|[predictive-spliner](https://github.com/forzaeth/predictive-spliner)|
 ## 2024-10-07
 |paper|code|
@@ -43,7 +54,9 @@
 |[visual decoding and reconstruction via eeg embeddings with guided diffusion](https://arxiv.org/abs/2403.07721)|[eeg_image_decode](https://github.com/ncclab-sustech/eeg_image_decode)|
 |[understanding the impact of coalitions between ev charging stations](https://arxiv.org/abs/2404.03919)|[coalition-ev](https://github.com/kkulk/coalition-ev)|
 |[ekf-sindy: empowering the extended kalman filter with sparse identification of nonlinear dynamics](https://arxiv.org/abs/2404.07536)|[ekf-sindy](https://github.com/contipaolo/ekf-sindy)|
+|[analyzing fitts' law using offline and online optimal control with motor noise](https://arxiv.org/abs/2410.02966)|[speed-accuracy-optimal-control-paper](https://github.com/rbridges12/speed-accuracy-optimal-control-paper)|
 |[manikin-recorded cardiopulmonary sounds dataset using digital stethoscope](https://arxiv.org/abs/2410.03280)|[hls-cmds](https://github.com/torabiy/hls-cmds)|
+|[large synthetic datasets for machine learning applications in power systems](https://arxiv.org/abs/2410.03365)|[PowerData](https://github.com/GeeeHesso/PowerData)|
 |[an ebpf-based trace-driven emulation method for satellite networks](https://arxiv.org/abs/2408.15581)|[ebpf-trace-emu](https://github.com/yeliqseu/ebpf-trace-emu)|
 |[receptors cluster in high-curvature membrane regions for optimal spatial gradient sensing](https://arxiv.org/abs/2410.03395)|[recloc](https://github.com/kirkegaardlab/recloc)|
 ## 2024-10-04
