@@ -1,3 +1,13 @@
+## 2024-10-14
+|paper|code|
+|---|---|
+|[brainib: interpretable brain network-based psychiatric diagnosis with graph information bottleneck](https://arxiv.org/abs/2205.03612)|[brain-and-information-bottleneck](https://github.com/sjyucnel/brain-and-information-bottleneck)|
+|[match-based solution of general parametric eigenvalue problems](https://arxiv.org/abs/2308.05335)|[pevp_match](https://github.com/pradovera/pevp_match)|
+|[controllable preference optimization: toward controllable multi-objective alignment](https://arxiv.org/abs/2402.19085)|[CPO](https://github.com/OpenBMB/CPO)|
+|[biomedbench: a benchmark suite of tinyml biomedical applications for low-power wearables](https://arxiv.org/abs/2406.03886)|[biomedbench](https://github.com/esl-epfl/biomedbench)|
+|[physics and deep learning in computational wave imaging](https://arxiv.org/abs/2410.08329)|[ML-NDT](https://github.com/iikka-v/ML-NDT)|
+|[radarode-mtl: a multi-task learning framework with eccentric gradient alignment for robust radar-based ecg reconstruction](https://arxiv.org/abs/2410.08656)|[radarODE-MTL](https://github.com/ZYY0844/radarODE-MTL)|
+|[information-theoretic measures on lattices for high-order interactions](https://arxiv.org/abs/2408.07533)|[nips2024hoi](https://github.com/neurips2024hoi/nips2024hoi)|
 ## 2024-10-11
 |paper|code|
 |---|---|
@@ -5,7 +15,6 @@
 |[the computation of approximate feedback stackelberg equilibria in multi-player nonlinear constrained dynamic games](https://arxiv.org/abs/2401.15745)|[feedbackstackelberggames.jl](https://github.com/jamesjingqili/feedbackstackelberggames.jl)|
 |[eegunity: open-source tool in facilitating unified eeg datasets towards large-scale eeg model](https://arxiv.org/abs/2410.07196)|[eegunity](https://github.com/baizhige/eegunity)|
 |[rfboost: understanding and boosting deep wifi sensing via physical data augmentation](https://arxiv.org/abs/2410.07230)|[rfboost](https://github.com/aiot-lab/rfboost)|
-|[orthogonal nonnegative matrix factorization with the kullback-leibler divergence](https://arxiv.org/abs/2410.07786)|[kl-onmf](https://gitlab.com/ngillis/kl-onmf)|
 |[reachability analysis for black-box dynamical systems](https://arxiv.org/abs/2410.07796)|[blackbox_reachability](https://github.com/sia-lab-git/blackbox_reachability)|
 |[localized adaptive risk control](https://arxiv.org/abs/2405.07976)|[localized-adaptive-risk-control](https://github.com/kclip/localized-adaptive-risk-control)|
 |[almost minimax optimal best arm identification in piecewise stationary linear bandits](https://arxiv.org/abs/2410.07638)|[BAI-in-PSLB](https://github.com/Y-Hou/BAI-in-PSLB)|
@@ -14,7 +23,6 @@
 |---|---|
 |[an active learning method for solving competitive multi-agent decision-making and control problems](https://arxiv.org/abs/2212.12561)|[gnep-learn](https://github.com/bemporad/gnep-learn)|
 |[approximate non-linear model predictive control with safety-augmented neural networks](https://arxiv.org/abs/2304.09575)|[soeampc](https://github.com/hshose/soeampc)|
-|[exploring new territory: calibration-free decoding for c-vep bci](https://arxiv.org/abs/2403.15521)|[pyntbci](https://github.com/thijor/pyntbci)|
 |[kid-ppg: knowledge informed deep learning for extracting heart rate from a smartwatch](https://arxiv.org/abs/2405.09559)|[KID-PPG](https://github.com/esl-epfl/KID-PPG)|
 |[trustemg-net: using representation-masking transformer with u-net for surface electromyography enhancement](https://arxiv.org/abs/2410.03843)|[TrustEMG](https://github.com/eric-wang135/TrustEMG)|
 |[episodic fine-tuning prototypical networks for optimization-based few-shot learning: application to audio classification](https://arxiv.org/abs/2410.05302)|[proto-MAML](https://github.com/zdsy/proto-MAML)|
