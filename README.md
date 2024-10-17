@@ -1,3 +1,30 @@
+## 2024-10-16
+|paper|code|
+|---|---|
+|[unsupervised dynamic modeling of medical image transformation](https://arxiv.org/abs/2103.00930)|[med-dyn-reg](https://github.com/ngunnar/med-dyn-reg)|
+|[prompt a robot to walk with large language models](https://arxiv.org/abs/2309.09969)|[prompt2walk](https://github.com/HybridRobotics/prompt2walk)|
+|[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
+|[safety filtering while training: improving the performance and sample efficiency of reinforcement learning agents](https://arxiv.org/abs/2410.11671)|[safe-control-gym](https://github.com/federico-pizarrobejarano/safe-control-gym)|
+|[a quick primer on machine learning in wireless communications](https://arxiv.org/abs/2312.17713)|[eesc7v86-fall22](https://github.com/farismismar/eesc7v86-fall22)|
+## 2024-10-15
+|paper|code|
+|---|---|
+|[principled pruning of bayesian neural networks through variational free energy minimization](https://arxiv.org/abs/2210.09134)|[principledpruningbnn](https://github.com/biaslab/principledpruningbnn)|
+|[bgf-yolo: enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection](https://arxiv.org/abs/2309.12585)|[bgf-yolo](https://github.com/mkang315/bgf-yolo)|
+|[temporal action localization for inertial-based human activity recognition](https://arxiv.org/abs/2311.15831)|[tal_for_har](https://github.com/mariusbock/tal_for_har)|
+|[signal temporal logic control synthesis among uncontrollable dynamic agents with conformal prediction](https://arxiv.org/abs/2312.04242)|[stl-synthesis-among-uncontrollable-agents](https://github.com/saids-lab/stl-synthesis-among-uncontrollable-agents)|
+|[intent demonstration in general-sum dynamic games via iterative linear-quadratic approximations](https://arxiv.org/abs/2402.10182)|[active-intent-demonstration-in-games](https://github.com/jamesjingqili/active-intent-demonstration-in-games)|
+|[exploring new territory: calibration-free decoding for c-vep bci](https://arxiv.org/abs/2403.15521)|[pyntbci](https://github.com/thijor/pyntbci)|
+|[input-to-state stable coupled oscillator networks for closed-form model-based control in latent space](https://arxiv.org/abs/2409.08439)|[uncovering-iss-coupled-oscillator-networks-from-pixels](https://github.com/tud-phi/uncovering-iss-coupled-oscillator-networks-from-pixels)|
+|[channel correlation matrix extrapolation based on roughness calibration of scatterers](https://arxiv.org/abs/2409.10900)|[CCM-Extrapolation](https://github.com/zhanghl24/CCM-Extrapolation)|
+|[nirvawave: an accurate and efficient near field wave propagation simulator for 6g and beyond](https://arxiv.org/abs/2409.11293)|[nirvawave](https://github.com/vahidyazdnian1378/nirvawave)|
+|[orthogonal nonnegative matrix factorization with the kullback-leibler divergence](https://arxiv.org/abs/2410.07786)|[kl-onmf](https://gitlab.com/ngillis/kl-onmf)|
+|[multimodal physical activity forecasting in free-living clinical settings: hunting opportunities for just-in-time interventions](https://arxiv.org/abs/2410.09643)|[movesense](https://github.com/ab9mamun/movesense)|
+|[coupled autoregressive active inference agents for control of multi-joint dynamical systems](https://arxiv.org/abs/2410.10415)|[iwai2024-carxefe](https://github.com/biaslab/iwai2024-carxefe)|
+|[sensorbench: benchmarking llms in coding-based sensor processing](https://arxiv.org/abs/2410.10741)|[llm_sensor_processing](https://github.com/nesl/llm_sensor_processing)|
+|[cone-restricted information theory](https://arxiv.org/abs/2206.04300)|[conerestrictedinformationtheory](https://github.com/chitambarlab/conerestrictedinformationtheory)|
+|[diff-erank: a novel rank-based metric for evaluating large language models](https://arxiv.org/abs/2401.17139)|[Diff-eRank](https://github.com/waltonfuture/Diff-eRank)|
+|[generalized measures of anticipation and responsivity in online language processing](https://arxiv.org/abs/2409.10728)|[generalized-surprisal](https://github.com/rycolab/generalized-surprisal)|
 ## 2024-10-14
 |paper|code|
 |---|---|
@@ -11,7 +38,6 @@
 ## 2024-10-11
 |paper|code|
 |---|---|
-|[vrem-fl: mobility-aware computation-scheduling co-design for vehicular federated learning](https://arxiv.org/abs/2311.18741)|[vrem-fl](https://github.com/lucaballotta/vrem-fl)|
 |[the computation of approximate feedback stackelberg equilibria in multi-player nonlinear constrained dynamic games](https://arxiv.org/abs/2401.15745)|[feedbackstackelberggames.jl](https://github.com/jamesjingqili/feedbackstackelberggames.jl)|
 |[eegunity: open-source tool in facilitating unified eeg datasets towards large-scale eeg model](https://arxiv.org/abs/2410.07196)|[eegunity](https://github.com/baizhige/eegunity)|
 |[rfboost: understanding and boosting deep wifi sensing via physical data augmentation](https://arxiv.org/abs/2410.07230)|[rfboost](https://github.com/aiot-lab/rfboost)|
