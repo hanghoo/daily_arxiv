@@ -1,3 +1,7 @@
+## 2024-10-17
+|paper|code|
+|---|---|
+|[vrem-fl: mobility-aware computation-scheduling co-design for vehicular federated learning](https://arxiv.org/abs/2311.18741)|[vrem-fl](https://github.com/lucaballotta/vrem-fl)|
 ## 2024-10-16
 |paper|code|
 |---|---|
