@@ -1,15 +1,29 @@
+## 2024-10-18
+|paper|code|
+|---|---|
+|[deep deepc: data-enabled predictive control with low or no online optimization using deep learning](https://arxiv.org/abs/2408.16338)|[deep-deepc](https://github.com/qiyuan-zhang/deep-deepc)|
+|[boxr: body and head motion optimization framework for extended reality](https://arxiv.org/abs/2410.13084)|[boxr](https://github.com/rtenlab/boxr)|
+|[red is sus: automated identification of low-quality service availability claims in the us national broadband map](https://arxiv.org/abs/2410.08518)|[red_is_sus](https://github.com/spin-vt/red_is_sus)|
+|[efficient function placement in virtual networks: an online learning approach](https://arxiv.org/abs/2410.13696)|[dynamic_virtual_network_placement](https://github.com/free-wei/dynamic_virtual_network_placement)|
+|[an exposition of pathfinding strategies within lightning network clients](https://arxiv.org/abs/2410.13784)|[ln-pathfinding](https://github.com/sindurasaraswathi/ln-pathfinding)|
 ## 2024-10-17
 |paper|code|
 |---|---|
 |[vrem-fl: mobility-aware computation-scheduling co-design for vehicular federated learning](https://arxiv.org/abs/2311.18741)|[vrem-fl](https://github.com/lucaballotta/vrem-fl)|
+|[lpuf-authnet: a lightweight puf-based iot authentication via tandem neural networks and split learning](https://arxiv.org/abs/2410.12190)|[lpuf-authnet](https://github.com/brahim-mefgouda/lpuf-authnet)|
 ## 2024-10-16
 |paper|code|
 |---|---|
 |[unsupervised dynamic modeling of medical image transformation](https://arxiv.org/abs/2103.00930)|[med-dyn-reg](https://github.com/ngunnar/med-dyn-reg)|
 |[prompt a robot to walk with large language models](https://arxiv.org/abs/2309.09969)|[prompt2walk](https://github.com/HybridRobotics/prompt2walk)|
+|[mobile edge generation-enabled digital twin: architecture design and research opportunities](https://arxiv.org/abs/2407.02804)|[meg_dt](https://github.com/xiaoxiaxusummer/meg_dt)|
 |[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
+|[pycvxset: a python package for convex set manipulation](https://arxiv.org/abs/2410.11430)|[pycvxset](https://github.com/merlresearch/pycvxset)|
+|[channel charting-based channel prediction on real-world distributed massive mimo csi](https://arxiv.org/abs/2410.11486)|[channelcharting-channelprediction](https://github.com/phillipstephan/channelcharting-channelprediction)|
+|[a data-driven aggressive autonomous racing framework utilizing local trajectory planning with velocity prediction](https://arxiv.org/abs/2410.11570)|[vpmpcc](https://github.com/zhouhengli/vpmpcc)|
 |[safety filtering while training: improving the performance and sample efficiency of reinforcement learning agents](https://arxiv.org/abs/2410.11671)|[safe-control-gym](https://github.com/federico-pizarrobejarano/safe-control-gym)|
 |[a quick primer on machine learning in wireless communications](https://arxiv.org/abs/2312.17713)|[eesc7v86-fall22](https://github.com/farismismar/eesc7v86-fall22)|
+|[null models for comparing information decomposition across complex systems](https://arxiv.org/abs/2410.11583)|[numit](https://github.com/alberto-liardi/numit)|
 ## 2024-10-15
 |paper|code|
 |---|---|
@@ -24,11 +38,13 @@
 |[nirvawave: an accurate and efficient near field wave propagation simulator for 6g and beyond](https://arxiv.org/abs/2409.11293)|[nirvawave](https://github.com/vahidyazdnian1378/nirvawave)|
 |[orthogonal nonnegative matrix factorization with the kullback-leibler divergence](https://arxiv.org/abs/2410.07786)|[kl-onmf](https://gitlab.com/ngillis/kl-onmf)|
 |[multimodal physical activity forecasting in free-living clinical settings: hunting opportunities for just-in-time interventions](https://arxiv.org/abs/2410.09643)|[movesense](https://github.com/ab9mamun/movesense)|
+|[optimal inferential control of convolutional neural networks](https://arxiv.org/abs/2410.09663)|[optimal-inferential-control-of-cnns](https://github.com/alivaziri/optimal-inferential-control-of-cnns)|
 |[coupled autoregressive active inference agents for control of multi-joint dynamical systems](https://arxiv.org/abs/2410.10415)|[iwai2024-carxefe](https://github.com/biaslab/iwai2024-carxefe)|
 |[sensorbench: benchmarking llms in coding-based sensor processing](https://arxiv.org/abs/2410.10741)|[llm_sensor_processing](https://github.com/nesl/llm_sensor_processing)|
 |[cone-restricted information theory](https://arxiv.org/abs/2206.04300)|[conerestrictedinformationtheory](https://github.com/chitambarlab/conerestrictedinformationtheory)|
 |[diff-erank: a novel rank-based metric for evaluating large language models](https://arxiv.org/abs/2401.17139)|[Diff-eRank](https://github.com/waltonfuture/Diff-eRank)|
 |[generalized measures of anticipation and responsivity in online language processing](https://arxiv.org/abs/2409.10728)|[generalized-surprisal](https://github.com/rycolab/generalized-surprisal)|
+|[a deep learning based decoder for concatenated coding over deletion channels](https://arxiv.org/abs/2410.09460)|[DNN-for-Deletion-Channel](https://github.com/Bilkent-CTAR-Lab/DNN-for-Deletion-Channel)|
 ## 2024-10-14
 |paper|code|
 |---|---|
@@ -39,6 +55,8 @@
 |[physics and deep learning in computational wave imaging](https://arxiv.org/abs/2410.08329)|[ML-NDT](https://github.com/iikka-v/ML-NDT)|
 |[radarode-mtl: a multi-task learning framework with eccentric gradient alignment for robust radar-based ecg reconstruction](https://arxiv.org/abs/2410.08656)|[radarODE-MTL](https://github.com/ZYY0844/radarODE-MTL)|
 |[information-theoretic measures on lattices for high-order interactions](https://arxiv.org/abs/2408.07533)|[nips2024hoi](https://github.com/neurips2024hoi/nips2024hoi)|
+|[bad neighbors: on understanding vpn provider networks](https://arxiv.org/abs/2410.08737)|[TurnkeyVPNStudy](https://github.com/RUB-SysSec/TurnkeyVPNStudy)|
+|[openwifisync: open source implementation of a clock synchronization algorithm using wi-fi](https://arxiv.org/abs/2410.08742)|[OpenWiFiSync](https://github.com/dfki-in-icc/OpenWiFiSync)|
 ## 2024-10-11
 |paper|code|
 |---|---|
