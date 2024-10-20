@@ -18,6 +18,7 @@
 |[prompt a robot to walk with large language models](https://arxiv.org/abs/2309.09969)|[prompt2walk](https://github.com/HybridRobotics/prompt2walk)|
 |[mobile edge generation-enabled digital twin: architecture design and research opportunities](https://arxiv.org/abs/2407.02804)|[meg_dt](https://github.com/xiaoxiaxusummer/meg_dt)|
 |[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
+|[multi-objective multidisciplinary optimization of wave energy converter array layout and controls](https://arxiv.org/abs/2410.11089)|[wec_array_opt](https://github.com/symbiotic-engineering/wec_array_opt)|
 |[pycvxset: a python package for convex set manipulation](https://arxiv.org/abs/2410.11430)|[pycvxset](https://github.com/merlresearch/pycvxset)|
 |[channel charting-based channel prediction on real-world distributed massive mimo csi](https://arxiv.org/abs/2410.11486)|[channelcharting-channelprediction](https://github.com/phillipstephan/channelcharting-channelprediction)|
 |[a data-driven aggressive autonomous racing framework utilizing local trajectory planning with velocity prediction](https://arxiv.org/abs/2410.11570)|[vpmpcc](https://github.com/zhouhengli/vpmpcc)|
