@@ -3,6 +3,7 @@
 |---|---|
 |[deep deepc: data-enabled predictive control with low or no online optimization using deep learning](https://arxiv.org/abs/2408.16338)|[deep-deepc](https://github.com/qiyuan-zhang/deep-deepc)|
 |[boxr: body and head motion optimization framework for extended reality](https://arxiv.org/abs/2410.13084)|[boxr](https://github.com/rtenlab/boxr)|
+|[assessing the optimistic bias in the natural inflow forecasts: a call for model monitoring in brazil](https://arxiv.org/abs/2410.13763)|[inflowforecastbias_data](https://github.com/arthur-brigatto/inflowforecastbias_data)|
 |[red is sus: automated identification of low-quality service availability claims in the us national broadband map](https://arxiv.org/abs/2410.08518)|[red_is_sus](https://github.com/spin-vt/red_is_sus)|
 |[efficient function placement in virtual networks: an online learning approach](https://arxiv.org/abs/2410.13696)|[dynamic_virtual_network_placement](https://github.com/free-wei/dynamic_virtual_network_placement)|
 |[an exposition of pathfinding strategies within lightning network clients](https://arxiv.org/abs/2410.13784)|[ln-pathfinding](https://github.com/sindurasaraswathi/ln-pathfinding)|
@@ -38,9 +39,11 @@
 |[channel correlation matrix extrapolation based on roughness calibration of scatterers](https://arxiv.org/abs/2409.10900)|[CCM-Extrapolation](https://github.com/zhanghl24/CCM-Extrapolation)|
 |[nirvawave: an accurate and efficient near field wave propagation simulator for 6g and beyond](https://arxiv.org/abs/2409.11293)|[nirvawave](https://github.com/vahidyazdnian1378/nirvawave)|
 |[orthogonal nonnegative matrix factorization with the kullback-leibler divergence](https://arxiv.org/abs/2410.07786)|[kl-onmf](https://gitlab.com/ngillis/kl-onmf)|
+|[the bouc-wen model for binary direct collinear collisions of convex viscoplastic bodies](https://arxiv.org/abs/2410.08147)|[bwbcl](https://gitlab.com/user9716869/bwbcl)|
 |[multimodal physical activity forecasting in free-living clinical settings: hunting opportunities for just-in-time interventions](https://arxiv.org/abs/2410.09643)|[movesense](https://github.com/ab9mamun/movesense)|
 |[optimal inferential control of convolutional neural networks](https://arxiv.org/abs/2410.09663)|[optimal-inferential-control-of-cnns](https://github.com/alivaziri/optimal-inferential-control-of-cnns)|
 |[coupled autoregressive active inference agents for control of multi-joint dynamical systems](https://arxiv.org/abs/2410.10415)|[iwai2024-carxefe](https://github.com/biaslab/iwai2024-carxefe)|
+|[wand: wavelet analysis-based neural decomposition of mrs signals for artifact removal](https://arxiv.org/abs/2410.10427)|[wand-for-mrs](https://github.com/julianmer/wand-for-mrs)|
 |[sensorbench: benchmarking llms in coding-based sensor processing](https://arxiv.org/abs/2410.10741)|[llm_sensor_processing](https://github.com/nesl/llm_sensor_processing)|
 |[cone-restricted information theory](https://arxiv.org/abs/2206.04300)|[conerestrictedinformationtheory](https://github.com/chitambarlab/conerestrictedinformationtheory)|
 |[diff-erank: a novel rank-based metric for evaluating large language models](https://arxiv.org/abs/2401.17139)|[Diff-eRank](https://github.com/waltonfuture/Diff-eRank)|
