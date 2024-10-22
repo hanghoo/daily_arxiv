@@ -1,3 +1,13 @@
+## 2024-10-21
+|paper|code|
+|---|---|
+|[gabor is enough: interpretable deep denoising with a gabor synthesis dictionary prior](https://arxiv.org/abs/2204.11146)|[cdlnet-ojsp](https://github.com/nikopj/cdlnet-ojsp)|
+|[on the solution uniqueness of data-driven modeling of flexible loads (with supplementary material)](https://arxiv.org/abs/2403.15029)|[on-the-solution-uniqueness-of-data-driven-modeling-of-flexible-loads](https://github.com/shuai-lu/on-the-solution-uniqueness-of-data-driven-modeling-of-flexible-loads)|
+|[kid-ppg: knowledge informed deep learning for extracting heart rate from a smartwatch](https://arxiv.org/abs/2405.09559)|[KID-PPG](https://github.com/esl-epfl/KID-PPG)|
+|[multi-objective learning model predictive control](https://arxiv.org/abs/2405.11698)|[Multi-Objective-LMPC](https://github.com/shn66/Multi-Objective-LMPC)|
+|[biometric authentication based on enhanced remote photoplethysmography signal morphology](https://arxiv.org/abs/2407.04127)|[rppg_biometrics](https://github.com/zhaodongsun/rppg_biometrics)|
+|[convergence of manifold filter-combine networks](https://arxiv.org/abs/2410.14639)|[mfcn](https://github.com/dj408/mfcn)|
+|[residual-inr: communication efficient on-device learning using implicit neural representation](https://arxiv.org/abs/2408.05617)|[residual-inr](https://github.com/sharc-lab/residual-inr)|
 ## 2024-10-18
 |paper|code|
 |---|---|
@@ -18,7 +28,6 @@
 |[unsupervised dynamic modeling of medical image transformation](https://arxiv.org/abs/2103.00930)|[med-dyn-reg](https://github.com/ngunnar/med-dyn-reg)|
 |[prompt a robot to walk with large language models](https://arxiv.org/abs/2309.09969)|[prompt2walk](https://github.com/HybridRobotics/prompt2walk)|
 |[mobile edge generation-enabled digital twin: architecture design and research opportunities](https://arxiv.org/abs/2407.02804)|[meg_dt](https://github.com/xiaoxiaxusummer/meg_dt)|
-|[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
 |[multi-objective multidisciplinary optimization of wave energy converter array layout and controls](https://arxiv.org/abs/2410.11089)|[wec_array_opt](https://github.com/symbiotic-engineering/wec_array_opt)|
 |[pycvxset: a python package for convex set manipulation](https://arxiv.org/abs/2410.11430)|[pycvxset](https://github.com/merlresearch/pycvxset)|
 |[channel charting-based channel prediction on real-world distributed massive mimo csi](https://arxiv.org/abs/2410.11486)|[channelcharting-channelprediction](https://github.com/phillipstephan/channelcharting-channelprediction)|
