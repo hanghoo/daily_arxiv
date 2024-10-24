@@ -1,3 +1,17 @@
+## 2024-10-23
+|paper|code|
+|---|---|
+|[evaluating feature attribution methods for electrocardiogram](https://arxiv.org/abs/2211.12702)|[attribution-ecg](https://github.com/snu-drl/attribution-ecg)|
+|[on the existence of steady-state solutions to the equations governing fluid flow in networks](https://arxiv.org/abs/2309.04494)|[existencegasflowruns](https://github.com/kaarthiksundar/existencegasflowruns)|
+|[emt: a novel transformer for generalized cross-subject eeg emotion recognition](https://arxiv.org/abs/2406.18345)|[emt](https://github.com/yi-ding-cs/emt)|
+|[pointwise-sparse actuator scheduling for linear systems with controllability guarantee](https://arxiv.org/abs/2407.12125)|[sparse-control](https://github.com/lucaballotta/sparse-control)|
+|[channel shaping using beyond diagonal reconfigurable intelligent surface: analysis, optimization, and enhanced flexibility](https://arxiv.org/abs/2407.15196)|[channel-shaping-using-beyond-diagonal-reconfigurable-intelligent-surface](https://github.com/snowztail/channel-shaping-using-beyond-diagonal-reconfigurable-intelligent-surface)|
+|[onboard satellite image classification for earth observation: a comparative study of vit models](https://arxiv.org/abs/2409.03901)|[snt-sentry](https://github.com/ltdung/snt-sentry)|
+|[developing path planning with behavioral cloning and proximal policy optimization for path-tracking and static obstacle nudging](https://arxiv.org/abs/2409.05289)|[Planning-with-Learning](https://github.com/derekhanbaliq/Planning-with-Learning)|
+|[competency-aware planning for probabilistically safe navigation under perception uncertainty](https://arxiv.org/abs/2409.06111)|[parce](https://github.com/sarapohland/parce)|
+|[learning load balancing with gnn in mptcp-enabled heterogeneous networks](https://arxiv.org/abs/2410.17118)|[gnn-hetnet](https://github.com/hanji-ucd/gnn-hetnet)|
+|[designing network algorithms via large language models](https://arxiv.org/abs/2404.01617)|[nada](https://github.com/hzy46/nada)|
+|[f-kans: federated kolmogorov-arnold networks](https://arxiv.org/abs/2407.20100)|[F-KANs](https://github.com/ezeydan/F-KANs)|
 ## 2024-10-22
 |paper|code|
 |---|---|
@@ -18,15 +32,20 @@
 |[behavior trees in functional safety supervisors for autonomous vehicles](https://arxiv.org/abs/2410.02469)|[ft2bt_converter](https://github.com/cconejob/ft2bt_converter)|
 |[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
 |[sensorbench: benchmarking llms in coding-based sensor processing](https://arxiv.org/abs/2410.10741)|[llm_sensor_processing](https://github.com/nesl/llm_sensor_processing)|
+|[intersectionzoo: eco-driving for benchmarking multi-agent contextual reinforcement learning](https://arxiv.org/abs/2410.15221)|[IntersectionZoo](https://github.com/mit-wu-lab/IntersectionZoo)|
+|[distributed thompson sampling under constrained communication](https://arxiv.org/abs/2410.15543)|[distributed-bo](https://github.com/sabzer/distributed-bo)|
 |[deepvigor+: scalable and accurate semi-analytical fault resilience analysis for deep neural network](https://arxiv.org/abs/2410.15742)|[deepvigor](https://github.com/mhahmadilivany/deepvigor)|
+|[robust loop closure by textual cues in challenging environments](https://arxiv.org/abs/2410.15869)|[txtlcd](https://github.com/tongxingjin/txtlcd)|
+|[neural predictor for flight control with payload](https://arxiv.org/abs/2410.15946)|[neural-predictor](https://github.com/npu-rcir/neural-predictor)|
+|[blind equalization using a variational autoencoder with second order volterra channel model](https://arxiv.org/abs/2410.16125)|[volterra-vae](https://github.com/sfvnielsen/volterra-vae)|
 |[diffusion model based posterior sampling for noisy linear inverse problems](https://arxiv.org/abs/2211.12343)|[dmps](https://github.com/mengxiangming/dmps)|
 |[netmamba: efficient network traffic classification via pre-training unidirectional mamba](https://arxiv.org/abs/2405.11449)|[NetMamba](https://github.com/wangtz19/NetMamba)|
 |[attempting the impossible: enumerating extremal submodular functions for n=6](https://arxiv.org/abs/2410.15502)|[submodular-functions-6](https://github.com/csirmaz/submodular-functions-6)|
+|[traffic matrix estimation based on denoising diffusion probabilistic model](https://arxiv.org/abs/2410.15716)|[DDPM-TME](https://github.com/Y-debug-sys/DDPM-TME)|
 ## 2024-10-21
 |paper|code|
 |---|---|
 |[gabor is enough: interpretable deep denoising with a gabor synthesis dictionary prior](https://arxiv.org/abs/2204.11146)|[cdlnet-ojsp](https://github.com/nikopj/cdlnet-ojsp)|
-|[on the solution uniqueness of data-driven modeling of flexible loads (with supplementary material)](https://arxiv.org/abs/2403.15029)|[on-the-solution-uniqueness-of-data-driven-modeling-of-flexible-loads](https://github.com/shuai-lu/on-the-solution-uniqueness-of-data-driven-modeling-of-flexible-loads)|
 |[kid-ppg: knowledge informed deep learning for extracting heart rate from a smartwatch](https://arxiv.org/abs/2405.09559)|[KID-PPG](https://github.com/esl-epfl/KID-PPG)|
 |[multi-objective learning model predictive control](https://arxiv.org/abs/2405.11698)|[Multi-Objective-LMPC](https://github.com/shn66/Multi-Objective-LMPC)|
 |[biometric authentication based on enhanced remote photoplethysmography signal morphology](https://arxiv.org/abs/2407.04127)|[rppg_biometrics](https://github.com/zhaodongsun/rppg_biometrics)|
@@ -37,6 +56,7 @@
 |---|---|
 |[deep deepc: data-enabled predictive control with low or no online optimization using deep learning](https://arxiv.org/abs/2408.16338)|[deep-deepc](https://github.com/qiyuan-zhang/deep-deepc)|
 |[boxr: body and head motion optimization framework for extended reality](https://arxiv.org/abs/2410.13084)|[boxr](https://github.com/rtenlab/boxr)|
+|[assessing the techno-economic benefits of lems for different grid topologies and prosumer shares](https://arxiv.org/abs/2410.13330)|[lemlab](https://github.com/tum-doepfert/lemlab)|
 |[assessing the optimistic bias in the natural inflow forecasts: a call for model monitoring in brazil](https://arxiv.org/abs/2410.13763)|[inflowforecastbias_data](https://github.com/arthur-brigatto/inflowforecastbias_data)|
 |[red is sus: automated identification of low-quality service availability claims in the us national broadband map](https://arxiv.org/abs/2410.08518)|[red_is_sus](https://github.com/spin-vt/red_is_sus)|
 |[efficient function placement in virtual networks: an online learning approach](https://arxiv.org/abs/2410.13696)|[dynamic_virtual_network_placement](https://github.com/free-wei/dynamic_virtual_network_placement)|
