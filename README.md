@@ -1,3 +1,12 @@
+## 2024-10-24
+|paper|code|
+|---|---|
+|[posterior sampling-based online learning for episodic pomdps](https://arxiv.org/abs/2310.10107)|[ps4pomdp](https://github.com/dongzeye/ps4pomdp)|
+|[eeg-deformer: a dense convolutional transformer for brain-computer interfaces](https://arxiv.org/abs/2405.00719)|[eeg-deformer](https://github.com/yi-ding-cs/eeg-deformer)|
+|[modeling of time-varying wireless communication channel with fading and shadowing](https://arxiv.org/abs/2405.08199)|[Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing](https://github.com/BrightBlueCheese/Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing)|
+|[eeg-dif: early warning of epileptic seizures through generative diffusion model-based multi-channel eeg signals forecasting](https://arxiv.org/abs/2410.17343)|[eeg-dif](https://github.com/jzk00/eeg-dif)|
+|[leads: lightweight embedded assisted driving system](https://arxiv.org/abs/2410.17554)|[LEADS](https://github.com/ProjectNeura/LEADS)|
+|[real-time vehicle-to-vehicle communication based network cooperative control system through distributed database and multimodal perception: demonstrated in crossroads](https://arxiv.org/abs/2410.17576)|[distributed-intersection-traffic-coordination-with-lease](https://github.com/essoz/distributed-intersection-traffic-coordination-with-lease)|
 ## 2024-10-23
 |paper|code|
 |---|---|
@@ -6,6 +15,7 @@
 |[emt: a novel transformer for generalized cross-subject eeg emotion recognition](https://arxiv.org/abs/2406.18345)|[emt](https://github.com/yi-ding-cs/emt)|
 |[pointwise-sparse actuator scheduling for linear systems with controllability guarantee](https://arxiv.org/abs/2407.12125)|[sparse-control](https://github.com/lucaballotta/sparse-control)|
 |[channel shaping using beyond diagonal reconfigurable intelligent surface: analysis, optimization, and enhanced flexibility](https://arxiv.org/abs/2407.15196)|[channel-shaping-using-beyond-diagonal-reconfigurable-intelligent-surface](https://github.com/snowztail/channel-shaping-using-beyond-diagonal-reconfigurable-intelligent-surface)|
+|[low-coherence sequence design under papr constraints](https://arxiv.org/abs/2407.21400)|[ieee-wcl-loceda](https://github.com/gangle-sun/ieee-wcl-loceda)|
 |[onboard satellite image classification for earth observation: a comparative study of vit models](https://arxiv.org/abs/2409.03901)|[snt-sentry](https://github.com/ltdung/snt-sentry)|
 |[developing path planning with behavioral cloning and proximal policy optimization for path-tracking and static obstacle nudging](https://arxiv.org/abs/2409.05289)|[Planning-with-Learning](https://github.com/derekhanbaliq/Planning-with-Learning)|
 |[competency-aware planning for probabilistically safe navigation under perception uncertainty](https://arxiv.org/abs/2409.06111)|[parce](https://github.com/sarapohland/parce)|
@@ -32,6 +42,7 @@
 |[behavior trees in functional safety supervisors for autonomous vehicles](https://arxiv.org/abs/2410.02469)|[ft2bt_converter](https://github.com/cconejob/ft2bt_converter)|
 |[generative artificial intelligence (gai) for mobile communications: a diffusion model perspective](https://arxiv.org/abs/2410.06389)|[gai_comm](https://github.com/xiaoxiaxusummer/gai_comm)|
 |[sensorbench: benchmarking llms in coding-based sensor processing](https://arxiv.org/abs/2410.10741)|[llm_sensor_processing](https://github.com/nesl/llm_sensor_processing)|
+|[unlocking the full potential of high-density surface emg: novel non-invasive high-yield motor unit decomposition](https://arxiv.org/abs/2410.14800)|[swarm-contrastive-decomposition](https://github.com/AgneGris/swarm-contrastive-decomposition)|
 |[intersectionzoo: eco-driving for benchmarking multi-agent contextual reinforcement learning](https://arxiv.org/abs/2410.15221)|[IntersectionZoo](https://github.com/mit-wu-lab/IntersectionZoo)|
 |[distributed thompson sampling under constrained communication](https://arxiv.org/abs/2410.15543)|[distributed-bo](https://github.com/sabzer/distributed-bo)|
 |[deepvigor+: scalable and accurate semi-analytical fault resilience analysis for deep neural network](https://arxiv.org/abs/2410.15742)|[deepvigor](https://github.com/mhahmadilivany/deepvigor)|
