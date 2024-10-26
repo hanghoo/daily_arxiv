@@ -1,3 +1,15 @@
+## 2024-10-25
+|paper|code|
+|---|---|
+|[approximate message passing with rigorous guarantees for pooled data and quantitative group testing](https://arxiv.org/abs/2309.15507)|[amp_pooled_qgt](https://github.com/pablopasc/amp_pooled_qgt)|
+|[reinforcement learning with model predictive control for highway ramp metering](https://arxiv.org/abs/2311.08820)|[mpcrl-for-ramp-metering](https://github.com/filippoairaldi/mpcrl-for-ramp-metering)|
+|[provably safe neural network controllers via differential dynamic logic](https://arxiv.org/abs/2402.10998)|[ncubev](https://github.com/samysweb/ncubev)|
+|[ecg semantic integrator (esi): a foundation ecg model pretrained with llm-enhanced cardiological text](https://arxiv.org/abs/2405.19366)|[esi](https://github.com/comp-well-org/esi)|
+|[1-2-3-go! policy synthesis for parameterized markov decision processes via decision-tree learning and generalization](https://arxiv.org/abs/2410.18293)|[dtstrat-123go-artifact](https://github.com/muqsit-azeem/dtstrat-123go-artifact)|
+|[towards reinforcement learning controllers for soft robots using learned environments](https://arxiv.org/abs/2410.18519)|[SoRoLEX](https://github.com/uljad/SoRoLEX)|
+|[wavetable synthesis using cvae for timbre control based on semantic label](https://arxiv.org/abs/2410.18628)|[wavetablecvae](https://github.com/tsugumasa320/wavetablecvae)|
+|[the representation jensen-shannon divergence](https://arxiv.org/abs/2305.16446)|[representationjsd](https://github.com/uk-cliplab/representationjsd)|
+|[striking a new chord: neural networks in music information dynamics](https://arxiv.org/abs/2410.17989)|[SeqLab](https://github.com/frshdjfry/SeqLab)|
 ## 2024-10-24
 |paper|code|
 |---|---|
