@@ -7,9 +7,10 @@
 |[ecg semantic integrator (esi): a foundation ecg model pretrained with llm-enhanced cardiological text](https://arxiv.org/abs/2405.19366)|[esi](https://github.com/comp-well-org/esi)|
 |[1-2-3-go! policy synthesis for parameterized markov decision processes via decision-tree learning and generalization](https://arxiv.org/abs/2410.18293)|[dtstrat-123go-artifact](https://github.com/muqsit-azeem/dtstrat-123go-artifact)|
 |[towards reinforcement learning controllers for soft robots using learned environments](https://arxiv.org/abs/2410.18519)|[SoRoLEX](https://github.com/uljad/SoRoLEX)|
-|[wavetable synthesis using cvae for timbre control based on semantic label](https://arxiv.org/abs/2410.18628)|[wavetablecvae](https://github.com/tsugumasa320/wavetablecvae)|
+|[wavetable synthesis using cvae for timbre control based on semantic label](https://arxiv.org/abs/2410.18628)|[WavetableCVAE_Plugin](https://github.com/tsugumasa320/WavetableCVAE_Plugin)|
 |[the representation jensen-shannon divergence](https://arxiv.org/abs/2305.16446)|[representationjsd](https://github.com/uk-cliplab/representationjsd)|
 |[striking a new chord: neural networks in music information dynamics](https://arxiv.org/abs/2410.17989)|[SeqLab](https://github.com/frshdjfry/SeqLab)|
+|[optimizing edge offloading decisions for object detection](https://arxiv.org/abs/2410.18919)|[edgeml-object-detection](https://github.com/qiujiaming315/edgeml-object-detection)|
 ## 2024-10-24
 |paper|code|
 |---|---|
@@ -17,6 +18,7 @@
 |[eeg-deformer: a dense convolutional transformer for brain-computer interfaces](https://arxiv.org/abs/2405.00719)|[eeg-deformer](https://github.com/yi-ding-cs/eeg-deformer)|
 |[modeling of time-varying wireless communication channel with fading and shadowing](https://arxiv.org/abs/2405.08199)|[Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing](https://github.com/BrightBlueCheese/Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing)|
 |[eeg-dif: early warning of epileptic seizures through generative diffusion model-based multi-channel eeg signals forecasting](https://arxiv.org/abs/2410.17343)|[eeg-dif](https://github.com/jzk00/eeg-dif)|
+|[preserving privacy in cloud-based data-driven stabilization](https://arxiv.org/abs/2410.17353)|[privacy_data_driven_control](https://github.com/teimour-halizadeh/privacy_data_driven_control)|
 |[leads: lightweight embedded assisted driving system](https://arxiv.org/abs/2410.17554)|[LEADS](https://github.com/ProjectNeura/LEADS)|
 |[real-time vehicle-to-vehicle communication based network cooperative control system through distributed database and multimodal perception: demonstrated in crossroads](https://arxiv.org/abs/2410.17576)|[distributed-intersection-traffic-coordination-with-lease](https://github.com/essoz/distributed-intersection-traffic-coordination-with-lease)|
 ## 2024-10-23
@@ -34,6 +36,7 @@
 |[learning load balancing with gnn in mptcp-enabled heterogeneous networks](https://arxiv.org/abs/2410.17118)|[gnn-hetnet](https://github.com/hanji-ucd/gnn-hetnet)|
 |[designing network algorithms via large language models](https://arxiv.org/abs/2404.01617)|[nada](https://github.com/hzy46/nada)|
 |[f-kans: federated kolmogorov-arnold networks](https://arxiv.org/abs/2407.20100)|[F-KANs](https://github.com/ezeydan/F-KANs)|
+|[delay-constrained grant-free random access in mimo systems: distributed pilot allocation and power control](https://arxiv.org/abs/2410.17068)|[pymarl](https://github.com/oxwhirl/pymarl)|
 ## 2024-10-22
 |paper|code|
 |---|---|
