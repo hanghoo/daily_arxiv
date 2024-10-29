@@ -1,3 +1,43 @@
+## 2024-10-28
+|paper|code|
+|---|---|
+|[fuboco: structure synthesis of basic op-amps by functional block composition](https://arxiv.org/abs/2101.07517)|[acst](https://github.com/inga000/acst)|
+|[deep reinforcement learning for urllc data management on top of scheduled embb traffic](https://arxiv.org/abs/2103.01801)|[telerl2021](https://github.com/InsaneMonster/telerl2021)|
+|[fbcnet: a multi-view convolutional neural network for brain-computer interface](https://arxiv.org/abs/2104.01233)|[FBCNet](https://github.com/ravikiran-mane/FBCNet)|
+|[scalable power control/beamforming in heterogeneous wireless networks with graph neural networks](https://arxiv.org/abs/2104.05463)|[hignn](https://github.com/zhangxiaochen95/hignn)|
+|[lggnet: learning from local-global-graph representations for brain-computer interface](https://arxiv.org/abs/2105.02786)|[LGG](https://github.com/yi-ding-cs/LGG)|
+|[efficient stochastic optimal control through approximate bayesian input inference](https://arxiv.org/abs/2105.07693)|[input-inference-for-control](https://github.com/JoeMWatson/input-inference-for-control)|
+|[dilated convolution based csi feedback compression for massive mimo systems](https://arxiv.org/abs/2106.04043)|[DCRNet](https://github.com/recusant7/DCRNet)|
+|[multi-modality fusion using canonical correlation analysis methods: application in breast cancer survival prediction from histology and genomics](https://arxiv.org/abs/2111.13987)|[modelling_cca_brca_survival](https://github.com/svaishnavi411/modelling_cca_brca_survival)|
+|[accoustate: auto-annotation of imu-generated activity signatures under smart infrastructure](https://arxiv.org/abs/2112.06651)|[acconotate](https://github.com/stilllearningsoumya/acconotate)|
+|[an open source representation for the nys electric grid to support power grid and market transition studies](https://arxiv.org/abs/2112.06756)|[nygrid](https://github.com/andersonenergylab-cornell/nygrid)|
+|[deep optimal transport for domain adaptation on spd manifolds](https://arxiv.org/abs/2201.05745)|[deep-optimal-transport-for-domain-adaptation-on-spd-manifolds](https://github.com/geometricbci/deep-optimal-transport-for-domain-adaptation-on-spd-manifolds)|
+|[optimisation of structured neural controller based on continuous-time policy gradient](https://arxiv.org/abs/2201.06262)|[continuoustimepolicygradients.jl](https://github.com/nhcho91/continuoustimepolicygradients.jl)|
+|[beats: an open-source, high-precision, multi-channel eeg acquisition tool system](https://arxiv.org/abs/2203.02102)|[beats](https://github.com/buptanteeg/beats)|
+|[robust and efficient depth-based obstacle avoidance for autonomous miniaturized uavs](https://arxiv.org/abs/2208.12624)|[Matrix_ToF_Drones](https://github.com/ETH-PBL/Matrix_ToF_Drones)|
+|[reconfigurable massive mimo: harnessing the power of the electromagnetic domain for enhanced information transfer](https://arxiv.org/abs/2302.11385)|[r-mmimo](https://github.com/kekeyingbit/r-mmimo)|
+|[invertible kernel pca with random fourier features](https://arxiv.org/abs/2303.05043)|[invertible_kernel_PCA](https://github.com/dgedon/invertible_kernel_PCA)|
+|[a novel channel model for reconfigurable intelligent surfaces with consideration of polarization and switch impairments](https://arxiv.org/abs/2304.03713)|[matlab_ris_channelmodel](https://github.com/icefreeman123/matlab_ris_channelmodel)|
+|[maximum likelihood based phase-retrieval using fresnel propagation forward models with optional constraints](https://arxiv.org/abs/2305.00334)|[phasetorch](https://github.com/phasetorch/phasetorch)|
+|[a rainbow in deep network black boxes](https://arxiv.org/abs/2305.18512)|[rainbow](https://github.com/florentinguth/rainbow)|
+|[graph neural network-enhanced expectation propagation algorithm for mimo turbo receivers](https://arxiv.org/abs/2308.11335)|[GNN-enhanced-EP-for-Turbo-MIMO](https://github.com/STARainZ/GNN-enhanced-EP-for-Turbo-MIMO)|
+|[a safe preference learning approach for personalization with applications to autonomous vehicles](https://arxiv.org/abs/2311.02099)|[SPL-WSTL](https://github.com/ruyakrgl/SPL-WSTL)|
+|[deep learning based modeling of wireless communication channel with fading](https://arxiv.org/abs/2312.06849)|[Deep-Learning-based-Modeling-of-Wireless-Communication-Channel-with-Fading](https://github.com/BrightBlueCheese/Deep-Learning-based-Modeling-of-Wireless-Communication-Channel-with-Fading)|
+|[radio map estimation -- an open dataset with directive transmitter antennas and initial experiments](https://arxiv.org/abs/2402.00878)|[rml](https://github.com/fabja19/rml)|
+|[graph representation learning for contention and interference management in wireless networks](https://arxiv.org/abs/2402.00879)|[ac-grl-wi-fi](https://github.com/zhouyou-gu/ac-grl-wi-fi)|
+|[automated security response through online learning with adaptive conjectures](https://arxiv.org/abs/2402.12499)|[csle](https://github.com/limmen/csle)|
+|[goal-reaching trajectory design near danger with piecewise affine reach-avoid computation](https://arxiv.org/abs/2402.15604)|[parc](https://github.com/safe-robotics-lab-gt/parc)|
+|[smooth information gathering in two-player noncooperative games](https://arxiv.org/abs/2404.00733)|[gamesvoi.jl](https://github.com/clearoboticslab/gamesvoi.jl)|
+|[comparing lazy constraint selection strategies in train routing with moving block control](https://arxiv.org/abs/2405.18977)|[mtct](https://github.com/cda-tum/mtct)|
+|[polyclean: atomic optimization for super-resolution imaging and uncertainty estimation in radio interferometry](https://arxiv.org/abs/2406.01342)|[polyclean](https://github.com/AdriaJ/polyclean)|
+|[reinforcement learning controllers for soft robots using learned environments](https://arxiv.org/abs/2410.18519)|[SoRoLEX](https://github.com/uljad/SoRoLEX)|
+|[the multi-cluster fluctuating two-ray fading model](https://arxiv.org/abs/2212.02448)|[mftr-fading-channel-model](https://github.com/josedavidvega/mftr-fading-channel-model)|
+|[a spatially non-stationary fading channel model for simulation and (semi-) analytical study of elaa-mimo](https://arxiv.org/abs/2308.13858)|[non-stationary-fading-channel-model](https://github.com/elaa-mimo/non-stationary-fading-channel-model)|
+|[$\lambda$-split: a privacy-preserving split computing framework for cloud-powered generative ai](https://arxiv.org/abs/2310.14651)|[lambda_split](https://github.com/nishio-laboratory/lambda_split)|
+|[mansy: generalizing neural adaptive immersive video streaming with ensemble and representation learning](https://arxiv.org/abs/2311.06812)|[mansy_immersivevideostreaming](https://github.com/duowuyms/mansy_immersivevideostreaming)|
+|[treet: transfer entropy estimation via transformer](https://arxiv.org/abs/2402.06919)|[treet](https://github.com/omerlux/treet)|
+|[on the cross-dataset generalization of machine learning for network intrusion detection](https://arxiv.org/abs/2402.10974)|[lycos-unicas-ids2018](https://github.com/marcocantone/lycos-unicas-ids2018)|
+|[wetlinks: a large-scale longitudinal starlink dataset with contiguous weather data](https://arxiv.org/abs/2402.16448)|[wetlinks](https://github.com/sys-uos/wetlinks)|
 ## 2024-10-27
 |paper|code|
 |---|---|
