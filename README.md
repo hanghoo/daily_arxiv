@@ -1,3 +1,14 @@
+## 2024-10-29
+|paper|code|
+|---|---|
+|[ultimatekalman: flexible kalman filtering and smoothing using orthogonal transformations](https://arxiv.org/abs/2207.13526)|[ultimate-kalman](https://github.com/sivantoledo/ultimate-kalman)|
+|[spgesture: source-free domain-adaptive semg-based gesture recognition with jaccard attentive spiking neural network](https://arxiv.org/abs/2405.14398)|[spgesture](https://github.com/guoweiyu/spgesture)|
+|[amalgam: a framework for obfuscated neural network training on the cloud](https://arxiv.org/abs/2406.03405)|[amalgam](https://github.com/sifattaj/amalgam)|
+|[the bouc-wen model for binary direct collinear collisions of convex viscoplastic bodies](https://arxiv.org/abs/2410.08147)|[bwbcl](https://gitlab.com/user9716869/bwbcl)|
+|[marine spatial planning techniques with a case study on wave-powered offshore aquaculture farms](https://arxiv.org/abs/2410.11926)|[aquaculture](https://github.com/symbiotic-engineering/aquaculture)|
+|[p4-psfp: p4-based per-stream filtering and policing for time-sensitive networking](https://arxiv.org/abs/2311.07385)|[p4-psfp](https://github.com/uni-tue-kn/p4-psfp)|
+|[artificial intelligence of things: a survey](https://arxiv.org/abs/2410.19998)|[aiot-survey](https://github.com/aiot-mlsys-lab/aiot-survey)|
+|[fusefl: one-shot federated learning through the lens of causality with progressive model fusion](https://arxiv.org/abs/2410.20380)|[fusefl](https://github.com/wizard1203/fusefl)|
 ## 2024-10-28
 |paper|code|
 |---|---|
@@ -55,12 +66,12 @@
 |[wavetable synthesis using cvae for timbre control based on semantic label](https://arxiv.org/abs/2410.18628)|[wavetablecvae](https://github.com/tsugumasa320/wavetablecvae)|
 |[the representation jensen-shannon divergence](https://arxiv.org/abs/2305.16446)|[representationjsd](https://github.com/uk-cliplab/representationjsd)|
 |[striking a new chord: neural networks in music information dynamics](https://arxiv.org/abs/2410.17989)|[SeqLab](https://github.com/frshdjfry/SeqLab)|
+|[advancing network security: a comprehensive testbed and dataset for machine learning-based intrusion detection](https://arxiv.org/abs/2410.18332)|[Dataset-for-Machine-Learning-Based-Intrusion-Detection](https://github.com/Tf-arch/Dataset-for-Machine-Learning-Based-Intrusion-Detection)|
 |[optimizing edge offloading decisions for object detection](https://arxiv.org/abs/2410.18919)|[edgeml-object-detection](https://github.com/qiujiaming315/edgeml-object-detection)|
 ## 2024-10-24
 |paper|code|
 |---|---|
 |[posterior sampling-based online learning for episodic pomdps](https://arxiv.org/abs/2310.10107)|[ps4pomdp](https://github.com/dongzeye/ps4pomdp)|
-|[eeg-deformer: a dense convolutional transformer for brain-computer interfaces](https://arxiv.org/abs/2405.00719)|[eeg-deformer](https://github.com/yi-ding-cs/eeg-deformer)|
 |[modeling of time-varying wireless communication channel with fading and shadowing](https://arxiv.org/abs/2405.08199)|[Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing](https://github.com/BrightBlueCheese/Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing)|
 |[eeg-dif: early warning of epileptic seizures through generative diffusion model-based multi-channel eeg signals forecasting](https://arxiv.org/abs/2410.17343)|[eeg-dif](https://github.com/jzk00/eeg-dif)|
 |[preserving privacy in cloud-based data-driven stabilization](https://arxiv.org/abs/2410.17353)|[privacy_data_driven_control](https://github.com/teimour-halizadeh/privacy_data_driven_control)|
