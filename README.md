@@ -1,14 +1,42 @@
+## 2024-10-30
+|paper|code|
+|---|---|
+|[advanced digital signal processing techniques for high-speed optical communications links](https://arxiv.org/abs/1903.12260)|[dsp-library](https://github.com/dario-pilori/dsp-library)|
+|[sequential weakly labeled multi-activity localization and recognition on wearable sensors using recurrent attention networks](https://arxiv.org/abs/2004.05768)|[RAN](https://github.com/KennCoder7/RAN)|
+|[communication-computation trade-off in resource-constrained edge inference](https://arxiv.org/abs/2006.02166)|[Edge_Inference_three-step_framework](https://github.com/shaojiawei07/Edge_Inference_three-step_framework)|
+|[reconfigurable intelligent surface enabled federated learning: a unified communication-learning design approach](https://arxiv.org/abs/2011.10282)|[RIS-FL](https://github.com/liuhang1994/RIS-FL)|
+|[linear reduced order model predictive control](https://arxiv.org/abs/2012.03384)|[rompc](https://github.com/stanfordasl/rompc)|
+|[a functional block decomposition method for automatic op-amp design](https://arxiv.org/abs/2012.09051)|[acst](https://github.com/inga000/acst)|
+|[a game-theoretic framework for coexistence of wifi and cellular networks in the 6-ghz unlicensed spectrum](https://arxiv.org/abs/2012.10644)|[coexistence](https://github.com/aniq55/coexistence)|
+|[eeg-deformer: a dense convolutional transformer for brain-computer interfaces](https://arxiv.org/abs/2405.00719)|[eeg-deformer](https://github.com/yi-ding-cs/eeg-deformer)|
+|[reinforced model predictive control via trust-region quasi-newton policy optimization](https://arxiv.org/abs/2405.17983)|[ecc24_tr_improved_qn_po_for_mpc_in_rl](https://github.com/deanbrandner/ecc24_tr_improved_qn_po_for_mpc_in_rl)|
+|[a spatial-spectral and temporal dual prototype network for motor imagery brain-computer interface](https://arxiv.org/abs/2407.03177)|[edpnet](https://github.com/hancan16/edpnet)|
+|[dynamical embedding of single channel electroencephalogram for artifact subspace reconstruction](https://arxiv.org/abs/2407.04727)|[e-asr](https://github.com/neurallabiitguwahati/e-asr)|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[single-channel electroencephalography decomposition by detector-atom network and its pre-trained model](https://arxiv.org/abs/2408.02185)|[detector-atom-net](https://github.com/hgshrs/detector-atom-net)|
+|[an optimal pairwise merge algorithm improves the quality and consistency of nonnegative matrix factorization](https://arxiv.org/abs/2408.09013)|[NMFMerge.jl](https://github.com/HolyLab/NMFMerge.jl)|
+|[pk-yolo: pretrained knowledge guided yolo for brain tumor detection in multiplanar mri slices](https://arxiv.org/abs/2410.21822)|[pk-yolo](https://github.com/mkang315/pk-yolo)|
+|[lipkernel: lipschitz-bounded convolutional neural networks via dissipative layers](https://arxiv.org/abs/2410.22258)|[2D-LipCNNs](https://github.com/ppauli/2D-LipCNNs)|
+|[fairness and sum-rate maximization via joint channel and power allocation in uplink scma networks](https://arxiv.org/abs/1805.11722)|[Fairness-and-Sum-Rate-Maximization-via-Joint-Subcarrier-and-Power-Allocation-in-Uplink-SCMA-Transmis](https://github.com/jvce92/Fairness-and-Sum-Rate-Maximization-via-Joint-Subcarrier-and-Power-Allocation-in-Uplink-SCMA-Transmis)|
+|[multitok: variable-length tokenization for efficient llms adapted from lzw compression](https://arxiv.org/abs/2410.21548)|[multitok](https://github.com/noelkelias/multitok)|
+|[a generative model based honeypot for industrial opc ua communication](https://arxiv.org/abs/2410.21574)|[paper-2024-eurocast-honeypot](https://github.com/JRC-ISIA/paper-2024-eurocast-honeypot)|
 ## 2024-10-29
 |paper|code|
 |---|---|
 |[ultimatekalman: flexible kalman filtering and smoothing using orthogonal transformations](https://arxiv.org/abs/2207.13526)|[ultimate-kalman](https://github.com/sivantoledo/ultimate-kalman)|
-|[spgesture: source-free domain-adaptive semg-based gesture recognition with jaccard attentive spiking neural network](https://arxiv.org/abs/2405.14398)|[spgesture](https://github.com/guoweiyu/spgesture)|
 |[amalgam: a framework for obfuscated neural network training on the cloud](https://arxiv.org/abs/2406.03405)|[amalgam](https://github.com/sifattaj/amalgam)|
 |[the bouc-wen model for binary direct collinear collisions of convex viscoplastic bodies](https://arxiv.org/abs/2410.08147)|[bwbcl](https://gitlab.com/user9716869/bwbcl)|
 |[marine spatial planning techniques with a case study on wave-powered offshore aquaculture farms](https://arxiv.org/abs/2410.11926)|[aquaculture](https://github.com/symbiotic-engineering/aquaculture)|
+|[unimts: unified pre-training for motion time series](https://arxiv.org/abs/2410.19818)|[unimts](https://github.com/xiyuanzh/unimts)|
+|[enhancing battery storage energy arbitrage with deep reinforcement learning and time-series forecasting](https://arxiv.org/abs/2410.20005)|[battery_arbitrage_with_drl](https://github.com/masa2203/battery_arbitrage_with_drl)|
+|[seev: synthesis with efficient exact verification for relu neural barrier functions](https://arxiv.org/abs/2410.20326)|[seev](https://github.com/hongchaozhang-hz/seev)|
+|[papagei: open foundation models for optical physiological signals](https://arxiv.org/abs/2410.20542)|[papagei-foundation-model](https://github.com/nokia-bell-labs/papagei-foundation-model)|
+|[a framework for real-time volcano-seismic event recognition based on multi-station seismograms and semantic segmentation models](https://arxiv.org/abs/2410.20595)|[volcano-seismic-segmentation](https://github.com/camilo-espinosa/volcano-seismic-segmentation)|
+|[general task optimal planning for heterogeneous teams with precedence and compatibility constraints and its application on power grid inspection using unmanned aerial vehicles](https://arxiv.org/abs/2410.20849)|[smart--flies](https://github.com/asojogrvc/smart--flies)|
 |[p4-psfp: p4-based per-stream filtering and policing for time-sensitive networking](https://arxiv.org/abs/2311.07385)|[p4-psfp](https://github.com/uni-tue-kn/p4-psfp)|
 |[artificial intelligence of things: a survey](https://arxiv.org/abs/2410.19998)|[aiot-survey](https://github.com/aiot-mlsys-lab/aiot-survey)|
 |[fusefl: one-shot federated learning through the lens of causality with progressive model fusion](https://arxiv.org/abs/2410.20380)|[fusefl](https://github.com/wizard1203/fusefl)|
+|[aqua-sim fourth generation: towards general and intelligent simulation for underwater acoustic networks](https://arxiv.org/abs/2410.20698)|[aqua-sim-fg](https://github.com/jlu-smartocean/aqua-sim-fg)|
 ## 2024-10-28
 |paper|code|
 |---|---|
