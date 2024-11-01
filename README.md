@@ -1,3 +1,16 @@
+## 2024-10-31
+|paper|code|
+|---|---|
+|[spectral graph pruning against over-squashing and over-smoothing](https://arxiv.org/abs/2404.04612)|[spectralpruningbraess](https://github.com/relationalml/spectralpruningbraess)|
+|[spgesture: source-free domain-adaptive semg-based gesture recognition with jaccard attentive spiking neural network](https://arxiv.org/abs/2405.14398)|[spgesture](https://github.com/guoweiyu/spgesture)|
+|[gaussian process-based online health monitoring and fault analysis of lithium-ion battery systems from field data](https://arxiv.org/abs/2406.19015)|[battgp](https://github.com/joachimschaeffer/battgp)|
+|[reachability analysis for black-box dynamical systems](https://arxiv.org/abs/2410.07796)|[blackbox_reachability](https://github.com/sia-lab-git/blackbox_reachability)|
+|[unfolding target detection with state space model](https://arxiv.org/abs/2410.22774)|[neurodet](https://github.com/aiot-lab/neurodet)|
+|[dynamic threshold-based two-layer online unsupervised anomaly detector](https://arxiv.org/abs/2410.22967)|[adaptive-nad](https://github.com/mylearncodespace/adaptive-nad)|
+|[v2x-assisted distributed computing and control framework for connected and automated vehicles under ramp merging scenario](https://arxiv.org/abs/2410.22987)|[v2x-assisted-distributed-computing-and-control-framework-for-connected-and-automated-vehicles](https://github.com/qiongwu86/v2x-assisted-distributed-computing-and-control-framework-for-connected-and-automated-vehicles)|
+|[large language model-driven curriculum design for mobile networks](https://arxiv.org/abs/2405.18039)|[LLM-CL](https://github.com/OmarErak/LLM-CL)|
+|[contrastive learning and adversarial disentanglement for privacy-preserving task-oriented semantic communications](https://arxiv.org/abs/2410.22784)|[clad](https://github.com/omarerak/clad)|
+|[towards constraint-aware learning for resource allocation in nfv-enabled networks](https://arxiv.org/abs/2410.22999)|[conal-vne](https://github.com/GeminiLight/conal-vne)|
 ## 2024-10-30
 |paper|code|
 |---|---|
@@ -9,7 +22,6 @@
 |[a functional block decomposition method for automatic op-amp design](https://arxiv.org/abs/2012.09051)|[acst](https://github.com/inga000/acst)|
 |[a game-theoretic framework for coexistence of wifi and cellular networks in the 6-ghz unlicensed spectrum](https://arxiv.org/abs/2012.10644)|[coexistence](https://github.com/aniq55/coexistence)|
 |[eeg-deformer: a dense convolutional transformer for brain-computer interfaces](https://arxiv.org/abs/2405.00719)|[eeg-deformer](https://github.com/yi-ding-cs/eeg-deformer)|
-|[reinforced model predictive control via trust-region quasi-newton policy optimization](https://arxiv.org/abs/2405.17983)|[ecc24_tr_improved_qn_po_for_mpc_in_rl](https://github.com/deanbrandner/ecc24_tr_improved_qn_po_for_mpc_in_rl)|
 |[a spatial-spectral and temporal dual prototype network for motor imagery brain-computer interface](https://arxiv.org/abs/2407.03177)|[edpnet](https://github.com/hancan16/edpnet)|
 |[dynamical embedding of single channel electroencephalogram for artifact subspace reconstruction](https://arxiv.org/abs/2407.04727)|[e-asr](https://github.com/neurallabiitguwahati/e-asr)|
 |[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
