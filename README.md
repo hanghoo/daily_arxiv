@@ -1,6 +1,19 @@
+## 2024-11-01
+|paper|code|
+|---|---|
+|[knowledge equivalence in digital twins of intelligent systems](https://arxiv.org/abs/2204.07481)|[knowledge-equivalence-DT](https://github.com/digitwins/knowledge-equivalence-DT)|
+|[optimizing attention and cognitive control costs using temporally-layered architectures](https://arxiv.org/abs/2305.18701)|[Temporally-Layered-Architecture](https://github.com/dee0512/Temporally-Layered-Architecture)|
+|[trust-aware safe control for autonomous navigation: estimation of system-to-human trust for trust-adaptive control barrier functions](https://arxiv.org/abs/2307.12815)|[mpc-trust-cbf](https://github.com/saadejazz/mpc-trust-cbf)|
+|[reinforced model predictive control via trust-region quasi-newton policy optimization](https://arxiv.org/abs/2405.17983)|[ecc24_tr_improved_qn_po_for_mpc_in_rl](https://github.com/deanbrandner/ecc24_tr_improved_qn_po_for_mpc_in_rl)|
+|[difflight: a partial rewards conditioned diffusion model for traffic signal control with missing data](https://arxiv.org/abs/2410.22938)|[DiffLight-release](https://github.com/lokol5579/DiffLight-release)|
+|[advancing free-space optical communication system architecture: performance analysis of varied optical ground station network configurations](https://arxiv.org/abs/2410.23470)|[fso-simulation](https://github.com/connor-a-casey/fso-simulation)|
+|[towards generative ray path sampling for faster point-to-point ray tracing](https://arxiv.org/abs/2410.23773)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
+|[scalable kernel inverse optimization](https://arxiv.org/abs/2410.23952)|[Scalable-Kernel-Inverse-Optimization](https://github.com/Longyouyuan/Scalable-Kernel-Inverse-Optimization)|
+|[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
 ## 2024-10-31
 |paper|code|
 |---|---|
+|[mppi-ipddp: hybrid method of collision-free smooth trajectory generation for autonomous robots](https://arxiv.org/abs/2208.02439)|[mppi-ipddp](https://github.com/i-asl/mppi-ipddp)|
 |[spectral graph pruning against over-squashing and over-smoothing](https://arxiv.org/abs/2404.04612)|[spectralpruningbraess](https://github.com/relationalml/spectralpruningbraess)|
 |[spgesture: source-free domain-adaptive semg-based gesture recognition with jaccard attentive spiking neural network](https://arxiv.org/abs/2405.14398)|[spgesture](https://github.com/guoweiyu/spgesture)|
 |[gaussian process-based online health monitoring and fault analysis of lithium-ion battery systems from field data](https://arxiv.org/abs/2406.19015)|[battgp](https://github.com/joachimschaeffer/battgp)|
@@ -10,6 +23,7 @@
 |[v2x-assisted distributed computing and control framework for connected and automated vehicles under ramp merging scenario](https://arxiv.org/abs/2410.22987)|[v2x-assisted-distributed-computing-and-control-framework-for-connected-and-automated-vehicles](https://github.com/qiongwu86/v2x-assisted-distributed-computing-and-control-framework-for-connected-and-automated-vehicles)|
 |[large language model-driven curriculum design for mobile networks](https://arxiv.org/abs/2405.18039)|[LLM-CL](https://github.com/OmarErak/LLM-CL)|
 |[contrastive learning and adversarial disentanglement for privacy-preserving task-oriented semantic communications](https://arxiv.org/abs/2410.22784)|[clad](https://github.com/omarerak/clad)|
+|[generalization bounds via conditional $f$-information](https://arxiv.org/abs/2410.22887)|[Conditional-f-Information-Bound](https://github.com/ZiqiaoWangGeothe/Conditional-f-Information-Bound)|
 |[towards constraint-aware learning for resource allocation in nfv-enabled networks](https://arxiv.org/abs/2410.22999)|[conal-vne](https://github.com/GeminiLight/conal-vne)|
 ## 2024-10-30
 |paper|code|
@@ -22,11 +36,12 @@
 |[a functional block decomposition method for automatic op-amp design](https://arxiv.org/abs/2012.09051)|[acst](https://github.com/inga000/acst)|
 |[a game-theoretic framework for coexistence of wifi and cellular networks in the 6-ghz unlicensed spectrum](https://arxiv.org/abs/2012.10644)|[coexistence](https://github.com/aniq55/coexistence)|
 |[eeg-deformer: a dense convolutional transformer for brain-computer interfaces](https://arxiv.org/abs/2405.00719)|[eeg-deformer](https://github.com/yi-ding-cs/eeg-deformer)|
-|[a spatial-spectral and temporal dual prototype network for motor imagery brain-computer interface](https://arxiv.org/abs/2407.03177)|[edpnet](https://github.com/hancan16/edpnet)|
+|[a spatial-spectral and temporal dual prototype network for motor imagery brain-computer interface](https://arxiv.org/abs/2407.03177)|[sst-dpn](https://github.com/hancan16/sst-dpn)|
 |[dynamical embedding of single channel electroencephalogram for artifact subspace reconstruction](https://arxiv.org/abs/2407.04727)|[e-asr](https://github.com/neurallabiitguwahati/e-asr)|
 |[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
 |[single-channel electroencephalography decomposition by detector-atom network and its pre-trained model](https://arxiv.org/abs/2408.02185)|[detector-atom-net](https://github.com/hgshrs/detector-atom-net)|
 |[an optimal pairwise merge algorithm improves the quality and consistency of nonnegative matrix factorization](https://arxiv.org/abs/2408.09013)|[NMFMerge.jl](https://github.com/HolyLab/NMFMerge.jl)|
+|[multiple-beam interference spectroscopy: instrument analysis and spectrum reconstruction](https://arxiv.org/abs/2410.21586)|[inverspyctrometry](https://github.com/mhmdjouni/inverspyctrometry)|
 |[pk-yolo: pretrained knowledge guided yolo for brain tumor detection in multiplanar mri slices](https://arxiv.org/abs/2410.21822)|[pk-yolo](https://github.com/mkang315/pk-yolo)|
 |[lipkernel: lipschitz-bounded convolutional neural networks via dissipative layers](https://arxiv.org/abs/2410.22258)|[2D-LipCNNs](https://github.com/ppauli/2D-LipCNNs)|
 |[fairness and sum-rate maximization via joint channel and power allocation in uplink scma networks](https://arxiv.org/abs/1805.11722)|[Fairness-and-Sum-Rate-Maximization-via-Joint-Subcarrier-and-Power-Allocation-in-Uplink-SCMA-Transmis](https://github.com/jvce92/Fairness-and-Sum-Rate-Maximization-via-Joint-Subcarrier-and-Power-Allocation-in-Uplink-SCMA-Transmis)|
@@ -39,15 +54,21 @@
 |[amalgam: a framework for obfuscated neural network training on the cloud](https://arxiv.org/abs/2406.03405)|[amalgam](https://github.com/sifattaj/amalgam)|
 |[the bouc-wen model for binary direct collinear collisions of convex viscoplastic bodies](https://arxiv.org/abs/2410.08147)|[bwbcl](https://gitlab.com/user9716869/bwbcl)|
 |[marine spatial planning techniques with a case study on wave-powered offshore aquaculture farms](https://arxiv.org/abs/2410.11926)|[aquaculture](https://github.com/symbiotic-engineering/aquaculture)|
+|[the effect of acute stress on the interpretability and generalization of schizophrenia predictive machine learning models](https://arxiv.org/abs/2410.19739)|[stressschizophrenia](https://github.com/xalentis/stressschizophrenia)|
+|[controlagent: automating control system design via novel integration of llm agents and domain expertise](https://arxiv.org/abs/2410.19811)|[controlagent](https://github.com/controlagent/controlagent)|
 |[unimts: unified pre-training for motion time series](https://arxiv.org/abs/2410.19818)|[unimts](https://github.com/xiyuanzh/unimts)|
+|[automatic classification of sleep stages from eeg signals using riemannian metrics and transformer networks](https://arxiv.org/abs/2410.19819)|[SPDTransNet_plus](https://github.com/MathieuSeraphim/SPDTransNet_plus)|
 |[enhancing battery storage energy arbitrage with deep reinforcement learning and time-series forecasting](https://arxiv.org/abs/2410.20005)|[battery_arbitrage_with_drl](https://github.com/masa2203/battery_arbitrage_with_drl)|
 |[seev: synthesis with efficient exact verification for relu neural barrier functions](https://arxiv.org/abs/2410.20326)|[seev](https://github.com/hongchaozhang-hz/seev)|
+|[uncertainty-aware decision-making and planning for autonomous forced merging](https://arxiv.org/abs/2410.20514)|[auto-merging](https://github.com/JianZhou1212/auto-merging)|
+|[data-driven analysis of t-product-based dynamical systems](https://arxiv.org/abs/2410.20541)|[TPDSs](https://github.com/dytroshut/TPDSs)|
 |[papagei: open foundation models for optical physiological signals](https://arxiv.org/abs/2410.20542)|[papagei-foundation-model](https://github.com/nokia-bell-labs/papagei-foundation-model)|
 |[a framework for real-time volcano-seismic event recognition based on multi-station seismograms and semantic segmentation models](https://arxiv.org/abs/2410.20595)|[volcano-seismic-segmentation](https://github.com/camilo-espinosa/volcano-seismic-segmentation)|
 |[general task optimal planning for heterogeneous teams with precedence and compatibility constraints and its application on power grid inspection using unmanned aerial vehicles](https://arxiv.org/abs/2410.20849)|[smart--flies](https://github.com/asojogrvc/smart--flies)|
 |[p4-psfp: p4-based per-stream filtering and policing for time-sensitive networking](https://arxiv.org/abs/2311.07385)|[p4-psfp](https://github.com/uni-tue-kn/p4-psfp)|
 |[artificial intelligence of things: a survey](https://arxiv.org/abs/2410.19998)|[aiot-survey](https://github.com/aiot-mlsys-lab/aiot-survey)|
 |[fusefl: one-shot federated learning through the lens of causality with progressive model fusion](https://arxiv.org/abs/2410.20380)|[fusefl](https://github.com/wizard1203/fusefl)|
+|[reacked quicer: measuring the performance of instant acknowledgments in quic handshakes](https://arxiv.org/abs/2410.20602)|[artifacts-imc24-reACKed-QUICer](https://github.com/netd-tud/artifacts-imc24-reACKed-QUICer)|
 |[aqua-sim fourth generation: towards general and intelligent simulation for underwater acoustic networks](https://arxiv.org/abs/2410.20698)|[aqua-sim-fg](https://github.com/jlu-smartocean/aqua-sim-fg)|
 ## 2024-10-28
 |paper|code|
