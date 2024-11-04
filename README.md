@@ -63,7 +63,6 @@
 |[uncertainty-aware decision-making and planning for autonomous forced merging](https://arxiv.org/abs/2410.20514)|[auto-merging](https://github.com/JianZhou1212/auto-merging)|
 |[data-driven analysis of t-product-based dynamical systems](https://arxiv.org/abs/2410.20541)|[TPDSs](https://github.com/dytroshut/TPDSs)|
 |[papagei: open foundation models for optical physiological signals](https://arxiv.org/abs/2410.20542)|[papagei-foundation-model](https://github.com/nokia-bell-labs/papagei-foundation-model)|
-|[a framework for real-time volcano-seismic event recognition based on multi-station seismograms and semantic segmentation models](https://arxiv.org/abs/2410.20595)|[volcano-seismic-segmentation](https://github.com/camilo-espinosa/volcano-seismic-segmentation)|
 |[general task optimal planning for heterogeneous teams with precedence and compatibility constraints and its application on power grid inspection using unmanned aerial vehicles](https://arxiv.org/abs/2410.20849)|[smart--flies](https://github.com/asojogrvc/smart--flies)|
 |[p4-psfp: p4-based per-stream filtering and policing for time-sensitive networking](https://arxiv.org/abs/2311.07385)|[p4-psfp](https://github.com/uni-tue-kn/p4-psfp)|
 |[artificial intelligence of things: a survey](https://arxiv.org/abs/2410.19998)|[aiot-survey](https://github.com/aiot-mlsys-lab/aiot-survey)|
