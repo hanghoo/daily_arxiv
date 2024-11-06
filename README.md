@@ -1,3 +1,24 @@
+## 2024-11-05
+|paper|code|
+|---|---|
+|[spectral clustering via orthogonalization-free methods](https://arxiv.org/abs/2305.10356)|[distributedlevp.jl](https://github.com/qiyuanpang/distributedlevp.jl)|
+|[learning performance-oriented control barrier functions under complex safety constraints and limited actuation](https://arxiv.org/abs/2401.05629)|[pinn-cbf](https://github.com/o4lc/pinn-cbf)|
+|[a holistic power optimization approach for microgrid control based on deep reinforcement learning](https://arxiv.org/abs/2403.01013)|[district-microgrid-dataset](https://github.com/flyao123/district-microgrid-dataset)|
+|[bounding stochastic safety: leveraging freedman's inequality with discrete-time control barrier functions](https://arxiv.org/abs/2403.05745)|[freedman](https://github.com/rkcosner/freedman)|
+|[synthesizing eeg signals from event-related potential paradigms with conditional diffusion models](https://arxiv.org/abs/2403.18486)|[Conditional-EEG-Diffusion](https://github.com/guido151/Conditional-EEG-Diffusion)|
+|[quito v.2: trajectory optimization with uniform error guarantees under path constraints](https://arxiv.org/abs/2404.13681)|[quitov2](https://github.com/chatterjee-d/quitov2)|
+|[aligning large language models with representation editing: a control perspective](https://arxiv.org/abs/2406.05954)|[re-control](https://github.com/lingkai-kong/re-control)|
+|[refining adhd diagnosis with eeg: the impact of preprocessing and temporal segmentation on classification accuracy](https://arxiv.org/abs/2407.08316)|[refining-adhd-diagnosis-with-eeg-preprocesing-and-temporal-segmentation](https://gitlab.com/lucentia/refining-adhd-diagnosis-with-eeg-preprocesing-and-temporal-segmentation)|
+|[radiodiff: an effective generative diffusion model for sampling-free dynamic radio map construction](https://arxiv.org/abs/2408.08593)|[radiodiff](https://github.com/unic-lab/radiodiff)|
+|[towards generative ray path sampling for faster point-to-point ray tracing](https://arxiv.org/abs/2410.23773)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
+|[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
+|[enhancing glucose level prediction of icu patients through irregular time-series analysis and integrated representation](https://arxiv.org/abs/2411.01418)|[MITST](https://github.com/zavareh89/MITST)|
+|[risk-sensitive control as inference with r\'enyi divergence](https://arxiv.org/abs/2411.01827)|[risk-sensitive-sac](https://github.com/kaito-1111/risk-sensitive-sac)|
+|[towards safe bayesian optimization with wiener kernel regression](https://arxiv.org/abs/2411.02253)|[SafeBO_WKR](https://github.com/OptCon/SafeBO_WKR)|
+|[controlsynth neural odes: modeling dynamical systems with guaranteed convergence](https://arxiv.org/abs/2411.02292)|[controlsynth-neural-ode](https://github.com/continuumcoder/controlsynth-neural-ode)|
+|[llm honeypot: leveraging large language models as advanced interactive honeypot systems](https://arxiv.org/abs/2409.08234)|[llm-honeypot](https://github.com/ai-in-complex-systems-lab/llm-honeypot)|
+|[redan: an empirical study on remote dos attacks against nat networks](https://arxiv.org/abs/2410.21984)|[Remote-DoS-Attacks-against-NAT-Networks](https://github.com/Internet-Architecture-and-Security/Remote-DoS-Attacks-against-NAT-Networks)|
+|[diffusion models as network optimizers: explorations and analysis](https://arxiv.org/abs/2411.00453)|[DiffSG](https://github.com/qiyu3816/DiffSG)|
 ## 2024-11-04
 |paper|code|
 |---|---|
@@ -5,7 +26,8 @@
 |[du-in: discrete units-guided mask modeling for decoding speech from intracranial neural signals](https://arxiv.org/abs/2405.11459)|[du-in](https://github.com/liulab-repository/du-in)|
 |[hrrpgraphnet: make hrrps to be graphs for efficient target recognition](https://arxiv.org/abs/2407.08236)|[HRRPGraphNet](https://github.com/MountainChenCad/HRRPGraphNet)|
 |[enhancing information freshness: an aoi optimized markov decision process dedicated in the underwater task](https://arxiv.org/abs/2409.02424)|[aoi-mdp](https://github.com/xiboxtg/aoi-mdp)|
-|[a framework for real-time volcano-seismic event recognition based on multi-station seismograms and semantic segmentation models](https://arxiv.org/abs/2410.20595)|[volcano-seismic-segmentation](https://github.com/camilo-espinosa/volcano-seismic-segmentation)|
+|[semantic knowledge distillation for onboard satellite earth observation image classification](https://arxiv.org/abs/2411.00209)|[snt-sentry](https://github.com/ltdung/snt-sentry)|
+|[multi-group proportional representation in retrieval](https://arxiv.org/abs/2407.08571)|[multigroup-proportional-representation](https://github.com/alex-oesterling/multigroup-proportional-representation)|
 ## 2024-11-01
 |paper|code|
 |---|---|
@@ -15,8 +37,14 @@
 |[reinforced model predictive control via trust-region quasi-newton policy optimization](https://arxiv.org/abs/2405.17983)|[ecc24_tr_improved_qn_po_for_mpc_in_rl](https://github.com/deanbrandner/ecc24_tr_improved_qn_po_for_mpc_in_rl)|
 |[difflight: a partial rewards conditioned diffusion model for traffic signal control with missing data](https://arxiv.org/abs/2410.22938)|[DiffLight-release](https://github.com/lokol5579/DiffLight-release)|
 |[advancing free-space optical communication system architecture: performance analysis of varied optical ground station network configurations](https://arxiv.org/abs/2410.23470)|[fso-simulation](https://github.com/connor-a-casey/fso-simulation)|
-|[towards generative ray path sampling for faster point-to-point ray tracing](https://arxiv.org/abs/2410.23773)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
+|[a peaceman-rachford splitting approach with deep equilibrium network for channel estimation](https://arxiv.org/abs/2410.23752)|[PR-DEN](https://github.com/wushitong1234/PR-DEN)|
+|[carbon neutral greenhouse: economic model predictive control framework for education](https://arxiv.org/abs/2410.23793)|[ecompc-greenhouse-platform](https://github.com/MarekWadinger/ecompc-greenhouse-platform)|
+|[generative ai-powered plugin for robust federated learning in heterogeneous iot networks](https://arxiv.org/abs/2410.23824)|[gaudi-fl](https://github.com/NAVER-INTEL-Co-Lab/gaudi-fl)|
 |[scalable kernel inverse optimization](https://arxiv.org/abs/2410.23952)|[Scalable-Kernel-Inverse-Optimization](https://github.com/Longyouyuan/Scalable-Kernel-Inverse-Optimization)|
+|[cough-e: a multimodal, privacy-preserving cough detection algorithm for the edge](https://arxiv.org/abs/2410.24066)|[Cough-E](https://github.com/esl-epfl/Cough-E)|
+|[derivative-free data-driven control of continuous-time linear time-invariant systems](https://arxiv.org/abs/2410.24167)|[continuous-time_data-driven_control](https://github.com/impact4mech/continuous-time_data-driven_control)|
+|[a new broadcast primitive for bft protocols](https://arxiv.org/abs/2410.22080)|[ic](https://github.com/dfinity/ic)|
+|[computation with quantum reed-muller codes and their mapping onto 2d atom arrays](https://arxiv.org/abs/2410.23263)|[RM127](https://github.com/gongaa/RM127)|
 ## 2024-10-31
 |paper|code|
 |---|---|
@@ -25,10 +53,12 @@
 |[spgesture: source-free domain-adaptive semg-based gesture recognition with jaccard attentive spiking neural network](https://arxiv.org/abs/2405.14398)|[spgesture](https://github.com/guoweiyu/spgesture)|
 |[gaussian process-based online health monitoring and fault analysis of lithium-ion battery systems from field data](https://arxiv.org/abs/2406.19015)|[battgp](https://github.com/joachimschaeffer/battgp)|
 |[reachability analysis for black-box dynamical systems](https://arxiv.org/abs/2410.07796)|[blackbox_reachability](https://github.com/sia-lab-git/blackbox_reachability)|
+|[pc-gym: benchmark environments for process control problems](https://arxiv.org/abs/2410.22093)|[pc-gym](https://github.com/maximilianb2/pc-gym)|
 |[unfolding target detection with state space model](https://arxiv.org/abs/2410.22774)|[neurodet](https://github.com/aiot-lab/neurodet)|
 |[dynamic threshold-based two-layer online unsupervised anomaly detector](https://arxiv.org/abs/2410.22967)|[adaptive-nad](https://github.com/mylearncodespace/adaptive-nad)|
 |[v2x-assisted distributed computing and control framework for connected and automated vehicles under ramp merging scenario](https://arxiv.org/abs/2410.22987)|[v2x-assisted-distributed-computing-and-control-framework-for-connected-and-automated-vehicles](https://github.com/qiongwu86/v2x-assisted-distributed-computing-and-control-framework-for-connected-and-automated-vehicles)|
 |[large language model-driven curriculum design for mobile networks](https://arxiv.org/abs/2405.18039)|[LLM-CL](https://github.com/OmarErak/LLM-CL)|
+|[bbr fairness evaluation using ns-3](https://arxiv.org/abs/2410.22560)|[ns3-bbr](https://github.com/tljk/ns3-bbr)|
 |[contrastive learning and adversarial disentanglement for privacy-preserving task-oriented semantic communications](https://arxiv.org/abs/2410.22784)|[clad](https://github.com/omarerak/clad)|
 |[generalization bounds via conditional $f$-information](https://arxiv.org/abs/2410.22887)|[Conditional-f-Information-Bound](https://github.com/ZiqiaoWangGeothe/Conditional-f-Information-Bound)|
 |[towards constraint-aware learning for resource allocation in nfv-enabled networks](https://arxiv.org/abs/2410.22999)|[conal-vne](https://github.com/GeminiLight/conal-vne)|
