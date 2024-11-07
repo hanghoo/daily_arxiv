@@ -1,3 +1,13 @@
+## 2024-11-06
+|paper|code|
+|---|---|
+|[learning lyapunov-stable polynomial dynamical systems through imitation](https://arxiv.org/abs/2310.20605)|[stable-imitation-policy](https://github.com/aminabyaneh/stable-imitation-policy)|
+|[a framework for real-time volcano-seismic event recognition based on multi-station seismograms and semantic segmentation models](https://arxiv.org/abs/2410.20595)|[volcano-seismic-segmentation](https://github.com/camilo-espinosa/volcano-seismic-segmentation)|
+|[filternet: harnessing frequency filters for time series forecasting](https://arxiv.org/abs/2411.01623)|[filternet](https://github.com/aikunyi/filternet)|
+|[layer-adaptive state pruning for deep state space models](https://arxiv.org/abs/2411.02824)|[last](https://github.com/msgwak/last)|
+|[data-driven sampling based stochastic mpc for skid-steer mobile robot navigation](https://arxiv.org/abs/2411.03289)|[Stochastic-MPPI](https://github.com/RIVeR-Lab/Stochastic-MPPI)|
+|[teleoracle: fine-tuned retrieval-augmented generation with long-context support for network](https://arxiv.org/abs/2411.02617)|[oKUmura_AI_Telecom_challenge](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)|
+|[conditional vendi score: an information-theoretic approach to diversity evaluation of prompt-based generative models](https://arxiv.org/abs/2411.02817)|[conditional-vendi](https://github.com/mjalali/conditional-vendi)|
 ## 2024-11-05
 |paper|code|
 |---|---|
@@ -14,6 +24,7 @@
 |[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
 |[enhancing glucose level prediction of icu patients through irregular time-series analysis and integrated representation](https://arxiv.org/abs/2411.01418)|[MITST](https://github.com/zavareh89/MITST)|
 |[risk-sensitive control as inference with r\'enyi divergence](https://arxiv.org/abs/2411.01827)|[risk-sensitive-sac](https://github.com/kaito-1111/risk-sensitive-sac)|
+|[learning multiple initial solutions to optimization problems](https://arxiv.org/abs/2411.02158)|[miso](https://github.com/EladSharony/miso)|
 |[towards safe bayesian optimization with wiener kernel regression](https://arxiv.org/abs/2411.02253)|[SafeBO_WKR](https://github.com/OptCon/SafeBO_WKR)|
 |[controlsynth neural odes: modeling dynamical systems with guaranteed convergence](https://arxiv.org/abs/2411.02292)|[controlsynth-neural-ode](https://github.com/continuumcoder/controlsynth-neural-ode)|
 |[llm honeypot: leveraging large language models as advanced interactive honeypot systems](https://arxiv.org/abs/2409.08234)|[llm-honeypot](https://github.com/ai-in-complex-systems-lab/llm-honeypot)|
