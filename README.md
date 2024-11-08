@@ -1,3 +1,12 @@
+## 2024-11-07
+|paper|code|
+|---|---|
+|[r-nerf: neural radiance fields for modeling ris-enabled wireless environments](https://arxiv.org/abs/2405.11541)|[R-NeRF](https://github.com/HUSTGSNeRF/R-NeRF)|
+|[a safe and data-efficient model-based reinforcement learning system for hvac control](https://arxiv.org/abs/2407.12195)|[CLUE](https://github.com/ryeii/CLUE)|
+|[the bouc-wen model for binary direct collinear collisions of convex viscoplastic bodies](https://arxiv.org/abs/2410.08147)|[bwbcl](https://gitlab.com/user9716869/bwbcl)|
+|[optimal planning for heterogeneous autonomous teams with precedence and compatibility constraints and its application on power grid inspection with unmanned aerial vehicles](https://arxiv.org/abs/2410.20849)|[smart--flies](https://github.com/asojogrvc/smart--flies)|
+|[adversarial attacks on neural networks through canonical riemannian foliations](https://arxiv.org/abs/2203.00922)|[curvnetattack](https://github.com/eliot-tron/curvnetattack)|
+|[an open api architecture to discover the trustworthy explanation of cloud ai services](https://arxiv.org/abs/2411.03376)|[xai-service](https://github.com/zeruiw/xai-service)|
 ## 2024-11-06
 |paper|code|
 |---|---|
