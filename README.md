@@ -1,3 +1,12 @@
+## 2024-11-08
+|paper|code|
+|---|---|
+|[robust low-cost drone detection and classification in low snr environments](https://arxiv.org/abs/2406.18624)|[noisy-drone-rf-signal-classification-v2](https://github.com/sgluege/noisy-drone-rf-signal-classification-v2)|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[advancing free-space optical communication system architecture: performance analysis of varied optical ground station network configurations](https://arxiv.org/abs/2410.23470)|[fso-simulation](https://github.com/connor-a-casey/fso-simulation)|
+|[higher-order gnns meet efficiency: sparse sobolev graph neural networks](https://arxiv.org/abs/2411.04570)|[S2-GNN](https://github.com/jhonygiraldo/S2-GNN)|
+|[semantic-aware resource management for c-v2x platooning via multi-agent reinforcement learning](https://arxiv.org/abs/2411.04672)|[semantic-aware-resource-management-for-c-v2x-platooning-via-multi-agent-reinforcement-learning](https://github.com/qiongwu86/semantic-aware-resource-management-for-c-v2x-platooning-via-multi-agent-reinforcement-learning)|
+|[combinatorial client-master multiagent deep reinforcement learning for task offloading in mobile edge computing](https://arxiv.org/abs/2402.11653)|[ccm_madrl_mec](https://github.com/tesfayz/ccm_madrl_mec)|
 ## 2024-11-07
 |paper|code|
 |---|---|
@@ -7,6 +16,7 @@
 |[optimal planning for heterogeneous autonomous teams with precedence and compatibility constraints and its application on power grid inspection with unmanned aerial vehicles](https://arxiv.org/abs/2410.20849)|[smart--flies](https://github.com/asojogrvc/smart--flies)|
 |[adversarial attacks on neural networks through canonical riemannian foliations](https://arxiv.org/abs/2203.00922)|[curvnetattack](https://github.com/eliot-tron/curvnetattack)|
 |[an open api architecture to discover the trustworthy explanation of cloud ai services](https://arxiv.org/abs/2411.03376)|[xai-service](https://github.com/zeruiw/xai-service)|
+|[soft reverse reconciliation for discrete modulations](https://arxiv.org/abs/2411.04063)|[qam-reconciliation](https://github.com/moriglia/qam-reconciliation)|
 ## 2024-11-06
 |paper|code|
 |---|---|
