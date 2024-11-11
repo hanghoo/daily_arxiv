@@ -14,17 +14,22 @@
 |[a safe and data-efficient model-based reinforcement learning system for hvac control](https://arxiv.org/abs/2407.12195)|[CLUE](https://github.com/ryeii/CLUE)|
 |[the bouc-wen model for binary direct collinear collisions of convex viscoplastic bodies](https://arxiv.org/abs/2410.08147)|[bwbcl](https://gitlab.com/user9716869/bwbcl)|
 |[optimal planning for heterogeneous autonomous teams with precedence and compatibility constraints and its application on power grid inspection with unmanned aerial vehicles](https://arxiv.org/abs/2410.20849)|[smart--flies](https://github.com/asojogrvc/smart--flies)|
+|[design and control of a robotic payload stabilization mechanism for rocket flights](https://arxiv.org/abs/2411.04046)|[stewie-robot](https://github.com/utkarshanand140/stewie-robot)|
 |[adversarial attacks on neural networks through canonical riemannian foliations](https://arxiv.org/abs/2203.00922)|[curvnetattack](https://github.com/eliot-tron/curvnetattack)|
 |[an open api architecture to discover the trustworthy explanation of cloud ai services](https://arxiv.org/abs/2411.03376)|[xai-service](https://github.com/zeruiw/xai-service)|
+|[towards entropic constraints on quantum speedups](https://arxiv.org/abs/2411.03439)|[QI_Research](https://github.com/DylanJVA/QI_Research)|
 |[soft reverse reconciliation for discrete modulations](https://arxiv.org/abs/2411.04063)|[qam-reconciliation](https://github.com/moriglia/qam-reconciliation)|
+|[learned codes for broadcast channels with feedback](https://arxiv.org/abs/2411.04083)|[gbcf](https://github.com/zyy-cc/gbcf)|
 ## 2024-11-06
 |paper|code|
 |---|---|
 |[learning lyapunov-stable polynomial dynamical systems through imitation](https://arxiv.org/abs/2310.20605)|[stable-imitation-policy](https://github.com/aminabyaneh/stable-imitation-policy)|
 |[a framework for real-time volcano-seismic event recognition based on multi-station seismograms and semantic segmentation models](https://arxiv.org/abs/2410.20595)|[volcano-seismic-segmentation](https://github.com/camilo-espinosa/volcano-seismic-segmentation)|
 |[filternet: harnessing frequency filters for time series forecasting](https://arxiv.org/abs/2411.01623)|[filternet](https://github.com/aikunyi/filternet)|
+|[nmformer: a transformer for noisy modulation classification in wireless communication](https://arxiv.org/abs/2411.02428)|[NMformer](https://github.com/atik666/NMformer)|
 |[layer-adaptive state pruning for deep state space models](https://arxiv.org/abs/2411.02824)|[last](https://github.com/msgwak/last)|
 |[data-driven sampling based stochastic mpc for skid-steer mobile robot navigation](https://arxiv.org/abs/2411.03289)|[Stochastic-MPPI](https://github.com/RIVeR-Lab/Stochastic-MPPI)|
+|[data matters: the case of predicting mobile cellular traffic](https://arxiv.org/abs/2411.02418)|[datamatters](https://github.com/nvassileva/datamatters)|
 |[teleoracle: fine-tuned retrieval-augmented generation with long-context support for network](https://arxiv.org/abs/2411.02617)|[oKUmura_AI_Telecom_challenge](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)|
 |[conditional vendi score: an information-theoretic approach to diversity evaluation of prompt-based generative models](https://arxiv.org/abs/2411.02817)|[conditional-vendi](https://github.com/mjalali/conditional-vendi)|
 ## 2024-11-05
@@ -43,7 +48,10 @@
 |[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
 |[enhancing glucose level prediction of icu patients through irregular time-series analysis and integrated representation](https://arxiv.org/abs/2411.01418)|[MITST](https://github.com/zavareh89/MITST)|
 |[risk-sensitive control as inference with r\'enyi divergence](https://arxiv.org/abs/2411.01827)|[risk-sensitive-sac](https://github.com/kaito-1111/risk-sensitive-sac)|
+|[multimodal trustworthy semantic communication for audio-visual event localization](https://arxiv.org/abs/2411.01991)|[MU_SC_for_VQA](https://github.com/dimlight13/MU_SC_for_VQA)|
+|[ai-ready energy modelling for next generation ran](https://arxiv.org/abs/2411.02135)|[AIMM-simulator](https://github.com/keithbriggs/AIMM-simulator)|
 |[learning multiple initial solutions to optimization problems](https://arxiv.org/abs/2411.02158)|[miso](https://github.com/EladSharony/miso)|
+|[energy-aware coverage planning for heterogeneous multi-robot system](https://arxiv.org/abs/2411.02230)|[energy-aware-coverage](https://github.com/herolab-uga/energy-aware-coverage)|
 |[towards safe bayesian optimization with wiener kernel regression](https://arxiv.org/abs/2411.02253)|[SafeBO_WKR](https://github.com/OptCon/SafeBO_WKR)|
 |[controlsynth neural odes: modeling dynamical systems with guaranteed convergence](https://arxiv.org/abs/2411.02292)|[controlsynth-neural-ode](https://github.com/continuumcoder/controlsynth-neural-ode)|
 |[llm honeypot: leveraging large language models as advanced interactive honeypot systems](https://arxiv.org/abs/2409.08234)|[llm-honeypot](https://github.com/ai-in-complex-systems-lab/llm-honeypot)|
