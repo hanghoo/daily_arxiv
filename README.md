@@ -1,3 +1,13 @@
+## 2024-11-11
+|paper|code|
+|---|---|
+|[pan-tompkins++: a robust approach to detect r-peaks in ecg signals](https://arxiv.org/abs/2211.03171)|[Pan-Tompkins-Plus-Plus](https://github.com/Niaz-Imtiaz/Pan-Tompkins-Plus-Plus)|
+|[csm-h-r: a context modeling framework in supporting reasoning automation for interoperable intelligent systems and privacy protection](https://arxiv.org/abs/2308.11066)|[csm-h-r](https://github.com/songhui01/csm-h-r)|
+|[entropy-regularized diffusion policy with q-ensembles for offline reinforcement learning](https://arxiv.org/abs/2402.04080)|[entropy-offlineRL](https://github.com/ruoqizzz/entropy-offlineRL)|
+|[comparative analysis of nmpc and fuzzy pid controllers for trajectory tracking in omni-drive robots: design, simulation, and performance evaluation](https://arxiv.org/abs/2403.06744)|[omni-drive-robot-simulation](https://github.com/love481/omni-drive-robot-simulation)|
+|[unmasking the role of remote sensors in comfort, energy and demand response](https://arxiv.org/abs/2404.15368)|[sensors4singlezonesystems](https://github.com/inferlab/sensors4singlezonesystems)|
+|[csi-gpt: integrating generative pre-trained transformer with federated-tuning to acquire downlink massive mimo channels](https://arxiv.org/abs/2406.03438)|[csi-gpt](https://github.com/bit-zy/csi-gpt)|
+|[exploiting the structure of two graphs with graph neural networks](https://arxiv.org/abs/2411.05119)|[io-gnn](https://github.com/vmtenorio/io-gnn)|
 ## 2024-11-08
 |paper|code|
 |---|---|
@@ -12,7 +22,6 @@
 |---|---|
 |[r-nerf: neural radiance fields for modeling ris-enabled wireless environments](https://arxiv.org/abs/2405.11541)|[R-NeRF](https://github.com/HUSTGSNeRF/R-NeRF)|
 |[a safe and data-efficient model-based reinforcement learning system for hvac control](https://arxiv.org/abs/2407.12195)|[CLUE](https://github.com/ryeii/CLUE)|
-|[the bouc-wen model for binary direct collinear collisions of convex viscoplastic bodies](https://arxiv.org/abs/2410.08147)|[bwbcl](https://gitlab.com/user9716869/bwbcl)|
 |[optimal planning for heterogeneous autonomous teams with precedence and compatibility constraints and its application on power grid inspection with unmanned aerial vehicles](https://arxiv.org/abs/2410.20849)|[smart--flies](https://github.com/asojogrvc/smart--flies)|
 |[design and control of a robotic payload stabilization mechanism for rocket flights](https://arxiv.org/abs/2411.04046)|[stewie-robot](https://github.com/utkarshanand140/stewie-robot)|
 |[adversarial attacks on neural networks through canonical riemannian foliations](https://arxiv.org/abs/2203.00922)|[curvnetattack](https://github.com/eliot-tron/curvnetattack)|
