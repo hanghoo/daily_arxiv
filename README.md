@@ -1,3 +1,24 @@
+## 2024-11-12
+|paper|code|
+|---|---|
+|[deep riemannian networks for end-to-end eeg decoding](https://arxiv.org/abs/2212.10426)|[eegspdnet](https://github.com/dcwil/eegspdnet)|
+|[orchestration framework for open system models with autonomous riss and oblivious base stations](https://arxiv.org/abs/2304.10858)|[self-configuring-orchestration](https://github.com/victorcroisfelt/self-configuring-orchestration)|
+|[mutual information estimation via $f$-divergence and data derangements](https://arxiv.org/abs/2305.20025)|[fdime](https://github.com/tonellolab/fdime)|
+|[sigma-point kalman filter with nonlinear unknown input estimation via optimization and data-driven approach for dynamic systems](https://arxiv.org/abs/2306.12361)|[SPKF-nUI](https://github.com/ljun0004/SPKF-nUI)|
+|[reinforcement learning-based receding horizon control using adaptive control barrier functions for safety-critical systems](https://arxiv.org/abs/2403.17338)|[cdc2024_rl_adpative_mpc_cbf](https://github.com/ehsansabouni/cdc2024_rl_adpative_mpc_cbf)|
+|[$\mathsf{quito}$ $\textsf{v.2}$: trajectory optimization with uniform error guarantees under path constraints](https://arxiv.org/abs/2404.13681)|[quitov2](https://github.com/chatterjee-d/quitov2)|
+|[magnetic hysteresis modeling with neural operators](https://arxiv.org/abs/2407.03261)|[magnetic_hysteresis_neural_operator](https://github.com/chandratue/magnetic_hysteresis_neural_operator)|
+|[multi-scale cell decomposition for path planning using restrictive routing potential fields](https://arxiv.org/abs/2408.02786)|[Larp](https://github.com/wzjoriv/Larp)|
+|[radiodiff: an effective generative diffusion model for sampling-free dynamic radio map construction](https://arxiv.org/abs/2408.08593)|[radiodiff](https://github.com/unic-lab/radiodiff)|
+|[force-limited control of wave energy converters using a describing function linearization](https://arxiv.org/abs/2409.02408)|[IFAC_CAMS_2024](https://github.com/symbiotic-engineering/IFAC_CAMS_2024)|
+|[glinsat: the general linear satisfiability neural network layer by accelerated gradient descent](https://arxiv.org/abs/2409.17500)|[glinsat](https://github.com/huntertracer/glinsat)|
+|[the bouc-wen model for binary direct collinear collisions of convex viscoplastic bodies](https://arxiv.org/abs/2410.08147)|[bwbcl](https://gitlab.com/user9716869/bwbcl)|
+|[receding hamiltonian-informed optimal neural control and state estimation for closed-loop dynamical systems](https://arxiv.org/abs/2411.01297)|[Hion](https://github.com/wzjoriv/Hion)|
+|[fitting multiple machine learning models with performance based clustering](https://arxiv.org/abs/2411.06572)|[function-clustering](https://github.com/mefe06/function-clustering)|
+|[ultra-marginal feature importance: learning from data with causal guarantees](https://arxiv.org/abs/2204.09938)|[umfi](https://github.com/hydroml/umfi)|
+|[universal exact compression of differentially private mechanisms](https://arxiv.org/abs/2405.20782)|[poissonprivaterepr](https://github.com/cheuktingli/poissonprivaterepr)|
+|[f-kans: federated kolmogorov-arnold networks](https://arxiv.org/abs/2407.20100)|[F-KANs](https://github.com/ezeydan/F-KANs)|
+|[understanding the role of equivariance in self-supervised learning](https://arxiv.org/abs/2411.06508)|[understanding-essl](https://github.com/kaotty/understanding-essl)|
 ## 2024-11-11
 |paper|code|
 |---|---|
@@ -8,18 +29,25 @@
 |[unmasking the role of remote sensors in comfort, energy and demand response](https://arxiv.org/abs/2404.15368)|[sensors4singlezonesystems](https://github.com/inferlab/sensors4singlezonesystems)|
 |[csi-gpt: integrating generative pre-trained transformer with federated-tuning to acquire downlink massive mimo channels](https://arxiv.org/abs/2406.03438)|[csi-gpt](https://github.com/bit-zy/csi-gpt)|
 |[exploiting the structure of two graphs with graph neural networks](https://arxiv.org/abs/2411.05119)|[io-gnn](https://github.com/vmtenorio/io-gnn)|
+|[tangled program graphs as an alternative to drl-based control algorithms for uavs](https://arxiv.org/abs/2411.05586)|[drone_forest](https://github.com/vision-agh/drone_forest)|
+|[zipnn: lossless compression for ai models](https://arxiv.org/abs/2411.05239)|[zipnn](https://github.com/zipnn/zipnn)|
+|[trade: network and traffic-aware adaptive scheduling for microservices under dynamics](https://arxiv.org/abs/2411.05323)|[trade](https://github.com/mingchen-github/trade)|
 ## 2024-11-08
 |paper|code|
 |---|---|
 |[robust low-cost drone detection and classification in low snr environments](https://arxiv.org/abs/2406.18624)|[noisy-drone-rf-signal-classification-v2](https://github.com/sgluege/noisy-drone-rf-signal-classification-v2)|
 |[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
 |[advancing free-space optical communication system architecture: performance analysis of varied optical ground station network configurations](https://arxiv.org/abs/2410.23470)|[fso-simulation](https://github.com/connor-a-casey/fso-simulation)|
+|[convergence and robustness of value and policy iteration for the linear quadratic regulator](https://arxiv.org/abs/2411.04548)|[2024-ConvergenceRobustness-VIPI](https://github.com/col-tasas/2024-ConvergenceRobustness-VIPI)|
 |[higher-order gnns meet efficiency: sparse sobolev graph neural networks](https://arxiv.org/abs/2411.04570)|[S2-GNN](https://github.com/jhonygiraldo/S2-GNN)|
 |[semantic-aware resource management for c-v2x platooning via multi-agent reinforcement learning](https://arxiv.org/abs/2411.04672)|[semantic-aware-resource-management-for-c-v2x-platooning-via-multi-agent-reinforcement-learning](https://github.com/qiongwu86/semantic-aware-resource-management-for-c-v2x-platooning-via-multi-agent-reinforcement-learning)|
+|[efficient channel estimation with shorter pilots in ris-aided communications: using array geometries and interference statistics](https://arxiv.org/abs/2411.04753)|[RIS-shorter-pilots](https://github.com/ozlemtugfedemir/RIS-shorter-pilots)|
 |[combinatorial client-master multiagent deep reinforcement learning for task offloading in mobile edge computing](https://arxiv.org/abs/2402.11653)|[ccm_madrl_mec](https://github.com/tesfayz/ccm_madrl_mec)|
+|[networkgym: reinforcement learning environments for multi-access traffic management in network simulation](https://arxiv.org/abs/2411.04138)|[networkgym](https://github.com/hmomin/networkgym)|
 ## 2024-11-07
 |paper|code|
 |---|---|
+|[reconfigurable massive mimo: precoding design and channel estimation in the electromagnetic domain](https://arxiv.org/abs/2405.02823)|[pra](https://github.com/kekeyingbit/pra)|
 |[r-nerf: neural radiance fields for modeling ris-enabled wireless environments](https://arxiv.org/abs/2405.11541)|[R-NeRF](https://github.com/HUSTGSNeRF/R-NeRF)|
 |[a safe and data-efficient model-based reinforcement learning system for hvac control](https://arxiv.org/abs/2407.12195)|[CLUE](https://github.com/ryeii/CLUE)|
 |[optimal planning for heterogeneous autonomous teams with precedence and compatibility constraints and its application on power grid inspection with unmanned aerial vehicles](https://arxiv.org/abs/2410.20849)|[smart--flies](https://github.com/asojogrvc/smart--flies)|
