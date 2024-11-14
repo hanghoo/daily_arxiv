@@ -1,3 +1,14 @@
+## 2024-11-13
+|paper|code|
+|---|---|
+|[a deep recurrent-reinforcement learning method for intelligent autoscaling of serverless functions](https://arxiv.org/abs/2308.05937)|[dre-scale](https://github.com/cloudslab/dre-scale)|
+|[physics-enhanced graph neural networks for soft sensing in industrial internet of things](https://arxiv.org/abs/2404.08061)|[PEGNN_SS](https://github.com/EPFL-IMOS/PEGNN_SS)|
+|[compact model parameter extraction via derivative-free optimization](https://arxiv.org/abs/2406.16355)|[dfo_parameter_extraction](https://github.com/rafapm/dfo_parameter_extraction)|
+|[marine spatial planning techniques with a case study on wave-powered offshore aquaculture farms](https://arxiv.org/abs/2410.11926)|[aquaculture](https://github.com/symbiotic-engineering/aquaculture)|
+|[optimal control of mechanical ventilators with learned respiratory dynamics](https://arxiv.org/abs/2411.07971)|[ventilators](https://github.com/sisl/ventilators)|
+|[rifo: pushing the efficiency of programmable packet schedulers](https://arxiv.org/abs/2308.07442)|[rifo](https://github.com/mostafaei/rifo)|
+|[model reconstruction using counterfactual explanations: a perspective from polytope theory](https://arxiv.org/abs/2405.05369)|[model-reconstruction-using-counterfactuals](https://github.com/pasandissanayake/model-reconstruction-using-counterfactuals)|
+|[xdevsm: streamlining xapp development with a flexible framework for o-ran e2 service models](https://arxiv.org/abs/2409.16754)|[xdevsm](https://github.com/wineslab/xdevsm)|
 ## 2024-11-12
 |paper|code|
 |---|---|
@@ -29,6 +40,7 @@
 |[unmasking the role of remote sensors in comfort, energy and demand response](https://arxiv.org/abs/2404.15368)|[sensors4singlezonesystems](https://github.com/inferlab/sensors4singlezonesystems)|
 |[csi-gpt: integrating generative pre-trained transformer with federated-tuning to acquire downlink massive mimo channels](https://arxiv.org/abs/2406.03438)|[csi-gpt](https://github.com/bit-zy/csi-gpt)|
 |[exploiting the structure of two graphs with graph neural networks](https://arxiv.org/abs/2411.05119)|[io-gnn](https://github.com/vmtenorio/io-gnn)|
+|[analysing control-theoretic properties of nonlinear synthetic biology circuits](https://arxiv.org/abs/2411.05450)|[nlcontrollability](https://github.com/afvillaverde/nlcontrollability)|
 |[tangled program graphs as an alternative to drl-based control algorithms for uavs](https://arxiv.org/abs/2411.05586)|[drone_forest](https://github.com/vision-agh/drone_forest)|
 |[zipnn: lossless compression for ai models](https://arxiv.org/abs/2411.05239)|[zipnn](https://github.com/zipnn/zipnn)|
 |[trade: network and traffic-aware adaptive scheduling for microservices under dynamics](https://arxiv.org/abs/2411.05323)|[trade](https://github.com/mingchen-github/trade)|
