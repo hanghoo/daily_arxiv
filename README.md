@@ -1,3 +1,12 @@
+## 2024-11-15
+|paper|code|
+|---|---|
+|[learning-based model augmentation with lfrs](https://arxiv.org/abs/2404.01901)|[model-augmentation-public](https://github.com/mixxxxx358/model-augmentation-public)|
+|[large language models for power scheduling: a user-centric approach](https://arxiv.org/abs/2407.00476)|[llm-power-scheduling](https://github.com/thomasmong/llm-power-scheduling)|
+|[single-channel electroencephalography decomposition by detector-atom network and its pre-trained model](https://arxiv.org/abs/2408.02185)|[detector-atom-net](https://github.com/hgshrs/detector-atom-net)|
+|[learning-based control barrier function with provably safe guarantees: reducing conservatism with heading-aware safety margin](https://arxiv.org/abs/2411.08999)|[sigmarl](https://github.com/bassamlab/sigmarl)|
+|[outsourcing control requires control complexity](https://arxiv.org/abs/2209.01418)|[learningrequiresintinf](https://github.com/carlottalanger/learningrequiresintinf)|
+|[information-driven design of imaging systems](https://arxiv.org/abs/2405.20559)|[encodinginformation](https://github.com/waller-lab/encodinginformation)|
 ## 2024-11-14
 |paper|code|
 |---|---|
@@ -6,6 +15,7 @@
 |[gradient networks](https://arxiv.org/abs/2404.07361)|[gradientnetworks](https://github.com/spronav/gradientnetworks)|
 |[a deep automotive radar detector using the radelft dataset](https://arxiv.org/abs/2406.04723)|[RaDelft-Dataset](https://github.com/RaDelft/RaDelft-Dataset)|
 |[inferring directed spectral information flow between mixed-frequency time series](https://arxiv.org/abs/2408.06109)|[mf-tfcca](https://github.com/qiqixian/mf-tfcca)|
+|[recommender systems and reinforcement learning for building control and occupant interaction: a text-mining driven review of scientific literature](https://arxiv.org/abs/2411.08734)|[recommender-sys-for-buildings-textmining-review](https://github.com/buds-lab/recommender-sys-for-buildings-textmining-review)|
 |[explainable enrichment-driven graph reasoner (edgar) for large knowledge graphs with applications in drug repurposing](https://arxiv.org/abs/2409.18659)|[edgar](https://github.com/ranking-agent/edgar)|
 ## 2024-11-13
 |paper|code|
@@ -14,6 +24,10 @@
 |[physics-enhanced graph neural networks for soft sensing in industrial internet of things](https://arxiv.org/abs/2404.08061)|[PEGNN_SS](https://github.com/EPFL-IMOS/PEGNN_SS)|
 |[compact model parameter extraction via derivative-free optimization](https://arxiv.org/abs/2406.16355)|[dfo_parameter_extraction](https://github.com/rafapm/dfo_parameter_extraction)|
 |[marine spatial planning techniques with a case study on wave-powered offshore aquaculture farms](https://arxiv.org/abs/2410.11926)|[aquaculture](https://github.com/symbiotic-engineering/aquaculture)|
+|[efficient and robust freeway traffic speed estimation under oblique grid using vehicle trajectory data](https://arxiv.org/abs/2411.05842)|[TW-LSMC](https://github.com/heyang49/TW-LSMC)|
+|[electricityemissions.jl: a framework for the comparison of carbon intensity signals](https://arxiv.org/abs/2411.06560)|[electricityemissions.jl](https://github.com/wispo-pop/electricityemissions.jl)|
+|[soundsil-ds: deep denoising and segmentation of sound-field images with silhouettes](https://arxiv.org/abs/2411.07517)|[soundsil-ds](https://github.com/nttcslab/soundsil-ds)|
+|[effects of charging and discharging capabilities on trade-offs between model accuracy and computational efficiency in pumped thermal electricity storage](https://arxiv.org/abs/2411.07805)|[genx](https://github.com/genxproject/genx)|
 |[optimal control of mechanical ventilators with learned respiratory dynamics](https://arxiv.org/abs/2411.07971)|[ventilators](https://github.com/sisl/ventilators)|
 |[rifo: pushing the efficiency of programmable packet schedulers](https://arxiv.org/abs/2308.07442)|[rifo](https://github.com/mostafaei/rifo)|
 |[model reconstruction using counterfactual explanations: a perspective from polytope theory](https://arxiv.org/abs/2405.05369)|[model-reconstruction-using-counterfactuals](https://github.com/pasandissanayake/model-reconstruction-using-counterfactuals)|
@@ -34,7 +48,9 @@
 |[glinsat: the general linear satisfiability neural network layer by accelerated gradient descent](https://arxiv.org/abs/2409.17500)|[glinsat](https://github.com/huntertracer/glinsat)|
 |[the bouc-wen model for binary direct collinear collisions of convex viscoplastic bodies](https://arxiv.org/abs/2410.08147)|[bwbcl](https://gitlab.com/user9716869/bwbcl)|
 |[receding hamiltonian-informed optimal neural control and state estimation for closed-loop dynamical systems](https://arxiv.org/abs/2411.01297)|[Hion](https://github.com/wzjoriv/Hion)|
+|[modeling nonlinear oscillator networks using physics-informed hybrid reservoir computing](https://arxiv.org/abs/2411.05867)|[hybrid_rc_for_nlons_paper_code](https://github.com/ajs50/hybrid_rc_for_nlons_paper_code)|
 |[fitting multiple machine learning models with performance based clustering](https://arxiv.org/abs/2411.06572)|[function-clustering](https://github.com/mefe06/function-clustering)|
+|[deepcrf: deep learning-enhanced csi-based rf fingerprinting for channel-resilient wifi device identification](https://arxiv.org/abs/2411.06925)|[DeepCRF_TIFS](https://github.com/Oriseven/DeepCRF_TIFS)|
 |[ultra-marginal feature importance: learning from data with causal guarantees](https://arxiv.org/abs/2204.09938)|[umfi](https://github.com/hydroml/umfi)|
 |[universal exact compression of differentially private mechanisms](https://arxiv.org/abs/2405.20782)|[poissonprivaterepr](https://github.com/cheuktingli/poissonprivaterepr)|
 |[f-kans: federated kolmogorov-arnold networks](https://arxiv.org/abs/2407.20100)|[F-KANs](https://github.com/ezeydan/F-KANs)|
@@ -51,6 +67,7 @@
 |[exploiting the structure of two graphs with graph neural networks](https://arxiv.org/abs/2411.05119)|[io-gnn](https://github.com/vmtenorio/io-gnn)|
 |[analysing control-theoretic properties of nonlinear synthetic biology circuits](https://arxiv.org/abs/2411.05450)|[nlcontrollability](https://github.com/afvillaverde/nlcontrollability)|
 |[tangled program graphs as an alternative to drl-based control algorithms for uavs](https://arxiv.org/abs/2411.05586)|[drone_forest](https://github.com/vision-agh/drone_forest)|
+|[large problems are not necessarily hard: a case study on distributed nmpc paying off](https://arxiv.org/abs/2411.05627)|[dmpc_scalability](https://github.com/optcon/dmpc_scalability)|
 |[zipnn: lossless compression for ai models](https://arxiv.org/abs/2411.05239)|[zipnn](https://github.com/zipnn/zipnn)|
 |[trade: network and traffic-aware adaptive scheduling for microservices under dynamics](https://arxiv.org/abs/2411.05323)|[trade](https://github.com/mingchen-github/trade)|
 ## 2024-11-08
