@@ -16,7 +16,9 @@
 |[a deep automotive radar detector using the radelft dataset](https://arxiv.org/abs/2406.04723)|[RaDelft-Dataset](https://github.com/RaDelft/RaDelft-Dataset)|
 |[inferring directed spectral information flow between mixed-frequency time series](https://arxiv.org/abs/2408.06109)|[mf-tfcca](https://github.com/qiqixian/mf-tfcca)|
 |[recommender systems and reinforcement learning for building control and occupant interaction: a text-mining driven review of scientific literature](https://arxiv.org/abs/2411.08734)|[recommender-sys-for-buildings-textmining-review](https://github.com/buds-lab/recommender-sys-for-buildings-textmining-review)|
+|[large wireless model (lwm): a foundation model for wireless channels](https://arxiv.org/abs/2411.08872)|[lwm](https://huggingface.co/wi-lab/lwm)|
 |[explainable enrichment-driven graph reasoner (edgar) for large knowledge graphs with applications in drug repurposing](https://arxiv.org/abs/2409.18659)|[edgar](https://github.com/ranking-agent/edgar)|
+|[variable-length feedback codes via deep learning](https://arxiv.org/abs/2411.08481)|[DeepVLF](https://github.com/lynshao/DeepVLF)|
 ## 2024-11-13
 |paper|code|
 |---|---|
