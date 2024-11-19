@@ -1,3 +1,12 @@
+## 2024-11-18
+|paper|code|
+|---|---|
+|[pricing for multi-modal pickup and delivery problems with heterogeneous users](https://arxiv.org/abs/2303.10253)|[mdrp](https://github.com/mbeliaev1/mdrp)|
+|[boosted neural decoders: achieving extreme reliability of ldpc codes for 6g networks](https://arxiv.org/abs/2405.13413)|[ldpc_error_floor](https://github.com/ghy1228/ldpc_error_floor)|
+|[analyzing electric vehicle, load and photovoltaic generation uncertainty using publicly available datasets](https://arxiv.org/abs/2409.01284)|[Public-Load-profile-Datasets](https://github.com/umar-hashmi/Public-Load-profile-Datasets)|
+|[modelpredictivecontrol.jl: advanced process control made easy in julia](https://arxiv.org/abs/2411.09764)|[mpcPackageJulia.tex](https://github.com/franckgaga/mpcPackageJulia.tex)|
+|[a hybrid artificial intelligence system for automated eeg background analysis and report generation](https://arxiv.org/abs/2411.09874)|[ai_eeeg_report](https://github.com/tcs211/ai_eeeg_report)|
+|[efficient neural hybrid system learning and transition system abstraction for dynamical systems](https://arxiv.org/abs/2411.10240)|[Dual-Level-Dynamic-System-Modeling](https://github.com/aicpslab/Dual-Level-Dynamic-System-Modeling)|
 ## 2024-11-15
 |paper|code|
 |---|---|
