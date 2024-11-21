@@ -1,8 +1,13 @@
+## 2024-11-20
+|paper|code|
+|---|---|
+|[action-attentive deep reinforcement learning for autonomous alignment of beamlines](https://arxiv.org/abs/2411.12183)|[alignment_beamlines_rl](https://github.com/sygogo/alignment_beamlines_rl)|
+|[acing: actor-critic for instruction learning in black-box large language models](https://arxiv.org/abs/2411.12736)|[ACING](https://github.com/salmakh1/ACING)|
+|[learning personalized treatment decisions in precision medicine: disentangling treatment assignment bias in counterfactual outcome prediction and biomarker identification](https://arxiv.org/abs/2410.00509)|[selection-bias-benchmark](https://github.com/michavol/selection-bias-benchmark)|
 ## 2024-11-19
 |paper|code|
 |---|---|
 |[b-har: an open-source baseline framework for in depth study of human activity recognition datasets and workflows](https://arxiv.org/abs/2101.10870)|[B-HAR](https://github.com/B-HAR-HumanActivityRecognition/B-HAR)|
-|[flexibility of integrated power and gas systems: gas flow modeling and solution choices matter](https://arxiv.org/abs/2311.05744)|[optimalpowergasflowchoices](https://github.com/elma-github/optimalpowergasflowchoices)|
 |[supplygraph: a benchmark dataset for supply chain planning using graph neural networks](https://arxiv.org/abs/2401.15299)|[SupplyGraph](https://github.com/ciol-researchlab/SupplyGraph)|
 |[arnn: attentive recurrent neural network for multi-channel eeg signals to identify epileptic seizures](https://arxiv.org/abs/2403.03276)|[arnn](https://github.com/salim-lysiun/arnn)|
 |[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
