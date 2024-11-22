@@ -1,6 +1,12 @@
+## 2024-11-21
+|paper|code|
+|---|---|
+|[multipath mitigation technology-integrated gnss direct position estimation plug-in module](https://arxiv.org/abs/2411.13339)|[GPSL1-MMT-DPEmodule](https://github.com/Sergio-Vicenzo/GPSL1-MMT-DPEmodule)|
+|[drl-based optimization for aoi and energy consumption in c-v2x enabled iov](https://arxiv.org/abs/2411.13104)|[drl-based-optimization-for-information-of-age-and-energy-consumption-in-c-v2x-enabled-iov](https://github.com/qiongwu86/drl-based-optimization-for-information-of-age-and-energy-consumption-in-c-v2x-enabled-iov)|
 ## 2024-11-20
 |paper|code|
 |---|---|
+|[freezing of gait detection using gramian angular fields and federated learning from wearable sensors](https://arxiv.org/abs/2411.11764)|[fogsense](https://github.com/shovito66/fogsense)|
 |[action-attentive deep reinforcement learning for autonomous alignment of beamlines](https://arxiv.org/abs/2411.12183)|[alignment_beamlines_rl](https://github.com/sygogo/alignment_beamlines_rl)|
 |[acing: actor-critic for instruction learning in black-box large language models](https://arxiv.org/abs/2411.12736)|[ACING](https://github.com/salmakh1/ACING)|
 |[learning personalized treatment decisions in precision medicine: disentangling treatment assignment bias in counterfactual outcome prediction and biomarker identification](https://arxiv.org/abs/2410.00509)|[selection-bias-benchmark](https://github.com/michavol/selection-bias-benchmark)|
@@ -11,6 +17,7 @@
 |[supplygraph: a benchmark dataset for supply chain planning using graph neural networks](https://arxiv.org/abs/2401.15299)|[SupplyGraph](https://github.com/ciol-researchlab/SupplyGraph)|
 |[arnn: attentive recurrent neural network for multi-channel eeg signals to identify epileptic seizures](https://arxiv.org/abs/2403.03276)|[arnn](https://github.com/salim-lysiun/arnn)|
 |[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
+|[efficient estimation of relaxed model parameters for robust uav trajectory optimization](https://arxiv.org/abs/2411.10941)|[parameter-affine-relaxation](https://github.com/Herpderk/parameter-affine-relaxation)|
 |[lightcode: light analytical and neural codes for channels with feedback](https://arxiv.org/abs/2403.10751)|[lightcode](https://github.com/sravan-ankireddy/lightcode)|
 ## 2024-11-18
 |paper|code|
