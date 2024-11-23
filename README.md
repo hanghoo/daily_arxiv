@@ -1,3 +1,14 @@
+## 2024-11-22
+|paper|code|
+|---|---|
+|[ma-vae: multi-head attention-based variational autoencoder approach for anomaly detection in multivariate time-series applied to automotive endurance powertrain testing](https://arxiv.org/abs/2309.02253)|[ma-vae](https://github.com/lcs-crr/ma-vae)|
+|[computing optimal joint chance constrained control policies](https://arxiv.org/abs/2312.10495)|[jcc_opt_control](https://github.com/niklasschmidresearch/jcc_opt_control)|
+|[towards generative ray path sampling for faster point-to-point ray tracing](https://arxiv.org/abs/2410.23773)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
+|[identification of analytic nonlinear dynamical systems with non-asymptotic guarantees](https://arxiv.org/abs/2411.00656)|[real-analytic-nonlinear-sys-id](https://github.com/NeginMusavi/real-analytic-nonlinear-sys-id)|
+|[a dataset for evaluating online anomaly detection approaches for discrete multivariate time series](https://arxiv.org/abs/2411.13951)|[path](https://github.com/lcs-crr/path)|
+|[simulation-aided policy tuning for black-box robot learning](https://arxiv.org/abs/2411.14246)|[franka_pendulum](https://github.com/data-science-in-mechanical-engineering/franka_pendulum)|
+|[gramep: an alignment-free method based on the maximum entropy principle for identifying snps](https://arxiv.org/abs/2405.01715)|[gramep](https://github.com/omatheuspimenta/gramep)|
+|[a multi-layer blockchain simulator and performance evaluation of social internet of vehicles with multi-connectivity management](https://arxiv.org/abs/2411.14000)|[V2XBlockchain](https://github.com/IPCLab/V2XBlockchain)|
 ## 2024-11-21
 |paper|code|
 |---|---|
