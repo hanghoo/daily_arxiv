@@ -8,10 +8,14 @@
 |[a dataset for evaluating online anomaly detection approaches for discrete multivariate time series](https://arxiv.org/abs/2411.13951)|[path](https://github.com/lcs-crr/path)|
 |[simulation-aided policy tuning for black-box robot learning](https://arxiv.org/abs/2411.14246)|[franka_pendulum](https://github.com/data-science-in-mechanical-engineering/franka_pendulum)|
 |[gramep: an alignment-free method based on the maximum entropy principle for identifying snps](https://arxiv.org/abs/2405.01715)|[gramep](https://github.com/omatheuspimenta/gramep)|
+|[pairsonic: helping groups securely exchange contact information](https://arxiv.org/abs/2411.13693)|[pairsonic](https://github.com/seemoo-lab/pairsonic)|
 |[a multi-layer blockchain simulator and performance evaluation of social internet of vehicles with multi-connectivity management](https://arxiv.org/abs/2411.14000)|[V2XBlockchain](https://github.com/IPCLab/V2XBlockchain)|
 ## 2024-11-21
 |paper|code|
 |---|---|
+|[enhanced cross-dataset electroencephalogram-based emotion recognition using unsupervised domain adaptation](https://arxiv.org/abs/2411.12852)|[emotionrecognitionuda](https://github.com/ryersonmultimedialab/emotionrecognitionuda)|
+|[matrix-scheduling of qsr-dissipative systems](https://arxiv.org/abs/2411.12955)|[matrix_scheduling_qsr_dissipative_systems](https://github.com/decargroup/matrix_scheduling_qsr_dissipative_systems)|
+|[bring the heat: rapid trajectory optimization with pseudospectral techniques and the affine geometric heat flow equation](https://arxiv.org/abs/2411.12962)|[phlame](https://github.com/roahmlab/phlame)|
 |[multipath mitigation technology-integrated gnss direct position estimation plug-in module](https://arxiv.org/abs/2411.13339)|[GPSL1-MMT-DPEmodule](https://github.com/Sergio-Vicenzo/GPSL1-MMT-DPEmodule)|
 |[drl-based optimization for aoi and energy consumption in c-v2x enabled iov](https://arxiv.org/abs/2411.13104)|[drl-based-optimization-for-information-of-age-and-energy-consumption-in-c-v2x-enabled-iov](https://github.com/qiongwu86/drl-based-optimization-for-information-of-age-and-energy-consumption-in-c-v2x-enabled-iov)|
 ## 2024-11-20
