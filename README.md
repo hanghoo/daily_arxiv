@@ -1,3 +1,13 @@
+## 2024-11-25
+|paper|code|
+|---|---|
+|[scalable-complexity steered response power mapping based on low-rank and sparse interpolation](https://arxiv.org/abs/2306.08514)|[lr-sp-int-srp](https://github.com/tdietzen/lr-sp-int-srp)|
+|[modeling epidemic spread: a gaussian process regression approach](https://arxiv.org/abs/2312.09384)|[gpr_epi_modeling](https://github.com/baikeshe/gpr_epi_modeling)|
+|[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
+|[multipath mitigation technology-integrated gnss direct position estimation plug-in module](https://arxiv.org/abs/2411.13339)|[GPSL1-MMT-DPEmodule](https://github.com/Sergio-Vicenzo/GPSL1-MMT-DPEmodule)|
+|[recursive gaussian process state space model](https://arxiv.org/abs/2411.14679)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[prioritized information bottleneck theoretic framework with distributed online learning for edge video analytics](https://arxiv.org/abs/2409.00146)|[pib-prioritized-information-bottleneck-framework](https://github.com/fangzr/pib-prioritized-information-bottleneck-framework)|
+|[gemid: generalizable models for iot device identification](https://arxiv.org/abs/2411.14441)|[GeMID](https://github.com/kahramankostas/GeMID)|
 ## 2024-11-22
 |paper|code|
 |---|---|
@@ -5,7 +15,6 @@
 |[computing optimal joint chance constrained control policies](https://arxiv.org/abs/2312.10495)|[jcc_opt_control](https://github.com/niklasschmidresearch/jcc_opt_control)|
 |[towards generative ray path sampling for faster point-to-point ray tracing](https://arxiv.org/abs/2410.23773)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
 |[identification of analytic nonlinear dynamical systems with non-asymptotic guarantees](https://arxiv.org/abs/2411.00656)|[real-analytic-nonlinear-sys-id](https://github.com/NeginMusavi/real-analytic-nonlinear-sys-id)|
-|[learning two-agent motion planning strategies from generalized nash equilibrium for model predictive control](https://arxiv.org/abs/2411.13983)|[Implicit-Game-Theoretic-MPC](https://github.com/MPC-Berkeley/Implicit-Game-Theoretic-MPC)|
 |[simulation-aided policy tuning for black-box robot learning](https://arxiv.org/abs/2411.14246)|[franka_pendulum](https://github.com/data-science-in-mechanical-engineering/franka_pendulum)|
 |[gramep: an alignment-free method based on the maximum entropy principle for identifying snps](https://arxiv.org/abs/2405.01715)|[gramep](https://github.com/omatheuspimenta/gramep)|
 |[hermes: a general-purpose proxy-enabled networking architecture](https://arxiv.org/abs/2411.13668)|[Hermes](https://github.com/Bfarkiani/Hermes)|
@@ -18,7 +27,6 @@
 |---|---|
 |[enhanced cross-dataset electroencephalogram-based emotion recognition using unsupervised domain adaptation](https://arxiv.org/abs/2411.12852)|[emotionrecognitionuda](https://github.com/ryersonmultimedialab/emotionrecognitionuda)|
 |[matrix-scheduling of qsr-dissipative systems](https://arxiv.org/abs/2411.12955)|[matrix_scheduling_qsr_dissipative_systems](https://github.com/decargroup/matrix_scheduling_qsr_dissipative_systems)|
-|[bring the heat: rapid trajectory optimization with pseudospectral techniques and the affine geometric heat flow equation](https://arxiv.org/abs/2411.12962)|[phlame](https://github.com/roahmlab/phlame)|
 |[drl-based optimization for aoi and energy consumption in c-v2x enabled iov](https://arxiv.org/abs/2411.13104)|[drl-based-optimization-for-information-of-age-and-energy-consumption-in-c-v2x-enabled-iov](https://github.com/qiongwu86/drl-based-optimization-for-information-of-age-and-energy-consumption-in-c-v2x-enabled-iov)|
 ## 2024-11-20
 |paper|code|
@@ -26,7 +34,6 @@
 |[freezing of gait detection using gramian angular fields and federated learning from wearable sensors](https://arxiv.org/abs/2411.11764)|[fogsense](https://github.com/shovito66/fogsense)|
 |[action-attentive deep reinforcement learning for autonomous alignment of beamlines](https://arxiv.org/abs/2411.12183)|[alignment_beamlines_rl](https://github.com/sygogo/alignment_beamlines_rl)|
 |[acing: actor-critic for instruction learning in black-box large language models](https://arxiv.org/abs/2411.12736)|[ACING](https://github.com/salmakh1/ACING)|
-|[learning personalized treatment decisions in precision medicine: disentangling treatment assignment bias in counterfactual outcome prediction and biomarker identification](https://arxiv.org/abs/2410.00509)|[selection-bias-benchmark](https://github.com/michavol/selection-bias-benchmark)|
 ## 2024-11-19
 |paper|code|
 |---|---|
