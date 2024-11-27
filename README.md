@@ -1,3 +1,24 @@
+## 2024-11-26
+|paper|code|
+|---|---|
+|[efficient wireless federated learning via low-rank gradient factorization](https://arxiv.org/abs/2401.07496)|[ota-lc](https://github.com/mingzhaoguo/ota-lc)|
+|[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
+|[dero: dead reckoning based on radar odometry with accelerometers aided for robot localization](https://arxiv.org/abs/2403.05136)|[dero](https://github.com/hoangvietdo/dero)|
+|[lipschitz constant estimation for general neural network architectures using control tools](https://arxiv.org/abs/2405.01125)|[GLipSDP](https://github.com/ppauli/GLipSDP)|
+|[robust beamforming with gradient-based liquid neural network](https://arxiv.org/abs/2405.07291)|[GLNN](https://github.com/tp1000d/GLNN)|
+|[real-world validation of safe reinforcement learning, model predictive control and decision tree-based home energy management systems](https://arxiv.org/abs/2408.07435)|[real_validation_saferl_treec_paper](https://github.com/evergi/real_validation_saferl_treec_paper)|
+|[competency-aware planning for probabilistically safe navigation under perception uncertainty](https://arxiv.org/abs/2409.06111)|[parce-nav](https://github.com/sarapohland/parce-nav)|
+|[mecg-e: mamba-based ecg enhancer for baseline wander removal](https://arxiv.org/abs/2409.18828)|[MECG-E](https://github.com/khhungg/MECG-E)|
+|[modelpredictivecontrol.jl: advanced process control made easy in julia](https://arxiv.org/abs/2411.09764)|[mpcPackageJulia.tex](https://github.com/franckgaga/mpcPackageJulia.tex)|
+|[bring the heat: rapid trajectory optimization with pseudospectral techniques and the affine geometric heat flow equation](https://arxiv.org/abs/2411.12962)|[phlame](https://github.com/roahmlab/phlame)|
+|[a dataset for evaluating online anomaly detection approaches for discrete multivariate time series](https://arxiv.org/abs/2411.13951)|[path](https://github.com/lcs-crr/path)|
+|[learning two-agent motion planning strategies from generalized nash equilibrium for model predictive control](https://arxiv.org/abs/2411.13983)|[Implicit-Game-Theoretic-MPC](https://github.com/MPC-Berkeley/Implicit-Game-Theoretic-MPC)|
+|[deep policy gradient methods without batch updates, target networks, or replay buffers](https://arxiv.org/abs/2411.15370)|[avg](https://github.com/gauthamvasan/avg)|
+|[robust hybrid precoding for millimeter wave mu-miso system via meta-learning](https://arxiv.org/abs/2411.15762)|[ggml](https://github.com/mistybeep/ggml)|
+|[multi-sources information fusion learning for multi-points nlos localization](https://arxiv.org/abs/2401.12538)|[AMDNloc](https://github.com/Horizontal666/AMDNloc)|
+|[learning personalized treatment decisions in precision medicine: disentangling treatment assignment bias in counterfactual outcome prediction and biomarker identification](https://arxiv.org/abs/2410.00509)|[selection-bias-benchmark](https://github.com/michavol/selection-bias-benchmark)|
+|[redan: an empirical study on remote dos attacks against nat networks](https://arxiv.org/abs/2410.21984)|[Remote-DoS-Attacks-against-NAT-Networks](https://github.com/Internet-Architecture-and-Security/Remote-DoS-Attacks-against-NAT-Networks)|
+|[run-length-limited isi-mitigation (rlim) coding for molecular communication](https://arxiv.org/abs/2411.15955)|[mcchannelcoding](https://github.com/melihsahinedu/mcchannelcoding)|
 ## 2024-11-25
 |paper|code|
 |---|---|
@@ -6,6 +27,8 @@
 |[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
 |[multipath mitigation technology-integrated gnss direct position estimation plug-in module](https://arxiv.org/abs/2411.13339)|[GPSL1-MMT-DPEmodule](https://github.com/Sergio-Vicenzo/GPSL1-MMT-DPEmodule)|
 |[recursive gaussian process state space model](https://arxiv.org/abs/2411.14679)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[scalable wavelength arbitration for microring-based dwdm transceivers](https://arxiv.org/abs/2411.14810)|[wdm-simulator](https://github.com/wdmsim/wdm-simulator)|
+|[cardiolab: laboratory values estimation and monitoring from electrocardiogram signals -- a multimodal deep learning approach](https://arxiv.org/abs/2411.14886)|[cardiolab](https://github.com/ai4healthuol/cardiolab)|
 |[prioritized information bottleneck theoretic framework with distributed online learning for edge video analytics](https://arxiv.org/abs/2409.00146)|[pib-prioritized-information-bottleneck-framework](https://github.com/fangzr/pib-prioritized-information-bottleneck-framework)|
 |[gemid: generalizable models for iot device identification](https://arxiv.org/abs/2411.14441)|[GeMID](https://github.com/kahramankostas/GeMID)|
 ## 2024-11-22
