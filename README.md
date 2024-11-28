@@ -1,3 +1,13 @@
+## 2024-11-27
+|paper|code|
+|---|---|
+|[bayesian kalmannet: quantifying uncertainty in deep learning augmented kalman filter](https://arxiv.org/abs/2309.03058)|[Uncertainty-extraction-in-Model-Based-DL](https://github.com/yonatandn/Uncertainty-extraction-in-Model-Based-DL)|
+|[peernet: an end-to-end profiling tool for real-time networked robotic systems](https://arxiv.org/abs/2409.06078)|[peernet](https://github.com/utaustin-swarmlab/peernet)|
+|[safety filtering while training: improving the performance and sample efficiency of reinforcement learning agents](https://arxiv.org/abs/2410.11671)|[safe-control-gym](https://github.com/federico-pizarrobejarano/safe-control-gym)|
+|[towards safe bayesian optimization with wiener kernel regression](https://arxiv.org/abs/2411.02253)|[SafeBO_WKR](https://github.com/OptCon/SafeBO_WKR)|
+|[robust bayesian optimization via localized online conformal prediction](https://arxiv.org/abs/2411.17387)|[LOCBO](https://github.com/davinci003/LOCBO)|
+|[x-cba: explainability aided catboosted anomal-e for intrusion detection system](https://arxiv.org/abs/2402.00839)|[xai-catboosted-anomale](https://github.com/kiymetkaya/xai-catboosted-anomale)|
+|[fast and robust phase retrieval via deep expectation-consistent approximation](https://arxiv.org/abs/2407.09687)|[deepECpr](https://github.com/Saurav-K-Shastri/deepECpr)|
 ## 2024-11-26
 |paper|code|
 |---|---|
@@ -23,6 +33,7 @@
 |paper|code|
 |---|---|
 |[scalable-complexity steered response power mapping based on low-rank and sparse interpolation](https://arxiv.org/abs/2306.08514)|[lr-sp-int-srp](https://github.com/tdietzen/lr-sp-int-srp)|
+|[automated lane change via adaptive interactive mpc: human-in-the-loop experiments](https://arxiv.org/abs/2311.05810)|[interactive-motion-planning](https://github.com/autonomous-viranjan/interactive-motion-planning)|
 |[modeling epidemic spread: a gaussian process regression approach](https://arxiv.org/abs/2312.09384)|[gpr_epi_modeling](https://github.com/baikeshe/gpr_epi_modeling)|
 |[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
 |[multipath mitigation technology-integrated gnss direct position estimation plug-in module](https://arxiv.org/abs/2411.13339)|[GPSL1-MMT-DPEmodule](https://github.com/Sergio-Vicenzo/GPSL1-MMT-DPEmodule)|
