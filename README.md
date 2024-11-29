@@ -1,3 +1,15 @@
+## 2024-11-28
+|paper|code|
+|---|---|
+|[over-the-air learning-based geometry point cloud transmission](https://arxiv.org/abs/2306.08730)|[SEPT](https://github.com/aprilbian/SEPT)|
+|[calibrated adaptive teacher for domain adaptive intelligent fault diagnosis](https://arxiv.org/abs/2312.02826)|[cat](https://github.com/epfl-imos/cat)|
+|[linear quadratic control of nonlinear systems with koopman operator learning and the nystr\"om method](https://arxiv.org/abs/2403.02811)|[nys-koop-lqr](https://github.com/lcsl/nys-koop-lqr)|
+|[biometric authentication based on enhanced remote photoplethysmography signal morphology](https://arxiv.org/abs/2407.04127)|[rppg_biometrics](https://github.com/zhaodongsun/rppg_biometrics)|
+|[swim: short-window cnn integrated with mamba for eeg-based auditory spatial attention decoding](https://arxiv.org/abs/2409.19884)|[swim-asad](https://github.com/windowso/swim-asad)|
+|[analytic continuation by feature learning](https://arxiv.org/abs/2411.17728)|[Analytic-Continuation-by-Feature-Learning](https://github.com/Order-inz/Analytic-Continuation-by-Feature-Learning)|
+|[rl for mitigating cascading failures: targeted exploration via sensitivity factors](https://arxiv.org/abs/2411.18050)|[physics-guided-blackout-mitigation](https://github.com/anmold-07/physics-guided-blackout-mitigation)|
+|[a runtime-adaptive transformer neural network accelerator on fpgas](https://arxiv.org/abs/2411.18148)|[Transformer_on_FPGA](https://github.com/Kabir-Ehsan/Transformer_on_FPGA)|
+|[surveying the space of descriptions of a composite system with machine learning](https://arxiv.org/abs/2411.18579)|[description_space](https://github.com/murphyka/description_space)|
 ## 2024-11-27
 |paper|code|
 |---|---|
@@ -25,6 +37,7 @@
 |[learning two-agent motion planning strategies from generalized nash equilibrium for model predictive control](https://arxiv.org/abs/2411.13983)|[Implicit-Game-Theoretic-MPC](https://github.com/MPC-Berkeley/Implicit-Game-Theoretic-MPC)|
 |[deep policy gradient methods without batch updates, target networks, or replay buffers](https://arxiv.org/abs/2411.15370)|[avg](https://github.com/gauthamvasan/avg)|
 |[robust hybrid precoding for millimeter wave mu-miso system via meta-learning](https://arxiv.org/abs/2411.15762)|[ggml](https://github.com/mistybeep/ggml)|
+|[dampening parameter distributional shifts under robust control and gain scheduling](https://arxiv.org/abs/2411.16566)|[robust-less-dist-shifts](https://github.com/msramada/robust-less-dist-shifts)|
 |[multi-sources information fusion learning for multi-points nlos localization](https://arxiv.org/abs/2401.12538)|[AMDNloc](https://github.com/Horizontal666/AMDNloc)|
 |[learning personalized treatment decisions in precision medicine: disentangling treatment assignment bias in counterfactual outcome prediction and biomarker identification](https://arxiv.org/abs/2410.00509)|[selection-bias-benchmark](https://github.com/michavol/selection-bias-benchmark)|
 |[redan: an empirical study on remote dos attacks against nat networks](https://arxiv.org/abs/2410.21984)|[Remote-DoS-Attacks-against-NAT-Networks](https://github.com/Internet-Architecture-and-Security/Remote-DoS-Attacks-against-NAT-Networks)|
@@ -37,9 +50,11 @@
 |[modeling epidemic spread: a gaussian process regression approach](https://arxiv.org/abs/2312.09384)|[gpr_epi_modeling](https://github.com/baikeshe/gpr_epi_modeling)|
 |[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
 |[multipath mitigation technology-integrated gnss direct position estimation plug-in module](https://arxiv.org/abs/2411.13339)|[GPSL1-MMT-DPEmodule](https://github.com/Sergio-Vicenzo/GPSL1-MMT-DPEmodule)|
+|[privacy-preserving power flow analysis via secure multi-party computation](https://arxiv.org/abs/2411.14557)|[privacy-preserving-power-flow](https://github.com/jvdheyden/privacy-preserving-power-flow)|
 |[recursive gaussian process state space model](https://arxiv.org/abs/2411.14679)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
 |[scalable wavelength arbitration for microring-based dwdm transceivers](https://arxiv.org/abs/2411.14810)|[wdm-simulator](https://github.com/wdmsim/wdm-simulator)|
 |[cardiolab: laboratory values estimation and monitoring from electrocardiogram signals -- a multimodal deep learning approach](https://arxiv.org/abs/2411.14886)|[cardiolab](https://github.com/ai4healthuol/cardiolab)|
+|[resolution-adaptive micro-doppler spectrogram for human activity recognition](https://arxiv.org/abs/2411.15057)|[resolution-adaptive-spectrogram](https://github.com/signal-park/resolution-adaptive-spectrogram)|
 |[prioritized information bottleneck theoretic framework with distributed online learning for edge video analytics](https://arxiv.org/abs/2409.00146)|[pib-prioritized-information-bottleneck-framework](https://github.com/fangzr/pib-prioritized-information-bottleneck-framework)|
 |[gemid: generalizable models for iot device identification](https://arxiv.org/abs/2411.14441)|[GeMID](https://github.com/kahramankostas/GeMID)|
 ## 2024-11-22
