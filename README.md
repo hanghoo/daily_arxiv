@@ -1,3 +1,18 @@
+## 2024-12-02
+|paper|code|
+|---|---|
+|[a time-causal and time-recursive analogue of the gabor transform](https://arxiv.org/abs/2308.14512)|[pygabor](https://github.com/tonylindeberg/pygabor)|
+|[robust stochastically-descending unrolled networks](https://arxiv.org/abs/2312.15788)|[unrolledglow](https://github.com/smrhadou/unrolledglow)|
+|[powerformer: a section-adaptive transformer for power flow adjustment](https://arxiv.org/abs/2401.02771)|[Powerformer](https://github.com/Cra2yDavid/Powerformer)|
+|[learning local control barrier functions for hybrid systems](https://arxiv.org/abs/2401.14907)|[neural_hybrid_cbf](https://github.com/shuoyang2000/neural_hybrid_cbf)|
+|[adaptive control of reaction-diffusion pdes via neural operator-approximated gain kernels](https://arxiv.org/abs/2407.01745)|[NeuralOperatorParabolicAdaptiveControl](https://github.com/lukebhan/NeuralOperatorParabolicAdaptiveControl)|
+|[unleashing the power of data tsunami: a comprehensive survey on data assessment and selection for instruction tuning of language models](https://arxiv.org/abs/2408.02085)|[fantastic-data-engineering](https://github.com/yuleiqin/fantastic-data-engineering)|
+|[predictive spliner: data-driven overtaking in autonomous racing using opponent trajectory prediction](https://arxiv.org/abs/2410.04868)|[predictive-spliner](https://github.com/forzaeth/predictive-spliner)|
+|[large width penalization for neural network-based prediction interval estimation](https://arxiv.org/abs/2411.19181)|[PIestim_sumk](https://github.com/energyCUEE/PIestim_sumk)|
+|[scaling transformers for low-bitrate high-quality speech coding](https://arxiv.org/abs/2411.19842)|[stable-codec](https://github.com/Stability-AI/stable-codec)|
+|[scalable exploration via ensemble++](https://arxiv.org/abs/2407.13195)|[ensemble_plus_plus](https://github.com/szrlee/ensemble_plus_plus)|
+|[diffusion models meet network management: improving traffic matrix analysis with diffusion-based approach](https://arxiv.org/abs/2411.19493)|[DTM](https://github.com/Y-debug-sys/DTM)|
+|[fast mutual information computation for large binary datasets](https://arxiv.org/abs/2411.19702)|[bulk-MI](https://github.com/aofalcao/bulk-MI)|
 ## 2024-11-28
 |paper|code|
 |---|---|
@@ -10,6 +25,7 @@
 |[analytic continuation by feature learning](https://arxiv.org/abs/2411.17728)|[Analytic-Continuation-by-Feature-Learning](https://github.com/Order-inz/Analytic-Continuation-by-Feature-Learning)|
 |[rl for mitigating cascading failures: targeted exploration via sensitivity factors](https://arxiv.org/abs/2411.18050)|[physics-guided-blackout-mitigation](https://github.com/anmold-07/physics-guided-blackout-mitigation)|
 |[a runtime-adaptive transformer neural network accelerator on fpgas](https://arxiv.org/abs/2411.18148)|[Transformer_on_FPGA](https://github.com/Kabir-Ehsan/Transformer_on_FPGA)|
+|[combined learning of linear parameter-varying models and robust control invariant sets](https://arxiv.org/abs/2411.18166)|[concur-qlpv-rci](https://github.com/samku/concur-qlpv-rci)|
 |[the more, the better? evaluating the role of eeg preprocessing for deep learning applications](https://arxiv.org/abs/2411.18392)|[eegprepro](https://github.com/medmaxlab/eegprepro)|
 |[surveying the space of descriptions of a composite system with machine learning](https://arxiv.org/abs/2411.18579)|[description_space](https://github.com/murphyka/description_space)|
 ## 2024-11-27
@@ -19,6 +35,7 @@
 |[peernet: an end-to-end profiling tool for real-time networked robotic systems](https://arxiv.org/abs/2409.06078)|[peernet](https://github.com/utaustin-swarmlab/peernet)|
 |[safety filtering while training: improving the performance and sample efficiency of reinforcement learning agents](https://arxiv.org/abs/2410.11671)|[safe-control-gym](https://github.com/federico-pizarrobejarano/safe-control-gym)|
 |[towards safe bayesian optimization with wiener kernel regression](https://arxiv.org/abs/2411.02253)|[SafeBO_WKR](https://github.com/OptCon/SafeBO_WKR)|
+|[zero-order control barrier functions for sampled-data systems with state and input dependent safety constraints](https://arxiv.org/abs/2411.17079)|[Zero-order-CBFs](https://github.com/ersindas/Zero-order-CBFs)|
 |[robust bayesian optimization via localized online conformal prediction](https://arxiv.org/abs/2411.17387)|[LOCBO](https://github.com/davinci003/LOCBO)|
 |[x-cba: explainability aided catboosted anomal-e for intrusion detection system](https://arxiv.org/abs/2402.00839)|[xai-catboosted-anomale](https://github.com/kiymetkaya/xai-catboosted-anomale)|
 |[fast and robust phase retrieval via deep expectation-consistent approximation](https://arxiv.org/abs/2407.09687)|[deepECpr](https://github.com/Saurav-K-Shastri/deepECpr)|
