@@ -1,3 +1,9 @@
+## 2024-12-04
+|paper|code|
+|---|---|
+|[robustness of quantum algorithms against coherent control errors](https://arxiv.org/abs/2303.00618)|[robustness-of-quantum-algorithms](https://github.com/daniel-fink-de/robustness-of-quantum-algorithms)|
+|[pitn: physics-informed temporal networks for cuffless blood pressure estimation](https://arxiv.org/abs/2408.08488)|[acl-pitn](https://github.com/zest86/acl-pitn)|
+|[cooptimizing safety and performance with a control-constrained formulation](https://arxiv.org/abs/2409.06696)|[cooptimize_safety_performance](https://github.com/haowwang/cooptimize_safety_performance)|
 ## 2024-12-03
 |paper|code|
 |---|---|
@@ -11,6 +17,7 @@
 |[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
 |[snake-inspired mobile robot positioning with hybrid learning](https://arxiv.org/abs/2411.17430)|[MoRPINet](https://github.com/ansfl/MoRPINet)|
 |[automatic differentiation-based full waveform inversion with flexible workflows](https://arxiv.org/abs/2412.00486)|[ADFWI](https://github.com/liufeng2317/ADFWI)|
+|[pruned convolutional attention network based wideband spectrum sensing with sub-nyquist sampling](https://arxiv.org/abs/2412.00562)|[PCA-WSSNet](https://github.com/AI4CogComm/PCA-WSSNet)|
 |[rotation invariant quantization for model compression](https://arxiv.org/abs/2303.03106)|[riq](https://github.com/ehaleva/riq)|
 |[task-aware distributed source coding under dynamic bandwidth](https://arxiv.org/abs/2305.15523)|[task-aware-distributed-source-coding](https://github.com/utaustin-swarmlab/task-aware-distributed-source-coding)|
 |[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
@@ -25,6 +32,7 @@
 |[unleashing the power of data tsunami: a comprehensive survey on data assessment and selection for instruction tuning of language models](https://arxiv.org/abs/2408.02085)|[fantastic-data-engineering](https://github.com/yuleiqin/fantastic-data-engineering)|
 |[predictive spliner: data-driven overtaking in autonomous racing using opponent trajectory prediction](https://arxiv.org/abs/2410.04868)|[predictive-spliner](https://github.com/forzaeth/predictive-spliner)|
 |[large width penalization for neural network-based prediction interval estimation](https://arxiv.org/abs/2411.19181)|[PIestim_sumk](https://github.com/energyCUEE/PIestim_sumk)|
+|[l4acados: learning-based models for acados, applied to gaussian process-based predictive control](https://arxiv.org/abs/2411.19258)|[l4acados](https://github.com/IntelligentControlSystems/l4acados)|
 |[scaling transformers for low-bitrate high-quality speech coding](https://arxiv.org/abs/2411.19842)|[stable-codec](https://github.com/Stability-AI/stable-codec)|
 |[scalable exploration via ensemble++](https://arxiv.org/abs/2407.13195)|[ensemble_plus_plus](https://github.com/szrlee/ensemble_plus_plus)|
 |[diffusion models meet network management: improving traffic matrix analysis with diffusion-based approach](https://arxiv.org/abs/2411.19493)|[DTM](https://github.com/Y-debug-sys/DTM)|
