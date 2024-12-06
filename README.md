@@ -1,3 +1,9 @@
+## 2024-12-05
+|paper|code|
+|---|---|
+|[an l-bfgs-b approach for linear and nonlinear system identification under $\ell_1$ and group-lasso regularization](https://arxiv.org/abs/2403.03827)|[jax-sysid](https://github.com/bemporad/jax-sysid)|
+|[leveraging visibility graphs for enhanced arrhythmia classification with graph convolutional networks](https://arxiv.org/abs/2404.15367)|[vg_for_arrhythmia_classification_with_gcn](https://github.com/raffoliveira/vg_for_arrhythmia_classification_with_gcn)|
+|[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
 ## 2024-12-04
 |paper|code|
 |---|---|
