@@ -1,8 +1,17 @@
+## 2024-12-06
+|paper|code|
+|---|---|
+|[reachable polyhedral marching (rpm): an exact analysis tool for deep-learned control systems](https://arxiv.org/abs/2210.08339)|[Neural-Network-Reach](https://github.com/StanfordMSL/Neural-Network-Reach)|
+|[on computation of approximate solutions to large-scale backstepping kernel equations via continuum approximation](https://arxiv.org/abs/2406.13612)|[continuum-kernels-power-series](https://github.com/jphumaloja/continuum-kernels-power-series)|
+|[usv-auv collaboration framework for underwater tasks under extreme sea conditions](https://arxiv.org/abs/2409.02444)|[usv-auv-colab](https://github.com/360zmem/usv-auv-colab)|
+|[pc-gym: benchmark environments for process control problems](https://arxiv.org/abs/2410.22093)|[pc-gym](https://github.com/maximilianb2/pc-gym)|
+|[what should a neuron aim for? designing local objective functions based on information theory](https://arxiv.org/abs/2412.02482)|[infomorphic_networks](https://github.com/priesemann-group/infomorphic_networks)|
 ## 2024-12-05
 |paper|code|
 |---|---|
 |[an l-bfgs-b approach for linear and nonlinear system identification under $\ell_1$ and group-lasso regularization](https://arxiv.org/abs/2403.03827)|[jax-sysid](https://github.com/bemporad/jax-sysid)|
-|[leveraging visibility graphs for enhanced arrhythmia classification with graph convolutional networks](https://arxiv.org/abs/2404.15367)|[vg_for_arrhythmia_classification_with_gcn](https://github.com/raffoliveira/vg_for_arrhythmia_classification_with_gcn)|
+|[leveraging visibility graphs for enhanced arrhythmia classification with graph convolutional networks](https://arxiv.org/abs/2404.15367)|[ts2vvg](https://github.com/raffoliveira/ts2vvg)|
+|[learning koopman-based stability certificates for unknown nonlinear systems](https://arxiv.org/abs/2412.02807)|[Unknown_Zubov_Koopman](https://github.com/RuikunZhou/Unknown_Zubov_Koopman)|
 |[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
 ## 2024-12-04
 |paper|code|
@@ -10,6 +19,10 @@
 |[robustness of quantum algorithms against coherent control errors](https://arxiv.org/abs/2303.00618)|[robustness-of-quantum-algorithms](https://github.com/daniel-fink-de/robustness-of-quantum-algorithms)|
 |[pitn: physics-informed temporal networks for cuffless blood pressure estimation](https://arxiv.org/abs/2408.08488)|[acl-pitn](https://github.com/zest86/acl-pitn)|
 |[cooptimizing safety and performance with a control-constrained formulation](https://arxiv.org/abs/2409.06696)|[cooptimize_safety_performance](https://github.com/haowwang/cooptimize_safety_performance)|
+|[friday: real-time learning dnn-based stable lqr controller for nonlinear systems under uncertain disturbances](https://arxiv.org/abs/2412.01103)|[FRIDAY_CarSimu](https://github.com/SpaceTAKA/FRIDAY_CarSimu)|
+|[reactive synthesis of sensor revealing strategies in hypergames on graphs](https://arxiv.org/abs/2412.01975)|[Reactive_synthesis_of_sensor_revealing_strategies](https://github.com/Sumukha-Udupa/Reactive_synthesis_of_sensor_revealing_strategies)|
+|[tab-fields: a maximum entropy framework for mission-aware adversarial planning](https://arxiv.org/abs/2412.02570)|[bluerov2_gym](https://github.com/gokulp01/bluerov2_gym)|
+|[development and application of a decentralized domain name service](https://arxiv.org/abs/2412.01959)|[ddns](https://github.com/GY19A/ddns)|
 ## 2024-12-03
 |paper|code|
 |---|---|
@@ -22,11 +35,20 @@
 |[sample complexity bounds for linear system identification from a finite set](https://arxiv.org/abs/2409.11141)|[2024-bounds-finite-set-id](https://github.com/col-tasas/2024-bounds-finite-set-id)|
 |[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
 |[snake-inspired mobile robot positioning with hybrid learning](https://arxiv.org/abs/2411.17430)|[MoRPINet](https://github.com/ansfl/MoRPINet)|
+|[frequency-selective beamforming and single-shot beam training with dynamic metasurface antennas](https://arxiv.org/abs/2412.00215)|[FreqSelBeamformingBeamtrainingDMAs](https://github.com/nvdeshpa/FreqSelBeamformingBeamtrainingDMAs)|
+|[efficient off-grid bayesian parameter estimation for kronecker-structured signals](https://arxiv.org/abs/2412.00310)|[JournalDecomOffGrid](https://github.com/YanbinHe/JournalDecomOffGrid)|
+|[differentiable high-order markov models for spectrum prediction](https://arxiv.org/abs/2412.00328)|[Datasets-Paper-Differentiable-High-Order-Markov-Models-for-Spectrum-Prediction](https://github.com/corlay-MERCE/Datasets-Paper-Differentiable-High-Order-Markov-Models-for-Spectrum-Prediction)|
 |[automatic differentiation-based full waveform inversion with flexible workflows](https://arxiv.org/abs/2412.00486)|[ADFWI](https://github.com/liufeng2317/ADFWI)|
+|[learning-based model predictive control for piecewise affine systems with feasibility guarantees](https://arxiv.org/abs/2412.00490)|[supervised-learning-pwa-mpc](https://github.com/samuelmallick/supervised-learning-pwa-mpc)|
 |[pruned convolutional attention network based wideband spectrum sensing with sub-nyquist sampling](https://arxiv.org/abs/2412.00562)|[PCA-WSSNet](https://github.com/AI4CogComm/PCA-WSSNet)|
+|[toward real-time edge ai: model-agnostic task-oriented communication with visual feature alignment](https://arxiv.org/abs/2412.00862)|[feature-alignment-TOC](https://github.com/SongjieXie/feature-alignment-TOC)|
+|[state noise density identification of ltv system by kernel deconvolution](https://arxiv.org/abs/2412.01424)|[StateNoisePDFIdentification](https://github.com/IDM-UWB/StateNoisePDFIdentification)|
+|[stlgame: signal temporal logic games in adversarial multi-agent systems](https://arxiv.org/abs/2412.01656)|[STLgame](https://github.com/shuoyang2000/STLgame)|
+|[structure-guided input graph for gnns facing heterophily](https://arxiv.org/abs/2412.01757)|[sg-gnn](https://github.com/vmtenorio/sg-gnn)|
 |[rotation invariant quantization for model compression](https://arxiv.org/abs/2303.03106)|[riq](https://github.com/ehaleva/riq)|
 |[task-aware distributed source coding under dynamic bandwidth](https://arxiv.org/abs/2305.15523)|[task-aware-distributed-source-coding](https://github.com/utaustin-swarmlab/task-aware-distributed-source-coding)|
 |[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
+|[seldom: an anonymity network with selective deanonymization](https://arxiv.org/abs/2412.00990)|[thRSAhold](https://github.com/eric-wagner/thRSAhold)|
 ## 2024-12-02
 |paper|code|
 |---|---|
