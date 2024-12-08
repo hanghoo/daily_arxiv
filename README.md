@@ -1,3 +1,7 @@
+## 2024-12-07
+|paper|code|
+|---|---|
+|[convergence of learning dynamics in stackelberg games](https://arxiv.org/abs/1906.01217)|[Stackelberg-Code](https://github.com/fiezt/Stackelberg-Code)|
 ## 2024-12-06
 |paper|code|
 |---|---|
