@@ -7,7 +7,6 @@
 |---|---|
 |[reachable polyhedral marching (rpm): an exact analysis tool for deep-learned control systems](https://arxiv.org/abs/2210.08339)|[Neural-Network-Reach](https://github.com/StanfordMSL/Neural-Network-Reach)|
 |[on computation of approximate solutions to large-scale backstepping kernel equations via continuum approximation](https://arxiv.org/abs/2406.13612)|[continuum-kernels-power-series](https://github.com/jphumaloja/continuum-kernels-power-series)|
-|[usv-auv collaboration framework for underwater tasks under extreme sea conditions](https://arxiv.org/abs/2409.02444)|[usv-auv-colab](https://github.com/360zmem/usv-auv-colab)|
 |[pc-gym: benchmark environments for process control problems](https://arxiv.org/abs/2410.22093)|[pc-gym](https://github.com/maximilianb2/pc-gym)|
 |[what should a neuron aim for? designing local objective functions based on information theory](https://arxiv.org/abs/2412.02482)|[infomorphic_networks](https://github.com/priesemann-group/infomorphic_networks)|
 ## 2024-12-05
@@ -16,6 +15,7 @@
 |[an l-bfgs-b approach for linear and nonlinear system identification under $\ell_1$ and group-lasso regularization](https://arxiv.org/abs/2403.03827)|[jax-sysid](https://github.com/bemporad/jax-sysid)|
 |[leveraging visibility graphs for enhanced arrhythmia classification with graph convolutional networks](https://arxiv.org/abs/2404.15367)|[ts2vvg](https://github.com/raffoliveira/ts2vvg)|
 |[learning koopman-based stability certificates for unknown nonlinear systems](https://arxiv.org/abs/2412.02807)|[Unknown_Zubov_Koopman](https://github.com/RuikunZhou/Unknown_Zubov_Koopman)|
+|[koopman based trajectory optimization with mixed boundaries](https://arxiv.org/abs/2412.03195)|[koopmanbasedtrajectoryoptimizationwithmixedboundaries](https://github.com/mohamedabou-taleb/koopmanbasedtrajectoryoptimizationwithmixedboundaries)|
 |[the information geometry of umap](https://arxiv.org/abs/2309.01237)|[info-geometry-umap](https://github.com/sashakolpakov/info-geometry-umap)|
 ## 2024-12-04
 |paper|code|
@@ -46,7 +46,9 @@
 |[learning-based model predictive control for piecewise affine systems with feasibility guarantees](https://arxiv.org/abs/2412.00490)|[supervised-learning-pwa-mpc](https://github.com/samuelmallick/supervised-learning-pwa-mpc)|
 |[pruned convolutional attention network based wideband spectrum sensing with sub-nyquist sampling](https://arxiv.org/abs/2412.00562)|[PCA-WSSNet](https://github.com/AI4CogComm/PCA-WSSNet)|
 |[toward real-time edge ai: model-agnostic task-oriented communication with visual feature alignment](https://arxiv.org/abs/2412.00862)|[feature-alignment-TOC](https://github.com/SongjieXie/feature-alignment-TOC)|
+|[characterizing and modeling ai-driven animal ecology studies at the edge](https://arxiv.org/abs/2412.01000)|[adae_model](https://github.com/jennamk14/adae_model)|
 |[state noise density identification of ltv system by kernel deconvolution](https://arxiv.org/abs/2412.01424)|[StateNoisePDFIdentification](https://github.com/IDM-UWB/StateNoisePDFIdentification)|
+|[amplitude response and square wave describing functions](https://arxiv.org/abs/2412.01579)|[square-wave-describing-functions](https://github.com/ThomasChaffey/square-wave-describing-functions)|
 |[stlgame: signal temporal logic games in adversarial multi-agent systems](https://arxiv.org/abs/2412.01656)|[STLgame](https://github.com/shuoyang2000/STLgame)|
 |[structure-guided input graph for gnns facing heterophily](https://arxiv.org/abs/2412.01757)|[sg-gnn](https://github.com/vmtenorio/sg-gnn)|
 |[rotation invariant quantization for model compression](https://arxiv.org/abs/2303.03106)|[riq](https://github.com/ehaleva/riq)|
