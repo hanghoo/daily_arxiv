@@ -1,3 +1,11 @@
+## 2024-12-09
+|paper|code|
+|---|---|
+|[interpretable ecg analysis for myocardial infarction detection through counterfactuals](https://arxiv.org/abs/2312.08304)|[vcce](https://github.com/tanyelai/vcce)|
+|[outlier accommodation for gnss precise point positioning using risk-averse state estimation](https://arxiv.org/abs/2402.01860)|[outlier_accommodation_gnss_acc2024](https://github.com/azurehappen/outlier_accommodation_gnss_acc2024)|
+|[usv-auv collaboration framework for underwater tasks under extreme sea conditions](https://arxiv.org/abs/2409.02444)|[usv-auv-colab](https://github.com/360zmem/usv-auv-colab)|
+|[tft-multi: simultaneous forecasting of vital sign trajectories in the icu](https://arxiv.org/abs/2409.15586)|[tft-multi](https://github.com/rosie068/tft-multi)|
+|[netmind: adaptive ran baseband function placement by gcn encoding and maze-solving drl](https://arxiv.org/abs/2401.06722)|[netmind](https://github.com/ocean-98/netmind)|
 ## 2024-12-07
 |paper|code|
 |---|---|
