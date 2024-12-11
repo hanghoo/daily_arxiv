@@ -1,3 +1,19 @@
+## 2024-12-10
+|paper|code|
+|---|---|
+|[parametric and state estimation of stationary mems-imus: a tutorial](https://arxiv.org/abs/2307.08571)|[multiple-mems-imus-estimation](https://github.com/ansfl/multiple-mems-imus-estimation)|
+|[a time-causal and time-recursive analogue of the gabor transform](https://arxiv.org/abs/2308.14512)|[pygabor](https://github.com/tonylindeberg/pygabor)|
+|[learning state-augmented policies for information routing in communication networks](https://arxiv.org/abs/2310.00248)|[state-augmeted-information-routing](https://github.com/sourajitdas/state-augmeted-information-routing)|
+|[finding the missing data: a bert-inspired approach against package loss in wireless sensing](https://arxiv.org/abs/2403.12400)|[csi-bert](https://github.com/rs2002/csi-bert)|
+|[attention-aware semantic communications for collaborative inference](https://arxiv.org/abs/2404.07217)|[semantic-attention](https://github.com/iil-postech/semantic-attention)|
+|[understanding the differences in foundation models: attention, state space models, and recurrent neural networks](https://arxiv.org/abs/2405.15731)|[dsf-mqar](https://github.com/intelligentcontrolsystems/dsf-mqar)|
+|[continuous sleep depth index annotation with deep learning yields novel digital biomarkers for sleep health](https://arxiv.org/abs/2407.04753)|[SDI](https://github.com/sczzz3/SDI)|
+|[surpassing cosine similarity for multidimensional comparisons: dimension insensitive euclidean metric (diem)](https://arxiv.org/abs/2407.08623)|[diem](https://github.com/ftessari23/diem)|
+|[what if we had used a different app? reliable counterfactual kpi analysis in wireless systems](https://arxiv.org/abs/2410.00150)|[inference_dt_code](https://github.com/qiushuo0913/inference_dt_code)|
+|[distributed thompson sampling under constrained communication](https://arxiv.org/abs/2410.15543)|[distributed-bo](https://github.com/sabzer/distributed-bo)|
+|[resolution-adaptive micro-doppler spectrogram for human activity recognition](https://arxiv.org/abs/2411.15057)|[resolution-adaptive-spectrogram](https://github.com/signal-park/resolution-adaptive-spectrogram)|
+|[m$^3$pc: test-time model predictive control for pretrained masked trajectory model](https://arxiv.org/abs/2412.05675)|[m3pc](https://github.com/wkh923/m3pc)|
+|[a quick primer on machine learning in wireless communications](https://arxiv.org/abs/2312.17713)|[eesc7v86-fall22](https://github.com/farismismar/eesc7v86-fall22)|
 ## 2024-12-09
 |paper|code|
 |---|---|
