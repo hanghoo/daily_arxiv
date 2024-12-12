@@ -1,3 +1,10 @@
+## 2024-12-11
+|paper|code|
+|---|---|
+|[learning stable and passive neural differential equations](https://arxiv.org/abs/2404.12554)|[stablenode](https://github.com/ruigangwang7/stablenode)|
+|[brsr-opgan: blind radar signal restoration using operational generative adversarial network](https://arxiv.org/abs/2407.13949)|[BRSR-OpGAN](https://github.com/MUzairZahid/BRSR-OpGAN)|
+|[cbramod: a criss-cross brain foundation model for eeg decoding](https://arxiv.org/abs/2412.07236)|[cbramod](https://github.com/wjq-learning/cbramod)|
+|[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
 ## 2024-12-10
 |paper|code|
 |---|---|
