@@ -1,10 +1,19 @@
+## 2024-12-12
+|paper|code|
+|---|---|
+|[large width penalization for neural network-based prediction interval estimation](https://arxiv.org/abs/2411.19181)|[PIestim_sumk](https://github.com/energyCUEE/PIestim_sumk)|
+|[sinergym -- a virtual testbed for building energy optimization with reinforcement learning](https://arxiv.org/abs/2412.08293)|[sinergym](https://github.com/ugr-sail/sinergym)|
+|[estimating the number of http/3 responses in quic using deep learning](https://arxiv.org/abs/2410.06140)|[VisQUIC](https://github.com/robshahla/VisQUIC)|
+|[gdsg: graph diffusion-based solution generation for optimization problems in mec networks](https://arxiv.org/abs/2412.08296)|[gdsg](https://github.com/qiyu3816/gdsg)|
 ## 2024-12-11
 |paper|code|
 |---|---|
 |[learning stable and passive neural differential equations](https://arxiv.org/abs/2404.12554)|[stablenode](https://github.com/ruigangwang7/stablenode)|
 |[brsr-opgan: blind radar signal restoration using operational generative adversarial network](https://arxiv.org/abs/2407.13949)|[BRSR-OpGAN](https://github.com/MUzairZahid/BRSR-OpGAN)|
 |[cbramod: a criss-cross brain foundation model for eeg decoding](https://arxiv.org/abs/2412.07236)|[cbramod](https://github.com/wjq-learning/cbramod)|
+|[explainable machine learning for neoplasms diagnosis via electrocardiograms: an externally validated study](https://arxiv.org/abs/2412.07737)|[cardiodiag](https://github.com/ai4healthuol/cardiodiag)|
 |[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
+|[superficial consciousness hypothesis for autoregressive transformers](https://arxiv.org/abs/2412.07278)|[phimesasi](https://github.com/hirethehero/phimesasi)|
 ## 2024-12-10
 |paper|code|
 |---|---|
@@ -20,6 +29,7 @@
 |[distributed thompson sampling under constrained communication](https://arxiv.org/abs/2410.15543)|[distributed-bo](https://github.com/sabzer/distributed-bo)|
 |[resolution-adaptive micro-doppler spectrogram for human activity recognition](https://arxiv.org/abs/2411.15057)|[resolution-adaptive-spectrogram](https://github.com/signal-park/resolution-adaptive-spectrogram)|
 |[m$^3$pc: test-time model predictive control for pretrained masked trajectory model](https://arxiv.org/abs/2412.05675)|[m3pc](https://github.com/wkh923/m3pc)|
+|[powermamba: a deep state space model and comprehensive benchmark for time series prediction in electric power systems](https://arxiv.org/abs/2412.06112)|[PowerMamba](https://github.com/alimenati/PowerMamba)|
 |[a quick primer on machine learning in wireless communications](https://arxiv.org/abs/2312.17713)|[eesc7v86-fall22](https://github.com/farismismar/eesc7v86-fall22)|
 ## 2024-12-09
 |paper|code|
@@ -28,6 +38,7 @@
 |[outlier accommodation for gnss precise point positioning using risk-averse state estimation](https://arxiv.org/abs/2402.01860)|[outlier_accommodation_gnss_acc2024](https://github.com/azurehappen/outlier_accommodation_gnss_acc2024)|
 |[usv-auv collaboration framework for underwater tasks under extreme sea conditions](https://arxiv.org/abs/2409.02444)|[usv-auv-colab](https://github.com/360zmem/usv-auv-colab)|
 |[tft-multi: simultaneous forecasting of vital sign trajectories in the icu](https://arxiv.org/abs/2409.15586)|[tft-multi](https://github.com/rosie068/tft-multi)|
+|[livenet: robust, minimally invasive multi-robot control for safe and live navigation in constrained environments](https://arxiv.org/abs/2412.04659)|[livenet](https://github.com/srikarg89/livenet)|
 |[netmind: adaptive ran baseband function placement by gcn encoding and maze-solving drl](https://arxiv.org/abs/2401.06722)|[netmind](https://github.com/ocean-98/netmind)|
 ## 2024-12-07
 |paper|code|
