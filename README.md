@@ -1,3 +1,13 @@
+## 2024-12-13
+|paper|code|
+|---|---|
+|[towards real-world deployment of reinforcement learning for traffic signal control](https://arxiv.org/abs/2103.16223)|[lemgorl](https://github.com/rl-ina/lemgorl)|
+|[learning safety in model-based reinforcement learning using mpc and gaussian processes](https://arxiv.org/abs/2211.01860)|[learning-safety-in-mpc-based-rl](https://github.com/FilippoAiraldi/learning-safety-in-mpc-based-rl)|
+|[on fast-converged deep reinforcement learning for optimal dispatch of large-scale power systems under transient security constraints](https://arxiv.org/abs/2304.08320)|[fcdrl_tscopf](https://github.com/xxh0523/fcdrl_tscopf)|
+|[high-rate phase association with travel time neural fields](https://arxiv.org/abs/2307.07572)|[phase_association](https://github.com/dadacheng/phase_association)|
+|[adaptive data-driven prediction in a building control hierarchy: a case study of demand response in switzerland](https://arxiv.org/abs/2307.08866)|[risk_src_yingzhao](https://github.com/yingzhaoleo/risk_src_yingzhao)|
+|[commonpower: a framework for safe data-driven smart grid control](https://arxiv.org/abs/2406.03231)|[commonpower](https://github.com/tumcps/commonpower)|
+|[diffusion predictive control with constraints](https://arxiv.org/abs/2412.09342)|[dpcc](https://github.com/ralfroemer99/dpcc)|
 ## 2024-12-12
 |paper|code|
 |---|---|
