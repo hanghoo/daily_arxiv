@@ -8,10 +8,13 @@
 |[adaptive data-driven prediction in a building control hierarchy: a case study of demand response in switzerland](https://arxiv.org/abs/2307.08866)|[risk_src_yingzhao](https://github.com/yingzhaoleo/risk_src_yingzhao)|
 |[commonpower: a framework for safe data-driven smart grid control](https://arxiv.org/abs/2406.03231)|[commonpower](https://github.com/tumcps/commonpower)|
 |[diffusion predictive control with constraints](https://arxiv.org/abs/2412.09342)|[dpcc](https://github.com/ralfroemer99/dpcc)|
+|[learned compression for compressed learning](https://arxiv.org/abs/2412.09405)|[LCCL](https://github.com/danjacobellis/LCCL)|
+|[adaptive address family selection for latency-sensitive applications on dual-stack hosts](https://arxiv.org/abs/2309.05369)|[ccr23-artefacts](https://github.com/mpiraux/ccr23-artefacts)|
 ## 2024-12-12
 |paper|code|
 |---|---|
 |[large width penalization for neural network-based prediction interval estimation](https://arxiv.org/abs/2411.19181)|[PIestim_sumk](https://github.com/energyCUEE/PIestim_sumk)|
+|[srfs: parallel processing fault-tolerant ros2-based flight software for the space ranger cubesat](https://arxiv.org/abs/2412.08164)|[sr-flight-software](https://github.com/messixiang/sr-flight-software)|
 |[sinergym -- a virtual testbed for building energy optimization with reinforcement learning](https://arxiv.org/abs/2412.08293)|[sinergym](https://github.com/ugr-sail/sinergym)|
 |[estimating the number of http/3 responses in quic using deep learning](https://arxiv.org/abs/2410.06140)|[VisQUIC](https://github.com/robshahla/VisQUIC)|
 |[gdsg: graph diffusion-based solution generation for optimization problems in mec networks](https://arxiv.org/abs/2412.08296)|[gdsg](https://github.com/qiyu3816/gdsg)|
