@@ -44,6 +44,7 @@
 |[m$^3$pc: test-time model predictive control for pretrained masked trajectory model](https://arxiv.org/abs/2412.05675)|[m3pc](https://github.com/wkh923/m3pc)|
 |[powermamba: a deep state space model and comprehensive benchmark for time series prediction in electric power systems](https://arxiv.org/abs/2412.06112)|[PowerMamba](https://github.com/alimenati/PowerMamba)|
 |[a quick primer on machine learning in wireless communications](https://arxiv.org/abs/2312.17713)|[eesc7v86-fall22](https://github.com/farismismar/eesc7v86-fall22)|
+|[forte : finding outliers with representation typicality estimation](https://arxiv.org/abs/2410.01322)|[forte](https://github.com/DebarghaG/forte)|
 ## 2024-12-09
 |paper|code|
 |---|---|
