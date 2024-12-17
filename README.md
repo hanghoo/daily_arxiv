@@ -1,3 +1,12 @@
+## 2024-12-16
+|paper|code|
+|---|---|
+|[you can wash hands better: accurate daily handwashing assessment with smartwatches](https://arxiv.org/abs/2112.06657)|[uwash](https://github.com/aiotgroup/uwash)|
+|[synthesis of temporally-robust policies for signal temporal logic tasks using reinforcement learning](https://arxiv.org/abs/2312.05764)|[timerobustlearning](https://github.com/wsqsgithub/timerobustlearning)|
+|[comparing differentiable and dynamic ray tracing: introducing the multipath lifetime map](https://arxiv.org/abs/2410.14535)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
+|[toward foundation model for multivariate wearable sensing of physiological signals](https://arxiv.org/abs/2412.09758)|[normwear](https://github.com/mobile-sensing-and-ubicomp-laboratory/normwear)|
+|[fdm-bench: a comprehensive benchmark for evaluating large language models in additive manufacturing tasks](https://arxiv.org/abs/2412.09819)|[fdm-bench](https://github.com/ahmadrezania/fdm-bench)|
+|[a framework for testing federated learning algorithms using an edge-like environment](https://arxiv.org/abs/2407.12980)|[framework-fl-testing](https://github.com/open-digital-twin/framework-fl-testing)|
 ## 2024-12-13
 |paper|code|
 |---|---|
@@ -14,19 +23,24 @@
 |paper|code|
 |---|---|
 |[large width penalization for neural network-based prediction interval estimation](https://arxiv.org/abs/2411.19181)|[PIestim_sumk](https://github.com/energyCUEE/PIestim_sumk)|
+|[a novel multiscale spatial phase estimate with the structure multivector](https://arxiv.org/abs/2412.08070)|[ssvm2025](https://gitlab.com/briancknight/ssvm2025)|
 |[srfs: parallel processing fault-tolerant ros2-based flight software for the space ranger cubesat](https://arxiv.org/abs/2412.08164)|[sr-flight-software](https://github.com/messixiang/sr-flight-software)|
 |[sinergym -- a virtual testbed for building energy optimization with reinforcement learning](https://arxiv.org/abs/2412.08293)|[sinergym](https://github.com/ugr-sail/sinergym)|
 |[estimating the number of http/3 responses in quic using deep learning](https://arxiv.org/abs/2410.06140)|[VisQUIC](https://github.com/robshahla/VisQUIC)|
-|[gdsg: graph diffusion-based solution generation for optimization problems in mec networks](https://arxiv.org/abs/2412.08296)|[gdsg](https://github.com/qiyu3816/gdsg)|
 ## 2024-12-11
 |paper|code|
 |---|---|
 |[learning stable and passive neural differential equations](https://arxiv.org/abs/2404.12554)|[stablenode](https://github.com/ruigangwang7/stablenode)|
 |[brsr-opgan: blind radar signal restoration using operational generative adversarial network](https://arxiv.org/abs/2407.13949)|[BRSR-OpGAN](https://github.com/MUzairZahid/BRSR-OpGAN)|
+|[noise covariances identification by mdm: weighting, recursion, and implementation](https://arxiv.org/abs/2412.06373)|[MDM_SYSID2024](https://github.com/IDM-UWB/MDM_SYSID2024)|
+|[autonomy in the real-world: autonomous trajectory planning for asteroid reconnaissance via stochastic optimization](https://arxiv.org/abs/2412.06816)|[muscat](https://github.com/nasa/muscat)|
 |[cbramod: a criss-cross brain foundation model for eeg decoding](https://arxiv.org/abs/2412.07236)|[cbramod](https://github.com/wjq-learning/cbramod)|
+|[stochastic integration based estimator: robust design and stone soup implementation](https://arxiv.org/abs/2412.07239)|[fusion2024_sif](https://github.com/idm-uwb/fusion2024_sif)|
+|[little to lose: the case for a robust european green hydrogen strategy](https://arxiv.org/abs/2412.07464)|[eu-hydrogen](https://github.com/koen-vg/eu-hydrogen)|
 |[explainable machine learning for neoplasms diagnosis via electrocardiograms: an externally validated study](https://arxiv.org/abs/2412.07737)|[cardiodiag](https://github.com/ai4healthuol/cardiodiag)|
 |[a truly concurrent semantics for reversible ccs](https://arxiv.org/abs/2309.14011)|[reversible-ccs-as-nets](https://github.com/hmelgra/reversible-ccs-as-nets)|
 |[superficial consciousness hypothesis for autoregressive transformers](https://arxiv.org/abs/2412.07278)|[phimesasi](https://github.com/hirethehero/phimesasi)|
+|[distributed optimization of age of incorrect information with dynamic epistemic logic](https://arxiv.org/abs/2412.07503)|[delta_medium_access](https://github.com/signetlabdei/delta_medium_access)|
 ## 2024-12-10
 |paper|code|
 |---|---|
