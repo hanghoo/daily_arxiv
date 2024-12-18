@@ -1,3 +1,14 @@
+## 2024-12-17
+|paper|code|
+|---|---|
+|[toward value-oriented renewable energy forecasting: an iterative learning approach](https://arxiv.org/abs/2309.00803)|[an-iterative-solution-approach-for-value-oriented-forecasting](https://github.com/yufan0157/an-iterative-solution-approach-for-value-oriented-forecasting)|
+|[towards high-quality and efficient speech bandwidth extension with parallel amplitude and phase prediction](https://arxiv.org/abs/2401.06387)|[AP-BWE](https://github.com/yxlu-0102/AP-BWE)|
+|[communication-efficient federated learning via clipped uniform quantization](https://arxiv.org/abs/2405.13365)|[ClippedQuantFL](https://github.com/zavareh1/ClippedQuantFL)|
+|[a real-time system for scheduling and managing uav delivery in urban](https://arxiv.org/abs/2412.11590)|[uavdeliverysystem](https://github.com/chengji253/uavdeliverysystem)|
+|[dual unscented kalman filter architecture for sensor fusion in water networks leak localization](https://arxiv.org/abs/2412.11687)|[d-ukf-aw-gsi](https://github.com/luisromeroben/d-ukf-aw-gsi)|
+|[revelations: a decidable class of pomdps with omega-regular objectives](https://arxiv.org/abs/2412.12063)|[pomdps-reveal](https://github.com/gaperez64/pomdps-reveal)|
+|[diffusion models as network optimizers: explorations and analysis](https://arxiv.org/abs/2411.00453)|[DiffSG](https://github.com/qiyu3816/DiffSG)|
+|[gdsg: graph diffusion-based solution generator for optimization problems in mec networks](https://arxiv.org/abs/2412.08296)|[gdsg](https://github.com/qiyu3816/gdsg)|
 ## 2024-12-16
 |paper|code|
 |---|---|
@@ -6,6 +17,7 @@
 |[comparing differentiable and dynamic ray tracing: introducing the multipath lifetime map](https://arxiv.org/abs/2410.14535)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
 |[toward foundation model for multivariate wearable sensing of physiological signals](https://arxiv.org/abs/2412.09758)|[normwear](https://github.com/mobile-sensing-and-ubicomp-laboratory/normwear)|
 |[fdm-bench: a comprehensive benchmark for evaluating large language models in additive manufacturing tasks](https://arxiv.org/abs/2412.09819)|[fdm-bench](https://github.com/ahmadrezania/fdm-bench)|
+|[model order reduction of large-scale wind farms: a data-driven approach](https://arxiv.org/abs/2412.10088)|[windfarmmor](https://github.com/zilong-gong/windfarmmor)|
 |[a framework for testing federated learning algorithms using an edge-like environment](https://arxiv.org/abs/2407.12980)|[framework-fl-testing](https://github.com/open-digital-twin/framework-fl-testing)|
 ## 2024-12-13
 |paper|code|
