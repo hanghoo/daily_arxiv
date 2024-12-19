@@ -1,3 +1,14 @@
+## 2024-12-18
+|paper|code|
+|---|---|
+|[approximation properties relative to continuous scale space for hybrid discretizations of gaussian derivative operators](https://arxiv.org/abs/2405.05095)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[coordinating planning and tracking in layered control policies via actor-critic learning](https://arxiv.org/abs/2408.01639)|[layered-ac](https://github.com/unstable-zeros/layered-ac)|
+|[usv-auv collaboration framework for underwater tasks under extreme sea conditions](https://arxiv.org/abs/2409.02444)|[usv-auv-colab](https://github.com/360zmem/usv-auv-colab)|
+|[end-to-end learning of transmitter and receiver filters in bandwidth limited fiber optic communication systems](https://arxiv.org/abs/2409.11980)|[marble-end-to-end](https://github.com/sfvnielsen/marble-end-to-end)|
+|[generative modeling and data augmentation for power system production simulation](https://arxiv.org/abs/2412.12146)|[NeurIPS2024](https://github.com/Becklishious/NeurIPS2024)|
+|[optimal control operator perspective and a neural adaptive spectral method](https://arxiv.org/abs/2412.12469)|[NASM](https://github.com/FengMingquan-sjtu/NASM)|
+|[learning of patch-based smooth-plus-sparse models for image reconstruction](https://arxiv.org/abs/2412.13070)|[Smooth-Plus-Sparse-Model](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)|
+|[residual-inr: communication efficient on-device learning using implicit neural representation](https://arxiv.org/abs/2408.05617)|[residual-inr](https://github.com/sharc-lab/residual-inr)|
 ## 2024-12-17
 |paper|code|
 |---|---|
@@ -14,7 +25,6 @@
 |---|---|
 |[you can wash hands better: accurate daily handwashing assessment with smartwatches](https://arxiv.org/abs/2112.06657)|[uwash](https://github.com/aiotgroup/uwash)|
 |[synthesis of temporally-robust policies for signal temporal logic tasks using reinforcement learning](https://arxiv.org/abs/2312.05764)|[timerobustlearning](https://github.com/wsqsgithub/timerobustlearning)|
-|[comparing differentiable and dynamic ray tracing: introducing the multipath lifetime map](https://arxiv.org/abs/2410.14535)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
 |[toward foundation model for multivariate wearable sensing of physiological signals](https://arxiv.org/abs/2412.09758)|[normwear](https://github.com/mobile-sensing-and-ubicomp-laboratory/normwear)|
 |[fdm-bench: a comprehensive benchmark for evaluating large language models in additive manufacturing tasks](https://arxiv.org/abs/2412.09819)|[fdm-bench](https://github.com/ahmadrezania/fdm-bench)|
 |[model order reduction of large-scale wind farms: a data-driven approach](https://arxiv.org/abs/2412.10088)|[windfarmmor](https://github.com/zilong-gong/windfarmmor)|
