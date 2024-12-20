@@ -1,3 +1,17 @@
+## 2024-12-19
+|paper|code|
+|---|---|
+|[a mixed-integer approach for motion planning of nonholonomic robots under visible light communication constraints](https://arxiv.org/abs/2306.15590)|[milp_vlc_motion_planning](https://gitlab.com/caregnato_neto_open/milp_vlc_motion_planning)|
+|[multi-agent reinforcement learning via distributed mpc as a function approximator](https://arxiv.org/abs/2312.05166)|[dmpcrl-concept](https://github.com/SamuelMallick/dmpcrl-concept)|
+|[distributed model predictive control for piecewise affine systems based on switching admm](https://arxiv.org/abs/2404.16712)|[stable-dmpc-pwa](https://github.com/SamuelMallick/stable-dmpc-pwa)|
+|[regime learning for differentiable particle filters](https://arxiv.org/abs/2405.04865)|[Regime_Switching](https://github.com/John-JoB/Regime_Switching)|
+|[reinforcement learning-based model predictive control for greenhouse climate control](https://arxiv.org/abs/2409.12789)|[mpcrl-greenhouse](https://github.com/samuelmallick/mpcrl-greenhouse)|
+|[differentiable interacting multiple model particle filtering](https://arxiv.org/abs/2410.00620)|[DIMMPF](https://github.com/John-JoB/DIMMPF)|
+|[comparing differentiable and dynamic ray tracing: introducing the multipath lifetime map](https://arxiv.org/abs/2410.14535)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
+|[heartbert: a self-supervised ecg embedding model for efficient and effective medical signal analysis](https://arxiv.org/abs/2411.11896)|[heartbert](https://github.com/ecgresearch/heartbert)|
+|[physics-based battery model parametrisation from impedance data](https://arxiv.org/abs/2412.10896)|[pybop](https://github.com/pybop-team/pybop)|
+|[event-based photometric bundle adjustment](https://arxiv.org/abs/2412.14111)|[epba](https://github.com/tub-rip/epba)|
+|[information-theoretic generative clustering of documents](https://arxiv.org/abs/2412.13534)|[lmgc](https://github.com/kduxin/lmgc)|
 ## 2024-12-18
 |paper|code|
 |---|---|
@@ -15,6 +29,8 @@
 |[toward value-oriented renewable energy forecasting: an iterative learning approach](https://arxiv.org/abs/2309.00803)|[an-iterative-solution-approach-for-value-oriented-forecasting](https://github.com/yufan0157/an-iterative-solution-approach-for-value-oriented-forecasting)|
 |[towards high-quality and efficient speech bandwidth extension with parallel amplitude and phase prediction](https://arxiv.org/abs/2401.06387)|[AP-BWE](https://github.com/yxlu-0102/AP-BWE)|
 |[communication-efficient federated learning via clipped uniform quantization](https://arxiv.org/abs/2405.13365)|[ClippedQuantFL](https://github.com/zavareh1/ClippedQuantFL)|
+|[neural operator feedback for a first-order pide with spatially-varying state delay](https://arxiv.org/abs/2412.08219)|[NeuralOperatorFeedbackWithSpatiallyVaryingStateDelay](https://github.com/jackyhum/NeuralOperatorFeedbackWithSpatiallyVaryingStateDelay)|
+|[cognitioncapturer: decoding visual stimuli from human eeg signal with multimodal information](https://arxiv.org/abs/2412.10489)|[cognitioncapturer](https://github.com/xiaozhangyes/cognitioncapturer)|
 |[a real-time system for scheduling and managing uav delivery in urban](https://arxiv.org/abs/2412.11590)|[uavdeliverysystem](https://github.com/chengji253/uavdeliverysystem)|
 |[dual unscented kalman filter architecture for sensor fusion in water networks leak localization](https://arxiv.org/abs/2412.11687)|[d-ukf-aw-gsi](https://github.com/luisromeroben/d-ukf-aw-gsi)|
 |[revelations: a decidable class of pomdps with omega-regular objectives](https://arxiv.org/abs/2412.12063)|[pomdps-reveal](https://github.com/gaperez64/pomdps-reveal)|
