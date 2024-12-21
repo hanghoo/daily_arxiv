@@ -1,3 +1,14 @@
+## 2024-12-20
+|paper|code|
+|---|---|
+|[fft and orthogonal discrete transform on weight lattices of semi-simple lie groups](https://arxiv.org/abs/1901.06254)|[basis-change-Chebyshev-transforms](https://github.com/bseifert-HSA/basis-change-Chebyshev-transforms)|
+|[resource-aware iot control: saving communication through predictive triggering](https://arxiv.org/abs/1901.07531)|[predictive_and_self_triggering](https://github.com/baumanndominik/predictive_and_self_triggering)|
+|[fully decentralized joint learning of personalized models and collaboration graphs](https://arxiv.org/abs/1901.08460)|[Dada](https://github.com/vzantedeschi/Dada)|
+|[estimating multi-year 24/7 origin-destination demand using high-granular multi-source traffic data](https://arxiv.org/abs/1901.09266)|[DPFE](https://github.com/Lemma1/DPFE)|
+|[learning deep dissipative dynamics](https://arxiv.org/abs/2408.11479)|[deepdissipativemodel](https://github.com/kojima-r/deepdissipativemodel)|
+|[safety filtering while training: improving the performance and sample efficiency of reinforcement learning agents](https://arxiv.org/abs/2410.11671)|[safe-control-gym](https://github.com/federico-pizarrobejarano/safe-control-gym)|
+|[ecg-byte: a tokenizer for end-to-end generative electrocardiogram language modeling](https://arxiv.org/abs/2412.14373)|[ecg-byte](https://github.com/willxxy/ecg-byte)|
+|[cae-t: a channelwise autoencoder with transformer for eeg abnormality detection](https://arxiv.org/abs/2412.14522)|[cae-t](https://github.com/yossizhao/cae-t)|
 ## 2024-12-19
 |paper|code|
 |---|---|
