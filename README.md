@@ -5,10 +5,14 @@
 |[resource-aware iot control: saving communication through predictive triggering](https://arxiv.org/abs/1901.07531)|[predictive_and_self_triggering](https://github.com/baumanndominik/predictive_and_self_triggering)|
 |[fully decentralized joint learning of personalized models and collaboration graphs](https://arxiv.org/abs/1901.08460)|[Dada](https://github.com/vzantedeschi/Dada)|
 |[estimating multi-year 24/7 origin-destination demand using high-granular multi-source traffic data](https://arxiv.org/abs/1901.09266)|[DPFE](https://github.com/Lemma1/DPFE)|
+|[from analog to digital: multi-order digital joint coding-modulation for semantic communication](https://arxiv.org/abs/2406.05437)|[semantic-mdjcm](https://github.com/zhang-guangyi/semantic-mdjcm)|
 |[learning deep dissipative dynamics](https://arxiv.org/abs/2408.11479)|[deepdissipativemodel](https://github.com/kojima-r/deepdissipativemodel)|
+|[design of distributed controller for discrete-time systems via the integration of extended lmi and clique-wise decomposition](https://arxiv.org/abs/2409.07666)|[dt_dist](https://github.com/sotarofushimi/dt_dist)|
 |[safety filtering while training: improving the performance and sample efficiency of reinforcement learning agents](https://arxiv.org/abs/2410.11671)|[safe-control-gym](https://github.com/federico-pizarrobejarano/safe-control-gym)|
 |[ecg-byte: a tokenizer for end-to-end generative electrocardiogram language modeling](https://arxiv.org/abs/2412.14373)|[ecg-byte](https://github.com/willxxy/ecg-byte)|
+|[faultexplainer: leveraging large language models for interpretable fault detection and diagnosis](https://arxiv.org/abs/2412.14492)|[faultexplainer](https://github.com/li-group/faultexplainer)|
 |[cae-t: a channelwise autoencoder with transformer for eeg abnormality detection](https://arxiv.org/abs/2412.14522)|[cae-t](https://github.com/yossizhao/cae-t)|
+|[exploiting sparse structures and synergy designs to advance situational awareness of electrical power grid](https://arxiv.org/abs/2412.15105)|[dynamic](https://github.com/bhooi/dynamic)|
 ## 2024-12-19
 |paper|code|
 |---|---|
@@ -22,18 +26,26 @@
 |[heartbert: a self-supervised ecg embedding model for efficient and effective medical signal analysis](https://arxiv.org/abs/2411.11896)|[heartbert](https://github.com/ecgresearch/heartbert)|
 |[physics-based battery model parametrisation from impedance data](https://arxiv.org/abs/2412.10896)|[pybop](https://github.com/pybop-team/pybop)|
 |[event-based photometric bundle adjustment](https://arxiv.org/abs/2412.14111)|[epba](https://github.com/tub-rip/epba)|
+|[optimizing age of information in internet of vehicles over error-prone channels](https://arxiv.org/abs/2412.13204)|[blockchain-enabled-variational-information-bottleneck-for-minimizing-aoi-in-iov](https://github.com/qiongwu86/blockchain-enabled-variational-information-bottleneck-for-minimizing-aoi-in-iov)|
+|[magnifier: detecting network access via lightweight traffic-based fingerprints](https://arxiv.org/abs/2412.13428)|[magnifier](https://github.com/secteampolaris/magnifier)|
 |[information-theoretic generative clustering of documents](https://arxiv.org/abs/2412.13534)|[lmgc](https://github.com/kduxin/lmgc)|
+|[transmit what you need: task-adaptive semantic communications for visual information](https://arxiv.org/abs/2412.13646)|[jhpark.github.io](https://github.com/jhpark2024/jhpark.github.io)|
 ## 2024-12-18
 |paper|code|
 |---|---|
 |[approximation properties relative to continuous scale space for hybrid discretizations of gaussian derivative operators](https://arxiv.org/abs/2405.05095)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[fast computation of the discrete fourier transform square index coefficients](https://arxiv.org/abs/2407.00182)|[fastsicdft](https://github.com/sauloqueiroz/fastsicdft)|
 |[coordinating planning and tracking in layered control policies via actor-critic learning](https://arxiv.org/abs/2408.01639)|[layered-ac](https://github.com/unstable-zeros/layered-ac)|
 |[usv-auv collaboration framework for underwater tasks under extreme sea conditions](https://arxiv.org/abs/2409.02444)|[usv-auv-colab](https://github.com/360zmem/usv-auv-colab)|
 |[end-to-end learning of transmitter and receiver filters in bandwidth limited fiber optic communication systems](https://arxiv.org/abs/2409.11980)|[marble-end-to-end](https://github.com/sfvnielsen/marble-end-to-end)|
 |[generative modeling and data augmentation for power system production simulation](https://arxiv.org/abs/2412.12146)|[NeurIPS2024](https://github.com/Becklishious/NeurIPS2024)|
+|[predicting workload in virtual flight simulations using eeg features (including post-hoc analysis in appendix)](https://arxiv.org/abs/2412.12428)|[flight-sim-cognitive-workload-eeg-prediction](https://github.com/basverkennis/flight-sim-cognitive-workload-eeg-prediction)|
 |[optimal control operator perspective and a neural adaptive spectral method](https://arxiv.org/abs/2412.12469)|[NASM](https://github.com/FengMingquan-sjtu/NASM)|
+|[a marl based multi-target tracking algorithm under jamming against radar](https://arxiv.org/abs/2412.12547)|[muav-mtt-mappo](https://github.com/s1s3r4/muav-mtt-mappo)|
+|[adaptive economic model predictive control: performance guarantees for nonlinear systems](https://arxiv.org/abs/2412.13046)|[aempc](https://github.com/maximiliandegner/aempc)|
 |[learning of patch-based smooth-plus-sparse models for image reconstruction](https://arxiv.org/abs/2412.13070)|[Smooth-Plus-Sparse-Model](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)|
 |[residual-inr: communication efficient on-device learning using implicit neural representation](https://arxiv.org/abs/2408.05617)|[residual-inr](https://github.com/sharc-lab/residual-inr)|
+|[edm: an ultra-low latency ethernet fabric for memory disaggregation](https://arxiv.org/abs/2411.08300)|[edm](https://github.com/wegul/edm)|
 ## 2024-12-17
 |paper|code|
 |---|---|
