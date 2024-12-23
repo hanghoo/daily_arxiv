@@ -38,6 +38,7 @@
 |[coordinating planning and tracking in layered control policies via actor-critic learning](https://arxiv.org/abs/2408.01639)|[layered-ac](https://github.com/unstable-zeros/layered-ac)|
 |[usv-auv collaboration framework for underwater tasks under extreme sea conditions](https://arxiv.org/abs/2409.02444)|[usv-auv-colab](https://github.com/360zmem/usv-auv-colab)|
 |[end-to-end learning of transmitter and receiver filters in bandwidth limited fiber optic communication systems](https://arxiv.org/abs/2409.11980)|[marble-end-to-end](https://github.com/sfvnielsen/marble-end-to-end)|
+|[ecgtizer: a fully automated digitizing and signal recovery pipeline for electrocardiograms](https://arxiv.org/abs/2412.12139)|[ecgtizer](https://github.com/ummisco/ecgtizer)|
 |[generative modeling and data augmentation for power system production simulation](https://arxiv.org/abs/2412.12146)|[NeurIPS2024](https://github.com/Becklishious/NeurIPS2024)|
 |[predicting workload in virtual flight simulations using eeg features (including post-hoc analysis in appendix)](https://arxiv.org/abs/2412.12428)|[flight-sim-cognitive-workload-eeg-prediction](https://github.com/basverkennis/flight-sim-cognitive-workload-eeg-prediction)|
 |[optimal control operator perspective and a neural adaptive spectral method](https://arxiv.org/abs/2412.12469)|[NASM](https://github.com/FengMingquan-sjtu/NASM)|
