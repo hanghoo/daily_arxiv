@@ -1,3 +1,12 @@
+## 2024-12-23
+|paper|code|
+|---|---|
+|[efficient network embedding by approximate equitable partitions](https://arxiv.org/abs/2409.10160)|[EmbNetworks](https://github.com/EmbNet01/EmbNetworks)|
+|[predictive spliner: data-driven overtaking in autonomous racing using opponent trajectory prediction](https://arxiv.org/abs/2410.04868)|[predictive-spliner](https://github.com/forzaeth/predictive-spliner)|
+|[learning cortico-muscular dependence through orthonormal decomposition of density ratios](https://arxiv.org/abs/2410.14697)|[corticomuscular-eigen-encoder](https://github.com/bohu615/corticomuscular-eigen-encoder)|
+|[data publishing in mechanics and dynamics: challenges, guidelines, and examples from engineering design](https://arxiv.org/abs/2410.18358)|[connectinggaitsinenergeticallyconservativeleggedsystems](https://github.com/raffmax/connectinggaitsinenergeticallyconservativeleggedsystems)|
+|[faithful and accurate self-attention attribution for message passing neural networks via the computation tree viewpoint](https://arxiv.org/abs/2406.04612)|[gatt](https://github.com/jordan7186/gatt)|
+|[apirl: deep reinforcement learning for rest api fuzzing](https://arxiv.org/abs/2412.15991)|[APIRL](https://github.com/ICL-ml4csec/APIRL)|
 ## 2024-12-20
 |paper|code|
 |---|---|
