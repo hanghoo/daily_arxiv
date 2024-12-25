@@ -1,3 +1,13 @@
+## 2024-12-24
+|paper|code|
+|---|---|
+|[towards efficient mppi trajectory generation with unscented guidance: u-mppi control strategy](https://arxiv.org/abs/2306.12369)|[u-mppi](https://github.com/ihabmohamed/u-mppi)|
+|[nn-etm: enabling safe neural network-based event-triggering mechanisms for consensus problems](https://arxiv.org/abs/2403.12567)|[nn-etm](https://github.com/ireneperezsalesa/nn-etm)|
+|[integrating systemc-ams power modeling with a risc-v iss for virtual prototyping of battery-operated embedded devices](https://arxiv.org/abs/2404.01861)|[messy](https://github.com/eml-eda/messy)|
+|[distribution grids may be a barrier to residential electrification](https://arxiv.org/abs/2410.04540)|[edgie](https://github.com/priyada7/edgie)|
+|[asynchronous federated learning: a scalable approach for decentralized machine learning](https://arxiv.org/abs/2412.17723)|[asynchronous-federated-learning](https://github.com/ali-forootani/asynchronous-federated-learning)|
+|[wifi csi based temporal activity detection via dual pyramid network](https://arxiv.org/abs/2412.16233)|[wifitad](https://github.com/avc2-uestc/wifitad)|
+|[rate of model collapse in recursive training](https://arxiv.org/abs/2412.17646)|[rate-of-model-collapse](https://github.com/berserank/rate-of-model-collapse)|
 ## 2024-12-23
 |paper|code|
 |---|---|
@@ -6,7 +16,6 @@
 |[learning cortico-muscular dependence through orthonormal decomposition of density ratios](https://arxiv.org/abs/2410.14697)|[corticomuscular-eigen-encoder](https://github.com/bohu615/corticomuscular-eigen-encoder)|
 |[data publishing in mechanics and dynamics: challenges, guidelines, and examples from engineering design](https://arxiv.org/abs/2410.18358)|[connectinggaitsinenergeticallyconservativeleggedsystems](https://github.com/raffmax/connectinggaitsinenergeticallyconservativeleggedsystems)|
 |[faithful and accurate self-attention attribution for message passing neural networks via the computation tree viewpoint](https://arxiv.org/abs/2406.04612)|[gatt](https://github.com/jordan7186/gatt)|
-|[apirl: deep reinforcement learning for rest api fuzzing](https://arxiv.org/abs/2412.15991)|[APIRL](https://github.com/ICL-ml4csec/APIRL)|
 ## 2024-12-20
 |paper|code|
 |---|---|
@@ -18,9 +27,9 @@
 |[learning deep dissipative dynamics](https://arxiv.org/abs/2408.11479)|[deepdissipativemodel](https://github.com/kojima-r/deepdissipativemodel)|
 |[design of distributed controller for discrete-time systems via the integration of extended lmi and clique-wise decomposition](https://arxiv.org/abs/2409.07666)|[dt_dist](https://github.com/sotarofushimi/dt_dist)|
 |[safety filtering while training: improving the performance and sample efficiency of reinforcement learning agents](https://arxiv.org/abs/2410.11671)|[safe-control-gym](https://github.com/federico-pizarrobejarano/safe-control-gym)|
+|[radiance field delta video compression in edge-enabled vehicular metaverse](https://arxiv.org/abs/2411.11857)|[rfdvc](https://github.com/maftej/rfdvc)|
 |[ecg-byte: a tokenizer for end-to-end generative electrocardiogram language modeling](https://arxiv.org/abs/2412.14373)|[ecg-byte](https://github.com/willxxy/ecg-byte)|
 |[faultexplainer: leveraging large language models for interpretable fault detection and diagnosis](https://arxiv.org/abs/2412.14492)|[faultexplainer](https://github.com/li-group/faultexplainer)|
-|[cae-t: a channelwise autoencoder with transformer for eeg abnormality detection](https://arxiv.org/abs/2412.14522)|[cae-t](https://github.com/yossizhao/cae-t)|
 |[exploiting sparse structures and synergy designs to advance situational awareness of electrical power grid](https://arxiv.org/abs/2412.15105)|[dynamic](https://github.com/bhooi/dynamic)|
 ## 2024-12-19
 |paper|code|
