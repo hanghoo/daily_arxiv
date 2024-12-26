@@ -1,3 +1,11 @@
+## 2024-12-25
+|paper|code|
+|---|---|
+|[a pac-bayesian framework for optimal control with stability guarantees](https://arxiv.org/abs/2403.17790)|[pac-snoc](https://github.com/decodepfl/pac-snoc)|
+|[cognitioncapturer: decoding visual stimuli from human eeg signal with multimodal information](https://arxiv.org/abs/2412.10489)|[cognitioncapturer](https://github.com/xiaozhangyes/cognitioncapturer)|
+|[cwa-t: a channelwise autoencoder with transformer for eeg abnormality detection](https://arxiv.org/abs/2412.14522)|[cae-t](https://github.com/yossizhao/cae-t)|
+|[development and application of a decentralized domain name service](https://arxiv.org/abs/2412.01959)|[ddns](https://github.com/GY19A/ddns)|
+|[l3tc: leveraging rwkv for learned lossless low-complexity text compression](https://arxiv.org/abs/2412.16642)|[l3tc-leveraging-rwkv-for-learned-lossless-low-complexity-text-compression](https://github.com/alipay/l3tc-leveraging-rwkv-for-learned-lossless-low-complexity-text-compression)|
 ## 2024-12-24
 |paper|code|
 |---|---|
