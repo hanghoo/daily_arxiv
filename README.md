@@ -4,6 +4,7 @@
 |[a pac-bayesian framework for optimal control with stability guarantees](https://arxiv.org/abs/2403.17790)|[pac-snoc](https://github.com/decodepfl/pac-snoc)|
 |[cognitioncapturer: decoding visual stimuli from human eeg signal with multimodal information](https://arxiv.org/abs/2412.10489)|[cognitioncapturer](https://github.com/xiaozhangyes/cognitioncapturer)|
 |[cwa-t: a channelwise autoencoder with transformer for eeg abnormality detection](https://arxiv.org/abs/2412.14522)|[cae-t](https://github.com/yossizhao/cae-t)|
+|[noisereduce: domain general noise reduction for time series signals](https://arxiv.org/abs/2412.17851)|[noisereduce](https://github.com/timsainb/noisereduce)|
 |[development and application of a decentralized domain name service](https://arxiv.org/abs/2412.01959)|[ddns](https://github.com/GY19A/ddns)|
 |[l3tc: leveraging rwkv for learned lossless low-complexity text compression](https://arxiv.org/abs/2412.16642)|[l3tc-leveraging-rwkv-for-learned-lossless-low-complexity-text-compression](https://github.com/alipay/l3tc-leveraging-rwkv-for-learned-lossless-low-complexity-text-compression)|
 ## 2024-12-24
@@ -23,6 +24,8 @@
 |[predictive spliner: data-driven overtaking in autonomous racing using opponent trajectory prediction](https://arxiv.org/abs/2410.04868)|[predictive-spliner](https://github.com/forzaeth/predictive-spliner)|
 |[learning cortico-muscular dependence through orthonormal decomposition of density ratios](https://arxiv.org/abs/2410.14697)|[corticomuscular-eigen-encoder](https://github.com/bohu615/corticomuscular-eigen-encoder)|
 |[data publishing in mechanics and dynamics: challenges, guidelines, and examples from engineering design](https://arxiv.org/abs/2410.18358)|[connectinggaitsinenergeticallyconservativeleggedsystems](https://github.com/raffmax/connectinggaitsinenergeticallyconservativeleggedsystems)|
+|[joint task offloading and routing in wireless multi-hop networks using biased backpressure algorithm](https://arxiv.org/abs/2412.15385)|[edgeSPBP](https://github.com/zhongyuanzhao/edgeSPBP)|
+|[quantifying the benefit of load uncertainty reduction for the design of district energy systems under grid constraints using the value of information](https://arxiv.org/abs/2412.16105)|[Building-Design-VoI](https://github.com/mal84emma/Building-Design-VoI)|
 |[faithful and accurate self-attention attribution for message passing neural networks via the computation tree viewpoint](https://arxiv.org/abs/2406.04612)|[gatt](https://github.com/jordan7186/gatt)|
 ## 2024-12-20
 |paper|code|
