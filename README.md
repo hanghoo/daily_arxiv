@@ -16,6 +16,7 @@
 |[distribution grids may be a barrier to residential electrification](https://arxiv.org/abs/2410.04540)|[edgie](https://github.com/priyada7/edgie)|
 |[asynchronous federated learning: a scalable approach for decentralized machine learning](https://arxiv.org/abs/2412.17723)|[asynchronous-federated-learning](https://github.com/ali-forootani/asynchronous-federated-learning)|
 |[wifi csi based temporal activity detection via dual pyramid network](https://arxiv.org/abs/2412.16233)|[wifitad](https://github.com/avc2-uestc/wifitad)|
+|[efficacy of full-packet encryption in mitigating protocol detection for evasive virtual private networks](https://arxiv.org/abs/2412.17352)|[491-utils](https://github.com/amyipdev/491-utils)|
 |[rate of model collapse in recursive training](https://arxiv.org/abs/2412.17646)|[rate-of-model-collapse](https://github.com/berserank/rate-of-model-collapse)|
 ## 2024-12-23
 |paper|code|
