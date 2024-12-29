@@ -5,6 +5,8 @@
 |[cognitioncapturer: decoding visual stimuli from human eeg signal with multimodal information](https://arxiv.org/abs/2412.10489)|[cognitioncapturer](https://github.com/xiaozhangyes/cognitioncapturer)|
 |[cwa-t: a channelwise autoencoder with transformer for eeg abnormality detection](https://arxiv.org/abs/2412.14522)|[cae-t](https://github.com/yossizhao/cae-t)|
 |[noisereduce: domain general noise reduction for time series signals](https://arxiv.org/abs/2412.17851)|[noisereduce](https://github.com/timsainb/noisereduce)|
+|[network models of expertise in the complex task of operating particle accelerators](https://arxiv.org/abs/2412.17988)|[Expertise-in-Operating-Particle-Accelerators-through-Network-Models-of-Performance](https://github.com/Roussel006/Expertise-in-Operating-Particle-Accelerators-through-Network-Models-of-Performance)|
+|[a zero-shot physics-informed dictionary learning approach for sound field reconstruction](https://arxiv.org/abs/2412.18348)|[local_soundfield_reconstruction](https://github.com/manvhah/local_soundfield_reconstruction)|
 |[development and application of a decentralized domain name service](https://arxiv.org/abs/2412.01959)|[ddns](https://github.com/GY19A/ddns)|
 |[l3tc: leveraging rwkv for learned lossless low-complexity text compression](https://arxiv.org/abs/2412.16642)|[l3tc-leveraging-rwkv-for-learned-lossless-low-complexity-text-compression](https://github.com/alipay/l3tc-leveraging-rwkv-for-learned-lossless-low-complexity-text-compression)|
 ## 2024-12-24
@@ -14,6 +16,7 @@
 |[nn-etm: enabling safe neural network-based event-triggering mechanisms for consensus problems](https://arxiv.org/abs/2403.12567)|[nn-etm](https://github.com/ireneperezsalesa/nn-etm)|
 |[integrating systemc-ams power modeling with a risc-v iss for virtual prototyping of battery-operated embedded devices](https://arxiv.org/abs/2404.01861)|[messy](https://github.com/eml-eda/messy)|
 |[distribution grids may be a barrier to residential electrification](https://arxiv.org/abs/2410.04540)|[edgie](https://github.com/priyada7/edgie)|
+|[robust heart rate detection via multi-site photoplethysmography](https://arxiv.org/abs/2412.17538)|[MultiSite-PPG-Robust_HeartRate](https://github.com/eth-siplab/MultiSite-PPG-Robust_HeartRate)|
 |[asynchronous federated learning: a scalable approach for decentralized machine learning](https://arxiv.org/abs/2412.17723)|[asynchronous-federated-learning](https://github.com/ali-forootani/asynchronous-federated-learning)|
 |[wifi csi based temporal activity detection via dual pyramid network](https://arxiv.org/abs/2412.16233)|[wifitad](https://github.com/avc2-uestc/wifitad)|
 |[efficacy of full-packet encryption in mitigating protocol detection for evasive virtual private networks](https://arxiv.org/abs/2412.17352)|[491-utils](https://github.com/amyipdev/491-utils)|
@@ -25,7 +28,6 @@
 |[predictive spliner: data-driven overtaking in autonomous racing using opponent trajectory prediction](https://arxiv.org/abs/2410.04868)|[predictive-spliner](https://github.com/forzaeth/predictive-spliner)|
 |[learning cortico-muscular dependence through orthonormal decomposition of density ratios](https://arxiv.org/abs/2410.14697)|[corticomuscular-eigen-encoder](https://github.com/bohu615/corticomuscular-eigen-encoder)|
 |[data publishing in mechanics and dynamics: challenges, guidelines, and examples from engineering design](https://arxiv.org/abs/2410.18358)|[connectinggaitsinenergeticallyconservativeleggedsystems](https://github.com/raffmax/connectinggaitsinenergeticallyconservativeleggedsystems)|
-|[joint task offloading and routing in wireless multi-hop networks using biased backpressure algorithm](https://arxiv.org/abs/2412.15385)|[edgeSPBP](https://github.com/zhongyuanzhao/edgeSPBP)|
 |[quantifying the benefit of load uncertainty reduction for the design of district energy systems under grid constraints using the value of information](https://arxiv.org/abs/2412.16105)|[Building-Design-VoI](https://github.com/mal84emma/Building-Design-VoI)|
 |[faithful and accurate self-attention attribution for message passing neural networks via the computation tree viewpoint](https://arxiv.org/abs/2406.04612)|[gatt](https://github.com/jordan7186/gatt)|
 ## 2024-12-20
