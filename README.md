@@ -13,12 +13,10 @@
 |paper|code|
 |---|---|
 |[towards efficient mppi trajectory generation with unscented guidance: u-mppi control strategy](https://arxiv.org/abs/2306.12369)|[u-mppi](https://github.com/ihabmohamed/u-mppi)|
-|[nn-etm: enabling safe neural network-based event-triggering mechanisms for consensus problems](https://arxiv.org/abs/2403.12567)|[nn-etm](https://github.com/ireneperezsalesa/nn-etm)|
 |[integrating systemc-ams power modeling with a risc-v iss for virtual prototyping of battery-operated embedded devices](https://arxiv.org/abs/2404.01861)|[messy](https://github.com/eml-eda/messy)|
 |[distribution grids may be a barrier to residential electrification](https://arxiv.org/abs/2410.04540)|[edgie](https://github.com/priyada7/edgie)|
 |[robust heart rate detection via multi-site photoplethysmography](https://arxiv.org/abs/2412.17538)|[MultiSite-PPG-Robust_HeartRate](https://github.com/eth-siplab/MultiSite-PPG-Robust_HeartRate)|
 |[asynchronous federated learning: a scalable approach for decentralized machine learning](https://arxiv.org/abs/2412.17723)|[asynchronous-federated-learning](https://github.com/ali-forootani/asynchronous-federated-learning)|
-|[wifi csi based temporal activity detection via dual pyramid network](https://arxiv.org/abs/2412.16233)|[wifitad](https://github.com/avc2-uestc/wifitad)|
 |[efficacy of full-packet encryption in mitigating protocol detection for evasive virtual private networks](https://arxiv.org/abs/2412.17352)|[491-utils](https://github.com/amyipdev/491-utils)|
 |[rate of model collapse in recursive training](https://arxiv.org/abs/2412.17646)|[rate-of-model-collapse](https://github.com/berserank/rate-of-model-collapse)|
 ## 2024-12-23
