@@ -1,3 +1,13 @@
+## 2024-12-30
+|paper|code|
+|---|---|
+|[dero: dead reckoning based on radar odometry with accelerometers aided for robot localization](https://arxiv.org/abs/2403.05136)|[dero](https://github.com/hoangvietdo/dero)|
+|[nn-etm: enabling safe neural network-based event-triggering mechanisms for consensus problems](https://arxiv.org/abs/2403.12567)|[nn-etm](https://github.com/ireneperezsalesa/nn-etm)|
+|[3d-speaker-toolkit: an open-source toolkit for multimodal speaker verification and diarization](https://arxiv.org/abs/2403.19971)|[3D-Speaker](https://github.com/modelscope/3D-Speaker)|
+|[rapid and power-aware learned optimization for modular receive beamforming](https://arxiv.org/abs/2408.00439)|[Power-Aware-Deep-Unfolding-for-Beamforming](https://github.com/levyohad/Power-Aware-Deep-Unfolding-for-Beamforming)|
+|[seasonal performance evaluation of a hybrid pv-wind-battery power system for a mars base](https://arxiv.org/abs/2410.00066)|[epecs-2024](https://github.com/abdollahmasoud/epecs-2024)|
+|[performance evaluation of iot lora networks on mars through ns-3 simulations](https://arxiv.org/abs/2412.19549)|[MarsPropagationLoss](https://github.com/manuelefavero/MarsPropagationLoss)|
+|[wifi csi based temporal activity detection via dual pyramid network](https://arxiv.org/abs/2412.16233)|[wifitad](https://github.com/avc2-uestc/wifitad)|
 ## 2024-12-25
 |paper|code|
 |---|---|
