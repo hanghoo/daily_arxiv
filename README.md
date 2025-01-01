@@ -1,3 +1,20 @@
+## 2024-12-31
+|paper|code|
+|---|---|
+|[online learning and control for data-augmented quadrotor model](https://arxiv.org/abs/2304.00503)|[mpc_quad_ros](https://github.com/smidmatej/mpc_quad_ros)|
+|[decentralized optimization in networks with arbitrary delays](https://arxiv.org/abs/2401.11344)|[dt-go](https://github.com/tomasortega/dt-go)|
+|[physics-informed rl for maximal safety probability estimation](https://arxiv.org/abs/2403.16391)|[pirl_acc2024](https://github.com/hoshino06/pirl_acc2024)|
+|[unleashing the power of data tsunami: a comprehensive survey on data assessment and selection for instruction tuning of language models](https://arxiv.org/abs/2408.02085)|[fantastic-data-engineering](https://github.com/yuleiqin/fantastic-data-engineering)|
+|[leveraging symmetry to accelerate learning of trajectory tracking controllers for free-flying robotic systems](https://arxiv.org/abs/2409.11238)|[eqtrackingcontrol](https://github.com/pratikkunapuli/eqtrackingcontrol)|
+|[e-sort: empowering end-to-end neural network for multi-channel spike sorting with transfer learning and fast post-processing](https://arxiv.org/abs/2409.13067)|[e-sort](https://github.com/lucashancef/e-sort)|
+|[a multi-agent multi-environment mixed q-learning for partially decentralized wireless network optimization](https://arxiv.org/abs/2409.16450)|[icassp-25-appendix](https://github.com/talhabozkus/icassp-25-appendix)|
+|[assessing the optimistic bias in the natural inflow forecasts: a call for model monitoring in brazil](https://arxiv.org/abs/2410.13763)|[inflowforecastbias_data](https://github.com/arthur-brigatto/inflowforecastbias_data)|
+|[mobilenetv2: a lightweight classification model for home-based sleep apnea screening](https://arxiv.org/abs/2412.19967)|[Easy-MobileNetV2](https://github.com/mindspore-lab/models/tree/master/research/arxiv_papers/Easy-MobileNetV2)|
+|[online adaptive platoon control for connected and automated vehicles via physics enhanced residual learning](https://arxiv.org/abs/2412.20680)|[AV-Control-PERL_Platooning](https://github.com/CATS-Lab/AV-Control-PERL_Platooning)|
+|[schedulability analysis in time-sensitive networking: a systematic literature review](https://arxiv.org/abs/2407.15031)|[Database-schedulability-analysis-in-TSN](https://github.com/Zitong-W/Database-schedulability-analysis-in-TSN)|
+|[toward intelligent and secure cloud: large language model empowered proactive defense](https://arxiv.org/abs/2412.21051)|[LLM-PD](https://github.com/SEU-ProactiveSecurity-Group/LLM-PD)|
+|[causal hangover effects](https://arxiv.org/abs/2412.21181)|[nba-party](https://github.com/asantucci/nba-party)|
+|[distributed mixture-of-agents for edge inference with large language models](https://arxiv.org/abs/2412.21200)|[distributed_moa](https://github.com/purbeshmitra/distributed_moa)|
 ## 2024-12-30
 |paper|code|
 |---|---|
