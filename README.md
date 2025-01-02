@@ -9,6 +9,7 @@
 |[e-sort: empowering end-to-end neural network for multi-channel spike sorting with transfer learning and fast post-processing](https://arxiv.org/abs/2409.13067)|[e-sort](https://github.com/lucashancef/e-sort)|
 |[a multi-agent multi-environment mixed q-learning for partially decentralized wireless network optimization](https://arxiv.org/abs/2409.16450)|[icassp-25-appendix](https://github.com/talhabozkus/icassp-25-appendix)|
 |[assessing the optimistic bias in the natural inflow forecasts: a call for model monitoring in brazil](https://arxiv.org/abs/2410.13763)|[inflowforecastbias_data](https://github.com/arthur-brigatto/inflowforecastbias_data)|
+|[recommender systems and reinforcement learning for human-building interaction and context-aware support: a text mining-driven review of scientific literature](https://arxiv.org/abs/2411.08734)|[recommender-sys-for-buildings-textmining-review](https://github.com/buds-lab/recommender-sys-for-buildings-textmining-review)|
 |[mobilenetv2: a lightweight classification model for home-based sleep apnea screening](https://arxiv.org/abs/2412.19967)|[Easy-MobileNetV2](https://github.com/mindspore-lab/models/tree/master/research/arxiv_papers/Easy-MobileNetV2)|
 |[online adaptive platoon control for connected and automated vehicles via physics enhanced residual learning](https://arxiv.org/abs/2412.20680)|[AV-Control-PERL_Platooning](https://github.com/CATS-Lab/AV-Control-PERL_Platooning)|
 |[schedulability analysis in time-sensitive networking: a systematic literature review](https://arxiv.org/abs/2407.15031)|[Database-schedulability-analysis-in-TSN](https://github.com/Zitong-W/Database-schedulability-analysis-in-TSN)|
@@ -23,6 +24,10 @@
 |[3d-speaker-toolkit: an open-source toolkit for multimodal speaker verification and diarization](https://arxiv.org/abs/2403.19971)|[3D-Speaker](https://github.com/modelscope/3D-Speaker)|
 |[rapid and power-aware learned optimization for modular receive beamforming](https://arxiv.org/abs/2408.00439)|[Power-Aware-Deep-Unfolding-for-Beamforming](https://github.com/levyohad/Power-Aware-Deep-Unfolding-for-Beamforming)|
 |[seasonal performance evaluation of a hybrid pv-wind-battery power system for a mars base](https://arxiv.org/abs/2410.00066)|[epecs-2024](https://github.com/abdollahmasoud/epecs-2024)|
+|[zema dataset: a comprehensive study of yaredawi zema with a focus on horologium chants](https://arxiv.org/abs/2412.18784)|[ChantingModeClassification](https://github.com/mequanent/ChantingModeClassification)|
+|[computational analysis of yaredawi yezema silt in ethiopian orthodox tewahedo church chants](https://arxiv.org/abs/2412.18788)|[ChantingModeClassification](https://github.com/mequanent/ChantingModeClassification)|
+|[parametrizations of all stable closed-loop responses: from theory to neural network control design](https://arxiv.org/abs/2412.19280)|[outputSLS](https://github.com/DecodEPFL/outputSLS)|
+|[multi-condition fault diagnosis of dynamic systems: a survey, insights, and prospects](https://arxiv.org/abs/2412.19497)|[Multi-Condition-Fault-Diagnosis](https://github.com/THUFDD/Multi-Condition-Fault-Diagnosis)|
 |[performance evaluation of iot lora networks on mars through ns-3 simulations](https://arxiv.org/abs/2412.19549)|[MarsPropagationLoss](https://github.com/manuelefavero/MarsPropagationLoss)|
 |[wifi csi based temporal activity detection via dual pyramid network](https://arxiv.org/abs/2412.16233)|[wifitad](https://github.com/avc2-uestc/wifitad)|
 ## 2024-12-25
