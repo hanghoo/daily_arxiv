@@ -1,3 +1,46 @@
+## 2025-01-10
+|paper|code|
+|---|---|
+|[smoothed separable nonnegative matrix factorization](https://arxiv.org/abs/2110.05528)|[smoothed-separable-nmf](https://gitlab.com/nnadisic/smoothed-separable-nmf)|
+|[deep nonnegative matrix factorization with beta divergences](https://arxiv.org/abs/2309.08249)|[deep-beta-nmf-public](https://github.com/vleplat/deep-beta-nmf-public)|
+|[checking the sufficiently scattered condition using a global non-convex optimization software](https://arxiv.org/abs/2402.06019)|[check-ssc](https://gitlab.com/ngillis/check-ssc)|
+|[dual simplex volume maximization for simplex-structured matrix factorization](https://arxiv.org/abs/2403.20197)|[maxvol_dual](https://github.com/mabdolali/maxvol_dual)|
+|[convex optimization of initial perturbations toward quantitative weather control](https://arxiv.org/abs/2405.19546)|[Weather-Control-by-InitCond](https://github.com/ohtsukalab/Weather-Control-by-InitCond)|
+|[gsvd-nmf: recovering missing features in non-negative matrix factorization](https://arxiv.org/abs/2408.08260)|[gsvdinitialization.jl](https://github.com/holylab/gsvdinitialization.jl)|
+|[adaptive probabilistic planning for the uncertain and dynamic orienteering problem](https://arxiv.org/abs/2409.05545)|[Uncertain-Dynamic-OP](https://github.com/sysal-bruce-publication/Uncertain-Dynamic-OP)|
+|[automotive speed estimation: sensor types and error characteristics from obd-ii to adas](https://arxiv.org/abs/2501.00242)|[navinst19](https://github.com/hanymragab/navinst19)|
+|[enhancing listened speech decoding from eeg via parallel phoneme sequence prediction](https://arxiv.org/abs/2501.04844)|[icassp25-fesde-phoneme](https://github.com/lee-jhwn/icassp25-fesde-phoneme)|
+|[hierarchical decomposed dual-domain deep learning for sparse-view ct reconstruction](https://arxiv.org/abs/2501.05093)|[hdd-dl-for-svct](https://github.com/hanyoseob/hdd-dl-for-svct)|
+|[deterministic and reliable software-defined vehicles: key building blocks, challenges, and vision](https://arxiv.org/abs/2407.17287)|[linux](https://github.com/torvalds/linux)|
+## 2025-01-09
+|paper|code|
+|---|---|
+|[manifold filter-combine networks](https://arxiv.org/abs/2307.04056)|[mfcn](https://github.com/dj408/mfcn)|
+|[unlocking the diagnostic potential of electrocardiograms through information transfer from cardiac magnetic resonance imaging](https://arxiv.org/abs/2308.05764)|[mmcl-ecg-cmr](https://github.com/oetu/mmcl-ecg-cmr)|
+|[entropy-regularized diffusion policy with q-ensembles for offline reinforcement learning](https://arxiv.org/abs/2402.04080)|[entropy-offlineRL](https://github.com/ruoqizzz/entropy-offlineRL)|
+|[a survey of spatio-temporal eeg data analysis: from models to applications](https://arxiv.org/abs/2410.08224)|[llms4ts](https://github.com/wpf535236337/llms4ts)|
+|[a peaceman-rachford splitting approach with deep equilibrium network for channel estimation](https://arxiv.org/abs/2410.23752)|[PR-DEN](https://github.com/wushitong1234/PR-DEN)|
+|[multiple testing in multi-stream sequential change detection](https://arxiv.org/abs/2501.04130)|[multistream-change-detectors](https://github.com/sanjitdp/multistream-change-detectors)|
+|[fsc-loss: a frequency-domain structure consistency learning approach for signal data recovery and reconstruction](https://arxiv.org/abs/2501.04308)|[mpi_ssim_mix_loss](https://github.com/dreamenwalker/mpi_ssim_mix_loss)|
+## 2025-01-08
+|paper|code|
+|---|---|
+|[recommender systems and reinforcement learning for human-building interaction and context-aware support: a text mining-driven review of scientific literature](https://arxiv.org/abs/2411.08734)|[recommender-sys-for-buildings-textmining-review](https://github.com/buds-lab/recommender-sys-for-buildings-textmining-review)|
+|[radar signal recognition through self-supervised learning and domain adaptation](https://arxiv.org/abs/2501.03461)|[radcharssl](https://github.com/abcxyzi/radcharssl)|
+|[efficacy of full-packet encryption in mitigating protocol detection for evasive virtual private networks](https://arxiv.org/abs/2412.17352)|[491-utils](https://github.com/amyipdev/491-utils)|
+## 2025-01-07
+|paper|code|
+|---|---|
+|[automated security response through online learning with adaptive conjectures](https://arxiv.org/abs/2402.12499)|[csle](https://github.com/limmen/csle)|
+|[normalizing flow-based differentiable particle filters](https://arxiv.org/abs/2403.01499)|[normalizing-flows-dpfs](https://github.com/xiongjiechen/normalizing-flows-dpfs)|
+|[real-time aiot for uav antenna interference detection via edge-cloud collaboration](https://arxiv.org/abs/2412.03055)|[edgeant](https://github.com/scnu-rislab/edgeant)|
+|[st-hcss: deep spatio-temporal hypergraph convolutional neural network for soft sensing](https://arxiv.org/abs/2501.02016)|[st-hcss](https://github.com/htew0001/st-hcss)|
+|[easing optimization paths: a circuit perspective](https://arxiv.org/abs/2501.02362)|[pal](https://github.com/facebookresearch/pal)|
+|[remote inference over dynamic links via adaptive rate deep task-oriented vector quantization](https://arxiv.org/abs/2501.02521)|[artoveq](https://github.com/eyalfish/artoveq)|
+|[udmc: unified decision-making and control framework for urban autonomous driving with motion prediction of traffic participants](https://arxiv.org/abs/2501.02530)|[udmc_carla](https://github.com/henryhcliu/udmc_carla)|
+|[msa-cnn: a lightweight multi-scale cnn with attention for sleep stage classification](https://arxiv.org/abs/2501.02949)|[msa-cnn](https://github.com/sgoerttler/msa-cnn)|
+|[intent-aware drl-based noma uplink dynamic scheduler for iiot](https://arxiv.org/abs/2403.18364)|[intent-aware-drl-based-noma-uplink-dynamic-scheduler-for-iiot](https://github.com/salwamostafa/intent-aware-drl-based-noma-uplink-dynamic-scheduler-for-iiot)|
+|[prioritized information bottleneck theoretic framework with distributed online learning for edge video analytics](https://arxiv.org/abs/2409.00146)|[pib-prioritized-information-bottleneck-framework](https://github.com/fangzr/pib-prioritized-information-bottleneck-framework)|
 ## 2024-12-31
 |paper|code|
 |---|---|
