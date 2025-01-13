@@ -4,6 +4,8 @@ import time
 import requests
 import json
 from datetime import timedelta
+import os
+import pathlib
 
 
 def get_daily_code(DateToday,cats):
