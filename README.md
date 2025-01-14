@@ -1,3 +1,11 @@
+## 2025-01-13
+|paper|code|
+|---|---|
+|[decomposed linear dynamical systems (dlds) for learning the latent components of neural dynamics](https://arxiv.org/abs/2206.02972)|[dLDS-Discrete-Python-Model](https://github.com/dLDS-Decomposed-Linear-Dynamics/dLDS-Discrete-Python-Model)|
+|[the computation of approximate feedback stackelberg equilibria in multi-player nonlinear constrained dynamic games](https://arxiv.org/abs/2401.15745)|[feedbackstackelberggames.jl](https://github.com/jamesjingqili/feedbackstackelberggames.jl)|
+|[orthogonal projection-based regularization for efficient model augmentation](https://arxiv.org/abs/2501.05842)|[orthogonal-augmentation](https://github.com/aimotionlab-sztaki/orthogonal-augmentation)|
+|[bright: a globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response](https://arxiv.org/abs/2501.06019)|[bright](https://github.com/chenhongruixuan/bright)|
+|[ktwin: a serverless kubernetes-based digital twin platform](https://arxiv.org/abs/2408.01635)|[ktwin-article](https://github.com/Open-Digital-Twin/ktwin-article)|
 ## 2025-01-10
 |paper|code|
 |---|---|
