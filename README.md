@@ -1,3 +1,12 @@
+## 2025-01-14
+|paper|code|
+|---|---|
+|[zeroth-order actor-critic: an evolutionary framework for sequential decision problems](https://arxiv.org/abs/2201.12518)|[zoac-tevc](https://github.com/harrylui98/zoac-tevc)|
+|[usv-auv collaboration framework for underwater tasks under extreme sea conditions](https://arxiv.org/abs/2409.02444)|[usv-auv-colab](https://github.com/360zmem/usv-auv-colab)|
+|[the bouc-wen model for binary direct collinear collisions of convex viscoplastic bodies](https://arxiv.org/abs/2410.08147)|[bwbcl](https://gitlab.com/user9716869/bwbcl)|
+|[efficient estimation of relaxed model parameters for robust uav trajectory optimization](https://arxiv.org/abs/2411.10941)|[parameter-affine-relaxation](https://github.com/Herpderk/parameter-affine-relaxation)|
+|[asynchronous federated learning: a scalable approach for decentralized machine learning](https://arxiv.org/abs/2412.17723)|[asynchronous-federated-learning](https://github.com/ali-forootani/asynchronous-federated-learning)|
+|[advancing single-snapshot doa estimation with siamese neural networks for sparse linear arrays](https://arxiv.org/abs/2501.07008)|[snns_sla](https://github.com/ruxinzh/snns_sla)|
 ## 2025-01-13
 |paper|code|
 |---|---|
@@ -28,7 +37,6 @@
 |[entropy-regularized diffusion policy with q-ensembles for offline reinforcement learning](https://arxiv.org/abs/2402.04080)|[entropy-offlineRL](https://github.com/ruoqizzz/entropy-offlineRL)|
 |[a survey of spatio-temporal eeg data analysis: from models to applications](https://arxiv.org/abs/2410.08224)|[llms4ts](https://github.com/wpf535236337/llms4ts)|
 |[a peaceman-rachford splitting approach with deep equilibrium network for channel estimation](https://arxiv.org/abs/2410.23752)|[PR-DEN](https://github.com/wushitong1234/PR-DEN)|
-|[multiple testing in multi-stream sequential change detection](https://arxiv.org/abs/2501.04130)|[multistream-change-detectors](https://github.com/sanjitdp/multistream-change-detectors)|
 |[fsc-loss: a frequency-domain structure consistency learning approach for signal data recovery and reconstruction](https://arxiv.org/abs/2501.04308)|[mpi_ssim_mix_loss](https://github.com/dreamenwalker/mpi_ssim_mix_loss)|
 ## 2025-01-08
 |paper|code|
