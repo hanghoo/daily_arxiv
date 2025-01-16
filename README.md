@@ -1,3 +1,15 @@
+## 2025-01-15
+|paper|code|
+|---|---|
+|[uav trajectory planning with path processing](https://arxiv.org/abs/2407.01366)|[TrajectoryPathProcess](https://github.com/zboucek/TrajectoryPathProcess)|
+|[layer-adaptive state pruning for deep state space models](https://arxiv.org/abs/2411.02824)|[last](https://github.com/msgwak/last)|
+|[stochastic integration based estimator: robust design and stone soup implementation](https://arxiv.org/abs/2412.07239)|[fusion2024_sif](https://github.com/idm-uwb/fusion2024_sif)|
+|[radar signal recognition through self-supervised learning and domain adaptation](https://arxiv.org/abs/2501.03461)|[radcharssl](https://github.com/abcxyzi/radcharssl)|
+|[multiple testing in multi-stream sequential change detection](https://arxiv.org/abs/2501.04130)|[multistream-change-detectors](https://github.com/sanjitdp/multistream-change-detectors)|
+|[analyzing the role of the dso in electricity trading of vpps via a stackelberg game model](https://arxiv.org/abs/2501.07715)|[Code_of_bilevel_DSO_VPPs](https://github.com/pwang30/Code_of_bilevel_DSO_VPPs)|
+|[private collaborative edge inference via over-the-air computation](https://arxiv.org/abs/2407.21151)|[collaborative-inference-oac](https://github.com/ipc-lab/collaborative-inference-oac)|
+|[qmdb: quick merkle database](https://arxiv.org/abs/2501.05262)|[qmdb](https://github.com/layerzero-labs/qmdb)|
+|[enhanced sps velocity-adaptive scheme: access fariness in 5g nr v2i networks](https://arxiv.org/abs/2501.08037)|[enhanced-sps-velocity-adaptivescheme-access-fariness-in-5g-nr-v2i-networks](https://github.com/qiongwu86/enhanced-sps-velocity-adaptivescheme-access-fariness-in-5g-nr-v2i-networks)|
 ## 2025-01-14
 |paper|code|
 |---|---|
@@ -7,6 +19,7 @@
 |[efficient estimation of relaxed model parameters for robust uav trajectory optimization](https://arxiv.org/abs/2411.10941)|[parameter-affine-relaxation](https://github.com/Herpderk/parameter-affine-relaxation)|
 |[asynchronous federated learning: a scalable approach for decentralized machine learning](https://arxiv.org/abs/2412.17723)|[asynchronous-federated-learning](https://github.com/ali-forootani/asynchronous-federated-learning)|
 |[advancing single-snapshot doa estimation with siamese neural networks for sparse linear arrays](https://arxiv.org/abs/2501.07008)|[snns_sla](https://github.com/ruxinzh/snns_sla)|
+|[data driven environmental awareness using wireless signals](https://arxiv.org/abs/2410.13159)|[environmental-classification_ml](https://github.com/hosseinnasi/environmental-classification_ml)|
 ## 2025-01-13
 |paper|code|
 |---|---|
@@ -26,6 +39,7 @@
 |[gsvd-nmf: recovering missing features in non-negative matrix factorization](https://arxiv.org/abs/2408.08260)|[gsvdinitialization.jl](https://github.com/holylab/gsvdinitialization.jl)|
 |[adaptive probabilistic planning for the uncertain and dynamic orienteering problem](https://arxiv.org/abs/2409.05545)|[Uncertain-Dynamic-OP](https://github.com/sysal-bruce-publication/Uncertain-Dynamic-OP)|
 |[automotive speed estimation: sensor types and error characteristics from obd-ii to adas](https://arxiv.org/abs/2501.00242)|[navinst19](https://github.com/hanymragab/navinst19)|
+|[drl-based medium-term planning of renewable-integrated self-scheduling cascaded hydropower to guide wholesale market participation](https://arxiv.org/abs/2501.04839)|[drl-vschs-planning](https://github.com/asxadf/drl-vschs-planning)|
 |[enhancing listened speech decoding from eeg via parallel phoneme sequence prediction](https://arxiv.org/abs/2501.04844)|[icassp25-fesde-phoneme](https://github.com/lee-jhwn/icassp25-fesde-phoneme)|
 |[hierarchical decomposed dual-domain deep learning for sparse-view ct reconstruction](https://arxiv.org/abs/2501.05093)|[hdd-dl-for-svct](https://github.com/hanyoseob/hdd-dl-for-svct)|
 |[deterministic and reliable software-defined vehicles: key building blocks, challenges, and vision](https://arxiv.org/abs/2407.17287)|[linux](https://github.com/torvalds/linux)|
