@@ -1,3 +1,16 @@
+## 2025-01-16
+|paper|code|
+|---|---|
+|[enforcing contraction via data](https://arxiv.org/abs/2401.07819)|[codes-for-contraction-paper](https://github.com/zjhurug/codes-for-contraction-paper)|
+|[supplygraph: a benchmark dataset for supply chain planning using graph neural networks](https://arxiv.org/abs/2401.15299)|[SupplyGraph](https://github.com/ciol-researchlab/SupplyGraph)|
+|[proprioception is all you need: terrain classification for boreal forests](https://arxiv.org/abs/2403.16877)|[BorealTC](https://github.com/norlab-ulaval/BorealTC)|
+|[approximation properties relative to continuous scale space for hybrid discretizations of gaussian derivative operators](https://arxiv.org/abs/2405.05095)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[sustaindc: benchmarking for sustainable data center control](https://arxiv.org/abs/2408.07841)|[dc-rl](https://github.com/hewlettpackard/dc-rl)|
+|[crossfi: a cross domain wi-fi sensing framework based on siamese network](https://arxiv.org/abs/2408.10919)|[CrossFi](https://github.com/RS2002/CrossFi)|
+|[a discrete-sequence dataset for evaluating online unsupervised anomaly detection approaches for multivariate time series](https://arxiv.org/abs/2411.13951)|[path](https://github.com/lcs-crr/path)|
+|[on the surprising effectiveness of spectrum clipping in learning stable linear dynamics](https://arxiv.org/abs/2412.01168)|[spec_clip](https://github.com/gt-star-lab/spec_clip)|
+|[rifo: pushing the efficiency of programmable packet schedulers](https://arxiv.org/abs/2308.07442)|[rifo](https://github.com/mostafaei/rifo)|
+|[diffusion models as network optimizers: explorations and analysis](https://arxiv.org/abs/2411.00453)|[DiffSG](https://github.com/qiyu3816/DiffSG)|
 ## 2025-01-15
 |paper|code|
 |---|---|
@@ -9,7 +22,6 @@
 |[analyzing the role of the dso in electricity trading of vpps via a stackelberg game model](https://arxiv.org/abs/2501.07715)|[Code_of_bilevel_DSO_VPPs](https://github.com/pwang30/Code_of_bilevel_DSO_VPPs)|
 |[private collaborative edge inference via over-the-air computation](https://arxiv.org/abs/2407.21151)|[collaborative-inference-oac](https://github.com/ipc-lab/collaborative-inference-oac)|
 |[qmdb: quick merkle database](https://arxiv.org/abs/2501.05262)|[qmdb](https://github.com/layerzero-labs/qmdb)|
-|[enhanced sps velocity-adaptive scheme: access fariness in 5g nr v2i networks](https://arxiv.org/abs/2501.08037)|[enhanced-sps-velocity-adaptivescheme-access-fariness-in-5g-nr-v2i-networks](https://github.com/qiongwu86/enhanced-sps-velocity-adaptivescheme-access-fariness-in-5g-nr-v2i-networks)|
 ## 2025-01-14
 |paper|code|
 |---|---|
