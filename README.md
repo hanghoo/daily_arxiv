@@ -1,3 +1,12 @@
+## 2025-01-17
+|paper|code|
+|---|---|
+|[sparsity-aware distributed learning for gaussian processes with linear multiple kernel](https://arxiv.org/abs/2309.08201)|[slim-kl](https://github.com/richardcsuwandi/slim-kl)|
+|[multi-task deep-learning for sleep event detection and stage classification](https://arxiv.org/abs/2501.09519)|[sleep-events-detection](https://github.com/adrania/sleep-events-detection)|
+|[architecture and protocols for all-photonic quantum repeaters](https://arxiv.org/abs/2306.03748)|[repeater-graph-state-protocol-based-on-half-rgs](https://github.com/naphann/repeater-graph-state-protocol-based-on-half-rgs)|
+|[multiplexed quantum communication with surface and hypergraph product codes](https://arxiv.org/abs/2406.08832)|[multiplexed_toric](https://github.com/parton-quark/multiplexed_toric)|
+|[leveraging fine-tuned retrieval-augmented generation with long-context support: for 3gpp standards](https://arxiv.org/abs/2408.11775)|[oKUmura_AI_Telecom_challenge](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)|
+|[enhanced sps velocity-adaptive scheme: access fairness in 5g nr v2i networks](https://arxiv.org/abs/2501.08037)|[enhanced-sps-velocity-adaptivescheme-access-fariness-in-5g-nr-v2i-networks](https://github.com/qiongwu86/enhanced-sps-velocity-adaptivescheme-access-fariness-in-5g-nr-v2i-networks)|
 ## 2025-01-16
 |paper|code|
 |---|---|
