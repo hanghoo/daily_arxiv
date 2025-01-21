@@ -1,7 +1,17 @@
+## 2025-01-20
+|paper|code|
+|---|---|
+|[stochastic optimal control via local occupation measures](https://arxiv.org/abs/2211.15652)|[markovbounds.jl](https://github.com/fholtorf/markovbounds.jl)|
+|[surrogate modeling and control of medical digital twins](https://arxiv.org/abs/2402.05750)|[Metamodeling-and-Control-of-Medical-Digital-Twins_2024](https://github.com/LaboratoryForSystemsMedicine/Metamodeling-and-Control-of-Medical-Digital-Twins_2024)|
+|[a fairness-oriented reinforcement learning approach for the operation and control of shared micromobility services](https://arxiv.org/abs/2403.15780)|[fairmss](https://github.com/mcederle99/fairmss)|
+|[sensor-based distributionally robust control for safe robot navigation in dynamic environments](https://arxiv.org/abs/2405.18251)|[DR_Safe_Navigation](https://github.com/ExistentialRobotics/DR_Safe_Navigation)|
+|[adaptive and parallel split federated learning in vehicular edge computing](https://arxiv.org/abs/2405.18707)|[AdaptiveSplitFederatedLearning](https://github.com/XiankeQiang/AdaptiveSplitFederatedLearning)|
 ## 2025-01-17
 |paper|code|
 |---|---|
 |[sparsity-aware distributed learning for gaussian processes with linear multiple kernel](https://arxiv.org/abs/2309.08201)|[slim-kl](https://github.com/richardcsuwandi/slim-kl)|
+|[hierarchical deep reinforcement learning for adaptive resource management in integrated terrestrial and non-terrestrial networks](https://arxiv.org/abs/2501.09212)|[Spectrum-Sharing-Hierarchical-DRL](https://github.com/ahmd-mohsin/Spectrum-Sharing-Hierarchical-DRL)|
+|[a dataset generation toolbox for dynamic security assessment: on the role of the security boundary](https://arxiv.org/abs/2501.09513)|[dsa-learn](https://github.com/bastiengiraud/dsa-learn)|
 |[multi-task deep-learning for sleep event detection and stage classification](https://arxiv.org/abs/2501.09519)|[sleep-events-detection](https://github.com/adrania/sleep-events-detection)|
 |[architecture and protocols for all-photonic quantum repeaters](https://arxiv.org/abs/2306.03748)|[repeater-graph-state-protocol-based-on-half-rgs](https://github.com/naphann/repeater-graph-state-protocol-based-on-half-rgs)|
 |[multiplexed quantum communication with surface and hypergraph product codes](https://arxiv.org/abs/2406.08832)|[multiplexed_toric](https://github.com/parton-quark/multiplexed_toric)|
@@ -15,11 +25,12 @@
 |[proprioception is all you need: terrain classification for boreal forests](https://arxiv.org/abs/2403.16877)|[BorealTC](https://github.com/norlab-ulaval/BorealTC)|
 |[approximation properties relative to continuous scale space for hybrid discretizations of gaussian derivative operators](https://arxiv.org/abs/2405.05095)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
 |[sustaindc: benchmarking for sustainable data center control](https://arxiv.org/abs/2408.07841)|[dc-rl](https://github.com/hewlettpackard/dc-rl)|
-|[crossfi: a cross domain wi-fi sensing framework based on siamese network](https://arxiv.org/abs/2408.10919)|[CrossFi](https://github.com/RS2002/CrossFi)|
+|[crossfi: a cross domain wi-fi sensing framework based on siamese network](https://arxiv.org/abs/2408.10919)|[ESP32-Realtime-System](https://github.com/RS2002/ESP32-Realtime-System)|
 |[a discrete-sequence dataset for evaluating online unsupervised anomaly detection approaches for multivariate time series](https://arxiv.org/abs/2411.13951)|[path](https://github.com/lcs-crr/path)|
 |[on the surprising effectiveness of spectrum clipping in learning stable linear dynamics](https://arxiv.org/abs/2412.01168)|[spec_clip](https://github.com/gt-star-lab/spec_clip)|
 |[rifo: pushing the efficiency of programmable packet schedulers](https://arxiv.org/abs/2308.07442)|[rifo](https://github.com/mostafaei/rifo)|
 |[diffusion models as network optimizers: explorations and analysis](https://arxiv.org/abs/2411.00453)|[DiffSG](https://github.com/qiyu3816/DiffSG)|
+|[rf-3dgs: wireless channel modeling with radio radiance field and 3d gaussian splatting](https://arxiv.org/abs/2411.19420)|[rf-3dgs](https://github.com/sunlab-uga/rf-3dgs)|
 ## 2025-01-15
 |paper|code|
 |---|---|
@@ -29,6 +40,8 @@
 |[radar signal recognition through self-supervised learning and domain adaptation](https://arxiv.org/abs/2501.03461)|[radcharssl](https://github.com/abcxyzi/radcharssl)|
 |[multiple testing in multi-stream sequential change detection](https://arxiv.org/abs/2501.04130)|[multistream-change-detectors](https://github.com/sanjitdp/multistream-change-detectors)|
 |[analyzing the role of the dso in electricity trading of vpps via a stackelberg game model](https://arxiv.org/abs/2501.07715)|[Code_of_bilevel_DSO_VPPs](https://github.com/pwang30/Code_of_bilevel_DSO_VPPs)|
+|[an open source validation system for continuous arterial blood pressure measuring sensors](https://arxiv.org/abs/2501.07973)|[cam-bpw-sim](https://github.com/repat8/cam-bpw-sim)|
+|[efficient and accurate full-waveform inversion with total variation constraint](https://arxiv.org/abs/2501.08210)|[efficient_and_accurate_full-waveform_inversion_with_total_variation_constraint](https://github.com/mdi-tokyotech/efficient_and_accurate_full-waveform_inversion_with_total_variation_constraint)|
 |[private collaborative edge inference via over-the-air computation](https://arxiv.org/abs/2407.21151)|[collaborative-inference-oac](https://github.com/ipc-lab/collaborative-inference-oac)|
 |[qmdb: quick merkle database](https://arxiv.org/abs/2501.05262)|[qmdb](https://github.com/layerzero-labs/qmdb)|
 ## 2025-01-14
