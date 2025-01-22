@@ -24,7 +24,6 @@
 |[supplygraph: a benchmark dataset for supply chain planning using graph neural networks](https://arxiv.org/abs/2401.15299)|[SupplyGraph](https://github.com/ciol-researchlab/SupplyGraph)|
 |[proprioception is all you need: terrain classification for boreal forests](https://arxiv.org/abs/2403.16877)|[BorealTC](https://github.com/norlab-ulaval/BorealTC)|
 |[approximation properties relative to continuous scale space for hybrid discretizations of gaussian derivative operators](https://arxiv.org/abs/2405.05095)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
-|[sustaindc: benchmarking for sustainable data center control](https://arxiv.org/abs/2408.07841)|[dc-rl](https://github.com/hewlettpackard/dc-rl)|
 |[crossfi: a cross domain wi-fi sensing framework based on siamese network](https://arxiv.org/abs/2408.10919)|[ESP32-Realtime-System](https://github.com/RS2002/ESP32-Realtime-System)|
 |[a discrete-sequence dataset for evaluating online unsupervised anomaly detection approaches for multivariate time series](https://arxiv.org/abs/2411.13951)|[path](https://github.com/lcs-crr/path)|
 |[on the surprising effectiveness of spectrum clipping in learning stable linear dynamics](https://arxiv.org/abs/2412.01168)|[spec_clip](https://github.com/gt-star-lab/spec_clip)|
