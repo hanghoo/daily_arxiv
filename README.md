@@ -1,3 +1,17 @@
+## 2025-01-22
+|paper|code|
+|---|---|
+|[cold: concurrent loads disaggregator for non-intrusive load monitoring](https://arxiv.org/abs/2106.02352)|[cold-nilm](https://github.com/arx7ti/cold-nilm)|
+|[beamsense: rethinking wireless sensing with mu-mimo wi-fi beamforming feedback](https://arxiv.org/abs/2303.09687)|[BeamSense](https://github.com/kfoysalhaque/BeamSense)|
+|[simpsi: a simple strategy to preserve spectral information in time series data augmentation](https://arxiv.org/abs/2312.05790)|[simpsi](https://github.com/hyun-ryu/simpsi)|
+|[robust predictive motion planning by learning obstacle uncertainty](https://arxiv.org/abs/2403.06222)|[robust-mpc-motion-planning-by-learning-obstacle-uncertainties](https://github.com/jianzhou1212/robust-mpc-motion-planning-by-learning-obstacle-uncertainties)|
+|[airpilot: interpretable ppo-based drl auto-tuned nonlinear pid drone controller for robust autonomous flights](https://arxiv.org/abs/2404.00204)|[drlpiddronecontrol](https://github.com/garyz712/drlpiddronecontrol)|
+|[polyclean: atomic optimization for super-resolution imaging and uncertainty estimation in radio interferometry](https://arxiv.org/abs/2406.01342)|[polyclean](https://github.com/AdriaJ/polyclean)|
+|[sustaindc: benchmarking for sustainable data center control](https://arxiv.org/abs/2408.07841)|[dc-rl](https://github.com/hewlettpackard/dc-rl)|
+|[the bouc-wen model for binary direct collinear collisions of convex viscoplastic bodies](https://arxiv.org/abs/2410.08147)|[bwbcl](https://gitlab.com/user9716869/bwbcl)|
+|[information-driven design of imaging systems](https://arxiv.org/abs/2405.20559)|[encodinginformation](https://github.com/waller-lab/encodinginformation)|
+|[what should a neuron aim for? designing local objective functions based on information theory](https://arxiv.org/abs/2412.02482)|[infomorphic_networks](https://github.com/priesemann-group/infomorphic_networks)|
+|[a stochastic geometry based techno-economic analysis of ris-assisted cellular networks](https://arxiv.org/abs/2501.12037)|[TechnoEconomic](https://github.com/Sun8Guden/RISassistedCellularFramework/tree/90eaedd531b9ad4fc2e6cfb05957037da291d48c/ResearchApplication/TechnoEconomic)|
 ## 2025-01-20
 |paper|code|
 |---|---|
