@@ -1,3 +1,10 @@
+## 2025-01-23
+|paper|code|
+|---|---|
+|[certifiable deep learning for reachability using a new lipschitz continuous value function](https://arxiv.org/abs/2408.07866)|[Lipschitz_Continuous_Reachability_Learning](https://github.com/jamesjingqili/Lipschitz_Continuous_Reachability_Learning)|
+|[multitok: variable-length tokenization for efficient llms adapted from lzw compression](https://arxiv.org/abs/2410.21548)|[multitok](https://github.com/noelkelias/multitok)|
+|[ppo-based vehicle control for ramp merging scheme assisted by enhanced c-v2x](https://arxiv.org/abs/2501.12656)|[ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x](https://github.com/qiongwu86/ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x)|
+|[multi-objective hyperparameter selection via hypothesis testing on reliability graphs](https://arxiv.org/abs/2501.13018)|[rg-pt](https://github.com/kclip/rg-pt)|
 ## 2025-01-22
 |paper|code|
 |---|---|
