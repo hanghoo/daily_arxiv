@@ -1,3 +1,13 @@
+## 2025-01-24
+|paper|code|
+|---|---|
+|[orthogonal transforms in neural networks amount to effective regularization](https://arxiv.org/abs/2305.06344)|[orthogonal-neural-networks](https://github.com/cyber-physical-systems-group/orthogonal-neural-networks)|
+|[s4sleep: elucidating the design space of deep-learning-based sleep stage classification models](https://arxiv.org/abs/2310.06715)|[s4sleep](https://github.com/ai4healthuol/s4sleep)|
+|[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
+|[robust simultaneous multislice mri reconstruction using deep generative priors](https://arxiv.org/abs/2407.21600)|[roger](https://github.com/solor-pikachu/roger)|
+|[unsure: self-supervised learning with unknown noise level and stein's unbiased risk estimate](https://arxiv.org/abs/2409.01985)|[unsure](https://github.com/tachella/unsure)|
+|[numerically robust fixed-point smoothing without state augmentation](https://arxiv.org/abs/2409.20004)|[code-numerically-robust-fixedpoint-smoother](https://github.com/pnkraemer/code-numerically-robust-fixedpoint-smoother)|
+|[what if we had used a different app? reliable counterfactual kpi analysis in wireless systems](https://arxiv.org/abs/2410.00150)|[inference_dt_code](https://github.com/qiushuo0913/inference_dt_code)|
 ## 2025-01-23
 |paper|code|
 |---|---|
