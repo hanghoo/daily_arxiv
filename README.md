@@ -8,6 +8,8 @@
 |[unsure: self-supervised learning with unknown noise level and stein's unbiased risk estimate](https://arxiv.org/abs/2409.01985)|[unsure](https://github.com/tachella/unsure)|
 |[numerically robust fixed-point smoothing without state augmentation](https://arxiv.org/abs/2409.20004)|[code-numerically-robust-fixedpoint-smoother](https://github.com/pnkraemer/code-numerically-robust-fixedpoint-smoother)|
 |[what if we had used a different app? reliable counterfactual kpi analysis in wireless systems](https://arxiv.org/abs/2410.00150)|[inference_dt_code](https://github.com/qiushuo0913/inference_dt_code)|
+|[radio map estimation via latent domain plug-and-play denoising](https://arxiv.org/abs/2501.13472)|[LaPnP](https://github.com/xumaomao94/LaPnP)|
+|[wfcrl: a multi-agent reinforcement learning benchmark for wind farm control](https://arxiv.org/abs/2501.13592)|[wfcrl-env](https://github.com/ifpen/wfcrl-env)|
 ## 2025-01-23
 |paper|code|
 |---|---|
@@ -24,6 +26,7 @@
 |[robust predictive motion planning by learning obstacle uncertainty](https://arxiv.org/abs/2403.06222)|[robust-mpc-motion-planning-by-learning-obstacle-uncertainties](https://github.com/jianzhou1212/robust-mpc-motion-planning-by-learning-obstacle-uncertainties)|
 |[airpilot: interpretable ppo-based drl auto-tuned nonlinear pid drone controller for robust autonomous flights](https://arxiv.org/abs/2404.00204)|[drlpiddronecontrol](https://github.com/garyz712/drlpiddronecontrol)|
 |[polyclean: atomic optimization for super-resolution imaging and uncertainty estimation in radio interferometry](https://arxiv.org/abs/2406.01342)|[polyclean](https://github.com/AdriaJ/polyclean)|
+|[ecgrecover: a deep learning approach for electrocardiogram signal completion](https://arxiv.org/abs/2406.16901)|[ecgrecover](https://github.com/ummisco/ecgrecover)|
 |[sustaindc: benchmarking for sustainable data center control](https://arxiv.org/abs/2408.07841)|[dc-rl](https://github.com/hewlettpackard/dc-rl)|
 |[the bouc-wen model for binary direct collinear collisions of convex viscoplastic bodies](https://arxiv.org/abs/2410.08147)|[bwbcl](https://gitlab.com/user9716869/bwbcl)|
 |[information-driven design of imaging systems](https://arxiv.org/abs/2405.20559)|[encodinginformation](https://github.com/waller-lab/encodinginformation)|
@@ -37,6 +40,7 @@
 |[a fairness-oriented reinforcement learning approach for the operation and control of shared micromobility services](https://arxiv.org/abs/2403.15780)|[fairmss](https://github.com/mcederle99/fairmss)|
 |[sensor-based distributionally robust control for safe robot navigation in dynamic environments](https://arxiv.org/abs/2405.18251)|[DR_Safe_Navigation](https://github.com/ExistentialRobotics/DR_Safe_Navigation)|
 |[adaptive and parallel split federated learning in vehicular edge computing](https://arxiv.org/abs/2405.18707)|[AdaptiveSplitFederatedLearning](https://github.com/XiankeQiang/AdaptiveSplitFederatedLearning)|
+|[ruling the unruly: designing effective, low-noise network intrusion detection rules for security operations centers](https://arxiv.org/abs/2501.09808)|[suricata-check](https://github.com/koen1999/suricata-check)|
 ## 2025-01-17
 |paper|code|
 |---|---|
