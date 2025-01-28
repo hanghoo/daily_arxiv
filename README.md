@@ -1,3 +1,11 @@
+## 2025-01-27
+|paper|code|
+|---|---|
+|[input convex lipschitz rnn: a fast and robust approach for engineering tasks](https://arxiv.org/abs/2401.07494)|[iclrnn](https://github.com/killingbear999/iclrnn)|
+|[polynomial selection in spectral graph neural networks: an error-sum of function slices approach](https://arxiv.org/abs/2404.15354)|[tfgnn](https://github.com/vasile-paskardlgm/tfgnn)|
+|[electricityemissions.jl: a framework for the comparison of carbon intensity signals](https://arxiv.org/abs/2411.06560)|[electricityemissions.jl](https://github.com/wispo-pop/electricityemissions.jl)|
+|[5g ldpc linear transformer for channel decoding](https://arxiv.org/abs/2501.14102)|[5g-decoder](https://github.com/pollyjuice74/5g-decoder)|
+|[an attentive graph agent for topology-adaptive cyber defence](https://arxiv.org/abs/2501.14700)|[cyberdreamcatcher](https://github.com/ilyaorson/cyberdreamcatcher)|
 ## 2025-01-24
 |paper|code|
 |---|---|
@@ -8,14 +16,21 @@
 |[unsure: self-supervised learning with unknown noise level and stein's unbiased risk estimate](https://arxiv.org/abs/2409.01985)|[unsure](https://github.com/tachella/unsure)|
 |[numerically robust fixed-point smoothing without state augmentation](https://arxiv.org/abs/2409.20004)|[code-numerically-robust-fixedpoint-smoother](https://github.com/pnkraemer/code-numerically-robust-fixedpoint-smoother)|
 |[what if we had used a different app? reliable counterfactual kpi analysis in wireless systems](https://arxiv.org/abs/2410.00150)|[inference_dt_code](https://github.com/qiushuo0913/inference_dt_code)|
+|[comparative withholding behavior analysis of historical energy storage bids in california](https://arxiv.org/abs/2501.13324)|[caiso-energystorage](https://github.com/nmadev/caiso-energystorage)|
 |[radio map estimation via latent domain plug-and-play denoising](https://arxiv.org/abs/2501.13472)|[LaPnP](https://github.com/xumaomao94/LaPnP)|
+|[risk and vulnerability assessment of energy-transportation infrastructure systems to extreme weather](https://arxiv.org/abs/2501.13473)|[extreme-weather-risk-assessment-and-vulnerability-identification](https://github.com/depot-jw/extreme-weather-risk-assessment-and-vulnerability-identification)|
+|[interference prediction using gaussian process regression and management framework for critical services in local 6g networks](https://arxiv.org/abs/2501.13500)|[gpr-ieeewcnc2025](https://github.com/syed-luqman-shah-19/gpr-ieeewcnc2025)|
+|[a dual-polarization feature fusion network for radar automatic target recognition based on hrrp sequence](https://arxiv.org/abs/2501.13541)|[dpffn](https://github.com/xmpan/dpffn)|
 |[wfcrl: a multi-agent reinforcement learning benchmark for wind farm control](https://arxiv.org/abs/2501.13592)|[wfcrl-env](https://github.com/ifpen/wfcrl-env)|
+|[gentl: a general transfer learning model for building thermal dynamics](https://arxiv.org/abs/2501.13703)|[GenTL](https://github.com/fabianraisch/GenTL)|
+|[occamy: a preemptive buffer management for on-chip shared-memory switches](https://arxiv.org/abs/2501.13570)|[occamy](https://github.com/ants-xjtu/occamy)|
 ## 2025-01-23
 |paper|code|
 |---|---|
 |[certifiable deep learning for reachability using a new lipschitz continuous value function](https://arxiv.org/abs/2408.07866)|[Lipschitz_Continuous_Reachability_Learning](https://github.com/jamesjingqili/Lipschitz_Continuous_Reachability_Learning)|
 |[multitok: variable-length tokenization for efficient llms adapted from lzw compression](https://arxiv.org/abs/2410.21548)|[multitok](https://github.com/noelkelias/multitok)|
 |[ppo-based vehicle control for ramp merging scheme assisted by enhanced c-v2x](https://arxiv.org/abs/2501.12656)|[ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x](https://github.com/qiongwu86/ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x)|
+|[making temporal betweenness computation faster and restless](https://arxiv.org/abs/2501.12708)|[twbc](https://github.com/piluc/twbc)|
 |[multi-objective hyperparameter selection via hypothesis testing on reliability graphs](https://arxiv.org/abs/2501.13018)|[rg-pt](https://github.com/kclip/rg-pt)|
 ## 2025-01-22
 |paper|code|
@@ -29,9 +44,11 @@
 |[ecgrecover: a deep learning approach for electrocardiogram signal completion](https://arxiv.org/abs/2406.16901)|[ecgrecover](https://github.com/ummisco/ecgrecover)|
 |[sustaindc: benchmarking for sustainable data center control](https://arxiv.org/abs/2408.07841)|[dc-rl](https://github.com/hewlettpackard/dc-rl)|
 |[the bouc-wen model for binary direct collinear collisions of convex viscoplastic bodies](https://arxiv.org/abs/2410.08147)|[bwbcl](https://gitlab.com/user9716869/bwbcl)|
+|[finding the nearest bounded-real port-hamiltonian system](https://arxiv.org/abs/2501.11903)|[nearestbrsysphform](https://gitlab.com/ngillis/nearestbrsysphform)|
 |[information-driven design of imaging systems](https://arxiv.org/abs/2405.20559)|[encodinginformation](https://github.com/waller-lab/encodinginformation)|
 |[what should a neuron aim for? designing local objective functions based on information theory](https://arxiv.org/abs/2412.02482)|[infomorphic_networks](https://github.com/priesemann-group/infomorphic_networks)|
 |[a stochastic geometry based techno-economic analysis of ris-assisted cellular networks](https://arxiv.org/abs/2501.12037)|[TechnoEconomic](https://github.com/Sun8Guden/RISassistedCellularFramework/tree/90eaedd531b9ad4fc2e6cfb05957037da291d48c/ResearchApplication/TechnoEconomic)|
+|[bounds and codes for general phased burst errors](https://arxiv.org/abs/2501.12280)|[pbe](https://github.com/sebastianbitzer/pbe)|
 ## 2025-01-20
 |paper|code|
 |---|---|
