@@ -1,3 +1,11 @@
+## 2025-01-28
+|paper|code|
+|---|---|
+|[gradient networks](https://arxiv.org/abs/2404.07361)|[gradientnetworks](https://github.com/spronav/gradientnetworks)|
+|[sensor-based distributionally robust control for safe robot navigation in dynamic environments](https://arxiv.org/abs/2405.18251)|[DR_Safe_Navigation](https://github.com/ExistentialRobotics/DR_Safe_Navigation)|
+|[enhancing glucose level prediction of icu patients through hierarchical modeling of irregular time-series](https://arxiv.org/abs/2411.01418)|[MITST](https://github.com/zavareh89/MITST)|
+|[wifi csi based temporal activity detection via dual pyramid network](https://arxiv.org/abs/2412.16233)|[wifitad](https://github.com/avc2-uestc/wifitad)|
+|[information consistent pruning: how to efficiently search for sparse networks?](https://arxiv.org/abs/2501.15592)|[infcop](https://github.com/sekeh-lab/infcop)|
 ## 2025-01-27
 |paper|code|
 |---|---|
