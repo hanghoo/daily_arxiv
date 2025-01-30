@@ -1,9 +1,19 @@
+## 2025-01-29
+|paper|code|
+|---|---|
+|[whole heart perfusion with high-multiband simultaneous multislice imaging via linear phase modulated extended field of view (smile)](https://arxiv.org/abs/2409.04353)|[SMILE](https://github.com/Zhao-Shen/SMILE)|
+|[safe gradient flow for bilevel optimization](https://arxiv.org/abs/2501.16520)|[sgf-blo](https://github.com/o4lc/sgf-blo)|
+|[a general bayesian framework for informative input design in system identification](https://arxiv.org/abs/2501.16625)|[informative_input_design](https://github.com/alextzik/informative_input_design)|
+|[bounds and codes for general phased burst errors](https://arxiv.org/abs/2501.12280)|[pbe](https://github.com/sebastianbitzer/pbe)|
+|[eclypse: a python framework for simulation and emulation of the cloud-edge continuum](https://arxiv.org/abs/2501.17126)|[eclypse](https://github.com/eclypse-org/eclypse)|
 ## 2025-01-28
 |paper|code|
 |---|---|
 |[gradient networks](https://arxiv.org/abs/2404.07361)|[gradientnetworks](https://github.com/spronav/gradientnetworks)|
 |[sensor-based distributionally robust control for safe robot navigation in dynamic environments](https://arxiv.org/abs/2405.18251)|[DR_Safe_Navigation](https://github.com/ExistentialRobotics/DR_Safe_Navigation)|
+|[sindyg: sparse identification of nonlinear dynamical systems from graph-structured data](https://arxiv.org/abs/2409.04463)|[SINDyG](https://github.com/3sigmalab/SINDyG)|
 |[enhancing glucose level prediction of icu patients through hierarchical modeling of irregular time-series](https://arxiv.org/abs/2411.01418)|[MITST](https://github.com/zavareh89/MITST)|
+|[enhancing visual inspection capability of multi-modal large language models on medical time series with supportive conformalized and interpretable small specialized models](https://arxiv.org/abs/2501.16215)|[Conformalized-Multiple-Instance-Learning-For-MedTS](https://github.com/HuayuLiArizona/Conformalized-Multiple-Instance-Learning-For-MedTS)|
 |[wifi csi based temporal activity detection via dual pyramid network](https://arxiv.org/abs/2412.16233)|[wifitad](https://github.com/avc2-uestc/wifitad)|
 |[information consistent pruning: how to efficiently search for sparse networks?](https://arxiv.org/abs/2501.15592)|[infcop](https://github.com/sekeh-lab/infcop)|
 ## 2025-01-27
