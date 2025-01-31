@@ -1,10 +1,22 @@
+## 2025-01-30
+|paper|code|
+|---|---|
+|[competency-aware planning for probabilistically safe navigation under perception uncertainty](https://arxiv.org/abs/2409.06111)|[parce-nav](https://github.com/sarapohland/parce-nav)|
+|[a large synthetic dataset for machine learning applications in power transmission grids](https://arxiv.org/abs/2410.03365)|[PowerData](https://github.com/GeeeHesso/PowerData)|
+|[a dataset generation toolbox for dynamic security assessment: on the role of the security boundary](https://arxiv.org/abs/2501.09513)|[dsa-learn](https://github.com/bastiengiraud/dsa-learn)|
+|[floodgates up to contain the deepc and limit extrapolation](https://arxiv.org/abs/2501.17318)|[floodgatesup-deepc](https://github.com/msramada/floodgatesup-deepc)|
+|[netfound: foundation model for network security](https://arxiv.org/abs/2310.17025)|[netFound](https://github.com/SNL-UCSB/netFound)|
+|[layerplexrank: exploring node centrality and layer influence through algebraic connectivity in multiplex networks](https://arxiv.org/abs/2405.05576)|[LayerPlexRank](https://github.com/ninn-kou/LayerPlexRank)|
+|[multiplexed quantum communication with surface and hypergraph product codes](https://arxiv.org/abs/2406.08832)|[multiplexed_toric](https://github.com/parton-quark/multiplexed_toric)|
 ## 2025-01-29
 |paper|code|
 |---|---|
 |[whole heart perfusion with high-multiband simultaneous multislice imaging via linear phase modulated extended field of view (smile)](https://arxiv.org/abs/2409.04353)|[SMILE](https://github.com/Zhao-Shen/SMILE)|
 |[safe gradient flow for bilevel optimization](https://arxiv.org/abs/2501.16520)|[sgf-blo](https://github.com/o4lc/sgf-blo)|
 |[a general bayesian framework for informative input design in system identification](https://arxiv.org/abs/2501.16625)|[informative_input_design](https://github.com/alextzik/informative_input_design)|
+|[adaptive multipliers for extrapolation in frequency](https://arxiv.org/abs/2501.17019)|[adaptiveextrapolationinfrequency](https://github.com/csl-lab/adaptiveextrapolationinfrequency)|
 |[bounds and codes for general phased burst errors](https://arxiv.org/abs/2501.12280)|[pbe](https://github.com/sebastianbitzer/pbe)|
+|[dapps: enabling real-time ai-based open ran control](https://arxiv.org/abs/2501.16502)|[dapp-framework](https://github.com/wineslab/dapp-framework)|
 |[eclypse: a python framework for simulation and emulation of the cloud-edge continuum](https://arxiv.org/abs/2501.17126)|[eclypse](https://github.com/eclypse-org/eclypse)|
 ## 2025-01-28
 |paper|code|
@@ -13,6 +25,7 @@
 |[sensor-based distributionally robust control for safe robot navigation in dynamic environments](https://arxiv.org/abs/2405.18251)|[DR_Safe_Navigation](https://github.com/ExistentialRobotics/DR_Safe_Navigation)|
 |[sindyg: sparse identification of nonlinear dynamical systems from graph-structured data](https://arxiv.org/abs/2409.04463)|[SINDyG](https://github.com/3sigmalab/SINDyG)|
 |[enhancing glucose level prediction of icu patients through hierarchical modeling of irregular time-series](https://arxiv.org/abs/2411.01418)|[MITST](https://github.com/zavareh89/MITST)|
+|[deep multimodal learning for real-time ddos attacks detection in internet of vehicles](https://arxiv.org/abs/2501.15252)|[deep-multimodal-learning-for-real-time-ddos-attacks-detection-in-internet-of-vehicles](https://github.com/mohab1707/deep-multimodal-learning-for-real-time-ddos-attacks-detection-in-internet-of-vehicles)|
 |[enhancing visual inspection capability of multi-modal large language models on medical time series with supportive conformalized and interpretable small specialized models](https://arxiv.org/abs/2501.16215)|[Conformalized-Multiple-Instance-Learning-For-MedTS](https://github.com/HuayuLiArizona/Conformalized-Multiple-Instance-Learning-For-MedTS)|
 |[wifi csi based temporal activity detection via dual pyramid network](https://arxiv.org/abs/2412.16233)|[wifitad](https://github.com/avc2-uestc/wifitad)|
 |[information consistent pruning: how to efficiently search for sparse networks?](https://arxiv.org/abs/2501.15592)|[infcop](https://github.com/sekeh-lab/infcop)|
@@ -23,7 +36,6 @@
 |[polynomial selection in spectral graph neural networks: an error-sum of function slices approach](https://arxiv.org/abs/2404.15354)|[tfgnn](https://github.com/vasile-paskardlgm/tfgnn)|
 |[electricityemissions.jl: a framework for the comparison of carbon intensity signals](https://arxiv.org/abs/2411.06560)|[electricityemissions.jl](https://github.com/wispo-pop/electricityemissions.jl)|
 |[5g ldpc linear transformer for channel decoding](https://arxiv.org/abs/2501.14102)|[5g-decoder](https://github.com/pollyjuice74/5g-decoder)|
-|[an attentive graph agent for topology-adaptive cyber defence](https://arxiv.org/abs/2501.14700)|[cyberdreamcatcher](https://github.com/ilyaorson/cyberdreamcatcher)|
 ## 2025-01-24
 |paper|code|
 |---|---|
