@@ -1,3 +1,15 @@
+## 2025-01-31
+|paper|code|
+|---|---|
+|[a general framework for supporting economic feasibility of generator and storage energy systems through capacity and dispatch optimization](https://arxiv.org/abs/2404.14583)|[ecogen-ccd](https://github.com/azadsaeed/ecogen-ccd)|
+|[approximation properties relative to continuous scale space for hybrid discretizations of gaussian derivative operators](https://arxiv.org/abs/2405.05095)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[fitting multiple machine learning models with performance based clustering](https://arxiv.org/abs/2411.06572)|[function-clustering](https://github.com/mefe06/function-clustering)|
+|[physics-based battery model parametrisation from impedance data](https://arxiv.org/abs/2412.10896)|[pybop](https://github.com/pybop-team/pybop)|
+|[transrad: retentive vision transformer for enhanced radar object detection](https://arxiv.org/abs/2501.17977)|[transrad](https://github.com/radar-lab/transrad)|
+|[estimating multi-chirp parameters using curvature-guided langevin monte carlo](https://arxiv.org/abs/2501.18178)|[ChirpEstimation](https://github.com/basusattwik/ChirpEstimation)|
+|[leveraging llm agents for automated optimization modeling for sasp problems: a graph-rag based approach](https://arxiv.org/abs/2501.18320)|[MAG-RAG-for-SASP](https://github.com/advantages/MAG-RAG-for-SASP)|
+|[resampling filter design for multirate neural audio effect processing](https://arxiv.org/abs/2501.18470)|[resampling_neural_afx](https://github.com/a-carson/resampling_neural_afx)|
+|[an attentive graph agent for topology-adaptive cyber defence](https://arxiv.org/abs/2501.14700)|[cyberdreamcatcher](https://github.com/ilyaorson/cyberdreamcatcher)|
 ## 2025-01-30
 |paper|code|
 |---|---|
