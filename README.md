@@ -1,3 +1,11 @@
+## 2025-02-03
+|paper|code|
+|---|---|
+|[communication- and computation-efficient distributed submodular optimization in robot mesh networks](https://arxiv.org/abs/2407.10382)|[resource-aware-coordination-airsim](https://github.com/um-iral/resource-aware-coordination-airsim)|
+|[energydiff: universal time-series energy data generation using diffusion models](https://arxiv.org/abs/2407.13538)|[energydiff-pub](https://github.com/distributionnetworkstudelft/energydiff-pub)|
+|[layer-adaptive state pruning for deep state space models](https://arxiv.org/abs/2411.02824)|[last](https://github.com/msgwak/last)|
+|[multiple testing in multi-stream sequential change detection](https://arxiv.org/abs/2501.04130)|[multistream-change-detectors](https://github.com/sanjitdp/multistream-change-detectors)|
+|[autoflow: an autoencoder-based approach for ip flow record compression with minimal impact on traffic classification](https://arxiv.org/abs/2410.00030)|[autoflow](https://github.com/flowfrontiers/autoflow)|
 ## 2025-01-31
 |paper|code|
 |---|---|
