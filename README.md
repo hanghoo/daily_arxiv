@@ -1,10 +1,27 @@
+## 2025-02-04
+|paper|code|
+|---|---|
+|[dynamic modeling and control of a two-reactor metal hydride energy storage system](https://arxiv.org/abs/2107.06095)|[hydride-linearization-model](https://github.com/patrickkrane/hydride-linearization-model)|
+|[shapley-based explainable ai for clustering applications in fault diagnosis and prognosis](https://arxiv.org/abs/2303.14581)|[xai-clustering-phm](https://github.com/cohenyo/xai-clustering-phm)|
+|[distributional soft actor-critic with three refinements](https://arxiv.org/abs/2310.05858)|[dsac-v2](https://github.com/jingliang-duan/dsac-v2)|
+|[reinforcement learning with model predictive control for highway ramp metering](https://arxiv.org/abs/2311.08820)|[mpcrl-for-ramp-metering](https://github.com/filippoairaldi/mpcrl-for-ramp-metering)|
+|[predictable reinforcement learning dynamics through entropy rate minimization](https://arxiv.org/abs/2311.18703)|[parl](https://github.com/tud-amr/parl)|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[certifiable reachability learning using a new lipschitz continuous value function](https://arxiv.org/abs/2408.07866)|[Lipschitz_Continuous_Reachability_Learning](https://github.com/jamesjingqili/Lipschitz_Continuous_Reachability_Learning)|
+|[neurolm: a universal multi-task foundation model for bridging the gap between language and eeg signals](https://arxiv.org/abs/2409.00101)|[neurolm](https://github.com/935963004/neurolm)|
+|[learning multiple initial solutions to optimization problems](https://arxiv.org/abs/2411.02158)|[miso](https://github.com/EladSharony/miso)|
+|[multiple testing in multi-stream sequential change detection](https://arxiv.org/abs/2501.04130)|[multistream-change-detectors](https://github.com/sanjitdp/multistream-change-detectors)|
+|[physics-inspired distributed radio map estimation](https://arxiv.org/abs/2502.00319)|[PI-DRME](https://github.com/DongYang26/PI-DRME)|
+|[interactive learning of physical object properties through robot manipulation and database of object measurements](https://arxiv.org/abs/2404.07344)|[actsel](https://github.com/ctu-vras/actsel)|
+|[scalable thompson sampling via ensemble++ agent](https://arxiv.org/abs/2407.13195)|[ensemble_plus_plus](https://github.com/szrlee/ensemble_plus_plus)|
+|[neuromorphic wireless split computing with multi-level spikes](https://arxiv.org/abs/2411.04728)|[neurocomm-msnn](https://github.com/kclip/neurocomm-msnn)|
+|[qmdb: quick merkle database](https://arxiv.org/abs/2501.05262)|[qmdb](https://github.com/layerzero-labs/qmdb)|
 ## 2025-02-03
 |paper|code|
 |---|---|
 |[communication- and computation-efficient distributed submodular optimization in robot mesh networks](https://arxiv.org/abs/2407.10382)|[resource-aware-coordination-airsim](https://github.com/um-iral/resource-aware-coordination-airsim)|
 |[energydiff: universal time-series energy data generation using diffusion models](https://arxiv.org/abs/2407.13538)|[energydiff-pub](https://github.com/distributionnetworkstudelft/energydiff-pub)|
 |[layer-adaptive state pruning for deep state space models](https://arxiv.org/abs/2411.02824)|[last](https://github.com/msgwak/last)|
-|[multiple testing in multi-stream sequential change detection](https://arxiv.org/abs/2501.04130)|[multistream-change-detectors](https://github.com/sanjitdp/multistream-change-detectors)|
 |[autoflow: an autoencoder-based approach for ip flow record compression with minimal impact on traffic classification](https://arxiv.org/abs/2410.00030)|[autoflow](https://github.com/flowfrontiers/autoflow)|
 ## 2025-01-31
 |paper|code|
