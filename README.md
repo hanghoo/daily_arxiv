@@ -1,3 +1,9 @@
+## 2025-02-05
+|paper|code|
+|---|---|
+|[violindiff: enhancing expressive violin synthesis with pitch bend conditioning](https://arxiv.org/abs/2409.12477)|[ViolinDiff](https://github.com/daewoung/ViolinDiff)|
+|[posterior-mean rectified flow: towards minimum mse photo-realistic image restoration](https://arxiv.org/abs/2410.00418)|[PMRF](https://github.com/ohayonguy/PMRF)|
+|[less is more: simplifying network traffic classification leveraging rfcs](https://arxiv.org/abs/2502.00586)|[LiM](https://github.com/nime-sha256/LiM)|
 ## 2025-02-04
 |paper|code|
 |---|---|
@@ -11,6 +17,7 @@
 |[neurolm: a universal multi-task foundation model for bridging the gap between language and eeg signals](https://arxiv.org/abs/2409.00101)|[neurolm](https://github.com/935963004/neurolm)|
 |[learning multiple initial solutions to optimization problems](https://arxiv.org/abs/2411.02158)|[miso](https://github.com/EladSharony/miso)|
 |[multiple testing in multi-stream sequential change detection](https://arxiv.org/abs/2501.04130)|[multistream-change-detectors](https://github.com/sanjitdp/multistream-change-detectors)|
+|[vision-based fuzzy control system for smart walkers: enhancing usability for stroke survivors with unilateral upper limb impairments](https://arxiv.org/abs/2502.00233)|[Fuzzy-Control-Smart-Walker](https://github.com/tbs-ualberta/Fuzzy-Control-Smart-Walker)|
 |[physics-inspired distributed radio map estimation](https://arxiv.org/abs/2502.00319)|[PI-DRME](https://github.com/DongYang26/PI-DRME)|
 |[interactive learning of physical object properties through robot manipulation and database of object measurements](https://arxiv.org/abs/2404.07344)|[actsel](https://github.com/ctu-vras/actsel)|
 |[scalable thompson sampling via ensemble++ agent](https://arxiv.org/abs/2407.13195)|[ensemble_plus_plus](https://github.com/szrlee/ensemble_plus_plus)|
