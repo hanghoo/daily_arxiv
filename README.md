@@ -1,6 +1,16 @@
+## 2025-02-06
+|paper|code|
+|---|---|
+|[mixed-integer linear programming approaches for tree partitioning of power networks](https://arxiv.org/abs/2110.07000)|[tree-partitioning](https://github.com/leonlan/tree-partitioning)|
+|[forzaeth race stack -- scaled autonomous head-to-head racing on fully commercial off-the-shelf hardware](https://arxiv.org/abs/2403.11784)|[race_stack](https://github.com/forzaeth/race_stack)|
+|[managing o-ran networks: xapp development from zero to hero](https://arxiv.org/abs/2407.09619)|[xapp_development_zero_to_hero](https://github.com/santos-j/xapp_development_zero_to_hero)|
+|[predictive spliner: data-driven overtaking in autonomous racing using opponent trajectory prediction](https://arxiv.org/abs/2410.04868)|[predictive-spliner](https://github.com/forzaeth/predictive-spliner)|
+|[papagei: open foundation models for optical physiological signals](https://arxiv.org/abs/2410.20542)|[papagei-foundation-model](https://github.com/nokia-bell-labs/papagei-foundation-model)|
+|[an exposition of pathfinding strategies within lightning network clients](https://arxiv.org/abs/2410.13784)|[ln-pathfinding](https://github.com/sindurasaraswathi/ln-pathfinding)|
 ## 2025-02-05
 |paper|code|
 |---|---|
+|[control barrier functions for collision avoidance between strongly convex regions](https://arxiv.org/abs/2306.13259)|[cbf-convex-maps](https://github.com/HybridRobotics/cbf-convex-maps)|
 |[violindiff: enhancing expressive violin synthesis with pitch bend conditioning](https://arxiv.org/abs/2409.12477)|[ViolinDiff](https://github.com/daewoung/ViolinDiff)|
 |[posterior-mean rectified flow: towards minimum mse photo-realistic image restoration](https://arxiv.org/abs/2410.00418)|[PMRF](https://github.com/ohayonguy/PMRF)|
 |[less is more: simplifying network traffic classification leveraging rfcs](https://arxiv.org/abs/2502.00586)|[LiM](https://github.com/nime-sha256/LiM)|
