@@ -1,3 +1,10 @@
+## 2025-02-07
+|paper|code|
+|---|---|
+|[on robust reinforcement learning with lipschitz-bounded policy networks](https://arxiv.org/abs/2405.11432)|[Lipschitz-RL-Atari](https://github.com/nic-barbara/Lipschitz-RL-Atari)|
+|[robust model predictive control exploiting monotonicity properties](https://arxiv.org/abs/2408.17348)|[robmpcexploitmon](https://github.com/moritzhein/robmpcexploitmon)|
+|[m$^3$pc: test-time model predictive control for pretrained masked trajectory model](https://arxiv.org/abs/2412.05675)|[m3pc](https://github.com/wkh923/m3pc)|
+|[openranet: neuralized spectrum access by joint subcarrier and power allocation with optimization-based deep learning](https://arxiv.org/abs/2409.12964)|[openranet](https://github.com/convexsoft/openranet)|
 ## 2025-02-06
 |paper|code|
 |---|---|
