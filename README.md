@@ -4,6 +4,7 @@
 |[on robust reinforcement learning with lipschitz-bounded policy networks](https://arxiv.org/abs/2405.11432)|[Lipschitz-RL-Atari](https://github.com/nic-barbara/Lipschitz-RL-Atari)|
 |[robust model predictive control exploiting monotonicity properties](https://arxiv.org/abs/2408.17348)|[robmpcexploitmon](https://github.com/moritzhein/robmpcexploitmon)|
 |[m$^3$pc: test-time model predictive control for pretrained masked trajectory model](https://arxiv.org/abs/2412.05675)|[m3pc](https://github.com/wkh923/m3pc)|
+|[gravity compensation of the dvrk-si patient side manipulator based on dynamic model identification](https://arxiv.org/abs/2501.19058)|[dvrk_si_psm_gravity_compensation](https://github.com/jackzhy96/dvrk_si_psm_gravity_compensation)|
 |[openranet: neuralized spectrum access by joint subcarrier and power allocation with optimization-based deep learning](https://arxiv.org/abs/2409.12964)|[openranet](https://github.com/convexsoft/openranet)|
 ## 2025-02-06
 |paper|code|
@@ -36,10 +37,13 @@
 |[multiple testing in multi-stream sequential change detection](https://arxiv.org/abs/2501.04130)|[multistream-change-detectors](https://github.com/sanjitdp/multistream-change-detectors)|
 |[vision-based fuzzy control system for smart walkers: enhancing usability for stroke survivors with unilateral upper limb impairments](https://arxiv.org/abs/2502.00233)|[Fuzzy-Control-Smart-Walker](https://github.com/tbs-ualberta/Fuzzy-Control-Smart-Walker)|
 |[physics-inspired distributed radio map estimation](https://arxiv.org/abs/2502.00319)|[PI-DRME](https://github.com/DongYang26/PI-DRME)|
+|[a wearable device dataset for mental health assessment using laser doppler flowmetry and fluorescence spectroscopy sensors](https://arxiv.org/abs/2502.00973)|[wearable_ldf-fs](https://github.com/leduckhai/wearable_ldf-fs)|
+|[asap: aligning simulation and real-world physics for learning agile humanoid whole-body skills](https://arxiv.org/abs/2502.01143)|[asap](https://github.com/lecar-lab/asap)|
 |[interactive learning of physical object properties through robot manipulation and database of object measurements](https://arxiv.org/abs/2404.07344)|[actsel](https://github.com/ctu-vras/actsel)|
 |[scalable thompson sampling via ensemble++ agent](https://arxiv.org/abs/2407.13195)|[ensemble_plus_plus](https://github.com/szrlee/ensemble_plus_plus)|
 |[neuromorphic wireless split computing with multi-level spikes](https://arxiv.org/abs/2411.04728)|[neurocomm-msnn](https://github.com/kclip/neurocomm-msnn)|
 |[qmdb: quick merkle database](https://arxiv.org/abs/2501.05262)|[qmdb](https://github.com/layerzero-labs/qmdb)|
+|[simulating application behavior for network monitoring and security](https://arxiv.org/abs/2502.01049)|[appbehaviournetworksim](https://github.com/muru-raj10/appbehaviournetworksim)|
 ## 2025-02-03
 |paper|code|
 |---|---|
