@@ -1,3 +1,8 @@
+## 2025-02-10
+|paper|code|
+|---|---|
+|[ktwin: a serverless kubernetes-based digital twin platform](https://arxiv.org/abs/2408.01635)|[ktwin-article](https://github.com/Open-Digital-Twin/ktwin-article)|
+|[bayes-optimal learning of an extensive-width neural network from quadratically many samples](https://arxiv.org/abs/2408.03733)|[ExtensiveWidthQuadraticSamples](https://github.com/SPOC-group/ExtensiveWidthQuadraticSamples)|
 ## 2025-02-07
 |paper|code|
 |---|---|
