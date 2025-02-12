@@ -1,6 +1,25 @@
+## 2025-02-11
+|paper|code|
+|---|---|
+|[a reinforcement learning approach to sensing design in resource-constrained wireless networked control systems](https://arxiv.org/abs/2204.00703)|[processingnetworks-rl](https://github.com/lucaballotta/processingnetworks-rl)|
+|[mixed graph signal analysis of joint image denoising / interpolation](https://arxiv.org/abs/2309.10114)|[icassp24-joint](https://github.com/sybernix/icassp24-joint)|
+|[vrem-fl: mobility-aware computation-scheduling co-design for vehicular federated learning](https://arxiv.org/abs/2311.18741)|[vrem-fl](https://github.com/lucaballotta/vrem-fl)|
+|[endmember extraction from hyperspectral images using self-dictionary approach with linear programming](https://arxiv.org/abs/2404.13098)|[EEHT](https://github.com/tomohiko-mizutani/EEHT)|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[multi-scale cell decomposition for path planning using restrictive routing potential fields](https://arxiv.org/abs/2408.02786)|[Larp](https://github.com/wzjoriv/Larp)|
+|[marine spatial planning techniques with a case study on wave-powered offshore aquaculture farms](https://arxiv.org/abs/2410.11926)|[aquaculture](https://github.com/symbiotic-engineering/aquaculture)|
+|[simulation-aided policy tuning for black-box robot learning](https://arxiv.org/abs/2411.14246)|[hci-gibo](https://github.com/data-science-in-mechanical-engineering/hci-gibo)|
+|[scalable wavelength arbitration for microring-based dwdm transceivers](https://arxiv.org/abs/2411.14810)|[wdm-simulator](https://github.com/wdmsim/wdm-simulator)|
+|[adaptive economic model predictive control: performance guarantees for nonlinear systems](https://arxiv.org/abs/2412.13046)|[aempc](https://github.com/maximiliandegner/aempc)|
+|[learned bayesian cram\'er-rao bound for unknown measurement models using score neural networks](https://arxiv.org/abs/2502.00724)|[learned-bcrb](https://github.com/haihabi/learned-bcrb)|
+|[asap: aligning simulation and real-world physics for learning agile humanoid whole-body skills](https://arxiv.org/abs/2502.01143)|[asap](https://github.com/lecar-lab/asap)|
+|[lead: large foundation model for eeg-based alzheimer's disease detection](https://arxiv.org/abs/2502.01678)|[lead](https://github.com/dl4mhealth/lead)|
+|[practical and configurable network traffic classification using probabilistic machine learning](https://arxiv.org/abs/2107.06080)|[Practical-Configurable-Network-Traffic-Classification](https://github.com/JiahuiKChen/Practical-Configurable-Network-Traffic-Classification)|
 ## 2025-02-10
 |paper|code|
 |---|---|
+|[c codegen considered unnecessary: go directly to binary, do not pass c. compilation of julia code for deployment in model-based engineering](https://arxiv.org/abs/2502.01128)|[discretepids.jl](https://github.com/juliacontrol/discretepids.jl)|
+|[explainable and externally validated machine learning for neuropsychiatric diagnosis via electrocardiograms](https://arxiv.org/abs/2502.04918)|[cardiodiag](https://github.com/ai4healthuol/cardiodiag)|
 |[ktwin: a serverless kubernetes-based digital twin platform](https://arxiv.org/abs/2408.01635)|[ktwin-article](https://github.com/Open-Digital-Twin/ktwin-article)|
 |[bayes-optimal learning of an extensive-width neural network from quadratically many samples](https://arxiv.org/abs/2408.03733)|[ExtensiveWidthQuadraticSamples](https://github.com/SPOC-group/ExtensiveWidthQuadraticSamples)|
 ## 2025-02-07
@@ -10,7 +29,6 @@
 |[robust model predictive control exploiting monotonicity properties](https://arxiv.org/abs/2408.17348)|[robmpcexploitmon](https://github.com/moritzhein/robmpcexploitmon)|
 |[m$^3$pc: test-time model predictive control for pretrained masked trajectory model](https://arxiv.org/abs/2412.05675)|[m3pc](https://github.com/wkh923/m3pc)|
 |[gravity compensation of the dvrk-si patient side manipulator based on dynamic model identification](https://arxiv.org/abs/2501.19058)|[dvrk_si_psm_gravity_compensation](https://github.com/jackzhy96/dvrk_si_psm_gravity_compensation)|
-|[openranet: neuralized spectrum access by joint subcarrier and power allocation with optimization-based deep learning](https://arxiv.org/abs/2409.12964)|[openranet](https://github.com/convexsoft/openranet)|
 ## 2025-02-06
 |paper|code|
 |---|---|
