@@ -1,3 +1,10 @@
+## 2025-02-12
+|paper|code|
+|---|---|
+|[pointwise-sparse actuator scheduling for linear systems with controllability guarantee](https://arxiv.org/abs/2407.12125)|[sparse-control](https://github.com/lucaballotta/sparse-control)|
+|[unsure: self-supervised learning with unknown noise level and stein's unbiased risk estimate](https://arxiv.org/abs/2409.01985)|[unsure](https://github.com/tachella/unsure)|
+|[openranet: neuralized spectrum access by joint subcarrier and power allocation with optimization-based deep learning](https://arxiv.org/abs/2409.12964)|[openranet](https://github.com/convexsoft/openranet)|
+|[the causal information bottleneck and optimal causal variable abstractions](https://arxiv.org/abs/2410.00535)|[cib-optimization-psagd](https://github.com/francisco-simoes/cib-optimization-psagd)|
 ## 2025-02-11
 |paper|code|
 |---|---|
@@ -14,6 +21,7 @@
 |[learned bayesian cram\'er-rao bound for unknown measurement models using score neural networks](https://arxiv.org/abs/2502.00724)|[learned-bcrb](https://github.com/haihabi/learned-bcrb)|
 |[asap: aligning simulation and real-world physics for learning agile humanoid whole-body skills](https://arxiv.org/abs/2502.01143)|[asap](https://github.com/lecar-lab/asap)|
 |[lead: large foundation model for eeg-based alzheimer's disease detection](https://arxiv.org/abs/2502.01678)|[lead](https://github.com/dl4mhealth/lead)|
+|[decentralized online ensembles of gaussian processes for multi-agent systems](https://arxiv.org/abs/2502.05301)|[DecentralizedOnlineGPs](https://github.com/fllorente/DecentralizedOnlineGPs)|
 |[practical and configurable network traffic classification using probabilistic machine learning](https://arxiv.org/abs/2107.06080)|[Practical-Configurable-Network-Traffic-Classification](https://github.com/JiahuiKChen/Practical-Configurable-Network-Traffic-Classification)|
 ## 2025-02-10
 |paper|code|
@@ -29,6 +37,7 @@
 |[robust model predictive control exploiting monotonicity properties](https://arxiv.org/abs/2408.17348)|[robmpcexploitmon](https://github.com/moritzhein/robmpcexploitmon)|
 |[m$^3$pc: test-time model predictive control for pretrained masked trajectory model](https://arxiv.org/abs/2412.05675)|[m3pc](https://github.com/wkh923/m3pc)|
 |[gravity compensation of the dvrk-si patient side manipulator based on dynamic model identification](https://arxiv.org/abs/2501.19058)|[dvrk_si_psm_gravity_compensation](https://github.com/jackzhy96/dvrk_si_psm_gravity_compensation)|
+|[every call is precious: global optimization of black-box functions with unknown lipschitz constants](https://arxiv.org/abs/2502.04290)|[ECP](https://github.com/fouratifares/ECP)|
 ## 2025-02-06
 |paper|code|
 |---|---|
