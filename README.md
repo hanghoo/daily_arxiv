@@ -1,8 +1,20 @@
+## 2025-02-13
+|paper|code|
+|---|---|
+|[safedrones: real-time reliability evaluation of uavs using executable digital dependable identities](https://arxiv.org/abs/2207.05643)|[safedrones](https://github.com/koo-ec/safedrones)|
+|[an exact theory of causal emergence for linear stochastic iteration systems](https://arxiv.org/abs/2405.09207)|[an_exact_causal_emergence_theory](https://github.com/kilovoltage/an_exact_causal_emergence_theory)|
+|[regression coefficient estimation from remote sensing maps](https://arxiv.org/abs/2407.13659)|[uncertainty-quantification](https://github.com/earth-intelligence-lab/uncertainty-quantification)|
+|[sustaindc: benchmarking for sustainable data center control](https://arxiv.org/abs/2408.07841)|[dc-rl](https://github.com/hewlettpackard/dc-rl)|
+|[supervising smart home device interactions: a profile-based firewall approach](https://arxiv.org/abs/2310.03510)|[smart-home-firewall](https://github.com/franklin5168/smart-home-firewall)|
+|[soft reverse reconciliation for discrete modulations](https://arxiv.org/abs/2411.04063)|[qam-reconciliation](https://github.com/moriglia/qam-reconciliation)|
+|[edm: an ultra-low latency ethernet fabric for memory disaggregation](https://arxiv.org/abs/2411.08300)|[edm](https://github.com/wegul/edm)|
 ## 2025-02-12
 |paper|code|
 |---|---|
 |[pointwise-sparse actuator scheduling for linear systems with controllability guarantee](https://arxiv.org/abs/2407.12125)|[sparse-control](https://github.com/lucaballotta/sparse-control)|
 |[unsure: self-supervised learning with unknown noise level and stein's unbiased risk estimate](https://arxiv.org/abs/2409.01985)|[unsure](https://github.com/tachella/unsure)|
+|[unidb: a unified diffusion bridge framework via stochastic optimal control](https://arxiv.org/abs/2502.05749)|[unidb](https://github.com/unidb-soc/unidb)|
+|[eiqp: execution-time-certified and infeasibility-detecting qp solver](https://arxiv.org/abs/2502.07738)|[eiqp](https://github.com/liangwu2019/eiqp)|
 |[openranet: neuralized spectrum access by joint subcarrier and power allocation with optimization-based deep learning](https://arxiv.org/abs/2409.12964)|[openranet](https://github.com/convexsoft/openranet)|
 |[the causal information bottleneck and optimal causal variable abstractions](https://arxiv.org/abs/2410.00535)|[cib-optimization-psagd](https://github.com/francisco-simoes/cib-optimization-psagd)|
 ## 2025-02-11
@@ -22,11 +34,16 @@
 |[asap: aligning simulation and real-world physics for learning agile humanoid whole-body skills](https://arxiv.org/abs/2502.01143)|[asap](https://github.com/lecar-lab/asap)|
 |[lead: large foundation model for eeg-based alzheimer's disease detection](https://arxiv.org/abs/2502.01678)|[lead](https://github.com/dl4mhealth/lead)|
 |[decentralized online ensembles of gaussian processes for multi-agent systems](https://arxiv.org/abs/2502.05301)|[DecentralizedOnlineGPs](https://github.com/fllorente/DecentralizedOnlineGPs)|
+|[graph neural networks for efficient ac power flow prediction in power grids](https://arxiv.org/abs/2502.05702)|[gnn-optimalpowerflow](https://github.com/amirtalebi83/gnn-optimalpowerflow)|
+|[retrieving filter spectra in cnn for explainable sleep stage classification](https://arxiv.org/abs/2502.06478)|[msa-cnn](https://github.com/sgoerttler/msa-cnn)|
 |[practical and configurable network traffic classification using probabilistic machine learning](https://arxiv.org/abs/2107.06080)|[Practical-Configurable-Network-Traffic-Classification](https://github.com/JiahuiKChen/Practical-Configurable-Network-Traffic-Classification)|
 ## 2025-02-10
 |paper|code|
 |---|---|
 |[c codegen considered unnecessary: go directly to binary, do not pass c. compilation of julia code for deployment in model-based engineering](https://arxiv.org/abs/2502.01128)|[discretepids.jl](https://github.com/juliacontrol/discretepids.jl)|
+|[decoding human attentive states from spatial-temporal eeg patches using transformers](https://arxiv.org/abs/2502.03736)|[eeg-patchformer](https://github.com/yi-ding-cs/eeg-patchformer)|
+|[enhancing reasoning to adapt large language models for domain-specific applications](https://arxiv.org/abs/2502.04384)|[generative-ai-for-semiconductor-physical-design](https://github.com/wenboown/generative-ai-for-semiconductor-physical-design)|
+|[dynamic incentive selection for hierarchical convex model predictive control](https://arxiv.org/abs/2502.04642)|[incentive-design-mpc](https://github.com/AkshayThiru/incentive-design-mpc)|
 |[explainable and externally validated machine learning for neuropsychiatric diagnosis via electrocardiograms](https://arxiv.org/abs/2502.04918)|[cardiodiag](https://github.com/ai4healthuol/cardiodiag)|
 |[ktwin: a serverless kubernetes-based digital twin platform](https://arxiv.org/abs/2408.01635)|[ktwin-article](https://github.com/Open-Digital-Twin/ktwin-article)|
 |[bayes-optimal learning of an extensive-width neural network from quadratically many samples](https://arxiv.org/abs/2408.03733)|[ExtensiveWidthQuadraticSamples](https://github.com/SPOC-group/ExtensiveWidthQuadraticSamples)|
