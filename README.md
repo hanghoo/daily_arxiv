@@ -1,3 +1,10 @@
+## 2025-02-14
+|paper|code|
+|---|---|
+|[a-kit: adaptive kalman-informed transformer](https://arxiv.org/abs/2401.09987)|[a-kit](https://github.com/ansfl/a-kit)|
+|[adaptive nad: online and self-adaptive unsupervised network anomaly detector](https://arxiv.org/abs/2410.22967)|[adaptive-nad](https://github.com/mylearncodespace/adaptive-nad)|
+|[computing capacity-cost functions for continuous channels in wasserstein space](https://arxiv.org/abs/2501.10670)|[continuous_channel](https://github.com/xinyanglii/continuous_channel)|
+|[an overview and solution for democratizing ai workflows at the network edge](https://arxiv.org/abs/2407.11905)|[NAOMI](https://github.com/copandrej/NAOMI)|
 ## 2025-02-13
 |paper|code|
 |---|---|
