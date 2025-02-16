@@ -21,6 +21,7 @@
 |[pointwise-sparse actuator scheduling for linear systems with controllability guarantee](https://arxiv.org/abs/2407.12125)|[sparse-control](https://github.com/lucaballotta/sparse-control)|
 |[unsure: self-supervised learning with unknown noise level and stein's unbiased risk estimate](https://arxiv.org/abs/2409.01985)|[unsure](https://github.com/tachella/unsure)|
 |[unidb: a unified diffusion bridge framework via stochastic optimal control](https://arxiv.org/abs/2502.05749)|[unidb](https://github.com/unidb-soc/unidb)|
+|[smell of source: learning-based odor source localization with molecular communication](https://arxiv.org/abs/2502.07112)|[OSL-SingleSource](https://github.com/aysesila/OSL-SingleSource)|
 |[eiqp: execution-time-certified and infeasibility-detecting qp solver](https://arxiv.org/abs/2502.07738)|[eiqp](https://github.com/liangwu2019/eiqp)|
 |[openranet: neuralized spectrum access by joint subcarrier and power allocation with optimization-based deep learning](https://arxiv.org/abs/2409.12964)|[openranet](https://github.com/convexsoft/openranet)|
 |[the causal information bottleneck and optimal causal variable abstractions](https://arxiv.org/abs/2410.00535)|[cib-optimization-psagd](https://github.com/francisco-simoes/cib-optimization-psagd)|
@@ -41,9 +42,13 @@
 |[asap: aligning simulation and real-world physics for learning agile humanoid whole-body skills](https://arxiv.org/abs/2502.01143)|[asap](https://github.com/lecar-lab/asap)|
 |[lead: large foundation model for eeg-based alzheimer's disease detection](https://arxiv.org/abs/2502.01678)|[lead](https://github.com/dl4mhealth/lead)|
 |[decentralized online ensembles of gaussian processes for multi-agent systems](https://arxiv.org/abs/2502.05301)|[DecentralizedOnlineGPs](https://github.com/fllorente/DecentralizedOnlineGPs)|
+|[lie-algebra adaptive tracking control for rigid body dynamics](https://arxiv.org/abs/2502.05491)|[Lie-algebra-Adaptive-Control-Single-Rigid-Body-Dynamics](https://github.com/Garyandtang/Lie-algebra-Adaptive-Control-Single-Rigid-Body-Dynamics)|
+|[on the convergence and stability of upside-down reinforcement learning, goal-conditioned supervised learning, and online decision transformers](https://arxiv.org/abs/2502.05672)|[eudrl-gcsl-odt-convergence-public](https://github.com/struplm/eudrl-gcsl-odt-convergence-public)|
 |[graph neural networks for efficient ac power flow prediction in power grids](https://arxiv.org/abs/2502.05702)|[gnn-optimalpowerflow](https://github.com/amirtalebi83/gnn-optimalpowerflow)|
 |[retrieving filter spectra in cnn for explainable sleep stage classification](https://arxiv.org/abs/2502.06478)|[msa-cnn](https://github.com/sgoerttler/msa-cnn)|
 |[practical and configurable network traffic classification using probabilistic machine learning](https://arxiv.org/abs/2107.06080)|[Practical-Configurable-Network-Traffic-Classification](https://github.com/JiahuiKChen/Practical-Configurable-Network-Traffic-Classification)|
+|[performance prediction of on-nic network functions with multi-resource contention and traffic awareness](https://arxiv.org/abs/2405.05529)|[stress-ng](https://github.com/ColinIanKing/stress-ng)|
+|[pcodec: better compression for numerical sequences](https://arxiv.org/abs/2502.06112)|[pcodec](https://github.com/mwlon/pcodec)|
 ## 2025-02-10
 |paper|code|
 |---|---|
