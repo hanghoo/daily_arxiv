@@ -4,7 +4,10 @@
 |[a-kit: adaptive kalman-informed transformer](https://arxiv.org/abs/2401.09987)|[a-kit](https://github.com/ansfl/a-kit)|
 |[adaptive nad: online and self-adaptive unsupervised network anomaly detector](https://arxiv.org/abs/2410.22967)|[adaptive-nad](https://github.com/mylearncodespace/adaptive-nad)|
 |[computing capacity-cost functions for continuous channels in wasserstein space](https://arxiv.org/abs/2501.10670)|[continuous_channel](https://github.com/xinyanglii/continuous_channel)|
+|[lir-livo: a lightweight,robust lidar/vision/inertial odometry with illumination-resilient deep features](https://arxiv.org/abs/2502.08676)|[LIR-LIVO](https://github.com/IF-A-CAT/LIR-LIVO)|
 |[an overview and solution for democratizing ai workflows at the network edge](https://arxiv.org/abs/2407.11905)|[NAOMI](https://github.com/copandrej/NAOMI)|
+|[criteria-aware graph filtering: extremely fast yet accurate multi-criteria recommendation](https://arxiv.org/abs/2502.09046)|[CA-GF](https://github.com/jindeok/CA-GF)|
+|[application of tabular transformer architectures for operating system fingerprinting](https://arxiv.org/abs/2502.09084)|[tabulart-os-fingerprinting](https://github.com/rubenpjove/tabulart-os-fingerprinting)|
 ## 2025-02-13
 |paper|code|
 |---|---|
@@ -14,15 +17,14 @@
 |[sustaindc: benchmarking for sustainable data center control](https://arxiv.org/abs/2408.07841)|[dc-rl](https://github.com/hewlettpackard/dc-rl)|
 |[supervising smart home device interactions: a profile-based firewall approach](https://arxiv.org/abs/2310.03510)|[smart-home-firewall](https://github.com/franklin5168/smart-home-firewall)|
 |[soft reverse reconciliation for discrete modulations](https://arxiv.org/abs/2411.04063)|[qam-reconciliation](https://github.com/moriglia/qam-reconciliation)|
-|[edm: an ultra-low latency ethernet fabric for memory disaggregation](https://arxiv.org/abs/2411.08300)|[edm](https://github.com/wegul/edm)|
+|[the art of misclassification: too many classes, not enough points](https://arxiv.org/abs/2502.08041)|[the-art-of-misclassification](https://github.com/Nogarx/the-art-of-misclassification)|
 ## 2025-02-12
 |paper|code|
 |---|---|
 |[pointwise-sparse actuator scheduling for linear systems with controllability guarantee](https://arxiv.org/abs/2407.12125)|[sparse-control](https://github.com/lucaballotta/sparse-control)|
 |[unsure: self-supervised learning with unknown noise level and stein's unbiased risk estimate](https://arxiv.org/abs/2409.01985)|[unsure](https://github.com/tachella/unsure)|
 |[unidb: a unified diffusion bridge framework via stochastic optimal control](https://arxiv.org/abs/2502.05749)|[unidb](https://github.com/unidb-soc/unidb)|
-|[smell of source: learning-based odor source localization with molecular communication](https://arxiv.org/abs/2502.07112)|[OSL-SingleSource](https://github.com/aysesila/OSL-SingleSource)|
-|[eiqp: execution-time-certified and infeasibility-detecting qp solver](https://arxiv.org/abs/2502.07738)|[eiqp](https://github.com/liangwu2019/eiqp)|
+|[a view on learning robust goal-conditioned value functions: interplay between rl and mpc](https://arxiv.org/abs/2502.06996)|[RL-MPC](https://github.com/NPLawrence/RL-MPC)|
 |[openranet: neuralized spectrum access by joint subcarrier and power allocation with optimization-based deep learning](https://arxiv.org/abs/2409.12964)|[openranet](https://github.com/convexsoft/openranet)|
 |[the causal information bottleneck and optimal causal variable abstractions](https://arxiv.org/abs/2410.00535)|[cib-optimization-psagd](https://github.com/francisco-simoes/cib-optimization-psagd)|
 ## 2025-02-11
