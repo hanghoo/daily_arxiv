@@ -1,8 +1,14 @@
+## 2025-02-17
+|paper|code|
+|---|---|
+|[crossfi: a cross domain wi-fi sensing framework based on siamese network](https://arxiv.org/abs/2408.10919)|[ESP32-Realtime-System](https://github.com/RS2002/ESP32-Realtime-System)|
+|[eiqp: execution-time-certified and infeasibility-detecting qp solver](https://arxiv.org/abs/2502.07738)|[eiqp](https://github.com/liangwu2019/eiqp)|
+|[cissir: beam codebooks with self-interference reduction guarantees for integrated sensing and communication beyond 5g](https://arxiv.org/abs/2502.10371)|[cissir](https://github.com/rodrihgh/cissir)|
+|[edm: an ultra-low latency ethernet fabric for memory disaggregation](https://arxiv.org/abs/2411.08300)|[edm](https://github.com/wegul/edm)|
 ## 2025-02-14
 |paper|code|
 |---|---|
 |[a-kit: adaptive kalman-informed transformer](https://arxiv.org/abs/2401.09987)|[a-kit](https://github.com/ansfl/a-kit)|
-|[adaptive nad: online and self-adaptive unsupervised network anomaly detector](https://arxiv.org/abs/2410.22967)|[adaptive-nad](https://github.com/mylearncodespace/adaptive-nad)|
 |[computing capacity-cost functions for continuous channels in wasserstein space](https://arxiv.org/abs/2501.10670)|[continuous_channel](https://github.com/xinyanglii/continuous_channel)|
 |[lir-livo: a lightweight,robust lidar/vision/inertial odometry with illumination-resilient deep features](https://arxiv.org/abs/2502.08676)|[LIR-LIVO](https://github.com/IF-A-CAT/LIR-LIVO)|
 |[an overview and solution for democratizing ai workflows at the network edge](https://arxiv.org/abs/2407.11905)|[NAOMI](https://github.com/copandrej/NAOMI)|
