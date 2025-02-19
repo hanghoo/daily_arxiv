@@ -1,7 +1,21 @@
+## 2025-02-18
+|paper|code|
+|---|---|
+|[reserve provision from electric vehicles: aggregate boundaries and stochastic model predictive control](https://arxiv.org/abs/2406.07454)|[EV_reserve](https://github.com/ImperialCollegeLondon/EV_reserve)|
+|[wideband relative transfer function (rtf) estimation exploiting frequency correlations](https://arxiv.org/abs/2407.14152)|[SVD-direct](https://github.com/Screeen/SVD-direct)|
+|[can all variations within the unified mask-based beamformer framework achieve identical peak extraction performance?](https://arxiv.org/abs/2407.15310)|[unified_framework_for_mask-based_bf](https://github.com/hreshare/unified_framework_for_mask-based_bf)|
+|[certifiable reachability learning using a new lipschitz continuous value function](https://arxiv.org/abs/2408.07866)|[Lipschitz_Continuous_Reachability_Learning](https://github.com/jamesjingqili/Lipschitz_Continuous_Reachability_Learning)|
+|[robomnist: a multimodal dataset for multi-robot activity recognition using wifi sensing, video, and audio](https://arxiv.org/abs/2408.16703)|[robomnist](https://github.com/siamilab/robomnist)|
+|[adaptive nad: online and self-adaptive unsupervised network anomaly detector](https://arxiv.org/abs/2410.22967)|[adaptive-nad](https://github.com/mylearncodespace/adaptive-nad)|
+|[gaussian multi-target filtering with target dynamics driven by a stochastic differential equation](https://arxiv.org/abs/2411.19814)|[MTT](https://github.com/Agarciafernandez/MTT)|
+|[cbramod: a criss-cross brain foundation model for eeg decoding](https://arxiv.org/abs/2412.07236)|[cbramod](https://github.com/wjq-learning/cbramod)|
+|[nonlinear port-hamiltonian system identification from input-state-output data](https://arxiv.org/abs/2501.06118)|[Port-Hamilton-System-Identification-with-PINNS](https://github.com/trawler0/Port-Hamilton-System-Identification-with-PINNS)|
+|[the greedy side of the lasso: new algorithms for weighted sparse recovery via loss function-based orthogonal matching pursuit](https://arxiv.org/abs/2303.00844)|[greedy_lasso_womp](https://github.com/sina-taheri/greedy_lasso_womp)|
+|[quaternary neural belief propagation decoding of quantum ldpc codes with overcomplete check matrices](https://arxiv.org/abs/2308.08208)|[quantum-neural-bp4-demo](https://github.com/kit-cel/quantum-neural-bp4-demo)|
 ## 2025-02-17
 |paper|code|
 |---|---|
-|[crossfi: a cross domain wi-fi sensing framework based on siamese network](https://arxiv.org/abs/2408.10919)|[ESP32-Realtime-System](https://github.com/RS2002/ESP32-Realtime-System)|
+|[crossfi: a cross domain wi-fi sensing framework based on siamese network](https://arxiv.org/abs/2408.10919)|[CrossFi](https://github.com/RS2002/CrossFi)|
 |[eiqp: execution-time-certified and infeasibility-detecting qp solver](https://arxiv.org/abs/2502.07738)|[eiqp](https://github.com/liangwu2019/eiqp)|
 |[cissir: beam codebooks with self-interference reduction guarantees for integrated sensing and communication beyond 5g](https://arxiv.org/abs/2502.10371)|[cissir](https://github.com/rodrihgh/cissir)|
 |[edm: an ultra-low latency ethernet fabric for memory disaggregation](https://arxiv.org/abs/2411.08300)|[edm](https://github.com/wegul/edm)|
