@@ -1,3 +1,12 @@
+## 2025-02-19
+|paper|code|
+|---|---|
+|[a unified algorithmic framework for dynamic compressive sensing](https://arxiv.org/abs/2310.07202)|[PLAY-CS](https://github.com/xzliu-opt/PLAY-CS)|
+|[a closer look at mortality risk prediction from electrocardiograms](https://arxiv.org/abs/2406.17002)|[ecg-survival-benchmark](https://github.com/cavalab/ecg-survival-benchmark)|
+|[scalable and robust physics-informed graph neural networks for water distribution systems](https://arxiv.org/abs/2502.12164)|[SPIGNNs_for_WDSs](https://github.com/HammerLabML/SPIGNNs_for_WDSs)|
+|[reinforcement learning for dynamic resource allocation in optical networks: hype or hope?](https://arxiv.org/abs/2502.12804)|[XLRON](https://github.com/micdoh/XLRON)|
+|[dimension reduction methods, persistent homology and machine learning for eeg signal analysis of interictal epileptic discharges](https://arxiv.org/abs/2502.12814)|[dyca](https://github.com/HS-Ansbach-CCS/dyca)|
+|[an attentive graph agent for topology-adaptive cyber defence](https://arxiv.org/abs/2501.14700)|[cyberdreamcatcher](https://github.com/ilyaorson/cyberdreamcatcher)|
 ## 2025-02-18
 |paper|code|
 |---|---|
