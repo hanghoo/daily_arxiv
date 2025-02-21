@@ -1,11 +1,22 @@
+## 2025-02-20
+|paper|code|
+|---|---|
+|[regression coefficient estimation from remote sensing maps](https://arxiv.org/abs/2407.13659)|[uncertainty-quantification](https://github.com/earth-intelligence-lab/uncertainty-quantification)|
+|[probabilistically robust uncertainty analysis and optimal control of continuous lyophilization via polynomial chaos theory](https://arxiv.org/abs/2502.13420)|[contlyo-pce-drying](https://github.com/prakitrsrisuma/contlyo-pce-drying)|
+|[diffusion models as network optimizers: explorations and analysis](https://arxiv.org/abs/2411.00453)|[DiffSG](https://github.com/qiyu3816/DiffSG)|
+|[mobilevim: a light-weight and dimension-independent vision mamba for 3d medical image analysis](https://arxiv.org/abs/2502.13524)|[MobileViM_3D](https://github.com/anthonyweidai/MobileViM_3D)|
+|[spex: scaling feature interaction explanations for llms](https://arxiv.org/abs/2502.13870)|[spectral-explain](https://github.com/basics-lab/spectral-explain)|
 ## 2025-02-19
 |paper|code|
 |---|---|
 |[a unified algorithmic framework for dynamic compressive sensing](https://arxiv.org/abs/2310.07202)|[PLAY-CS](https://github.com/xzliu-opt/PLAY-CS)|
+|[automated lane merging via game theory and branch model predictive control](https://arxiv.org/abs/2311.14916)|[gt-bmpc](https://github.com/sailorbrandon/gt-bmpc)|
 |[a closer look at mortality risk prediction from electrocardiograms](https://arxiv.org/abs/2406.17002)|[ecg-survival-benchmark](https://github.com/cavalab/ecg-survival-benchmark)|
+|[semantica: decentralized search using a llm-guided semantic tree overlay](https://arxiv.org/abs/2502.10151)|[Semantica](https://github.com/pneague/Semantica)|
 |[scalable and robust physics-informed graph neural networks for water distribution systems](https://arxiv.org/abs/2502.12164)|[SPIGNNs_for_WDSs](https://github.com/HammerLabML/SPIGNNs_for_WDSs)|
 |[reinforcement learning for dynamic resource allocation in optical networks: hype or hope?](https://arxiv.org/abs/2502.12804)|[XLRON](https://github.com/micdoh/XLRON)|
 |[dimension reduction methods, persistent homology and machine learning for eeg signal analysis of interictal epileptic discharges](https://arxiv.org/abs/2502.12814)|[dyca](https://github.com/HS-Ansbach-CCS/dyca)|
+|[robotiq: empowering mobile robots with human-level planning for real-world execution](https://arxiv.org/abs/2502.12862)|[robotiq](https://github.com/emmarapt/robotiq)|
 |[an attentive graph agent for topology-adaptive cyber defence](https://arxiv.org/abs/2501.14700)|[cyberdreamcatcher](https://github.com/ilyaorson/cyberdreamcatcher)|
 ## 2025-02-18
 |paper|code|
@@ -19,15 +30,24 @@
 |[gaussian multi-target filtering with target dynamics driven by a stochastic differential equation](https://arxiv.org/abs/2411.19814)|[MTT](https://github.com/Agarciafernandez/MTT)|
 |[cbramod: a criss-cross brain foundation model for eeg decoding](https://arxiv.org/abs/2412.07236)|[cbramod](https://github.com/wjq-learning/cbramod)|
 |[nonlinear port-hamiltonian system identification from input-state-output data](https://arxiv.org/abs/2501.06118)|[Port-Hamilton-System-Identification-with-PINNS](https://github.com/trawler0/Port-Hamilton-System-Identification-with-PINNS)|
+|[musical score following using statistical inference](https://arxiv.org/abs/2502.10426)|[Score-follower](https://github.com/josephinecowley/Score-follower)|
+|[parallel-in-time kalman smoothing using orthogonal transformations](https://arxiv.org/abs/2502.11686)|[ultimate-kalman](https://github.com/sivantoledo/ultimate-kalman)|
 |[the greedy side of the lasso: new algorithms for weighted sparse recovery via loss function-based orthogonal matching pursuit](https://arxiv.org/abs/2303.00844)|[greedy_lasso_womp](https://github.com/sina-taheri/greedy_lasso_womp)|
 |[quaternary neural belief propagation decoding of quantum ldpc codes with overcomplete check matrices](https://arxiv.org/abs/2308.08208)|[quantum-neural-bp4-demo](https://github.com/kit-cel/quantum-neural-bp4-demo)|
+|[evaluating the potential of quantum machine learning in cybersecurity: a case-study on pca-based intrusion detection systems](https://arxiv.org/abs/2502.11173)|[sq-learn](https://github.com/tommasofioravanti/sq-learn)|
+|[non-binary ldpc arithmetic error correction for processing-in-memory](https://arxiv.org/abs/2502.11487)|[nbldpc_pim](https://github.com/nonamesubmission/nbldpc_pim)|
+|[blank space: adaptive causal coding for streaming communications over multi-hop networks](https://arxiv.org/abs/2502.11984)|[MH_NC](https://github.com/Adinawx/MH_NC)|
 ## 2025-02-17
 |paper|code|
 |---|---|
 |[crossfi: a cross domain wi-fi sensing framework based on siamese network](https://arxiv.org/abs/2408.10919)|[CrossFi](https://github.com/RS2002/CrossFi)|
+|[pre-equalization aided grant-free massive access in massive mimo system](https://arxiv.org/abs/2502.06239)|[tvt-2025](https://github.com/owenwang517/tvt-2025)|
 |[eiqp: execution-time-certified and infeasibility-detecting qp solver](https://arxiv.org/abs/2502.07738)|[eiqp](https://github.com/liangwu2019/eiqp)|
+|[carbon- and precedence-aware scheduling for data processing clusters](https://arxiv.org/abs/2502.09717)|[carbon-aware-dag](https://github.com/umass-solar/carbon-aware-dag)|
 |[cissir: beam codebooks with self-interference reduction guarantees for integrated sensing and communication beyond 5g](https://arxiv.org/abs/2502.10371)|[cissir](https://github.com/rodrihgh/cissir)|
 |[edm: an ultra-low latency ethernet fabric for memory disaggregation](https://arxiv.org/abs/2411.08300)|[edm](https://github.com/wegul/edm)|
+|[topological neural networks over the air](https://arxiv.org/abs/2502.10070)|[AirTNN](https://github.com/SimoneFiorellino/AirTNN)|
+|[from markov to laplace: how mamba in-context learns markov chains](https://arxiv.org/abs/2502.10178)|[Markov-Mamba](https://github.com/Bond1995/Markov-Mamba)|
 ## 2025-02-14
 |paper|code|
 |---|---|
