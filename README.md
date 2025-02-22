@@ -1,3 +1,8 @@
+## 2025-02-21
+|paper|code|
+|---|---|
+|[reinforcement learning-based receding horizon control using adaptive control barrier functions for safety-critical systems](https://arxiv.org/abs/2403.17338)|[cdc2024_rl_adpative_mpc_cbf](https://github.com/ehsansabouni/cdc2024_rl_adpative_mpc_cbf)|
+|[towards generative ray path sampling for faster point-to-point ray tracing](https://arxiv.org/abs/2410.23773)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
 ## 2025-02-20
 |paper|code|
 |---|---|
