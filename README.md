@@ -3,11 +3,15 @@
 |---|---|
 |[reinforcement learning-based receding horizon control using adaptive control barrier functions for safety-critical systems](https://arxiv.org/abs/2403.17338)|[cdc2024_rl_adpative_mpc_cbf](https://github.com/ehsansabouni/cdc2024_rl_adpative_mpc_cbf)|
 |[towards generative ray path sampling for faster point-to-point ray tracing](https://arxiv.org/abs/2410.23773)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
+|[incepformernet: a multi-scale multi-head attention network for ssvep classification](https://arxiv.org/abs/2502.13972)|[ssvep-dan](https://github.com/cecnl/ssvep-dan)|
 ## 2025-02-20
 |paper|code|
 |---|---|
 |[regression coefficient estimation from remote sensing maps](https://arxiv.org/abs/2407.13659)|[uncertainty-quantification](https://github.com/earth-intelligence-lab/uncertainty-quantification)|
+|[artificial intelligence-derived vascular age from photoplethysmography: a novel digital biomarker for cardiovascular health](https://arxiv.org/abs/2502.12990)|[Dist-Loss](https://github.com/Ngk03/Dist-Loss)|
+|[empirical study of dynamic regret in online model predictive control for linear time-varying systems](https://arxiv.org/abs/2502.13418)|[mpc-bounded-regret-evaluation](https://github.com/minhnhat93/mpc-bounded-regret-evaluation)|
 |[probabilistically robust uncertainty analysis and optimal control of continuous lyophilization via polynomial chaos theory](https://arxiv.org/abs/2502.13420)|[contlyo-pce-drying](https://github.com/prakitrsrisuma/contlyo-pce-drying)|
+|[toeplitz-hermitian admm-net for doa estimation](https://arxiv.org/abs/2502.13896)|[thadmmnet](https://github.com/youvalklioui/thadmmnet)|
 |[diffusion models as network optimizers: explorations and analysis](https://arxiv.org/abs/2411.00453)|[DiffSG](https://github.com/qiyu3816/DiffSG)|
 |[mobilevim: a light-weight and dimension-independent vision mamba for 3d medical image analysis](https://arxiv.org/abs/2502.13524)|[MobileViM_3D](https://github.com/anthonyweidai/MobileViM_3D)|
 |[spex: scaling feature interaction explanations for llms](https://arxiv.org/abs/2502.13870)|[spectral-explain](https://github.com/basics-lab/spectral-explain)|
@@ -22,7 +26,9 @@
 |[reinforcement learning for dynamic resource allocation in optical networks: hype or hope?](https://arxiv.org/abs/2502.12804)|[XLRON](https://github.com/micdoh/XLRON)|
 |[dimension reduction methods, persistent homology and machine learning for eeg signal analysis of interictal epileptic discharges](https://arxiv.org/abs/2502.12814)|[dyca](https://github.com/HS-Ansbach-CCS/dyca)|
 |[robotiq: empowering mobile robots with human-level planning for real-world execution](https://arxiv.org/abs/2502.12862)|[robotiq](https://github.com/emmarapt/robotiq)|
+|[automated linear parameter-varying modeling of nonlinear systems: a global embedding approach](https://arxiv.org/abs/2502.13082)|[lpvs25-code-repo](https://gitlab.com/Javi-Olucha/lpvs25-code-repo)|
 |[an attentive graph agent for topology-adaptive cyber defence](https://arxiv.org/abs/2501.14700)|[cyberdreamcatcher](https://github.com/ilyaorson/cyberdreamcatcher)|
+|[universal embedding function for traffic classification via quic domain recognition pretraining: a transfer learning success](https://arxiv.org/abs/2502.12930)|[faiss](https://github.com/facebookresearch/faiss)|
 ## 2025-02-18
 |paper|code|
 |---|---|
