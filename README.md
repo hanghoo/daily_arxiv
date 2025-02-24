@@ -4,6 +4,8 @@
 |[reinforcement learning-based receding horizon control using adaptive control barrier functions for safety-critical systems](https://arxiv.org/abs/2403.17338)|[cdc2024_rl_adpative_mpc_cbf](https://github.com/ehsansabouni/cdc2024_rl_adpative_mpc_cbf)|
 |[towards generative ray path sampling for faster point-to-point ray tracing](https://arxiv.org/abs/2410.23773)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
 |[incepformernet: a multi-scale multi-head attention network for ssvep classification](https://arxiv.org/abs/2502.13972)|[ssvep-dan](https://github.com/cecnl/ssvep-dan)|
+|[a stackelberg game approach for signal temporal logic control synthesis with uncontrollable agents](https://arxiv.org/abs/2502.14585)|[Stackelberg-STL](https://github.com/stack-stl/Stackelberg-STL)|
+|[data-driven control of t-product-based dynamical systems](https://arxiv.org/abs/2502.14591)|[TPDSn](https://github.com/ZiqinHe/TPDSn)|
 ## 2025-02-20
 |paper|code|
 |---|---|
