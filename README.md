@@ -1,3 +1,8 @@
+## 2025-02-24
+|paper|code|
+|---|---|
+|[explainable ai for ship collision avoidance: decoding decision-making processes and behavioral intentions](https://arxiv.org/abs/2405.09081)|[Explainable-AI-for-Ship-Collision-Avoidance-Decoding-Decision-Making-Processes-and-Behavioral-Inten](https://github.com/sbb03124/Explainable-AI-for-Ship-Collision-Avoidance-Decoding-Decision-Making-Processes-and-Behavioral-Inten)|
+|[unidb: a unified diffusion bridge framework via stochastic optimal control](https://arxiv.org/abs/2502.05749)|[unidb](https://github.com/unidb-soc/unidb)|
 ## 2025-02-21
 |paper|code|
 |---|---|
