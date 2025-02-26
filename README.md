@@ -1,3 +1,12 @@
+## 2025-02-25
+|paper|code|
+|---|---|
+|[finite element hybridization of port-hamiltonian systems](https://arxiv.org/abs/2302.06239)|[ph_hybridization](https://github.com/a-brugnoli/ph_hybridization)|
+|[contrastive learning for sleep staging based on inter subject correlation](https://arxiv.org/abs/2305.03178)|[mvitime](https://github.com/jukiecheung/mvitime)|
+|[uncertainty-aware drl for autonomous vehicle crowd navigation in shared space](https://arxiv.org/abs/2405.13969)|[UncertaintyAware_DRL_CrowdNav](https://github.com/Golchoubian/UncertaintyAware_DRL_CrowdNav)|
+|[can all variations within the unified mask-based beamformer framework achieve identical peak extraction performance?](https://arxiv.org/abs/2407.15310)|[unified_framework_for_mask-based_bf](https://github.com/hreshare/unified_framework_for_mask-based_bf)|
+|[cbramod: a criss-cross brain foundation model for eeg decoding](https://arxiv.org/abs/2412.07236)|[cbramod](https://github.com/wjq-learning/cbramod)|
+|[inverse kinematics on guiding vector fields for robot path following](https://arxiv.org/abs/2502.17313)|[gvf_ik](https://github.com/swarm-systems-lab/gvf_ik)|
 ## 2025-02-24
 |paper|code|
 |---|---|
@@ -9,6 +18,7 @@
 |[reinforcement learning-based receding horizon control using adaptive control barrier functions for safety-critical systems](https://arxiv.org/abs/2403.17338)|[cdc2024_rl_adpative_mpc_cbf](https://github.com/ehsansabouni/cdc2024_rl_adpative_mpc_cbf)|
 |[towards generative ray path sampling for faster point-to-point ray tracing](https://arxiv.org/abs/2410.23773)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
 |[incepformernet: a multi-scale multi-head attention network for ssvep classification](https://arxiv.org/abs/2502.13972)|[ssvep-dan](https://github.com/cecnl/ssvep-dan)|
+|[towards routing and edge computing in satellite-terrestrial networks: a column generation approach](https://arxiv.org/abs/2502.14422)|[CG_satellite](https://github.com/Yuanliaoo/CG_satellite)|
 |[a stackelberg game approach for signal temporal logic control synthesis with uncontrollable agents](https://arxiv.org/abs/2502.14585)|[Stackelberg-STL](https://github.com/stack-stl/Stackelberg-STL)|
 |[data-driven control of t-product-based dynamical systems](https://arxiv.org/abs/2502.14591)|[TPDSn](https://github.com/ZiqinHe/TPDSn)|
 ## 2025-02-20
