@@ -1,3 +1,12 @@
+## 2025-02-26
+|paper|code|
+|---|---|
+|[$\mathsf{quito}$ $\textsf{v.2}$: trajectory optimization with uniform error guarantees under path constraints](https://arxiv.org/abs/2404.13681)|[quitov2](https://github.com/chatterjee-d/quitov2)|
+|[wavtokenizer: an efficient acoustic discrete codec tokenizer for audio language modeling](https://arxiv.org/abs/2408.16532)|[wavtokenizer](https://github.com/jishengpeng/wavtokenizer)|
+|[toward foundational model for sleep analysis using a multimodal hybrid self-supervised learning framework](https://arxiv.org/abs/2502.17481)|[SynthSleepNet](https://github.com/dlcjfgmlnasa/SynthSleepNet)|
+|[{complexitymeasures.jl}: scalable software to unify and accelerate entropy and complexity timeseries analysis](https://arxiv.org/abs/2406.05011)|[ComplexityMeasures.jl](https://github.com/JuliaDynamics/ComplexityMeasures.jl)|
+|[towards accurate and reliable icu outcome prediction: a multimodal learning framework based on belief function theory using structured ehrs and free-text notes](https://arxiv.org/abs/2501.04389)|[evid_multimodal_ehr](https://github.com/yuchengruan/evid_multimodal_ehr)|
+|[+tour: recommending personalized itineraries for smart tourism](https://arxiv.org/abs/2502.17345)|[plusTour](https://github.com/LABORA-INF-UFG/plusTour)|
 ## 2025-02-25
 |paper|code|
 |---|---|
