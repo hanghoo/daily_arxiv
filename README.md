@@ -1,8 +1,17 @@
+## 2025-02-27
+|paper|code|
+|---|---|
+|[detecting train driveshaft damages using accelerometer signals and differential convolutional neural networks](https://arxiv.org/abs/2211.09011)|[crack-detection-railway-axles-deep-learning](https://github.com/antialopezg/crack-detection-railway-axles-deep-learning)|
+|[pixleepflow: a pixel-based lifelog framework for predicting sleep quality and stress level](https://arxiv.org/abs/2502.17469)|[pixleep](https://github.com/seongjiko/pixleep)|
+|[ecg-expert-qa: a benchmark for evaluating medical large language models in heart disease diagnosis](https://arxiv.org/abs/2502.17475)|[ecg-expert-qa](https://github.com/zaozzz/ecg-expert-qa)|
 ## 2025-02-26
 |paper|code|
 |---|---|
 |[$\mathsf{quito}$ $\textsf{v.2}$: trajectory optimization with uniform error guarantees under path constraints](https://arxiv.org/abs/2404.13681)|[quitov2](https://github.com/chatterjee-d/quitov2)|
+|[learning system dynamics without forgetting](https://arxiv.org/abs/2407.00717)|[ms-gode](https://github.com/queuq/ms-gode)|
 |[wavtokenizer: an efficient acoustic discrete codec tokenizer for audio language modeling](https://arxiv.org/abs/2408.16532)|[wavtokenizer](https://github.com/jishengpeng/wavtokenizer)|
+|[the case for cleaner biosignals: high-fidelity neural compressor enables transfer from cleaner ieeg to noisier eeg](https://arxiv.org/abs/2502.17462)|[eeg-ieeg-brain-compressor](https://github.com/ibm/eeg-ieeg-brain-compressor)|
+|[cssstn: a class-sensitive subject-to-subject semantic style transfer network for eeg classification in rsvp tasks](https://arxiv.org/abs/2502.17468)|[cssstn](https://github.com/ziyuey/cssstn)|
 |[toward foundational model for sleep analysis using a multimodal hybrid self-supervised learning framework](https://arxiv.org/abs/2502.17481)|[SynthSleepNet](https://github.com/dlcjfgmlnasa/SynthSleepNet)|
 |[{complexitymeasures.jl}: scalable software to unify and accelerate entropy and complexity timeseries analysis](https://arxiv.org/abs/2406.05011)|[ComplexityMeasures.jl](https://github.com/JuliaDynamics/ComplexityMeasures.jl)|
 |[towards accurate and reliable icu outcome prediction: a multimodal learning framework based on belief function theory using structured ehrs and free-text notes](https://arxiv.org/abs/2501.04389)|[evid_multimodal_ehr](https://github.com/yuchengruan/evid_multimodal_ehr)|
@@ -14,13 +23,18 @@
 |[contrastive learning for sleep staging based on inter subject correlation](https://arxiv.org/abs/2305.03178)|[mvitime](https://github.com/jukiecheung/mvitime)|
 |[uncertainty-aware drl for autonomous vehicle crowd navigation in shared space](https://arxiv.org/abs/2405.13969)|[UncertaintyAware_DRL_CrowdNav](https://github.com/Golchoubian/UncertaintyAware_DRL_CrowdNav)|
 |[can all variations within the unified mask-based beamformer framework achieve identical peak extraction performance?](https://arxiv.org/abs/2407.15310)|[unified_framework_for_mask-based_bf](https://github.com/hreshare/unified_framework_for_mask-based_bf)|
+|[cl-diffphycon: closed-loop diffusion control of complex physical systems](https://arxiv.org/abs/2408.03124)|[cl_diffphycon](https://github.com/ai4science-westlakeu/cl_diffphycon)|
 |[cbramod: a criss-cross brain foundation model for eeg decoding](https://arxiv.org/abs/2412.07236)|[cbramod](https://github.com/wjq-learning/cbramod)|
+|[benchmarking machine learning for bowel sound pattern classification from tabular features to pretrained models](https://arxiv.org/abs/2502.15607)|[bowel-sound-classification](https://github.com/AI4HealthUOL/bowel-sound-classification)|
 |[inverse kinematics on guiding vector fields for robot path following](https://arxiv.org/abs/2502.17313)|[gvf_ik](https://github.com/swarm-systems-lab/gvf_ik)|
 ## 2025-02-24
 |paper|code|
 |---|---|
 |[explainable ai for ship collision avoidance: decoding decision-making processes and behavioral intentions](https://arxiv.org/abs/2405.09081)|[Explainable-AI-for-Ship-Collision-Avoidance-Decoding-Decision-Making-Processes-and-Behavioral-Inten](https://github.com/sbb03124/Explainable-AI-for-Ship-Collision-Avoidance-Decoding-Decision-Making-Processes-and-Behavioral-Inten)|
 |[unidb: a unified diffusion bridge framework via stochastic optimal control](https://arxiv.org/abs/2502.05749)|[unidb](https://github.com/unidb-soc/unidb)|
+|[multi-agent multi-armed bandits with minimum reward guarantee fairness](https://arxiv.org/abs/2502.15240)|[Fair-MAMAB](https://github.com/Piyushi-0/Fair-MAMAB)|
+|[leader-follower formation tracking control of quadrotor uavs using bearing measurements](https://arxiv.org/abs/2502.15303)|[bpe_quadrotor](https://github.com/SDoodeman/bpe_quadrotor)|
+|[generalization guarantees for representation learning via data-dependent gaussian mixture priors](https://arxiv.org/abs/2502.15540)|[Gaussian_Mixture_Priors_for_Representation_Learning](https://github.com/PiotrKrasnowski/Gaussian_Mixture_Priors_for_Representation_Learning)|
 ## 2025-02-21
 |paper|code|
 |---|---|
