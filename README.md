@@ -10,6 +10,7 @@
 |[detecting train driveshaft damages using accelerometer signals and differential convolutional neural networks](https://arxiv.org/abs/2211.09011)|[crack-detection-railway-axles-deep-learning](https://github.com/antialopezg/crack-detection-railway-axles-deep-learning)|
 |[pixleepflow: a pixel-based lifelog framework for predicting sleep quality and stress level](https://arxiv.org/abs/2502.17469)|[pixleep](https://github.com/seongjiko/pixleep)|
 |[ecg-expert-qa: a benchmark for evaluating medical large language models in heart disease diagnosis](https://arxiv.org/abs/2502.17475)|[ecg-expert-qa](https://github.com/zaozzz/ecg-expert-qa)|
+|[calibrefine: deep learning-based online automatic targetless lidar-camera calibration with iterative and attention-driven post-refinement](https://arxiv.org/abs/2502.17648)|[Lidar](https://github.com/radar-lab/Lidar)|
 ## 2025-02-26
 |paper|code|
 |---|---|
@@ -19,9 +20,13 @@
 |[the case for cleaner biosignals: high-fidelity neural compressor enables transfer from cleaner ieeg to noisier eeg](https://arxiv.org/abs/2502.17462)|[eeg-ieeg-brain-compressor](https://github.com/ibm/eeg-ieeg-brain-compressor)|
 |[cssstn: a class-sensitive subject-to-subject semantic style transfer network for eeg classification in rsvp tasks](https://arxiv.org/abs/2502.17468)|[cssstn](https://github.com/ziyuey/cssstn)|
 |[toward foundational model for sleep analysis using a multimodal hybrid self-supervised learning framework](https://arxiv.org/abs/2502.17481)|[SynthSleepNet](https://github.com/dlcjfgmlnasa/SynthSleepNet)|
+|[consense: continually sensing human activity with wifi via growing and picking](https://arxiv.org/abs/2502.17483)|[consense](https://github.com/kikihub/consense)|
+|[urinary tract infection detection in digital remote monitoring: strategies for managing participant-specific prediction complexity](https://arxiv.org/abs/2502.17484)|[Multi-Source-Analysing](https://github.com/Kexin-Fan/Multi-Source-Analysing)|
 |[{complexitymeasures.jl}: scalable software to unify and accelerate entropy and complexity timeseries analysis](https://arxiv.org/abs/2406.05011)|[ComplexityMeasures.jl](https://github.com/JuliaDynamics/ComplexityMeasures.jl)|
 |[towards accurate and reliable icu outcome prediction: a multimodal learning framework based on belief function theory using structured ehrs and free-text notes](https://arxiv.org/abs/2501.04389)|[evid_multimodal_ehr](https://github.com/yuchengruan/evid_multimodal_ehr)|
 |[+tour: recommending personalized itineraries for smart tourism](https://arxiv.org/abs/2502.17345)|[plusTour](https://github.com/LABORA-INF-UFG/plusTour)|
+|[iterative counterfactual data augmentation](https://arxiv.org/abs/2502.18249)|[ICDA](https://github.com/mlplyler/ICDA)|
+|[random number generation from pulsars](https://arxiv.org/abs/2502.18430)|[pulsar_rng](https://github.com/jadidbourbaki/pulsar_rng)|
 ## 2025-02-25
 |paper|code|
 |---|---|
@@ -32,6 +37,8 @@
 |[cl-diffphycon: closed-loop diffusion control of complex physical systems](https://arxiv.org/abs/2408.03124)|[cl_diffphycon](https://github.com/ai4science-westlakeu/cl_diffphycon)|
 |[cbramod: a criss-cross brain foundation model for eeg decoding](https://arxiv.org/abs/2412.07236)|[cbramod](https://github.com/wjq-learning/cbramod)|
 |[benchmarking machine learning for bowel sound pattern classification from tabular features to pretrained models](https://arxiv.org/abs/2502.15607)|[bowel-sound-classification](https://github.com/AI4HealthUOL/bowel-sound-classification)|
+|[structure-aware matrix pencil method](https://arxiv.org/abs/2502.17047)|[--SAMP--Stracture-Aware_Matrix_Pencil_Method](https://github.com/YehonatanSeg/--SAMP--Stracture-Aware_Matrix_Pencil_Method)|
+|[spikacom: a neuromorphic computing framework for green communications](https://arxiv.org/abs/2502.17168)|[spikacom](https://github.com/yl5922/spikacom)|
 |[inverse kinematics on guiding vector fields for robot path following](https://arxiv.org/abs/2502.17313)|[gvf_ik](https://github.com/swarm-systems-lab/gvf_ik)|
 ## 2025-02-24
 |paper|code|
