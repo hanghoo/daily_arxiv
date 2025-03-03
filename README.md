@@ -2,15 +2,22 @@
 |paper|code|
 |---|---|
 |[neural configuration distance function for continuum robot control](https://arxiv.org/abs/2409.13865)|[ndf-coroco](https://github.com/cps-atlas/ndf-coroco)|
+|[multi-view contrastive network (mvcnet) for motor imagery classification](https://arxiv.org/abs/2502.17482)|[MCNet](https://github.com/wzwvv/MCNet)|
+|[machine-learning for photoplethysmography analysis: benchmarking feature, image, and signal-based approaches](https://arxiv.org/abs/2502.19949)|[d1-code](https://gitlab.com/qumphy/d1-code)|
+|[convergence guarantees of model-free policy gradient methods for lqr with stochastic data](https://arxiv.org/abs/2502.19977)|[2025-PGforLQRwithStochastic](https://github.com/col-tasas/2025-PGforLQRwithStochastic)|
+|[offline reinforcement learning via inverse optimization](https://arxiv.org/abs/2502.20030)|[offlinerlviaio](https://github.com/tolgaok/offlinerlviaio)|
 |[a measure of synergy based on union information](https://arxiv.org/abs/2403.16575)|[cisynergy](https://github.com/andrefcorreiagomes/cisynergy)|
 |[exploring quic dynamics: a large-scale dataset for encrypted traffic analysis](https://arxiv.org/abs/2410.03728)|[VisQUIC](https://github.com/robshahla/VisQUIC)|
+|[autobs: autonomous base station deployment framework with reinforcement learning and digital twin network](https://arxiv.org/abs/2502.19647)|[autobs](https://github.com/abman23/autobs)|
 ## 2025-02-27
 |paper|code|
 |---|---|
 |[detecting train driveshaft damages using accelerometer signals and differential convolutional neural networks](https://arxiv.org/abs/2211.09011)|[crack-detection-railway-axles-deep-learning](https://github.com/antialopezg/crack-detection-railway-axles-deep-learning)|
 |[pixleepflow: a pixel-based lifelog framework for predicting sleep quality and stress level](https://arxiv.org/abs/2502.17469)|[pixleep](https://github.com/seongjiko/pixleep)|
 |[ecg-expert-qa: a benchmark for evaluating medical large language models in heart disease diagnosis](https://arxiv.org/abs/2502.17475)|[ecg-expert-qa](https://github.com/zaozzz/ecg-expert-qa)|
-|[calibrefine: deep learning-based online automatic targetless lidar-camera calibration with iterative and attention-driven post-refinement](https://arxiv.org/abs/2502.17648)|[Lidar](https://github.com/radar-lab/Lidar)|
+|[transfer learning assisted fast design migration over technology nodes: a study on transformer matching network](https://arxiv.org/abs/2502.18636)|[rfic-tl](https://github.com/chenhaochu/rfic-tl)|
+|[circulant admm-net for fast high-resolution doa estimation](https://arxiv.org/abs/2502.19076)|[cadmmnet](https://github.com/youvalklioui/cadmmnet)|
+|[generalizable deep learning for photoplethysmography-based blood pressure estimation -- a benchmarking study](https://arxiv.org/abs/2502.19167)|[ppg-ood-generalization](https://github.com/ai4healthuol/ppg-ood-generalization)|
 ## 2025-02-26
 |paper|code|
 |---|---|
@@ -19,13 +26,13 @@
 |[wavtokenizer: an efficient acoustic discrete codec tokenizer for audio language modeling](https://arxiv.org/abs/2408.16532)|[wavtokenizer](https://github.com/jishengpeng/wavtokenizer)|
 |[the case for cleaner biosignals: high-fidelity neural compressor enables transfer from cleaner ieeg to noisier eeg](https://arxiv.org/abs/2502.17462)|[eeg-ieeg-brain-compressor](https://github.com/ibm/eeg-ieeg-brain-compressor)|
 |[cssstn: a class-sensitive subject-to-subject semantic style transfer network for eeg classification in rsvp tasks](https://arxiv.org/abs/2502.17468)|[cssstn](https://github.com/ziyuey/cssstn)|
-|[toward foundational model for sleep analysis using a multimodal hybrid self-supervised learning framework](https://arxiv.org/abs/2502.17481)|[SynthSleepNet](https://github.com/dlcjfgmlnasa/SynthSleepNet)|
 |[consense: continually sensing human activity with wifi via growing and picking](https://arxiv.org/abs/2502.17483)|[consense](https://github.com/kikihub/consense)|
 |[urinary tract infection detection in digital remote monitoring: strategies for managing participant-specific prediction complexity](https://arxiv.org/abs/2502.17484)|[Multi-Source-Analysing](https://github.com/Kexin-Fan/Multi-Source-Analysing)|
+|[perceptual noise-masking with music through deep spectral envelope shaping](https://arxiv.org/abs/2502.17527)|[DPNMM](https://github.com/ClementineBerger/DPNMM)|
+|[eegm2: an efficient mamba-2-based self-supervised framework for long-sequence eeg modeling](https://arxiv.org/abs/2502.17873)|[EEGM2](https://github.com/Jiazhen-Hong/EEGM2)|
 |[{complexitymeasures.jl}: scalable software to unify and accelerate entropy and complexity timeseries analysis](https://arxiv.org/abs/2406.05011)|[ComplexityMeasures.jl](https://github.com/JuliaDynamics/ComplexityMeasures.jl)|
 |[towards accurate and reliable icu outcome prediction: a multimodal learning framework based on belief function theory using structured ehrs and free-text notes](https://arxiv.org/abs/2501.04389)|[evid_multimodal_ehr](https://github.com/yuchengruan/evid_multimodal_ehr)|
 |[+tour: recommending personalized itineraries for smart tourism](https://arxiv.org/abs/2502.17345)|[plusTour](https://github.com/LABORA-INF-UFG/plusTour)|
-|[iterative counterfactual data augmentation](https://arxiv.org/abs/2502.18249)|[ICDA](https://github.com/mlplyler/ICDA)|
 |[random number generation from pulsars](https://arxiv.org/abs/2502.18430)|[pulsar_rng](https://github.com/jadidbourbaki/pulsar_rng)|
 ## 2025-02-25
 |paper|code|
