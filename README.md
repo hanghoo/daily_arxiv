@@ -1,3 +1,10 @@
+## 2025-03-03
+|paper|code|
+|---|---|
+|[adaptive whitening in neural populations with gain-modulating interneurons](https://arxiv.org/abs/2301.11955)|[frame_whitening](https://github.com/lyndond/frame_whitening)|
+|[timely status updates in slotted aloha networks with energy harvesting](https://arxiv.org/abs/2404.18990)|[aoi_slottedaloha_energyharvesting](https://github.com/khachoang1412/aoi_slottedaloha_energyharvesting)|
+|[toward foundational model for sleep analysis using a multimodal hybrid self-supervised learning framework](https://arxiv.org/abs/2502.17481)|[SynthSleepNet](https://github.com/dlcjfgmlnasa/SynthSleepNet)|
+|[scaling large-language-model-based multi-agent collaboration](https://arxiv.org/abs/2406.07155)|[chatdev](https://github.com/openbmb/chatdev)|
 ## 2025-02-28
 |paper|code|
 |---|---|
@@ -15,6 +22,7 @@
 |[detecting train driveshaft damages using accelerometer signals and differential convolutional neural networks](https://arxiv.org/abs/2211.09011)|[crack-detection-railway-axles-deep-learning](https://github.com/antialopezg/crack-detection-railway-axles-deep-learning)|
 |[pixleepflow: a pixel-based lifelog framework for predicting sleep quality and stress level](https://arxiv.org/abs/2502.17469)|[pixleep](https://github.com/seongjiko/pixleep)|
 |[ecg-expert-qa: a benchmark for evaluating medical large language models in heart disease diagnosis](https://arxiv.org/abs/2502.17475)|[ecg-expert-qa](https://github.com/zaozzz/ecg-expert-qa)|
+|[calibrefine: deep learning-based online automatic targetless lidar-camera calibration with iterative and attention-driven post-refinement](https://arxiv.org/abs/2502.17648)|[Lidar_Camera_Automatic_Calibration](https://github.com/radar-lab/Lidar_Camera_Automatic_Calibration)|
 |[transfer learning assisted fast design migration over technology nodes: a study on transformer matching network](https://arxiv.org/abs/2502.18636)|[rfic-tl](https://github.com/chenhaochu/rfic-tl)|
 |[circulant admm-net for fast high-resolution doa estimation](https://arxiv.org/abs/2502.19076)|[cadmmnet](https://github.com/youvalklioui/cadmmnet)|
 |[generalizable deep learning for photoplethysmography-based blood pressure estimation -- a benchmarking study](https://arxiv.org/abs/2502.19167)|[ppg-ood-generalization](https://github.com/ai4healthuol/ppg-ood-generalization)|
