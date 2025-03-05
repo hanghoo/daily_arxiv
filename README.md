@@ -1,10 +1,34 @@
+## 2025-03-04
+|paper|code|
+|---|---|
+|[optimization-based motion planning for autonomous agricultural vehicles turning in constrained headlands](https://arxiv.org/abs/2308.01117)|[headland_trajectory_planning](https://github.com/agroboticsresearch/headland_trajectory_planning)|
+|[vrem-fl: mobility-aware computation-scheduling co-design for vehicular federated learning](https://arxiv.org/abs/2311.18741)|[vrem-fl](https://github.com/lucaballotta/vrem-fl)|
+|[linear quadratic control of nonlinear systems with koopman operator learning and the nystr\"om method](https://arxiv.org/abs/2403.02811)|[nys-koop-lqr](https://github.com/lcsl/nys-koop-lqr)|
+|[robust data-driven tube-based zonotopic predictive control with closed-loop guarantees](https://arxiv.org/abs/2409.14366)|[TZPC](https://github.com/MahsaFarjadnia/TZPC)|
+|[a universal formulation for path-parametric planning and control](https://arxiv.org/abs/2410.04664)|[pathparam](https://github.com/jonarriza96/pathparam)|
+|[the bouc-wen model for binary direct collinear collisions of convex viscoplastic bodies](https://arxiv.org/abs/2410.08147)|[bwbcl](https://gitlab.com/user9716869/bwbcl)|
+|[a data-driven aggressive autonomous racing framework utilizing local trajectory planning with velocity prediction](https://arxiv.org/abs/2410.11570)|[vpmpcc](https://github.com/zhouhengli/vpmpcc)|
+|[learning two-agent motion planning strategies from generalized nash equilibrium for model predictive control](https://arxiv.org/abs/2411.13983)|[Implicit-Game-Theoretic-MPC](https://github.com/MPC-Berkeley/Implicit-Game-Theoretic-MPC)|
+|[cbramod: a criss-cross brain foundation model for eeg decoding](https://arxiv.org/abs/2412.07236)|[cbramod](https://github.com/wjq-learning/cbramod)|
+|[computing capacity-cost functions for continuous channels in wasserstein space](https://arxiv.org/abs/2501.10670)|[continuous_channel](https://github.com/xinyanglii/continuous_channel)|
+|[prodapt: proprioceptive adaptation using long-term memory diffusion](https://arxiv.org/abs/2503.00193)|[prodapt](https://github.com/federico-pizarrobejarano/prodapt)|
+|[flowdec: a flow-based full-band general audio codec with high perceptual quality](https://arxiv.org/abs/2503.01485)|[flowdec](https://github.com/facebookresearch/flowdec)|
+|[m4: a learned flow-level network simulator](https://arxiv.org/abs/2503.01770)|[m4](https://github.com/netiken/m4)|
+|[learned codes for broadcast channels with feedback](https://arxiv.org/abs/2411.04083)|[gbcf](https://github.com/zyy-cc/gbcf)|
+|[mobilevim: a light-weight and dimension-independent vision mamba for 3d medical image analysis](https://arxiv.org/abs/2502.13524)|[MobileViM_3D](https://github.com/anthonyweidai/MobileViM_3D)|
+|[towards zero touch networks: cross-layer automated security solutions for 6g wireless networks](https://arxiv.org/abs/2502.20627)|[cross-layer-autonomous-cybersecurity-framework](https://github.com/western-oc2-lab/cross-layer-autonomous-cybersecurity-framework)|
+|[verifying quic implementations using ivy](https://arxiv.org/abs/2503.01374)|[PANTHER](https://github.com/ElNiak/PANTHER)|
+|[formally discovering and reproducing network protocols vulnerabilities](https://arxiv.org/abs/2503.01538)|[PANTHER](https://github.com/ElNiak/PANTHER)|
 ## 2025-03-03
 |paper|code|
 |---|---|
 |[adaptive whitening in neural populations with gain-modulating interneurons](https://arxiv.org/abs/2301.11955)|[frame_whitening](https://github.com/lyndond/frame_whitening)|
+|[keec: koopman embedded equivariant control](https://arxiv.org/abs/2312.01544)|[koopman-embedded-equivariant-control](https://github.com/yyimingucl/koopman-embedded-equivariant-control)|
 |[timely status updates in slotted aloha networks with energy harvesting](https://arxiv.org/abs/2404.18990)|[aoi_slottedaloha_energyharvesting](https://github.com/khachoang1412/aoi_slottedaloha_energyharvesting)|
 |[toward foundational model for sleep analysis using a multimodal hybrid self-supervised learning framework](https://arxiv.org/abs/2502.17481)|[SynthSleepNet](https://github.com/dlcjfgmlnasa/SynthSleepNet)|
 |[scaling large-language-model-based multi-agent collaboration](https://arxiv.org/abs/2406.07155)|[chatdev](https://github.com/openbmb/chatdev)|
+|[overlapped arithmetic codes](https://arxiv.org/abs/2502.20781)|[now-ftcit](https://github.com/fy79/now-ftcit)|
+|[enabling automl for zero-touch network security: use-case driven analysis](https://arxiv.org/abs/2502.21286)|[automl-and-adversarial-attack-defense-for-zero-touch-network-security](https://github.com/western-oc2-lab/automl-and-adversarial-attack-defense-for-zero-touch-network-security)|
 ## 2025-02-28
 |paper|code|
 |---|---|
@@ -22,7 +46,6 @@
 |[detecting train driveshaft damages using accelerometer signals and differential convolutional neural networks](https://arxiv.org/abs/2211.09011)|[crack-detection-railway-axles-deep-learning](https://github.com/antialopezg/crack-detection-railway-axles-deep-learning)|
 |[pixleepflow: a pixel-based lifelog framework for predicting sleep quality and stress level](https://arxiv.org/abs/2502.17469)|[pixleep](https://github.com/seongjiko/pixleep)|
 |[ecg-expert-qa: a benchmark for evaluating medical large language models in heart disease diagnosis](https://arxiv.org/abs/2502.17475)|[ecg-expert-qa](https://github.com/zaozzz/ecg-expert-qa)|
-|[calibrefine: deep learning-based online automatic targetless lidar-camera calibration with iterative and attention-driven post-refinement](https://arxiv.org/abs/2502.17648)|[Lidar_Camera_Automatic_Calibration](https://github.com/radar-lab/Lidar_Camera_Automatic_Calibration)|
 |[transfer learning assisted fast design migration over technology nodes: a study on transformer matching network](https://arxiv.org/abs/2502.18636)|[rfic-tl](https://github.com/chenhaochu/rfic-tl)|
 |[circulant admm-net for fast high-resolution doa estimation](https://arxiv.org/abs/2502.19076)|[cadmmnet](https://github.com/youvalklioui/cadmmnet)|
 |[generalizable deep learning for photoplethysmography-based blood pressure estimation -- a benchmarking study](https://arxiv.org/abs/2502.19167)|[ppg-ood-generalization](https://github.com/ai4healthuol/ppg-ood-generalization)|
