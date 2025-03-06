@@ -1,3 +1,11 @@
+## 2025-03-05
+|paper|code|
+|---|---|
+|[calibrefine: deep learning-based online automatic targetless lidar-camera calibration with iterative and attention-driven post-refinement](https://arxiv.org/abs/2502.17648)|[Lidar_Camera_Automatic_Calibration](https://github.com/radar-lab/Lidar_Camera_Automatic_Calibration)|
+|[uncertainty representation in a sotif-related use case with dempster-shafer theory for lidar sensor-based object detection](https://arxiv.org/abs/2503.02087)|[SOTIF-PCOD](https://github.com/milinpatel07/SOTIF-PCOD)|
+|[integrated communication and learned recognizer with customized ris phases and sensing durations](https://arxiv.org/abs/2503.02244)|[CRISense](https://github.com/kiwi1944/CRISense)|
+|[racnn: residual attention convolutional neural network for near-field channel estimation in 6g wireless communications](https://arxiv.org/abs/2503.02299)|[RACNN](https://github.com/DoHaiSon/RACNN)|
+|[protograph-based batched network codes](https://arxiv.org/abs/2408.16365)|[bnc](https://github.com/zhu-mingyang/bnc)|
 ## 2025-03-04
 |paper|code|
 |---|---|
@@ -15,7 +23,6 @@
 |[flowdec: a flow-based full-band general audio codec with high perceptual quality](https://arxiv.org/abs/2503.01485)|[flowdec](https://github.com/facebookresearch/flowdec)|
 |[m4: a learned flow-level network simulator](https://arxiv.org/abs/2503.01770)|[m4](https://github.com/netiken/m4)|
 |[learned codes for broadcast channels with feedback](https://arxiv.org/abs/2411.04083)|[gbcf](https://github.com/zyy-cc/gbcf)|
-|[mobilevim: a light-weight and dimension-independent vision mamba for 3d medical image analysis](https://arxiv.org/abs/2502.13524)|[MobileViM_3D](https://github.com/anthonyweidai/MobileViM_3D)|
 |[towards zero touch networks: cross-layer automated security solutions for 6g wireless networks](https://arxiv.org/abs/2502.20627)|[cross-layer-autonomous-cybersecurity-framework](https://github.com/western-oc2-lab/cross-layer-autonomous-cybersecurity-framework)|
 |[verifying quic implementations using ivy](https://arxiv.org/abs/2503.01374)|[PANTHER](https://github.com/ElNiak/PANTHER)|
 |[formally discovering and reproducing network protocols vulnerabilities](https://arxiv.org/abs/2503.01538)|[PANTHER](https://github.com/ElNiak/PANTHER)|
