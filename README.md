@@ -1,3 +1,13 @@
+## 2025-03-06
+|paper|code|
+|---|---|
+|[geometric impedance control on se(3) for robotic manipulators](https://arxiv.org/abs/2211.07945)|[Geometric-Impedance-Control-Public](https://github.com/Joohwan-Seo/Geometric-Impedance-Control-Public)|
+|[aggregate model of district heating network for integrated energy dispatch: a physically informed data-driven approach](https://arxiv.org/abs/2308.10483)|[aggregate-model-of-dhn-a-physically-informed-data-driven-approach](https://github.com/shuai-lu/aggregate-model-of-dhn-a-physically-informed-data-driven-approach)|
+|[multi-modal conformal prediction regions with simple structures by optimizing convex shape templates](https://arxiv.org/abs/2312.07434)|[conformal_region_designer](https://github.com/nandantumu/conformal_region_designer)|
+|[multimodal action quality assessment](https://arxiv.org/abs/2402.09444)|[pamfn](https://github.com/qinghuannn/pamfn)|
+|[provably safe neural network controllers via differential dynamic logic](https://arxiv.org/abs/2402.10998)|[ncubev](https://github.com/samysweb/ncubev)|
+|[a structurally coherent spatial phase estimate](https://arxiv.org/abs/2412.08070)|[ssvm2025](https://gitlab.com/briancknight/ssvm2025)|
+|[simulation-based performance evaluation of 3d object detection methods with deep learning for a lidar point cloud dataset in a sotif-related use case](https://arxiv.org/abs/2503.03548)|[SOTIF-PCOD](https://github.com/milinpatel07/SOTIF-PCOD)|
 ## 2025-03-05
 |paper|code|
 |---|---|
@@ -15,7 +25,6 @@
 |[robust data-driven tube-based zonotopic predictive control with closed-loop guarantees](https://arxiv.org/abs/2409.14366)|[TZPC](https://github.com/MahsaFarjadnia/TZPC)|
 |[a universal formulation for path-parametric planning and control](https://arxiv.org/abs/2410.04664)|[pathparam](https://github.com/jonarriza96/pathparam)|
 |[the bouc-wen model for binary direct collinear collisions of convex viscoplastic bodies](https://arxiv.org/abs/2410.08147)|[bwbcl](https://gitlab.com/user9716869/bwbcl)|
-|[a data-driven aggressive autonomous racing framework utilizing local trajectory planning with velocity prediction](https://arxiv.org/abs/2410.11570)|[vpmpcc](https://github.com/zhouhengli/vpmpcc)|
 |[learning two-agent motion planning strategies from generalized nash equilibrium for model predictive control](https://arxiv.org/abs/2411.13983)|[Implicit-Game-Theoretic-MPC](https://github.com/MPC-Berkeley/Implicit-Game-Theoretic-MPC)|
 |[cbramod: a criss-cross brain foundation model for eeg decoding](https://arxiv.org/abs/2412.07236)|[cbramod](https://github.com/wjq-learning/cbramod)|
 |[computing capacity-cost functions for continuous channels in wasserstein space](https://arxiv.org/abs/2501.10670)|[continuous_channel](https://github.com/xinyanglii/continuous_channel)|
