@@ -1,3 +1,14 @@
+## 2025-03-07
+|paper|code|
+|---|---|
+|[autonomous riss and oblivious base stations: the observer effect and its mitigation](https://arxiv.org/abs/2304.10858)|[self-configuring-orchestration](https://github.com/victorcroisfelt/self-configuring-orchestration)|
+|[from data to predictive control: a framework for stochastic linear systems with output measurements](https://arxiv.org/abs/2407.17277)|[d2pc](https://github.com/haldunbalim/d2pc)|
+|[a data-driven aggressive autonomous racing framework utilizing local trajectory planning with velocity prediction](https://arxiv.org/abs/2410.11570)|[vpmpcc](https://github.com/zhouhengli/vpmpcc)|
+|[parallel-in-time kalman smoothing using orthogonal transformations](https://arxiv.org/abs/2502.11686)|[ultimate-kalman](https://github.com/sivantoledo/ultimate-kalman)|
+|[safe llm-controlled robots with formal guarantees via reachability analysis](https://arxiv.org/abs/2503.03911)|[SafeLLMRA](https://github.com/TUM-CPS-HN/SafeLLMRA)|
+|[invicloak: an end-to-end approach to privacy and performance in web content distribution](https://arxiv.org/abs/2209.01541)|[ccs2022-invicloak](https://github.com/shiftlin/ccs2022-invicloak)|
+|[complexitymeasures.jl: scalable software to unify and accelerate entropy and complexity timeseries analysis](https://arxiv.org/abs/2406.05011)|[ComplexityMeasures.jl](https://github.com/JuliaDynamics/ComplexityMeasures.jl)|
+|[mobilevim: a light-weight and dimension-independent vision mamba for 3d medical image analysis](https://arxiv.org/abs/2502.13524)|[MobileViM_3D](https://github.com/anthonyweidai/MobileViM_3D)|
 ## 2025-03-06
 |paper|code|
 |---|---|
