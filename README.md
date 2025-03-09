@@ -22,6 +22,7 @@
 ## 2025-03-05
 |paper|code|
 |---|---|
+|[beamforming optimization for continuous aperture array (capa)-based communications](https://arxiv.org/abs/2410.13677)|[beamforming-optimization-for-continuous-aperture-array-based-communications](https://github.com/zhaolin820/beamforming-optimization-for-continuous-aperture-array-based-communications)|
 |[calibrefine: deep learning-based online automatic targetless lidar-camera calibration with iterative and attention-driven post-refinement](https://arxiv.org/abs/2502.17648)|[Lidar_Camera_Automatic_Calibration](https://github.com/radar-lab/Lidar_Camera_Automatic_Calibration)|
 |[uncertainty representation in a sotif-related use case with dempster-shafer theory for lidar sensor-based object detection](https://arxiv.org/abs/2503.02087)|[SOTIF-PCOD](https://github.com/milinpatel07/SOTIF-PCOD)|
 |[integrated communication and learned recognizer with customized ris phases and sensing durations](https://arxiv.org/abs/2503.02244)|[CRISense](https://github.com/kiwi1944/CRISense)|
