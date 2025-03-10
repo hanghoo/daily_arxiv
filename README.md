@@ -6,6 +6,7 @@
 |[a data-driven aggressive autonomous racing framework utilizing local trajectory planning with velocity prediction](https://arxiv.org/abs/2410.11570)|[vpmpcc](https://github.com/zhouhengli/vpmpcc)|
 |[parallel-in-time kalman smoothing using orthogonal transformations](https://arxiv.org/abs/2502.11686)|[ultimate-kalman](https://github.com/sivantoledo/ultimate-kalman)|
 |[safe llm-controlled robots with formal guarantees via reachability analysis](https://arxiv.org/abs/2503.03911)|[SafeLLMRA](https://github.com/TUM-CPS-HN/SafeLLMRA)|
+|[simulation-based analysis of highway trajectory planning using high-order polynomial for highly automated driving function](https://arxiv.org/abs/2503.04159)|[TGAS-Sim](https://github.com/milinpatel07/TGAS-Sim)|
 |[invicloak: an end-to-end approach to privacy and performance in web content distribution](https://arxiv.org/abs/2209.01541)|[ccs2022-invicloak](https://github.com/shiftlin/ccs2022-invicloak)|
 |[complexitymeasures.jl: scalable software to unify and accelerate entropy and complexity timeseries analysis](https://arxiv.org/abs/2406.05011)|[ComplexityMeasures.jl](https://github.com/JuliaDynamics/ComplexityMeasures.jl)|
 |[mobilevim: a light-weight and dimension-independent vision mamba for 3d medical image analysis](https://arxiv.org/abs/2502.13524)|[MobileViM_3D](https://github.com/anthonyweidai/MobileViM_3D)|
