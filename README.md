@@ -1,3 +1,9 @@
+## 2025-03-10
+|paper|code|
+|---|---|
+|[exploring robustness of image recognition models on hardware accelerators](https://arxiv.org/abs/2306.01697)|[mutatenn](https://github.com/luludak/mutatenn)|
+|[predicting workload in virtual flight simulations using eeg features (including post-hoc analysis in appendix)](https://arxiv.org/abs/2412.12428)|[flight-sim-cognitive-workload-eeg-prediction](https://github.com/basverkennis/flight-sim-cognitive-workload-eeg-prediction)|
+|[routing for large ml models](https://arxiv.org/abs/2503.05324)|[dcn-simulators](https://github.com/ofircohen205/dcn-simulators)|
 ## 2025-03-07
 |paper|code|
 |---|---|
@@ -19,6 +25,7 @@
 |[multimodal action quality assessment](https://arxiv.org/abs/2402.09444)|[pamfn](https://github.com/qinghuannn/pamfn)|
 |[provably safe neural network controllers via differential dynamic logic](https://arxiv.org/abs/2402.10998)|[ncubev](https://github.com/samysweb/ncubev)|
 |[a structurally coherent spatial phase estimate](https://arxiv.org/abs/2412.08070)|[ssvm2025](https://gitlab.com/briancknight/ssvm2025)|
+|[seal: safety enhanced trajectory planning and control framework for quadrotor flight in complex environments](https://arxiv.org/abs/2503.03346)|[seal](https://github.com/ma29-hit/seal)|
 |[simulation-based performance evaluation of 3d object detection methods with deep learning for a lidar point cloud dataset in a sotif-related use case](https://arxiv.org/abs/2503.03548)|[SOTIF-PCOD](https://github.com/milinpatel07/SOTIF-PCOD)|
 ## 2025-03-05
 |paper|code|
