@@ -1,3 +1,18 @@
+## 2025-03-11
+|paper|code|
+|---|---|
+|[on w-optimization of the split covariance intersection filter](https://arxiv.org/abs/2101.10159)|[splitcif](https://github.com/li-hao-sjtu/splitcif)|
+|[clarifying the effect of mean subtraction on dynamic mode decomposition](https://arxiv.org/abs/2105.03607)|[msub_mdselect_dmd](https://github.com/gowtham-ss-ragavan/msub_mdselect_dmd)|
+|[coordinate-based neural representations for computational adaptive optics in widefield microscopy](https://arxiv.org/abs/2307.03812)|[cocoa](https://github.com/iksungk/cocoa)|
+|[signal processing meets sgd: from momentum to filter](https://arxiv.org/abs/2311.02818)|[SGDF-Optimizer](https://github.com/LilYau350/SGDF-Optimizer)|
+|[adaptive kalman-informed transformer](https://arxiv.org/abs/2401.09987)|[a-kit](https://github.com/ansfl/a-kit)|
+|[spatio-spectral structure tensor total variation for hyperspectral image denoising and destriping](https://arxiv.org/abs/2404.03313)|[spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping](https://github.com/mdi-tokyotech/spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping)|
+|[fully reversing the shoebox image source method: from impulse responses to room parameters](https://arxiv.org/abs/2405.03385)|[acoustic-sfw](https://github.com/sprunckt/acoustic-sfw)|
+|[surpassing cosine similarity for multidimensional comparisons: dimension insensitive euclidean metric](https://arxiv.org/abs/2407.08623)|[diem](https://github.com/ftessari23/diem)|
+|[mimo channel shaping and rate maximization using beyond diagonal ris](https://arxiv.org/abs/2407.15196)|[mimo-channel-shaping-and-rate-maximization-using-beyond-diagonal-ris](https://github.com/snowztail/mimo-channel-shaping-and-rate-maximization-using-beyond-diagonal-ris)|
+|[self-supervised speed of sound recovery for aberration-corrected photoacoustic computed tomography](https://arxiv.org/abs/2409.10876)|[NF-APACT](https://github.com/Lukeli0425/NF-APACT)|
+|[hybrid attention model using feature decomposition and knowledge distillation for glucose forecasting](https://arxiv.org/abs/2411.10703)|[GlucoNet](https://github.com/shovito66/GlucoNet)|
+|[diffsg: a generative solver for network optimization with diffusion model](https://arxiv.org/abs/2408.06701)|[DiffSG](https://github.com/qiyu3816/DiffSG)|
 ## 2025-03-10
 |paper|code|
 |---|---|
