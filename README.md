@@ -1,3 +1,10 @@
+## 2025-03-12
+|paper|code|
+|---|---|
+|[medalcare-xl: 16,900 healthy and pathological 12 lead ecgs obtained through electrophysiological simulations](https://arxiv.org/abs/2211.15997)|[fim_eikonal](https://github.com/kit-ibt/fim_eikonal)|
+|[hypergraph-mlp: learning on hypergraphs without message passing](https://arxiv.org/abs/2312.09778)|[hypergraph-mlp](https://github.com/tbh-98/hypergraph-mlp)|
+|[dequantization of a signal from two parallel quantized observations](https://arxiv.org/abs/2409.08071)|[parallel-dequantization](https://github.com/rajmic/parallel-dequantization)|
+|[transfer learning assisted fast design migration over technology nodes: a study on transformer matching network](https://arxiv.org/abs/2502.18636)|[rfic-tl](https://github.com/chenhaochu/rfic-tl)|
 ## 2025-03-11
 |paper|code|
 |---|---|
@@ -12,12 +19,13 @@
 |[mimo channel shaping and rate maximization using beyond diagonal ris](https://arxiv.org/abs/2407.15196)|[mimo-channel-shaping-and-rate-maximization-using-beyond-diagonal-ris](https://github.com/snowztail/mimo-channel-shaping-and-rate-maximization-using-beyond-diagonal-ris)|
 |[self-supervised speed of sound recovery for aberration-corrected photoacoustic computed tomography](https://arxiv.org/abs/2409.10876)|[NF-APACT](https://github.com/Lukeli0425/NF-APACT)|
 |[hybrid attention model using feature decomposition and knowledge distillation for glucose forecasting](https://arxiv.org/abs/2411.10703)|[GlucoNet](https://github.com/shovito66/GlucoNet)|
+|[terasim: uncovering unknown unsafe events for autonomous vehicles through generative simulation](https://arxiv.org/abs/2503.03629)|[TeraSim](https://github.com/mcity/TeraSim)|
+|[hybrid cnn-dilated self-attention model using inertial and body-area electrostatic sensing for gym workout recognition, counting, and user authentification](https://arxiv.org/abs/2503.06311)|[toolkit-for-hbc-sensing](https://github.com/zhaxidele/toolkit-for-hbc-sensing)|
 |[diffsg: a generative solver for network optimization with diffusion model](https://arxiv.org/abs/2408.06701)|[DiffSG](https://github.com/qiyu3816/DiffSG)|
 ## 2025-03-10
 |paper|code|
 |---|---|
 |[exploring robustness of image recognition models on hardware accelerators](https://arxiv.org/abs/2306.01697)|[mutatenn](https://github.com/luludak/mutatenn)|
-|[predicting workload in virtual flight simulations using eeg features (including post-hoc analysis in appendix)](https://arxiv.org/abs/2412.12428)|[flight-sim-cognitive-workload-eeg-prediction](https://github.com/basverkennis/flight-sim-cognitive-workload-eeg-prediction)|
 |[routing for large ml models](https://arxiv.org/abs/2503.05324)|[dcn-simulators](https://github.com/ofircohen205/dcn-simulators)|
 ## 2025-03-07
 |paper|code|
