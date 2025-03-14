@@ -1,3 +1,11 @@
+## 2025-03-13
+|paper|code|
+|---|---|
+|[commonpower: a framework for safe data-driven smart grid control](https://arxiv.org/abs/2406.03231)|[commonpower](https://github.com/tumcps/commonpower)|
+|[predicting workload in virtual flight simulations using eeg features (including post-hoc analysis in appendix)](https://arxiv.org/abs/2412.12428)|[flight-sim-cognitive-workload-eeg-prediction](https://github.com/basverkennis/flight-sim-cognitive-workload-eeg-prediction)|
+|[opengert: open source automated geometry extraction with geometric and electromagnetic sensitivity analyses for ray-tracing propagation models](https://arxiv.org/abs/2501.06945)|[opengert](https://github.com/serhatadik/opengert)|
+|[integrated communication and learned recognizer with customized ris phases and sensing durations](https://arxiv.org/abs/2503.02244)|[CRISense](https://github.com/kiwi1944/CRISense)|
+|[information-theoretic measures on lattices for high-order interactions](https://arxiv.org/abs/2408.07533)|[nips2024hoi](https://github.com/neurips2024hoi/nips2024hoi)|
 ## 2025-03-12
 |paper|code|
 |---|---|
