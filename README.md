@@ -1,3 +1,8 @@
+## 2025-03-14
+|paper|code|
+|---|---|
+|[pcla: a framework for testing autonomous agents in the carla simulator](https://arxiv.org/abs/2503.09385)|[pcla](https://github.com/masoudjtehrani/pcla)|
+|[high-resolution uplink sensing in millimeter-wave isac systems](https://arxiv.org/abs/2503.10107)|[UplinkSensing_mmWave](https://github.com/zhaoliangbin42/UplinkSensing_mmWave)|
 ## 2025-03-13
 |paper|code|
 |---|---|
@@ -5,14 +10,19 @@
 |[predicting workload in virtual flight simulations using eeg features (including post-hoc analysis in appendix)](https://arxiv.org/abs/2412.12428)|[flight-sim-cognitive-workload-eeg-prediction](https://github.com/basverkennis/flight-sim-cognitive-workload-eeg-prediction)|
 |[opengert: open source automated geometry extraction with geometric and electromagnetic sensitivity analyses for ray-tracing propagation models](https://arxiv.org/abs/2501.06945)|[opengert](https://github.com/serhatadik/opengert)|
 |[integrated communication and learned recognizer with customized ris phases and sensing durations](https://arxiv.org/abs/2503.02244)|[CRISense](https://github.com/kiwi1944/CRISense)|
+|[robust fault-tolerant control and agile trajectory planning for modular aerial robotic systems](https://arxiv.org/abs/2503.09351)|[mars-ftcc](https://github.com/ruihuangnus/mars-ftcc)|
+|[robust self-reconfiguration for fault-tolerant control of modular aerial robot systems](https://arxiv.org/abs/2503.09376)|[mars-reconfig](https://github.com/ruihuangnus/mars-reconfig)|
 |[information-theoretic measures on lattices for high-order interactions](https://arxiv.org/abs/2408.07533)|[nips2024hoi](https://github.com/neurips2024hoi/nips2024hoi)|
 ## 2025-03-12
 |paper|code|
 |---|---|
 |[medalcare-xl: 16,900 healthy and pathological 12 lead ecgs obtained through electrophysiological simulations](https://arxiv.org/abs/2211.15997)|[fim_eikonal](https://github.com/kit-ibt/fim_eikonal)|
+|[transformers are provably optimal in-context estimators for wireless communications](https://arxiv.org/abs/2311.00226)|[in-context-estimation](https://github.com/vishnutez/in-context-estimation)|
 |[hypergraph-mlp: learning on hypergraphs without message passing](https://arxiv.org/abs/2312.09778)|[hypergraph-mlp](https://github.com/tbh-98/hypergraph-mlp)|
 |[dequantization of a signal from two parallel quantized observations](https://arxiv.org/abs/2409.08071)|[parallel-dequantization](https://github.com/rajmic/parallel-dequantization)|
 |[transfer learning assisted fast design migration over technology nodes: a study on transformer matching network](https://arxiv.org/abs/2502.18636)|[rfic-tl](https://github.com/chenhaochu/rfic-tl)|
+|[data foundations for large scale multimodal clinical foundation models](https://arxiv.org/abs/2503.07667)|[climb](https://github.com/ddvd233/climb)|
+|[integrating captive portal technology into computer science education: a modular, hands-on approach to infrastructure](https://arxiv.org/abs/2503.08426)|[captive-portal-education](https://github.com/lianting-wang/captive-portal-education)|
 ## 2025-03-11
 |paper|code|
 |---|---|
@@ -28,12 +38,22 @@
 |[self-supervised speed of sound recovery for aberration-corrected photoacoustic computed tomography](https://arxiv.org/abs/2409.10876)|[NF-APACT](https://github.com/Lukeli0425/NF-APACT)|
 |[hybrid attention model using feature decomposition and knowledge distillation for glucose forecasting](https://arxiv.org/abs/2411.10703)|[GlucoNet](https://github.com/shovito66/GlucoNet)|
 |[terasim: uncovering unknown unsafe events for autonomous vehicles through generative simulation](https://arxiv.org/abs/2503.03629)|[TeraSim](https://github.com/mcity/TeraSim)|
+|[safe distributed learning-enhanced predictive control for multiple quadrupedal robots](https://arxiv.org/abs/2503.05836)|[MultiQuadruped-Control](https://github.com/YONEX4090/MultiQuadruped-Control)|
+|[wireless hallucination in generative ai-enabled communications: concepts, issues, and solutions](https://arxiv.org/abs/2503.06149)|[WirelessHallu](https://github.com/wang104225/WirelessHallu)|
 |[hybrid cnn-dilated self-attention model using inertial and body-area electrostatic sensing for gym workout recognition, counting, and user authentification](https://arxiv.org/abs/2503.06311)|[toolkit-for-hbc-sensing](https://github.com/zhaxidele/toolkit-for-hbc-sensing)|
+|[chance-constrained linear quadratic gaussian games for multi-robot interaction under uncertainty](https://arxiv.org/abs/2503.06776)|[safe-CCLQGGame](https://github.com/renkai99/safe-CCLQGGame)|
+|[chance-constrained trajectory planning with multimodal environmental uncertainty](https://arxiv.org/abs/2503.06779)|[LCSS-control](https://github.com/renkai99/LCSS-control)|
+|[decision-dependent stochastic optimization: the role of distribution dynamics](https://arxiv.org/abs/2503.07324)|[distribution-dynamics-opt](https://github.com/zyhe/distribution-dynamics-opt)|
+|[open-set gait recognition from sparse mmwave radar point clouds](https://arxiv.org/abs/2503.07435)|[OpenSetGaitRecognition_PCAA](https://github.com/rmazzier/OpenSetGaitRecognition_PCAA)|
 |[diffsg: a generative solver for network optimization with diffusion model](https://arxiv.org/abs/2408.06701)|[DiffSG](https://github.com/qiyu3816/DiffSG)|
+|[dress: diffusion reasoning-based reward shaping scheme for intelligent networks](https://arxiv.org/abs/2503.07433)|[dress](https://github.com/nice-hku/dress)|
 ## 2025-03-10
 |paper|code|
 |---|---|
 |[exploring robustness of image recognition models on hardware accelerators](https://arxiv.org/abs/2306.01697)|[mutatenn](https://github.com/luludak/mutatenn)|
+|[end-to-end human pose reconstruction from wearable sensors for 6g extended reality systems](https://arxiv.org/abs/2503.04860)|[imu2pose-sionna](https://github.com/TheOpenSI/imu2pose-sionna)|
+|[energy-free sensing and context recognition using photovoltaic cells](https://arxiv.org/abs/2503.05406)|[EnergyFreeStepCounting](https://github.com/k-shintani/EnergyFreeStepCounting)|
+|[network simulator-centric compositional testing](https://arxiv.org/abs/2503.04810)|[PFV](https://github.com/ElNiak/PFV)|
 |[routing for large ml models](https://arxiv.org/abs/2503.05324)|[dcn-simulators](https://github.com/ofircohen205/dcn-simulators)|
 ## 2025-03-07
 |paper|code|
