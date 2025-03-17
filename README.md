@@ -10,8 +10,10 @@
 |[predicting workload in virtual flight simulations using eeg features (including post-hoc analysis in appendix)](https://arxiv.org/abs/2412.12428)|[flight-sim-cognitive-workload-eeg-prediction](https://github.com/basverkennis/flight-sim-cognitive-workload-eeg-prediction)|
 |[opengert: open source automated geometry extraction with geometric and electromagnetic sensitivity analyses for ray-tracing propagation models](https://arxiv.org/abs/2501.06945)|[opengert](https://github.com/serhatadik/opengert)|
 |[integrated communication and learned recognizer with customized ris phases and sensing durations](https://arxiv.org/abs/2503.02244)|[CRISense](https://github.com/kiwi1944/CRISense)|
+|[maneuvergpt agentic control for safe autonomous stunt maneuvers](https://arxiv.org/abs/2503.09035)|[ManeuverGPT](https://github.com/SHi-ON/ManeuverGPT)|
 |[robust fault-tolerant control and agile trajectory planning for modular aerial robotic systems](https://arxiv.org/abs/2503.09351)|[mars-ftcc](https://github.com/ruihuangnus/mars-ftcc)|
 |[robust self-reconfiguration for fault-tolerant control of modular aerial robot systems](https://arxiv.org/abs/2503.09376)|[mars-reconfig](https://github.com/ruihuangnus/mars-reconfig)|
+|[optimal isac beamforming structure and efficient algorithms for sum rate and crlb balancing](https://arxiv.org/abs/2503.09489)|[OBS-for-CRLB-ISAC](https://github.com/Nostalgia2022/OBS-for-CRLB-ISAC)|
 |[information-theoretic measures on lattices for high-order interactions](https://arxiv.org/abs/2408.07533)|[nips2024hoi](https://github.com/neurips2024hoi/nips2024hoi)|
 ## 2025-03-12
 |paper|code|
@@ -22,6 +24,7 @@
 |[dequantization of a signal from two parallel quantized observations](https://arxiv.org/abs/2409.08071)|[parallel-dequantization](https://github.com/rajmic/parallel-dequantization)|
 |[transfer learning assisted fast design migration over technology nodes: a study on transformer matching network](https://arxiv.org/abs/2502.18636)|[rfic-tl](https://github.com/chenhaochu/rfic-tl)|
 |[data foundations for large scale multimodal clinical foundation models](https://arxiv.org/abs/2503.07667)|[climb](https://github.com/ddvd233/climb)|
+|[trust: stability and safety controller synthesis for unknown dynamical models using a single trajectory](https://arxiv.org/abs/2503.08081)|[TRUST](https://github.com/Kiguli/TRUST)|
 |[integrating captive portal technology into computer science education: a modular, hands-on approach to infrastructure](https://arxiv.org/abs/2503.08426)|[captive-portal-education](https://github.com/lianting-wang/captive-portal-education)|
 ## 2025-03-11
 |paper|code|
