@@ -1,3 +1,9 @@
+## 2025-03-17
+|paper|code|
+|---|---|
+|[intrinsic dimension estimation for robust detection of ai-generated texts](https://arxiv.org/abs/2306.04723)|[gptid](https://github.com/argintum/gptid)|
+|[disentanglement learning via topology](https://arxiv.org/abs/2308.12696)|[topdis](https://github.com/nikitabalabin/topdis)|
+|[robust ai-generated text detection by restricted embeddings](https://arxiv.org/abs/2410.08113)|[robustatd](https://github.com/silversolver/robustatd)|
 ## 2025-03-14
 |paper|code|
 |---|---|
