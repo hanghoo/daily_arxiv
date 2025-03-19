@@ -1,3 +1,19 @@
+## 2025-03-18
+|paper|code|
+|---|---|
+|[exploring robustness of image recognition models on hardware accelerators](https://arxiv.org/abs/2306.01697)|[mutatenn](https://github.com/luludak/mutatenn)|
+|[interpretable modulated differentiable stft and physics-informed balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations](https://arxiv.org/abs/2406.11917)|[PyDSN](https://github.com/liguge/PyDSN)|
+|[emt: a novel transformer for generalized cross-subject eeg emotion recognition](https://arxiv.org/abs/2406.18345)|[emt](https://github.com/yi-ding-cs/emt)|
+|[icps-dl: a description language for autonomic industrial cyber-physical systems](https://arxiv.org/abs/2408.17133)|[icps-dl](https://github.com/kios-research/icps-dl)|
+|[flying a quadrotor with unknown actuators and sensor configuration](https://arxiv.org/abs/2409.01080)|[indiflightSupport](https://github.com/tudelft/indiflightSupport)|
+|[stochastic data-driven predictive control: chance-constraint satisfaction with identified multi-step predictors](https://arxiv.org/abs/2409.10405)|[MultistepPredictors](https://github.com/haldunbalim/MultistepPredictors)|
+|[learning of patch-based smooth-plus-sparse models for image reconstruction](https://arxiv.org/abs/2412.13070)|[Smooth-Plus-Sparse-Model](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)|
+|[open-set gait recognition from sparse mmwave radar point clouds](https://arxiv.org/abs/2503.07435)|[OpenSetGaitRecognition_PCAA](https://github.com/rmazzier/OpenSetGaitRecognition_PCAA)|
+|[maximum likelihood estimation of optimal receiver operating characteristic curves from likelihood ratio observations](https://arxiv.org/abs/2202.01956)|[mleroc](https://github.com/veggente/mleroc)|
+|[nystr\"om $m$-hilbert-schmidt independence criterion](https://arxiv.org/abs/2302.09930)|[nystroem-mhsic](https://github.com/flopska/nystroem-mhsic)|
+|[scaling large language model-based multi-agent collaboration](https://arxiv.org/abs/2406.07155)|[chatdev](https://github.com/openbmb/chatdev)|
+|[effective application of normalized min-sum decoding for short bch codes](https://arxiv.org/abs/2412.20828)|[Short_BCH_Decoding_OSD](https://github.com/lgw-frank/Short_BCH_Decoding_OSD)|
+|[enable time-sensitive applications in kubernetes with container network interface plugin agnostic metadata proxy](https://arxiv.org/abs/2503.12878)|[tsn-proxy](https://github.com/EricssonResearch/tsn-proxy)|
 ## 2025-03-17
 |paper|code|
 |---|---|
@@ -8,6 +24,9 @@
 |paper|code|
 |---|---|
 |[pcla: a framework for testing autonomous agents in the carla simulator](https://arxiv.org/abs/2503.09385)|[pcla](https://github.com/masoudjtehrani/pcla)|
+|[dynamics-invariant quadrotor control using scale-aware deep reinforcement learning](https://arxiv.org/abs/2503.09622)|[adapt-drones](https://github.com/varadvaidya/adapt-drones)|
+|[real-time risky fault-chain search using time-varying graph rnns](https://arxiv.org/abs/2503.09775)|[GRNN-FaultChain-Predictor](https://github.com/anmold-07/GRNN-FaultChain-Predictor)|
+|[t-parameters based modeling for stacked intelligent metasurfaces: tractable and physically consistent model](https://arxiv.org/abs/2503.09777)|[sim-t-param](https://github.com/hmjasmi/sim-t-param)|
 |[high-resolution uplink sensing in millimeter-wave isac systems](https://arxiv.org/abs/2503.10107)|[UplinkSensing_mmWave](https://github.com/zhaoliangbin42/UplinkSensing_mmWave)|
 ## 2025-03-13
 |paper|code|
