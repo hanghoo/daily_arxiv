@@ -1,3 +1,14 @@
+## 2025-03-19
+|paper|code|
+|---|---|
+|[visibility-aware rrt* for safety-critical navigation of perception-limited robots in unknown environments](https://arxiv.org/abs/2406.07728)|[visibility-rrt](https://github.com/tkkim-robot/visibility-rrt)|
+|[synthesizing interpretable control policies through large language model guided search](https://arxiv.org/abs/2410.05406)|[synthesizing_interpretable_control_policies](https://github.com/muellerlab/synthesizing_interpretable_control_policies)|
+|[koopman-based control of nonlinear systems with closed-loop guarantees](https://arxiv.org/abs/2411.10359)|[safedmd-sos](https://github.com/rstraesser/safedmd-sos)|
+|[eagle: contextual point cloud generation via adaptive continuous normalizing flow with self-attention](https://arxiv.org/abs/2503.13479)|[EAGLE](https://github.com/wanglh300/EAGLE)|
+|[on-traffic: an operator learning framework for online traffic flow estimation and uncertainty quantification from lagrangian sensors](https://arxiv.org/abs/2503.14053)|[on-traffic](https://github.com/stc-lab/on-traffic)|
+|[room impulse response estimation through optimal mass transport barycenters](https://arxiv.org/abs/2503.14207)|[RIR_Estimation_OMT_Barycenter](https://github.com/yuyangLiu-1/RIR_Estimation_OMT_Barycenter)|
+|[dynamic demand-aware link scheduling for reconfigurable datacenters](https://arxiv.org/abs/2301.05751)|[dydj-match](https://github.com/dj-match/dydj-match)|
+|[3d-lmvic: learning-based multi-view image coding with 3d gaussian geometric priors](https://arxiv.org/abs/2409.04013)|[3D-GP-LMVIC](https://github.com/YujunHuang063/3D-GP-LMVIC)|
 ## 2025-03-18
 |paper|code|
 |---|---|
@@ -9,14 +20,23 @@
 |[stochastic data-driven predictive control: chance-constraint satisfaction with identified multi-step predictors](https://arxiv.org/abs/2409.10405)|[MultistepPredictors](https://github.com/haldunbalim/MultistepPredictors)|
 |[learning of patch-based smooth-plus-sparse models for image reconstruction](https://arxiv.org/abs/2412.13070)|[Smooth-Plus-Sparse-Model](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)|
 |[open-set gait recognition from sparse mmwave radar point clouds](https://arxiv.org/abs/2503.07435)|[OpenSetGaitRecognition_PCAA](https://github.com/rmazzier/OpenSetGaitRecognition_PCAA)|
+|[screedsolo: a secure and robust lsb image steganography framework with randomized symmetric encryption and reed-solomon coding](https://arxiv.org/abs/2503.12368)|[screedsolo-steganography](https://github.com/starscream-11813/screedsolo-steganography)|
+|[decentralized sensor network localization using matrix-parametrized proximal splittings](https://arxiv.org/abs/2503.13403)|[snl](https://github.com/peterbarkley/snl)|
 |[maximum likelihood estimation of optimal receiver operating characteristic curves from likelihood ratio observations](https://arxiv.org/abs/2202.01956)|[mleroc](https://github.com/veggente/mleroc)|
+|[the conditional cauchy-schwarz divergence with applications to time-series data and sequential decision making](https://arxiv.org/abs/2301.08970)|[conditional_cs_divergence](https://github.com/sjyucnel/conditional_cs_divergence)|
 |[nystr\"om $m$-hilbert-schmidt independence criterion](https://arxiv.org/abs/2302.09930)|[nystroem-mhsic](https://github.com/flopska/nystroem-mhsic)|
 |[scaling large language model-based multi-agent collaboration](https://arxiv.org/abs/2406.07155)|[chatdev](https://github.com/openbmb/chatdev)|
+|[an information criterion for controlled disentanglement of multimodal data](https://arxiv.org/abs/2410.23996)|[disentangledssl](https://github.com/uhlerlab/disentangledssl)|
 |[effective application of normalized min-sum decoding for short bch codes](https://arxiv.org/abs/2412.20828)|[Short_BCH_Decoding_OSD](https://github.com/lgw-frank/Short_BCH_Decoding_OSD)|
 |[enable time-sensitive applications in kubernetes with container network interface plugin agnostic metadata proxy](https://arxiv.org/abs/2503.12878)|[tsn-proxy](https://github.com/EricssonResearch/tsn-proxy)|
 ## 2025-03-17
 |paper|code|
 |---|---|
+|[flexible intelligent metasurface-aided wireless communications: architecture and performance](https://arxiv.org/abs/2503.11112)|[flexible-ris](https://github.com/yyangsj/flexible-ris)|
+|[modeling and optimization for flexible cylindrical arrays-enabled wireless communications](https://arxiv.org/abs/2503.11123)|[flexible-cylindrical-arrays-beamforming](https://github.com/yyangsj/flexible-cylindrical-arrays-beamforming)|
+|[learning-based mpc for efficient control of autonomous vehicles](https://arxiv.org/abs/2503.11359)|[mpcrl-vehicle-gears](https://github.com/samuelmallick/mpcrl-vehicle-gears)|
+|[a real-world energy management dataset from a smart company building for optimization and machine learning](https://arxiv.org/abs/2503.11469)|[MonitoringDatasetAnalysis](https://github.com/HRI-EU/MonitoringDatasetAnalysis)|
+|[topological dictionary learning](https://arxiv.org/abs/2503.11470)|[topological-dictionary-learning](https://github.com/SPAICOM/topological-dictionary-learning)|
 |[intrinsic dimension estimation for robust detection of ai-generated texts](https://arxiv.org/abs/2306.04723)|[gptid](https://github.com/argintum/gptid)|
 |[disentanglement learning via topology](https://arxiv.org/abs/2308.12696)|[topdis](https://github.com/nikitabalabin/topdis)|
 |[robust ai-generated text detection by restricted embeddings](https://arxiv.org/abs/2410.08113)|[robustatd](https://github.com/silversolver/robustatd)|
