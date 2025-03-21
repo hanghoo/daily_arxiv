@@ -1,3 +1,10 @@
+## 2025-03-20
+|paper|code|
+|---|---|
+|[link prediction and navigability of multiplex energy networks](https://arxiv.org/abs/2503.14641)|[Link_Prediction_Multiplex](https://github.com/CEL-lab/Link_Prediction_Multiplex)|
+|[blocked cholesky factorization updates of the riccati recursion using hyperbolic householder transformations](https://arxiv.org/abs/2503.15372)|[hyhound](https://github.com/kul-optec/hyhound)|
+|[leach-rlc: enhancing iot data transmission with optimized clustering and reinforcement learning](https://arxiv.org/abs/2401.15767)|[pynetsim](https://github.com/fdojurado/pynetsim)|
+|[goal-oriented medium access with distributed belief processing](https://arxiv.org/abs/2412.07503)|[delta_medium_access](https://github.com/signetlabdei/delta_medium_access)|
 ## 2025-03-19
 |paper|code|
 |---|---|
