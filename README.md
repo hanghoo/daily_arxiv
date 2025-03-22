@@ -1,10 +1,20 @@
+## 2025-03-21
+|paper|code|
+|---|---|
+|[neurolm: a universal multi-task foundation model for bridging the gap between language and eeg signals](https://arxiv.org/abs/2409.00101)|[neurolm](https://github.com/935963004/neurolm)|
+|[artificial intelligence-derived vascular age from photoplethysmography: a novel digital biomarker for cardiovascular health](https://arxiv.org/abs/2502.12990)|[Dist-Loss](https://github.com/Ngk03/Dist-Loss)|
+|[energy-free sensing and context recognition using photovoltaic cells](https://arxiv.org/abs/2503.05406)|[EnergyFreeStepCounting](https://github.com/k-shintani/EnergyFreeStepCounting)|
+|[climb: data foundations for large scale multimodal clinical foundation models](https://arxiv.org/abs/2503.07667)|[climb](https://github.com/ddvd233/climb)|
+|[generalization guarantees for representation learning via data-dependent gaussian mixture priors](https://arxiv.org/abs/2502.15540)|[Gaussian_Mixture_Priors_for_Representation_Learning](https://github.com/PiotrKrasnowski/Gaussian_Mixture_Priors_for_Representation_Learning)|
 ## 2025-03-20
 |paper|code|
 |---|---|
+|[flp-xr: future location prediction on extreme scale maritime data in real-time](https://arxiv.org/abs/2503.13491)|[FLP-XR](https://github.com/DataStories-UniPi/FLP-XR)|
 |[link prediction and navigability of multiplex energy networks](https://arxiv.org/abs/2503.14641)|[Link_Prediction_Multiplex](https://github.com/CEL-lab/Link_Prediction_Multiplex)|
 |[blocked cholesky factorization updates of the riccati recursion using hyperbolic householder transformations](https://arxiv.org/abs/2503.15372)|[hyhound](https://github.com/kul-optec/hyhound)|
 |[leach-rlc: enhancing iot data transmission with optimized clustering and reinforcement learning](https://arxiv.org/abs/2401.15767)|[pynetsim](https://github.com/fdojurado/pynetsim)|
 |[goal-oriented medium access with distributed belief processing](https://arxiv.org/abs/2412.07503)|[delta_medium_access](https://github.com/signetlabdei/delta_medium_access)|
+|[rust barefoot runtime (rbfrt): fast runtime control for the intel tofino](https://arxiv.org/abs/2501.17271)|[rbfrt](https://github.com/uni-tue-kn/rbfrt)|
 ## 2025-03-19
 |paper|code|
 |---|---|
@@ -12,10 +22,18 @@
 |[synthesizing interpretable control policies through large language model guided search](https://arxiv.org/abs/2410.05406)|[synthesizing_interpretable_control_policies](https://github.com/muellerlab/synthesizing_interpretable_control_policies)|
 |[koopman-based control of nonlinear systems with closed-loop guarantees](https://arxiv.org/abs/2411.10359)|[safedmd-sos](https://github.com/rstraesser/safedmd-sos)|
 |[eagle: contextual point cloud generation via adaptive continuous normalizing flow with self-attention](https://arxiv.org/abs/2503.13479)|[EAGLE](https://github.com/wanglh300/EAGLE)|
+|[is limited participant diversity impeding eeg-based machine learning?](https://arxiv.org/abs/2503.13497)|[participant-diversity-paper](https://github.com/bomatter/participant-diversity-paper)|
+|[survival analysis with machine learning for predicting li-ion battery remaining useful life](https://arxiv.org/abs/2503.13558)|[RUL](https://github.com/thinkxca/RUL)|
+|[transformable modular robots: a cpg-based approach to independent and collective locomotion](https://arxiv.org/abs/2503.13674)|[2025_Transformable_Robot](https://github.com/DLARlab/2025_Transformable_Robot)|
+|[16 ways to gallop: energetics and body dynamics of high-speed quadrupedal gaits](https://arxiv.org/abs/2503.13716)|[16WaystoGallop](https://github.com/DLARlab/16WaystoGallop)|
 |[on-traffic: an operator learning framework for online traffic flow estimation and uncertainty quantification from lagrangian sensors](https://arxiv.org/abs/2503.14053)|[on-traffic](https://github.com/stc-lab/on-traffic)|
 |[room impulse response estimation through optimal mass transport barycenters](https://arxiv.org/abs/2503.14207)|[RIR_Estimation_OMT_Barycenter](https://github.com/yuyangLiu-1/RIR_Estimation_OMT_Barycenter)|
+|[consumer-grade eeg-based eye tracking](https://arxiv.org/abs/2503.14322)|[eeg_eye_tracking](https://github.com/FlorianHeinrichs/eeg_eye_tracking)|
+|[on the standard performance criteria for applied control design: pid, mpc or machine learning controller?](https://arxiv.org/abs/2503.14379)|[Performance_Criteria_Control_PID_MPC_ML](https://github.com/Psarhadi/Performance_Criteria_Control_PID_MPC_ML)|
 |[dynamic demand-aware link scheduling for reconfigurable datacenters](https://arxiv.org/abs/2301.05751)|[dydj-match](https://github.com/dj-match/dydj-match)|
 |[3d-lmvic: learning-based multi-view image coding with 3d gaussian geometric priors](https://arxiv.org/abs/2409.04013)|[3D-GP-LMVIC](https://github.com/YujunHuang063/3D-GP-LMVIC)|
+|[mobility-aware seamless service migration and resource allocation in multi-edge iov systems](https://arxiv.org/abs/2503.13494)|[SRCL_Simu5G](https://github.com/JoyZhang20/SRCL_Simu5G)|
+|[towards energy- and qos-aware load balancing for 6g: leveraging o-ran to achieve sustainable and energy-efficient 6g](https://arxiv.org/abs/2503.13726)|[Energy-Saver-Tests](https://github.com/zanattabruno/Energy-Saver-Tests)|
 ## 2025-03-18
 |paper|code|
 |---|---|
@@ -27,7 +45,9 @@
 |[stochastic data-driven predictive control: chance-constraint satisfaction with identified multi-step predictors](https://arxiv.org/abs/2409.10405)|[MultistepPredictors](https://github.com/haldunbalim/MultistepPredictors)|
 |[learning of patch-based smooth-plus-sparse models for image reconstruction](https://arxiv.org/abs/2412.13070)|[Smooth-Plus-Sparse-Model](https://github.com/StanislasDucotterd/Smooth-Plus-Sparse-Model)|
 |[open-set gait recognition from sparse mmwave radar point clouds](https://arxiv.org/abs/2503.07435)|[OpenSetGaitRecognition_PCAA](https://github.com/rmazzier/OpenSetGaitRecognition_PCAA)|
+|[formally proving invariant systemic properties of control programs using ghost code and integral quadratic constraints](https://arxiv.org/abs/2503.11916)|[submission_systemic_prop_IQC](https://github.com/ploc/submission_systemic_prop_IQC)|
 |[screedsolo: a secure and robust lsb image steganography framework with randomized symmetric encryption and reed-solomon coding](https://arxiv.org/abs/2503.12368)|[screedsolo-steganography](https://github.com/starscream-11813/screedsolo-steganography)|
+|[pause: low-latency and privacy-aware active user selection for federated learning](https://arxiv.org/abs/2503.13173)|[PAUSE](https://github.com/oritalp/PAUSE)|
 |[decentralized sensor network localization using matrix-parametrized proximal splittings](https://arxiv.org/abs/2503.13403)|[snl](https://github.com/peterbarkley/snl)|
 |[maximum likelihood estimation of optimal receiver operating characteristic curves from likelihood ratio observations](https://arxiv.org/abs/2202.01956)|[mleroc](https://github.com/veggente/mleroc)|
 |[the conditional cauchy-schwarz divergence with applications to time-series data and sequential decision making](https://arxiv.org/abs/2301.08970)|[conditional_cs_divergence](https://github.com/sjyucnel/conditional_cs_divergence)|
@@ -35,6 +55,8 @@
 |[scaling large language model-based multi-agent collaboration](https://arxiv.org/abs/2406.07155)|[chatdev](https://github.com/openbmb/chatdev)|
 |[an information criterion for controlled disentanglement of multimodal data](https://arxiv.org/abs/2410.23996)|[disentangledssl](https://github.com/uhlerlab/disentangledssl)|
 |[effective application of normalized min-sum decoding for short bch codes](https://arxiv.org/abs/2412.20828)|[Short_BCH_Decoding_OSD](https://github.com/lgw-frank/Short_BCH_Decoding_OSD)|
+|[weighted cycle-based identification of influential node groups in complex networks](https://arxiv.org/abs/2503.11974)|[WCycle](https://github.com/Wenxin02/WCycle)|
+|[agentic search engine for real-time iot data](https://arxiv.org/abs/2503.12255)|[IoT-Agentic-Search-Engine](https://github.com/SensorsConnect/IoT-Agentic-Search-Engine)|
 |[enable time-sensitive applications in kubernetes with container network interface plugin agnostic metadata proxy](https://arxiv.org/abs/2503.12878)|[tsn-proxy](https://github.com/EricssonResearch/tsn-proxy)|
 ## 2025-03-17
 |paper|code|
