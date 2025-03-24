@@ -5,16 +5,24 @@
 |[artificial intelligence-derived vascular age from photoplethysmography: a novel digital biomarker for cardiovascular health](https://arxiv.org/abs/2502.12990)|[Dist-Loss](https://github.com/Ngk03/Dist-Loss)|
 |[energy-free sensing and context recognition using photovoltaic cells](https://arxiv.org/abs/2503.05406)|[EnergyFreeStepCounting](https://github.com/k-shintani/EnergyFreeStepCounting)|
 |[climb: data foundations for large scale multimodal clinical foundation models](https://arxiv.org/abs/2503.07667)|[climb](https://github.com/ddvd233/climb)|
+|[performance-bounded online ensemble learning method based on multi-armed bandits and its applications in real-time safety assessment](https://arxiv.org/abs/2503.15581)|[Awesome_OL](https://github.com/liuzy0708/Awesome_OL)|
+|[control pneumatic soft bending actuator with online learning pneumatic physical reservoir computing](https://arxiv.org/abs/2503.15819)|[Online-Learning-RC-Control-RoboSoft2025](https://github.com/JonyeeShen/Online-Learning-RC-Control-RoboSoft2025)|
 |[generalization guarantees for representation learning via data-dependent gaussian mixture priors](https://arxiv.org/abs/2502.15540)|[Gaussian_Mixture_Priors_for_Representation_Learning](https://github.com/PiotrKrasnowski/Gaussian_Mixture_Priors_for_Representation_Learning)|
 ## 2025-03-20
 |paper|code|
 |---|---|
 |[flp-xr: future location prediction on extreme scale maritime data in real-time](https://arxiv.org/abs/2503.13491)|[FLP-XR](https://github.com/DataStories-UniPi/FLP-XR)|
 |[link prediction and navigability of multiplex energy networks](https://arxiv.org/abs/2503.14641)|[Link_Prediction_Multiplex](https://github.com/CEL-lab/Link_Prediction_Multiplex)|
+|[pruning-based tinyml optimization of machine learning models for anomaly detection in electric vehicle charging infrastructure](https://arxiv.org/abs/2503.14799)|[evci-pruning](https://github.com/western-oc2-lab/evci-pruning)|
+|[high-order control barrier functions: insights and a truncated taylor-based formulation](https://arxiv.org/abs/2503.15014)|[sigmarl](https://github.com/bassamlab/sigmarl)|
+|[a comparative study of human motion models in reinforcement learning algorithms for social robot navigation](https://arxiv.org/abs/2503.15127)|[Social-Navigation-PyEnvs](https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs)|
+|[sig2text, a vision-language model for non-cooperative radar signal parsing](https://arxiv.org/abs/2503.15213)|[sig2text](https://github.com/na-choneko/sig2text)|
 |[blocked cholesky factorization updates of the riccati recursion using hyperbolic householder transformations](https://arxiv.org/abs/2503.15372)|[hyhound](https://github.com/kul-optec/hyhound)|
+|[the value of hedging against energy storage uncertainties when designing energy parks](https://arxiv.org/abs/2503.15416)|[Energy-Park-Design](https://github.com/mal84emma/Energy-Park-Design)|
 |[leach-rlc: enhancing iot data transmission with optimized clustering and reinforcement learning](https://arxiv.org/abs/2401.15767)|[pynetsim](https://github.com/fdojurado/pynetsim)|
 |[goal-oriented medium access with distributed belief processing](https://arxiv.org/abs/2412.07503)|[delta_medium_access](https://github.com/signetlabdei/delta_medium_access)|
 |[rust barefoot runtime (rbfrt): fast runtime control for the intel tofino](https://arxiv.org/abs/2501.17271)|[rbfrt](https://github.com/uni-tue-kn/rbfrt)|
+|[probabilistic delay forecasting in 5g using recurrent and attention-based architectures](https://arxiv.org/abs/2503.15297)|[wireless-tpp](https://github.com/samiemostafavi/wireless-tpp)|
 ## 2025-03-19
 |paper|code|
 |---|---|
@@ -23,7 +31,6 @@
 |[koopman-based control of nonlinear systems with closed-loop guarantees](https://arxiv.org/abs/2411.10359)|[safedmd-sos](https://github.com/rstraesser/safedmd-sos)|
 |[eagle: contextual point cloud generation via adaptive continuous normalizing flow with self-attention](https://arxiv.org/abs/2503.13479)|[EAGLE](https://github.com/wanglh300/EAGLE)|
 |[is limited participant diversity impeding eeg-based machine learning?](https://arxiv.org/abs/2503.13497)|[participant-diversity-paper](https://github.com/bomatter/participant-diversity-paper)|
-|[survival analysis with machine learning for predicting li-ion battery remaining useful life](https://arxiv.org/abs/2503.13558)|[RUL](https://github.com/thinkxca/RUL)|
 |[transformable modular robots: a cpg-based approach to independent and collective locomotion](https://arxiv.org/abs/2503.13674)|[2025_Transformable_Robot](https://github.com/DLARlab/2025_Transformable_Robot)|
 |[16 ways to gallop: energetics and body dynamics of high-speed quadrupedal gaits](https://arxiv.org/abs/2503.13716)|[16WaystoGallop](https://github.com/DLARlab/16WaystoGallop)|
 |[on-traffic: an operator learning framework for online traffic flow estimation and uncertainty quantification from lagrangian sensors](https://arxiv.org/abs/2503.14053)|[on-traffic](https://github.com/stc-lab/on-traffic)|
