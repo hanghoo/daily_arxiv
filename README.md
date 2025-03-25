@@ -1,3 +1,7 @@
+## 2025-03-24
+|paper|code|
+|---|---|
+|[uncertainty-aware guidance for target tracking subject to intermittent measurements using motion model learning](https://arxiv.org/abs/2402.00671)|[info_driven_guidance](https://github.com/aprilab-uf/info_driven_guidance)|
 ## 2025-03-21
 |paper|code|
 |---|---|
@@ -29,6 +33,7 @@
 |[visibility-aware rrt* for safety-critical navigation of perception-limited robots in unknown environments](https://arxiv.org/abs/2406.07728)|[visibility-rrt](https://github.com/tkkim-robot/visibility-rrt)|
 |[synthesizing interpretable control policies through large language model guided search](https://arxiv.org/abs/2410.05406)|[synthesizing_interpretable_control_policies](https://github.com/muellerlab/synthesizing_interpretable_control_policies)|
 |[koopman-based control of nonlinear systems with closed-loop guarantees](https://arxiv.org/abs/2411.10359)|[safedmd-sos](https://github.com/rstraesser/safedmd-sos)|
+|[a novel fourier adjacency transformer for advanced eeg emotion recognition](https://arxiv.org/abs/2503.13465)|[FAT](https://github.com/YanhaoHuang23/FAT)|
 |[eagle: contextual point cloud generation via adaptive continuous normalizing flow with self-attention](https://arxiv.org/abs/2503.13479)|[EAGLE](https://github.com/wanglh300/EAGLE)|
 |[is limited participant diversity impeding eeg-based machine learning?](https://arxiv.org/abs/2503.13497)|[participant-diversity-paper](https://github.com/bomatter/participant-diversity-paper)|
 |[transformable modular robots: a cpg-based approach to independent and collective locomotion](https://arxiv.org/abs/2503.13674)|[2025_Transformable_Robot](https://github.com/DLARlab/2025_Transformable_Robot)|
