@@ -1,3 +1,15 @@
+## 2025-03-25
+|paper|code|
+|---|---|
+|[removing structured noise with diffusion models](https://arxiv.org/abs/2302.05290)|[joint-diffusion](https://github.com/tristan-deep/joint-diffusion)|
+|[optimal control of grid-interfacing inverters with current magnitude limits](https://arxiv.org/abs/2310.00473)|[Current-Magnitude-Limited-Inverter-Control](https://github.com/TragerJoswig-Jones/Current-Magnitude-Limited-Inverter-Control)|
+|[physics-informed multi-agent reinforcement learning for distributed multi-robot problems](https://arxiv.org/abs/2401.00212)|[phmarl](https://github.com/eduardosebastianrodriguez/phmarl)|
+|[diffusion-aided joint source channel coding for high realism wireless image transmission](https://arxiv.org/abs/2404.17736)|[diffjscc](https://github.com/mingyuyng/diffjscc)|
+|[safe control of grid-interfacing inverters with current magnitude limits](https://arxiv.org/abs/2409.13890)|[safe-current-magnitude-limit-inverter-control](https://github.com/tragerjoswig-jones/safe-current-magnitude-limit-inverter-control)|
+|[safe gradient flow for bilevel optimization](https://arxiv.org/abs/2501.16520)|[sgf-blo](https://github.com/o4lc/sgf-blo)|
+|[reduce lap time for autonomous racing with curvature-integrated mpcc local trajectory planning method](https://arxiv.org/abs/2502.03695)|[cimpcc](https://github.com/zhouhengli/cimpcc)|
+|[survival analysis with machine learning for predicting li-ion battery remaining useful life](https://arxiv.org/abs/2503.13558)|[RUL](https://github.com/thinkxca/RUL)|
+|[an overview and solution for democratizing ai workflows at the network edge](https://arxiv.org/abs/2407.11905)|[NAOMI](https://github.com/copandrej/NAOMI)|
 ## 2025-03-24
 |paper|code|
 |---|---|
