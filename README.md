@@ -1,3 +1,11 @@
+## 2025-03-26
+|paper|code|
+|---|---|
+|[exploring robustness of image recognition models on hardware accelerators](https://arxiv.org/abs/2306.01697)|[mutatenn](https://github.com/luludak/mutatenn)|
+|[morphological symmetries in robotics](https://arxiv.org/abs/2402.15552)|[morphosymm](https://github.com/danfoa/morphosymm)|
+|[simulation-based analysis of highway trajectory planning using high-order polynomial for highly automated driving function](https://arxiv.org/abs/2503.04159)|[TGAS-Sim](https://github.com/milinpatel07/TGAS-Sim)|
+|[statgraph: effective in-vehicle intrusion detection via multi-view statistical graph learning](https://arxiv.org/abs/2311.07056)|[StatGraph](https://github.com/wangkai-tech23/StatGraph)|
+|[multi-hop differential topology based algorithms for resilient network of uav swarm](https://arxiv.org/abs/2411.11342)|[Multi-hop-Differential-Topology-based-Algorithms-for-Resilient-Network-of-UAV-Swarm](https://github.com/lytxzt/Multi-hop-Differential-Topology-based-Algorithms-for-Resilient-Network-of-UAV-Swarm)|
 ## 2025-03-25
 |paper|code|
 |---|---|
