@@ -1,3 +1,10 @@
+## 2025-03-27
+|paper|code|
+|---|---|
+|[a pac-bayesian framework for optimal control with stability guarantees](https://arxiv.org/abs/2403.17790)|[pac-snoc](https://github.com/decodepfl/pac-snoc)|
+|[scalable wavelength arbitration for microring-based dwdm transceivers](https://arxiv.org/abs/2411.14810)|[wdm-simulator](https://github.com/wdmsim/wdm-simulator)|
+|[learning-based model predictive control for piecewise affine systems with feasibility guarantees](https://arxiv.org/abs/2412.00490)|[supervised-learning-pwa-mpc](https://github.com/samuelmallick/supervised-learning-pwa-mpc)|
+|[a general framework for interpretable neural learning based on local information-theoretic goal functions](https://arxiv.org/abs/2306.02149)|[infomorphic_networks](https://gitlab.gwdg.de/wibral/infomorphic_networks)|
 ## 2025-03-26
 |paper|code|
 |---|---|
@@ -17,11 +24,25 @@
 |[safe gradient flow for bilevel optimization](https://arxiv.org/abs/2501.16520)|[sgf-blo](https://github.com/o4lc/sgf-blo)|
 |[reduce lap time for autonomous racing with curvature-integrated mpcc local trajectory planning method](https://arxiv.org/abs/2502.03695)|[cimpcc](https://github.com/zhouhengli/cimpcc)|
 |[survival analysis with machine learning for predicting li-ion battery remaining useful life](https://arxiv.org/abs/2503.13558)|[RUL](https://github.com/thinkxca/RUL)|
+|[flexible wmmse beamforming for mu-mimo movable antenna communications](https://arxiv.org/abs/2503.17718)|[f-wmmse-beamforming](https://github.com/yyangsj/f-wmmse-beamforming)|
+|[investigation into the role of the bessel function order in the fourier-bessel series and the hankel transform](https://arxiv.org/abs/2503.17722)|[fourier_bessel_plots](https://github.com/suketu-patni/fourier_bessel_plots)|
+|[adaptive koopman model predictive control of simple serial robots](https://arxiv.org/abs/2503.17902)|[adaptive-koopman-mpc](https://github.com/adrianodelr/adaptive-koopman-mpc)|
+|[rejuvenating irs: aoi-based low overhead reconfiguration design](https://arxiv.org/abs/2503.18019)|[irs_rejuvenation](https://github.com/tkn-tub/irs_rejuvenation)|
+|[choose wisely: data-enabled predictive control for nonlinear systems using online data selection](https://arxiv.org/abs/2503.18845)|[choose-wisely-paper](https://github.com/naefjo/choose-wisely-paper)|
+|[inertial-based lqg control: a new look at inverted pendulum stabilization](https://arxiv.org/abs/2503.18926)|[lqg-a-ipoc](https://github.com/ansfl/lqg-a-ipoc)|
 |[an overview and solution for democratizing ai workflows at the network edge](https://arxiv.org/abs/2407.11905)|[NAOMI](https://github.com/copandrej/NAOMI)|
+|[neural representation for wireless radiation field reconstruction: a 3d gaussian splatting approach](https://arxiv.org/abs/2412.04832)|[wrf-gsplus](https://github.com/wenchaozheng/wrf-gsplus)|
+|[comparative analysis of deep learning models for real-world isp network traffic forecasting](https://arxiv.org/abs/2503.17410)|[isp-forecasting-benchmark](https://github.com/koumajos/isp-forecasting-benchmark)|
+|[p4sim: programming protocol-independent packet processors in ns-3](https://arxiv.org/abs/2503.17554)|[p4sim](https://github.com/HapCommSys/p4sim)|
+|[an algorithm for computing generalized hamming weights and the sage package ghws](https://arxiv.org/abs/2503.17764)|[ghws](https://github.com/rodrigosanjose/ghws)|
 ## 2025-03-24
 |paper|code|
 |---|---|
 |[uncertainty-aware guidance for target tracking subject to intermittent measurements using motion model learning](https://arxiv.org/abs/2402.00671)|[info_driven_guidance](https://github.com/aprilab-uf/info_driven_guidance)|
+|[eeg-clip : learning eeg representations from natural language descriptions](https://arxiv.org/abs/2503.16531)|[eegclip](https://github.com/tidiane-camaret/eegclip)|
+|[grafit: a toolbox for fast and accurate frequency response identification in gravitational wave detectors](https://arxiv.org/abs/2503.17084)|[GraFIT](https://github.com/MathynVanD/GraFIT)|
+|[superarc: a test for general and super intelligence based on first principles of recursion theory and algorithmic probability](https://arxiv.org/abs/2503.16743)|[SuperintelligenceTest](https://github.com/AlgoDynLab/SuperintelligenceTest)|
+|[governance of ledger-anchored decentralized identifiers](https://arxiv.org/abs/2503.16972)|[DID-IDM](https://github.com/TU-Berlin-SNET/DID-IDM)|
 ## 2025-03-21
 |paper|code|
 |---|---|
