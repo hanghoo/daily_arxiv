@@ -4,12 +4,14 @@
 |[learning-based model augmentation with lfrs](https://arxiv.org/abs/2404.01901)|[model-augmentation-public](https://github.com/mixxxxx358/model-augmentation-public)|
 |[immersive and wearable thermal rendering for augmented reality](https://arxiv.org/abs/2503.20646)|[thermalfeedbackforar-data](https://github.com/vu-rasl/thermalfeedbackforar-data)|
 |[plain: scalable estimation architecture for integrated sensing and communication](https://arxiv.org/abs/2503.21242)|[plain](https://github.com/bashar-tahir/plain)|
+|[intelligent iot attack detection design via odllm with feature ranking-based knowledge base](https://arxiv.org/abs/2503.21674)|[Intelligent-IoT-Attack-Detection-Design-via-LLM-with-Feature-Ranking-Based-Knowledge-Base-Design](https://github.com/claudwq/Intelligent-IoT-Attack-Detection-Design-via-LLM-with-Feature-Ranking-Based-Knowledge-Base-Design)|
 ## 2025-03-27
 |paper|code|
 |---|---|
 |[a pac-bayesian framework for optimal control with stability guarantees](https://arxiv.org/abs/2403.17790)|[pac-snoc](https://github.com/decodepfl/pac-snoc)|
 |[scalable wavelength arbitration for microring-based dwdm transceivers](https://arxiv.org/abs/2411.14810)|[wdm-simulator](https://github.com/wdmsim/wdm-simulator)|
 |[learning-based model predictive control for piecewise affine systems with feasibility guarantees](https://arxiv.org/abs/2412.00490)|[supervised-learning-pwa-mpc](https://github.com/samuelmallick/supervised-learning-pwa-mpc)|
+|[a low-complexity structured neural network approach to intelligently realize wideband multi-beam beamformers](https://arxiv.org/abs/2503.20694)|[Intelligent-Wideband-Beamforming-using-StNN](https://github.com/Hansaka006/Intelligent-Wideband-Beamforming-using-StNN)|
 |[a general framework for interpretable neural learning based on local information-theoretic goal functions](https://arxiv.org/abs/2306.02149)|[infomorphic_networks](https://gitlab.gwdg.de/wibral/infomorphic_networks)|
 |[sok: decoding the enigma of encrypted network traffic classifiers](https://arxiv.org/abs/2503.20093)|[ntc-enigma](https://github.com/nime-sha256/ntc-enigma)|
 ## 2025-03-26
