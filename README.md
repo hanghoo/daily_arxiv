@@ -1,9 +1,17 @@
+## 2025-03-31
+|paper|code|
+|---|---|
+|[rf challenge: the data-driven radio frequency signal separation challenge](https://arxiv.org/abs/2409.08839)|[rfchallenge_singlechannel_starter](https://github.com/rfchallenge/rfchallenge_singlechannel_starter)|
+|[cpg-based manipulation with multi-module origami robot surface](https://arxiv.org/abs/2502.19218)|[Simulation_CPG_Manipulation_Oripixel](https://github.com/DuxtX/Simulation_CPG_Manipulation_Oripixel)|
+|[neuromorphic wireless split computing with multi-level spikes](https://arxiv.org/abs/2411.04728)|[neurocomm-msnn](https://github.com/kclip/neurocomm-msnn)|
 ## 2025-03-28
 |paper|code|
 |---|---|
 |[learning-based model augmentation with lfrs](https://arxiv.org/abs/2404.01901)|[model-augmentation-public](https://github.com/mixxxxx358/model-augmentation-public)|
 |[immersive and wearable thermal rendering for augmented reality](https://arxiv.org/abs/2503.20646)|[thermalfeedbackforar-data](https://github.com/vu-rasl/thermalfeedbackforar-data)|
 |[plain: scalable estimation architecture for integrated sensing and communication](https://arxiv.org/abs/2503.21242)|[plain](https://github.com/bashar-tahir/plain)|
+|[consexpressionr: an r package for consensus differential gene expression analysis](https://arxiv.org/abs/2503.21546)|[consexpressionr](https://github.com/costasilvati/consexpressionr)|
+|[autobargesim: matlab(r) toolbox for the design and analysis of the guidance and control system for autonomous inland vessels](https://arxiv.org/abs/2503.21594)|[autobargesim](https://github.com/AUTOBarge/autobargesim)|
 |[intelligent iot attack detection design via odllm with feature ranking-based knowledge base](https://arxiv.org/abs/2503.21674)|[Intelligent-IoT-Attack-Detection-Design-via-LLM-with-Feature-Ranking-Based-Knowledge-Base-Design](https://github.com/claudwq/Intelligent-IoT-Attack-Detection-Design-via-LLM-with-Feature-Ranking-Based-Knowledge-Base-Design)|
 ## 2025-03-27
 |paper|code|
@@ -11,7 +19,9 @@
 |[a pac-bayesian framework for optimal control with stability guarantees](https://arxiv.org/abs/2403.17790)|[pac-snoc](https://github.com/decodepfl/pac-snoc)|
 |[scalable wavelength arbitration for microring-based dwdm transceivers](https://arxiv.org/abs/2411.14810)|[wdm-simulator](https://github.com/wdmsim/wdm-simulator)|
 |[learning-based model predictive control for piecewise affine systems with feasibility guarantees](https://arxiv.org/abs/2412.00490)|[supervised-learning-pwa-mpc](https://github.com/samuelmallick/supervised-learning-pwa-mpc)|
+|[comparative analysis and evaluation of ageing forecasting methods for semiconductor devices in online health monitoring](https://arxiv.org/abs/2503.20403)|[AgeingForecastingMOSFETs](https://github.com/joxeina/AgeingForecastingMOSFETs)|
 |[a low-complexity structured neural network approach to intelligently realize wideband multi-beam beamformers](https://arxiv.org/abs/2503.20694)|[Intelligent-Wideband-Beamforming-using-StNN](https://github.com/Hansaka006/Intelligent-Wideband-Beamforming-using-StNN)|
+|[data-driven distributionally robust control based on sinkhorn ambiguity sets](https://arxiv.org/abs/2503.20703)|[Sinkhorn_DRC](https://github.com/DecodEPFL/Sinkhorn_DRC)|
 |[a general framework for interpretable neural learning based on local information-theoretic goal functions](https://arxiv.org/abs/2306.02149)|[infomorphic_networks](https://gitlab.gwdg.de/wibral/infomorphic_networks)|
 |[sok: decoding the enigma of encrypted network traffic classifiers](https://arxiv.org/abs/2503.20093)|[ntc-enigma](https://github.com/nime-sha256/ntc-enigma)|
 ## 2025-03-26
@@ -20,6 +30,8 @@
 |[exploring robustness of image recognition models on hardware accelerators](https://arxiv.org/abs/2306.01697)|[mutatenn](https://github.com/luludak/mutatenn)|
 |[morphological symmetries in robotics](https://arxiv.org/abs/2402.15552)|[morphosymm](https://github.com/danfoa/morphosymm)|
 |[simulation-based analysis of highway trajectory planning using high-order polynomial for highly automated driving function](https://arxiv.org/abs/2503.04159)|[TGAS-Sim](https://github.com/milinpatel07/TGAS-Sim)|
+|[rank-based modeling for universal packets compression in multi-modal communications](https://arxiv.org/abs/2503.19097)|[ByteTrans](https://github.com/Xuanhao-Luo/ByteTrans)|
+|[insights into the explainability of lasso-based deepc for nonlinear systems](https://arxiv.org/abs/2503.19163)|[Explainability_Lasso_DeePC](https://github.com/GiacomelliGianluca/Explainability_Lasso_DeePC)|
 |[statgraph: effective in-vehicle intrusion detection via multi-view statistical graph learning](https://arxiv.org/abs/2311.07056)|[StatGraph](https://github.com/wangkai-tech23/StatGraph)|
 |[multi-hop differential topology based algorithms for resilient network of uav swarm](https://arxiv.org/abs/2411.11342)|[Multi-hop-Differential-Topology-based-Algorithms-for-Resilient-Network-of-UAV-Swarm](https://github.com/lytxzt/Multi-hop-Differential-Topology-based-Algorithms-for-Resilient-Network-of-UAV-Swarm)|
 ## 2025-03-25
