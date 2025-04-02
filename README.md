@@ -1,3 +1,19 @@
+## 2025-04-01
+|paper|code|
+|---|---|
+|[reachable polyhedral marching (rpm): an exact analysis tool for deep-learned control systems](https://arxiv.org/abs/2210.08339)|[Neural-Network-Reach](https://github.com/StanfordMSL/Neural-Network-Reach)|
+|[performance bounds for near-field localization with widely-spaced multi-subarray mmwave/thz mimo](https://arxiv.org/abs/2309.05944)|[near-field-crb](https://github.com/yyangsj/near-field-crb)|
+|[optimal vintage factor analysis with deflation varimax](https://arxiv.org/abs/2310.10545)|[optimal_deflation_varimax](https://github.com/jindiande/optimal_deflation_varimax)|
+|[scalable multi-modal model predictive control via duality-based interaction predictions](https://arxiv.org/abs/2402.01116)|[hmpc_raidnet](https://github.com/MPC-Berkeley/hmpc_raidnet)|
+|[flexible antenna arrays for wireless communications: modeling and performance evaluation](https://arxiv.org/abs/2407.04944)|[Flexible_antenna_arrays_wireless_communications](https://github.com/YyangSJ/Flexible_antenna_arrays_wireless_communications)|
+|[sensorbench: benchmarking llms in coding-based sensor processing](https://arxiv.org/abs/2410.10741)|[llm_sensor_processing](https://github.com/nesl/llm_sensor_processing)|
+|[an iterative bayesian approach for system identification based on linear gaussian models](https://arxiv.org/abs/2501.16625)|[informative_input_design](https://github.com/alextzik/informative_input_design)|
+|[can large language model agents balance energy systems?](https://arxiv.org/abs/2502.10557)|[LLM_Agent_Power_System_Balance](https://github.com/drzekunguo/LLM_Agent_Power_System_Balance)|
+|[stability results for mimo lti systems via scaled relative graphs](https://arxiv.org/abs/2503.13583)|[SRG-ECC-2025](https://github.com/eder-baron/SRG-ECC-2025)|
+|[on the standard performance criteria for applied control design: pid, mpc or machine learning controller?](https://arxiv.org/abs/2503.14379)|[Performance_Criteria_Control_PID_MPC_ML](https://github.com/Psarhadi/Performance_Criteria_Control_PID_MPC_ML)|
+|[libertas: privacy-preserving collective computation for decentralised personal data stores](https://arxiv.org/abs/2309.16365)|[libertas](https://github.com/oxfordhcc/libertas)|
+|[teola: towards end-to-end optimization of llm-based applications](https://arxiv.org/abs/2407.00326)|[ayo](https://github.com/netx-lab/ayo)|
+|[ieee 802.11bn multi-ap coordinated spatial reuse with hierarchical multi-armed bandits](https://arxiv.org/abs/2501.03680)|[mapc-sim](https://github.com/ml4wifi-devs/mapc-sim)|
 ## 2025-03-31
 |paper|code|
 |---|---|
