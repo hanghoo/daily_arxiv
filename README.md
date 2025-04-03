@@ -1,3 +1,10 @@
+## 2025-04-02
+|paper|code|
+|---|---|
+|[1-2-3-go! policy synthesis for parameterized markov decision processes via decision-tree learning and generalization](https://arxiv.org/abs/2410.18293)|[dtstrat-123go-artifact](https://github.com/muqsit-azeem/dtstrat-123go-artifact)|
+|[robust bayesian optimization via localized online conformal prediction](https://arxiv.org/abs/2411.17387)|[LOCBO](https://github.com/davinci003/LOCBO)|
+|[insights into the explainability of lasso-based deepc for nonlinear systems](https://arxiv.org/abs/2503.19163)|[Explainability_Lasso_DeePC](https://github.com/GiacomelliGianluca/Explainability_Lasso_DeePC)|
+|[rg-attn: radian glue attention for multi-modality multi-agent cooperative perception](https://arxiv.org/abs/2501.16803)|[RG-Attn](https://github.com/LantaoLi/RG-Attn)|
 ## 2025-04-01
 |paper|code|
 |---|---|
@@ -11,6 +18,8 @@
 |[can large language model agents balance energy systems?](https://arxiv.org/abs/2502.10557)|[LLM_Agent_Power_System_Balance](https://github.com/drzekunguo/LLM_Agent_Power_System_Balance)|
 |[stability results for mimo lti systems via scaled relative graphs](https://arxiv.org/abs/2503.13583)|[SRG-ECC-2025](https://github.com/eder-baron/SRG-ECC-2025)|
 |[on the standard performance criteria for applied control design: pid, mpc or machine learning controller?](https://arxiv.org/abs/2503.14379)|[Performance_Criteria_Control_PID_MPC_ML](https://github.com/Psarhadi/Performance_Criteria_Control_PID_MPC_ML)|
+|[online convex optimization and integral quadratic constraints: a new approach to regret analysis](https://arxiv.org/abs/2503.23600)|[oco-with-iqcs](https://github.com/col-tasas/oco-with-iqcs)|
+|[certified approximate reachability (care): formal error bounds on deep learning of reachable sets](https://arxiv.org/abs/2503.23912)|[CARe](https://github.com/nikovert/CARe)|
 |[libertas: privacy-preserving collective computation for decentralised personal data stores](https://arxiv.org/abs/2309.16365)|[libertas](https://github.com/oxfordhcc/libertas)|
 |[teola: towards end-to-end optimization of llm-based applications](https://arxiv.org/abs/2407.00326)|[ayo](https://github.com/netx-lab/ayo)|
 |[ieee 802.11bn multi-ap coordinated spatial reuse with hierarchical multi-armed bandits](https://arxiv.org/abs/2501.03680)|[mapc-sim](https://github.com/ml4wifi-devs/mapc-sim)|
