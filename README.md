@@ -1,10 +1,23 @@
+## 2025-04-03
+|paper|code|
+|---|---|
+|[toward interpretable sleep stage classification using cross-modal transformers](https://arxiv.org/abs/2208.06991)|[cross-modal-transformer](https://github.com/jathurshan0330/cross-modal-transformer)|
+|[fast-converged deep reinforcement learning for optimal dispatch of large-scale power systems under transient security constraints](https://arxiv.org/abs/2304.08320)|[fcdrl_tscopf](https://github.com/xxh0523/fcdrl_tscopf)|
+|[the computation of approximate feedback stackelberg equilibria in multi-player nonlinear constrained dynamic games](https://arxiv.org/abs/2401.15745)|[feedbackstackelberggames.jl](https://github.com/jamesjingqili/feedbackstackelberggames.jl)|
+|[measuring discrete sensing capability for isac via task mutual information](https://arxiv.org/abs/2405.09497)|[dtmi](https://github.com/zaoanhh/dtmi)|
+|[learning koopman-based stability certificates for unknown nonlinear systems](https://arxiv.org/abs/2412.02807)|[Unknown_Zubov_Koopman](https://github.com/RuikunZhou/Unknown_Zubov_Koopman)|
+|[terasim: uncovering unknown unsafe events for autonomous vehicles through generative simulation](https://arxiv.org/abs/2503.03629)|[TeraSim](https://github.com/mcity/TeraSim)|
+|[weakly supervised convolutional dictionary learning with shared and discriminative components for classification](https://arxiv.org/abs/2503.08573)|[WSCDL](https://github.com/chenhao1umbc/WSCDL)|
+|[convex computations for controlled safety invariant sets of black-box discrete-time dynamical systems](https://arxiv.org/abs/2504.01638)|[pcsis](https://github.com/pcsis/pcsis)|
 ## 2025-04-02
 |paper|code|
 |---|---|
 |[1-2-3-go! policy synthesis for parameterized markov decision processes via decision-tree learning and generalization](https://arxiv.org/abs/2410.18293)|[dtstrat-123go-artifact](https://github.com/muqsit-azeem/dtstrat-123go-artifact)|
 |[robust bayesian optimization via localized online conformal prediction](https://arxiv.org/abs/2411.17387)|[LOCBO](https://github.com/davinci003/LOCBO)|
 |[insights into the explainability of lasso-based deepc for nonlinear systems](https://arxiv.org/abs/2503.19163)|[Explainability_Lasso_DeePC](https://github.com/GiacomelliGianluca/Explainability_Lasso_DeePC)|
+|[time-optimal convexified reeds-shepp paths on a sphere](https://arxiv.org/abs/2504.00966)|[optimal-spherical-convexified-reeds-shepp-paths](https://github.com/sixuli97/optimal-spherical-convexified-reeds-shepp-paths)|
 |[rg-attn: radian glue attention for multi-modality multi-agent cooperative perception](https://arxiv.org/abs/2501.16803)|[RG-Attn](https://github.com/LantaoLi/RG-Attn)|
+|[geo2commap: deep learning-based mimo throughput prediction using geographic data](https://arxiv.org/abs/2504.00351)|[geo2commap](https://github.com/geo2commap/geo2commap)|
 ## 2025-04-01
 |paper|code|
 |---|---|
@@ -18,16 +31,22 @@
 |[can large language model agents balance energy systems?](https://arxiv.org/abs/2502.10557)|[LLM_Agent_Power_System_Balance](https://github.com/drzekunguo/LLM_Agent_Power_System_Balance)|
 |[stability results for mimo lti systems via scaled relative graphs](https://arxiv.org/abs/2503.13583)|[SRG-ECC-2025](https://github.com/eder-baron/SRG-ECC-2025)|
 |[on the standard performance criteria for applied control design: pid, mpc or machine learning controller?](https://arxiv.org/abs/2503.14379)|[Performance_Criteria_Control_PID_MPC_ML](https://github.com/Psarhadi/Performance_Criteria_Control_PID_MPC_ML)|
+|[optimal control of an epidemic with intervention design](https://arxiv.org/abs/2503.22928)|[codes](https://github.com/behroozmoosavi/codes)|
 |[online convex optimization and integral quadratic constraints: a new approach to regret analysis](https://arxiv.org/abs/2503.23600)|[oco-with-iqcs](https://github.com/col-tasas/oco-with-iqcs)|
+|[on the steady-state distributionally robust kalman filter](https://arxiv.org/abs/2503.23742)|[steadystatedrkf](https://github.com/jangminhyuk/steadystatedrkf)|
 |[certified approximate reachability (care): formal error bounds on deep learning of reachable sets](https://arxiv.org/abs/2503.23912)|[CARe](https://github.com/nikovert/CARe)|
 |[libertas: privacy-preserving collective computation for decentralised personal data stores](https://arxiv.org/abs/2309.16365)|[libertas](https://github.com/oxfordhcc/libertas)|
 |[teola: towards end-to-end optimization of llm-based applications](https://arxiv.org/abs/2407.00326)|[ayo](https://github.com/netx-lab/ayo)|
 |[ieee 802.11bn multi-ap coordinated spatial reuse with hierarchical multi-armed bandits](https://arxiv.org/abs/2501.03680)|[mapc-sim](https://github.com/ml4wifi-devs/mapc-sim)|
+|[information-theoretic subset selection of multivariate markov chains via submodular optimization](https://arxiv.org/abs/2503.23340)|[SubmodOptMC](https://github.com/zheyuanlai/SubmodOptMC)|
 ## 2025-03-31
 |paper|code|
 |---|---|
 |[rf challenge: the data-driven radio frequency signal separation challenge](https://arxiv.org/abs/2409.08839)|[rfchallenge_singlechannel_starter](https://github.com/rfchallenge/rfchallenge_singlechannel_starter)|
 |[cpg-based manipulation with multi-module origami robot surface](https://arxiv.org/abs/2502.19218)|[Simulation_CPG_Manipulation_Oripixel](https://github.com/DuxtX/Simulation_CPG_Manipulation_Oripixel)|
+|[route-and-aggregate decentralized federated learning under communication errors](https://arxiv.org/abs/2503.22186)|[RouteAndAggregate](https://github.com/jasminebear2024/RouteAndAggregate)|
+|[multi-objective robust controller synthesis with integral quadratic constraints in discrete-time](https://arxiv.org/abs/2503.22429)|[multi-objective-iqc-synthesis](https://github.com/Schwenkel/multi-objective-iqc-synthesis)|
+|[neural identification of feedback-stabilized nonlinear systems](https://arxiv.org/abs/2503.22601)|[Nonlinear_system_identification](https://github.com/DecodEPFL/Nonlinear_system_identification)|
 |[neuromorphic wireless split computing with multi-level spikes](https://arxiv.org/abs/2411.04728)|[neurocomm-msnn](https://github.com/kclip/neurocomm-msnn)|
 ## 2025-03-28
 |paper|code|
