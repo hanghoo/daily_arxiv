@@ -1,3 +1,12 @@
+## 2025-04-04
+|paper|code|
+|---|---|
+|[topology of surface electromyogram signals: hand gesture decoding on riemannian manifolds](https://arxiv.org/abs/2311.08548)|[geometryofsemg](https://github.com/harshavardhanatg/geometryofsemg)|
+|[a database of upper limb surface electromyogram signals from demographically diverse individuals](https://arxiv.org/abs/2409.19939)|[wristEMG](https://github.com/HarshavardhanaTG/wristEMG)|
+|[an electrocardiogram foundation model built on over 10 million recordings with external evaluation across multiple domains](https://arxiv.org/abs/2410.04133)|[ECGFounder](https://github.com/PKUDigitalHealth/ECGFounder)|
+|[l4acados: learning-based models for acados, applied to gaussian process-based predictive control](https://arxiv.org/abs/2411.19258)|[l4acados](https://github.com/IntelligentControlSystems/l4acados)|
+|[analyzing the role of the dso in electricity trading of vpps via a stackelberg game model](https://arxiv.org/abs/2501.07715)|[Code_of_bilevel_DSO_VPPs](https://github.com/pwang30/Code_of_bilevel_DSO_VPPs)|
+|[sustainable broadcasting in blockchain networks with reinforcement learning](https://arxiv.org/abs/2407.15616)|[eth-broadcast-protocol](https://github.com/ellariel/eth-broadcast-protocol)|
 ## 2025-04-03
 |paper|code|
 |---|---|
