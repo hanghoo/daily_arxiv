@@ -6,6 +6,7 @@
 |[an electrocardiogram foundation model built on over 10 million recordings with external evaluation across multiple domains](https://arxiv.org/abs/2410.04133)|[ECGFounder](https://github.com/PKUDigitalHealth/ECGFounder)|
 |[l4acados: learning-based models for acados, applied to gaussian process-based predictive control](https://arxiv.org/abs/2411.19258)|[l4acados](https://github.com/IntelligentControlSystems/l4acados)|
 |[analyzing the role of the dso in electricity trading of vpps via a stackelberg game model](https://arxiv.org/abs/2501.07715)|[Code_of_bilevel_DSO_VPPs](https://github.com/pwang30/Code_of_bilevel_DSO_VPPs)|
+|[on-the-fly surrogation for complex nonlinear dynamics](https://arxiv.org/abs/2504.00276)|[cdc25-code-repo](https://gitlab.com/javi-olucha/cdc25-code-repo)|
 |[sustainable broadcasting in blockchain networks with reinforcement learning](https://arxiv.org/abs/2407.15616)|[eth-broadcast-protocol](https://github.com/ellariel/eth-broadcast-protocol)|
 ## 2025-04-03
 |paper|code|
@@ -17,6 +18,8 @@
 |[learning koopman-based stability certificates for unknown nonlinear systems](https://arxiv.org/abs/2412.02807)|[Unknown_Zubov_Koopman](https://github.com/RuikunZhou/Unknown_Zubov_Koopman)|
 |[terasim: uncovering unknown unsafe events for autonomous vehicles through generative simulation](https://arxiv.org/abs/2503.03629)|[TeraSim](https://github.com/mcity/TeraSim)|
 |[weakly supervised convolutional dictionary learning with shared and discriminative components for classification](https://arxiv.org/abs/2503.08573)|[WSCDL](https://github.com/chenhao1umbc/WSCDL)|
+|[mpcritic: a plug-and-play mpc architecture for reinforcement learning](https://arxiv.org/abs/2504.01086)|[MPCritic](https://github.com/tbanker/MPCritic)|
+|[value iteration for learning concurrently executable robotic control tasks](https://arxiv.org/abs/2504.01174)|[value_iteration_for_learning_concurrently_executable_robotic_control_tasks](https://github.com/erablab/value_iteration_for_learning_concurrently_executable_robotic_control_tasks)|
 |[convex computations for controlled safety invariant sets of black-box discrete-time dynamical systems](https://arxiv.org/abs/2504.01638)|[pcsis](https://github.com/pcsis/pcsis)|
 ## 2025-04-02
 |paper|code|
@@ -24,6 +27,12 @@
 |[1-2-3-go! policy synthesis for parameterized markov decision processes via decision-tree learning and generalization](https://arxiv.org/abs/2410.18293)|[dtstrat-123go-artifact](https://github.com/muqsit-azeem/dtstrat-123go-artifact)|
 |[robust bayesian optimization via localized online conformal prediction](https://arxiv.org/abs/2411.17387)|[LOCBO](https://github.com/davinci003/LOCBO)|
 |[insights into the explainability of lasso-based deepc for nonlinear systems](https://arxiv.org/abs/2503.19163)|[Explainability_Lasso_DeePC](https://github.com/GiacomelliGianluca/Explainability_Lasso_DeePC)|
+|[exact local recovery for chemical shift imaging](https://arxiv.org/abs/2504.00175)|[csitools](https://github.com/csl-lab/csitools)|
+|[output-feedback model predictive control under dynamic uncertainties using integral quadratic constraints](https://arxiv.org/abs/2504.00196)|[mpc-iqc](https://github.com/schwenkel/mpc-iqc)|
+|[egocentric conformal prediction for safe and efficient navigation in dynamic cluttered environments](https://arxiv.org/abs/2504.00447)|[ecp-mpc](https://github.com/core-snu/ecp-mpc)|
+|[near field localization via ai-aided subspace methods](https://arxiv.org/abs/2504.00599)|[AI-Subspace-Methods](https://github.com/ShlezingerLab/AI-Subspace-Methods)|
+|[multi-stage group testing with (r,s)-regular design algorithms](https://arxiv.org/abs/2504.00611)|[MultiGT](https://github.com/micbalz/MultiGT)|
+|[probabilistically safe and efficient model-based reinforcement learning](https://arxiv.org/abs/2504.00626)|[mpcrl-cbf](https://github.com/filippoairaldi/mpcrl-cbf)|
 |[time-optimal convexified reeds-shepp paths on a sphere](https://arxiv.org/abs/2504.00966)|[optimal-spherical-convexified-reeds-shepp-paths](https://github.com/sixuli97/optimal-spherical-convexified-reeds-shepp-paths)|
 |[rg-attn: radian glue attention for multi-modality multi-agent cooperative perception](https://arxiv.org/abs/2501.16803)|[RG-Attn](https://github.com/LantaoLi/RG-Attn)|
 |[geo2commap: deep learning-based mimo throughput prediction using geographic data](https://arxiv.org/abs/2504.00351)|[geo2commap](https://github.com/geo2commap/geo2commap)|
