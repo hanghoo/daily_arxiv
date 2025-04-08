@@ -1,3 +1,12 @@
+## 2025-04-07
+|paper|code|
+|---|---|
+|[reconfigurable quantum internet service provider](https://arxiv.org/abs/2305.09048)|[quagent](https://github.com/youngcius/quagent)|
+|[heartbert: a self-supervised ecg embedding model for efficient and effective medical signal analysis](https://arxiv.org/abs/2411.11896)|[heartbert](https://github.com/ecgresearch/heartbert)|
+|[gravity compensation of the dvrk-si patient side manipulator based on dynamic model identification](https://arxiv.org/abs/2501.19058)|[dvrk_si_psm_gravity_compensation](https://github.com/jackzhy96/dvrk_si_psm_gravity_compensation)|
+|[survival analysis with machine learning for predicting li-ion battery remaining useful life](https://arxiv.org/abs/2503.13558)|[RUL](https://github.com/thinkxca/RUL)|
+|[orthogonal nonnegative matrix factorization with sparsity constraints](https://arxiv.org/abs/2210.02672)|[mep-orthogonal-nmf](https://github.com/salar96/mep-orthogonal-nmf)|
+|[an algorithm for computing generalized hamming weights and the sage package ghws](https://arxiv.org/abs/2503.17764)|[ghws](https://github.com/rodrigosanjose/ghws)|
 ## 2025-04-04
 |paper|code|
 |---|---|
@@ -5,7 +14,6 @@
 |[a database of upper limb surface electromyogram signals from demographically diverse individuals](https://arxiv.org/abs/2409.19939)|[wristEMG](https://github.com/HarshavardhanaTG/wristEMG)|
 |[an electrocardiogram foundation model built on over 10 million recordings with external evaluation across multiple domains](https://arxiv.org/abs/2410.04133)|[ECGFounder](https://github.com/PKUDigitalHealth/ECGFounder)|
 |[l4acados: learning-based models for acados, applied to gaussian process-based predictive control](https://arxiv.org/abs/2411.19258)|[l4acados](https://github.com/IntelligentControlSystems/l4acados)|
-|[analyzing the role of the dso in electricity trading of vpps via a stackelberg game model](https://arxiv.org/abs/2501.07715)|[Code_of_bilevel_DSO_VPPs](https://github.com/pwang30/Code_of_bilevel_DSO_VPPs)|
 |[on-the-fly surrogation for complex nonlinear dynamics](https://arxiv.org/abs/2504.00276)|[cdc25-code-repo](https://gitlab.com/javi-olucha/cdc25-code-repo)|
 |[sustainable broadcasting in blockchain networks with reinforcement learning](https://arxiv.org/abs/2407.15616)|[eth-broadcast-protocol](https://github.com/ellariel/eth-broadcast-protocol)|
 ## 2025-04-03
