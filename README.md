@@ -1,3 +1,17 @@
+## 2025-04-08
+|paper|code|
+|---|---|
+|[an xai framework for robust and transparent data-driven wind turbine power curve models](https://arxiv.org/abs/2304.09835)|[xai4windpowercurves](https://github.com/sltzgs/xai4windpowercurves)|
+|[recursive dynamic state estimation for power systems with an incomplete nonlinear dae model](https://arxiv.org/abs/2305.10065)|[powerdynamicestimator](https://gitlab.nccr-automation.ch/mkatanic/powerdynamicestimator)|
+|[scvcnet: sliding cross-vector convolution network for cross-task and inter-individual-set eeg-based cognitive workload recognition](https://arxiv.org/abs/2310.03749)|[scvcnet](https://github.com/7ohnkeats/scvcnet)|
+|[robust model predictive control exploiting monotonicity properties](https://arxiv.org/abs/2408.17348)|[robmpcexploitmon](https://github.com/moritzhein/robmpcexploitmon)|
+|[analyzing the role of the dso in electricity trading of vpps via a stackelberg game model](https://arxiv.org/abs/2501.07715)|[Code_of_bilevel_DSO_VPPs](https://github.com/pwang30/Code_of_bilevel_DSO_VPPs)|
+|[ecg-expert-qa: a benchmark for evaluating medical large language models in heart disease diagnosis](https://arxiv.org/abs/2502.17475)|[ecg-expert-qa](https://github.com/zaozzz/ecg-expert-qa)|
+|[calibrefine: deep learning-based online automatic targetless lidar-camera calibration with iterative and attention-driven post-refinement](https://arxiv.org/abs/2502.17648)|[Lidar_Camera_Automatic_Calibration](https://github.com/radar-lab/Lidar_Camera_Automatic_Calibration)|
+|[on symbol error probability-based beamforming in mimo gaussian wiretap channels](https://arxiv.org/abs/2504.03960)|[SEP_Beamforming_GaussianWritapChannel](https://github.com/NamNguyenResearch/SEP_Beamforming_GaussianWritapChannel)|
+|[sok: decoding the enigma of encrypted network traffic classifiers](https://arxiv.org/abs/2503.20093)|[ntc-enigma](https://github.com/nime-sha256/ntc-enigma)|
+|[efficient rejection sampling in the entropy-optimal range](https://arxiv.org/abs/2504.04267)|[amplified-loaded-dice-roller](https://github.com/probsys/amplified-loaded-dice-roller)|
+|[federated learning over 5g, wifi, and ethernet: measurements and evaluation](https://arxiv.org/abs/2504.04678)|[federated_learning_testbed](https://github.com/Net-X-Research-Group/federated_learning_testbed)|
 ## 2025-04-07
 |paper|code|
 |---|---|
