@@ -1,3 +1,14 @@
+## 2025-04-09
+|paper|code|
+|---|---|
+|[modulated differentiable stft and balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations](https://arxiv.org/abs/2406.11917)|[PyDSN](https://github.com/liguge/PyDSN)|
+|[data publishing in mechanics and dynamics: challenges, guidelines, and examples from engineering design](https://arxiv.org/abs/2410.18358)|[connectinggaitsinenergeticallyconservativeleggedsystems](https://github.com/raffmax/connectinggaitsinenergeticallyconservativeleggedsystems)|
+|[large wireless model (lwm): a foundation model for wireless channels](https://arxiv.org/abs/2411.08872)|[lwm](https://huggingface.co/wi-lab/lwm)|
+|[path: a discrete-sequence dataset for evaluating online unsupervised anomaly detection approaches for multivariate time series](https://arxiv.org/abs/2411.13951)|[path](https://github.com/lcs-crr/path)|
+|[large language model-based decision-making for colregs and the control of autonomous surface vehicles](https://arxiv.org/abs/2411.16587)|[Autonomous_ship_planning_collision_avoidance_control](https://github.com/Psarhadi/Autonomous_ship_planning_collision_avoidance_control)|
+|[neural port-hamiltonian differential algebraic equations for compositional learning of electrical networks](https://arxiv.org/abs/2412.11215)|[nphdae](https://github.com/nathan-t4/nphdae)|
+|[cpg-based manipulation with multi-module origami robot surface](https://arxiv.org/abs/2502.19218)|[Simulation_CPG_Manipulation_Oripixel](https://github.com/DuxtX/Simulation_CPG_Manipulation_Oripixel)|
+|[multi-modality sensing in mmwave beamforming for connected vehicles using deep learning](https://arxiv.org/abs/2504.06173)|[V2X-mmWave-Beamforming](https://github.com/mbaqer/V2X-mmWave-Beamforming)|
 ## 2025-04-08
 |paper|code|
 |---|---|
