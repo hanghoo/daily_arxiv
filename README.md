@@ -1,3 +1,11 @@
+## 2025-04-10
+|paper|code|
+|---|---|
+|[pyit2fls: a new python toolkit for interval type 2 fuzzy logic systems](https://arxiv.org/abs/1909.10051)|[PyIT2FLS](https://github.com/Haghrah/PyIT2FLS)|
+|[measuring discrete sensing capability for isac via task mutual information](https://arxiv.org/abs/2405.09497)|[dtmi](https://github.com/zaoanhh/dtmi)|
+|[distribution grids may be a barrier to residential electrification](https://arxiv.org/abs/2410.04540)|[edgie](https://github.com/priyada7/edgie)|
+|[zero-order control barrier functions for sampled-data systems with state and input dependent safety constraints](https://arxiv.org/abs/2411.17079)|[Zero-order-CBFs](https://github.com/ersindas/Zero-order-CBFs)|
+|[digital twin aided channel estimation: zone-specific subspace prediction and calibration](https://arxiv.org/abs/2501.02758)|[Digital-twin-aided-channel-estimation](https://github.com/sadjadalikhani/Digital-twin-aided-channel-estimation)|
 ## 2025-04-09
 |paper|code|
 |---|---|
@@ -15,6 +23,7 @@
 |[an xai framework for robust and transparent data-driven wind turbine power curve models](https://arxiv.org/abs/2304.09835)|[xai4windpowercurves](https://github.com/sltzgs/xai4windpowercurves)|
 |[recursive dynamic state estimation for power systems with an incomplete nonlinear dae model](https://arxiv.org/abs/2305.10065)|[powerdynamicestimator](https://gitlab.nccr-automation.ch/mkatanic/powerdynamicestimator)|
 |[scvcnet: sliding cross-vector convolution network for cross-task and inter-individual-set eeg-based cognitive workload recognition](https://arxiv.org/abs/2310.03749)|[scvcnet](https://github.com/7ohnkeats/scvcnet)|
+|[wideband thz multi-user downlink communications with leaky wave antennas](https://arxiv.org/abs/2312.08833)|[LWA](https://github.com/langnatalie/LWA)|
 |[robust model predictive control exploiting monotonicity properties](https://arxiv.org/abs/2408.17348)|[robmpcexploitmon](https://github.com/moritzhein/robmpcexploitmon)|
 |[analyzing the role of the dso in electricity trading of vpps via a stackelberg game model](https://arxiv.org/abs/2501.07715)|[Code_of_bilevel_DSO_VPPs](https://github.com/pwang30/Code_of_bilevel_DSO_VPPs)|
 |[ecg-expert-qa: a benchmark for evaluating medical large language models in heart disease diagnosis](https://arxiv.org/abs/2502.17475)|[ecg-expert-qa](https://github.com/zaozzz/ecg-expert-qa)|
@@ -30,8 +39,18 @@
 |[heartbert: a self-supervised ecg embedding model for efficient and effective medical signal analysis](https://arxiv.org/abs/2411.11896)|[heartbert](https://github.com/ecgresearch/heartbert)|
 |[gravity compensation of the dvrk-si patient side manipulator based on dynamic model identification](https://arxiv.org/abs/2501.19058)|[dvrk_si_psm_gravity_compensation](https://github.com/jackzhy96/dvrk_si_psm_gravity_compensation)|
 |[survival analysis with machine learning for predicting li-ion battery remaining useful life](https://arxiv.org/abs/2503.13558)|[RUL](https://github.com/thinkxca/RUL)|
+|[quattro: transformer-accelerated iterative linear quadratic regulator framework for fast trajectory optimization](https://arxiv.org/abs/2504.01806)|[quattro-transformer-ilqr](https://github.com/YueWang996/quattro-transformer-ilqr)|
+|[curvature-constrained vector field for motion planning of nonholonomic robots](https://arxiv.org/abs/2504.02852)|[cvf-for-nonholonomic-motion-planning](https://github.com/y1kee/cvf-for-nonholonomic-motion-planning)|
+|[distributionally robust predictive runtime verification under spatio-temporal logic specifications](https://arxiv.org/abs/2504.02964)|[robust_spatio-temporal_predictive_runtime_verification](https://github.com/saids-lab/robust_spatio-temporal_predictive_runtime_verification)|
+|[autonomy architectures for safe planning in unknown environments under budget constraints](https://arxiv.org/abs/2504.03001)|[gatekeeper_budget_constraints](https://github.com/dcherenson/gatekeeper_budget_constraints)|
+|[graphseg: segmented 3d representations via graph edge addition and contraction](https://arxiv.org/abs/2504.03129)|[graphseg](https://github.com/tomtang502/graphseg)|
+|[taming high-dimensional dynamics: learning optimal projections onto spectral submanifolds](https://arxiv.org/abs/2504.03157)|[opt-ssm](https://github.com/stanfordasl/opt-ssm)|
+|[dynamic objective mpc for motion planning of seamless docking maneuvers](https://arxiv.org/abs/2504.03280)|[dynamic_objective_mpc](https://github.com/uulm-mrm/dynamic_objective_mpc)|
+|[learning-based conformal tube mpc for safe control in interactive multi-agent systems](https://arxiv.org/abs/2504.03293)|[conformal_tube_mpc](https://github.com/yangming911/conformal_tube_mpc)|
 |[orthogonal nonnegative matrix factorization with sparsity constraints](https://arxiv.org/abs/2210.02672)|[mep-orthogonal-nmf](https://github.com/salar96/mep-orthogonal-nmf)|
 |[an algorithm for computing generalized hamming weights and the sage package ghws](https://arxiv.org/abs/2503.17764)|[ghws](https://github.com/rodrigosanjose/ghws)|
+|[leggiero: analog wifi backscatter with payload transparency](https://arxiv.org/abs/2504.03355)|[leggiero](https://github.com/wonderfulnx/leggiero)|
+|[quinid: enabling fdma-based fully parallel rfid with frequency-selective antenna](https://arxiv.org/abs/2504.03412)|[quinid](https://github.com/wonderfulnx/quinid)|
 ## 2025-04-04
 |paper|code|
 |---|---|
