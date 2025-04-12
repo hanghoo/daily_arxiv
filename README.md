@@ -1,3 +1,13 @@
+## 2025-04-11
+|paper|code|
+|---|---|
+|[accelerating ill-conditioned hankel matrix recovery via structured newton-like descent](https://arxiv.org/abs/2406.07409)|[HSNLD](https://github.com/caesarcai/HSNLD)|
+|[on counterfactual interventions in vector autoregressive models](https://arxiv.org/abs/2406.19573)|[counterfactual_interventions](https://github.com/kurtbutler/counterfactual_interventions)|
+|[sigmarl: a sample-efficient and generalizable multi-agent reinforcement learning framework for motion planning](https://arxiv.org/abs/2408.07644)|[sigmarl](https://github.com/cas-lab-munich/sigmarl)|
+|[convergence and robustness of value and policy iteration for the linear quadratic regulator](https://arxiv.org/abs/2411.04548)|[2024-ConvergenceRobustness-VIPI](https://github.com/col-tasas/2024-ConvergenceRobustness-VIPI)|
+|[amplitude response and square wave describing functions](https://arxiv.org/abs/2412.01579)|[square-wave-describing-functions](https://github.com/ThomasChaffey/square-wave-describing-functions)|
+|[t-parameters based modeling for stacked intelligent metasurfaces: tractable and physically consistent model](https://arxiv.org/abs/2503.09777)|[sim-t-param](https://github.com/hmjasmi/sim-t-param)|
+|[modular control of discrete event system for modeling and mitigating power system cascading failures](https://arxiv.org/abs/2504.07496)|[Modular_DES](https://github.com/wasseemrousan/Modular_DES)|
 ## 2025-04-10
 |paper|code|
 |---|---|
