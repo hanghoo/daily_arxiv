@@ -3,11 +3,12 @@
 |---|---|
 |[accelerating ill-conditioned hankel matrix recovery via structured newton-like descent](https://arxiv.org/abs/2406.07409)|[HSNLD](https://github.com/caesarcai/HSNLD)|
 |[on counterfactual interventions in vector autoregressive models](https://arxiv.org/abs/2406.19573)|[counterfactual_interventions](https://github.com/kurtbutler/counterfactual_interventions)|
-|[sigmarl: a sample-efficient and generalizable multi-agent reinforcement learning framework for motion planning](https://arxiv.org/abs/2408.07644)|[sigmarl](https://github.com/cas-lab-munich/sigmarl)|
+|[sigmarl: a sample-efficient and generalizable multi-agent reinforcement learning framework for motion planning](https://arxiv.org/abs/2408.07644)|[sigmarl](https://github.com/bassamlab/sigmarl)|
 |[convergence and robustness of value and policy iteration for the linear quadratic regulator](https://arxiv.org/abs/2411.04548)|[2024-ConvergenceRobustness-VIPI](https://github.com/col-tasas/2024-ConvergenceRobustness-VIPI)|
 |[amplitude response and square wave describing functions](https://arxiv.org/abs/2412.01579)|[square-wave-describing-functions](https://github.com/ThomasChaffey/square-wave-describing-functions)|
 |[t-parameters based modeling for stacked intelligent metasurfaces: tractable and physically consistent model](https://arxiv.org/abs/2503.09777)|[sim-t-param](https://github.com/hmjasmi/sim-t-param)|
 |[modular control of discrete event system for modeling and mitigating power system cascading failures](https://arxiv.org/abs/2504.07496)|[Modular_DES](https://github.com/wasseemrousan/Modular_DES)|
+|[open datasets for grid modeling and visualization: an alberta power network case](https://arxiv.org/abs/2504.07870)|[carbondistributionmap](https://github.com/bencheng2/carbondistributionmap)|
 ## 2025-04-10
 |paper|code|
 |---|---|
@@ -16,6 +17,9 @@
 |[distribution grids may be a barrier to residential electrification](https://arxiv.org/abs/2410.04540)|[edgie](https://github.com/priyada7/edgie)|
 |[zero-order control barrier functions for sampled-data systems with state and input dependent safety constraints](https://arxiv.org/abs/2411.17079)|[Zero-order-CBFs](https://github.com/ersindas/Zero-order-CBFs)|
 |[digital twin aided channel estimation: zone-specific subspace prediction and calibration](https://arxiv.org/abs/2501.02758)|[Digital-twin-aided-channel-estimation](https://github.com/sadjadalikhani/Digital-twin-aided-channel-estimation)|
+|[robo-taxi fleet coordination at scale via reinforcement learning](https://arxiv.org/abs/2504.06125)|[rl4amod](https://github.com/stanfordasl/rl4amod)|
+|[physical spline for denoising object trajectory data by combining splines, ml feature regression and model knowledge](https://arxiv.org/abs/2504.06404)|[physical_spline](https://github.com/jonastorz/physical_spline)|
+|[setup-invariant augmented reality for teaching by demonstration with surgical robots](https://arxiv.org/abs/2504.06677)|[dv-stear_public](https://github.com/alexandrebanks6/dv-stear_public)|
 ## 2025-04-09
 |paper|code|
 |---|---|
@@ -38,10 +42,13 @@
 |[analyzing the role of the dso in electricity trading of vpps via a stackelberg game model](https://arxiv.org/abs/2501.07715)|[Code_of_bilevel_DSO_VPPs](https://github.com/pwang30/Code_of_bilevel_DSO_VPPs)|
 |[ecg-expert-qa: a benchmark for evaluating medical large language models in heart disease diagnosis](https://arxiv.org/abs/2502.17475)|[ecg-expert-qa](https://github.com/zaozzz/ecg-expert-qa)|
 |[calibrefine: deep learning-based online automatic targetless lidar-camera calibration with iterative and attention-driven post-refinement](https://arxiv.org/abs/2502.17648)|[Lidar_Camera_Automatic_Calibration](https://github.com/radar-lab/Lidar_Camera_Automatic_Calibration)|
+|[a multi-scale lithium-ion battery capacity prediction using mixture of experts and patch-based mlp](https://arxiv.org/abs/2504.03706)|[capacitypredict](https://github.com/leiyuzhu/capacitypredict)|
+|[decoding covert speech from eeg using a functional areas spatio-temporal transformer](https://arxiv.org/abs/2504.03762)|[fast](https://github.com/jiang-muyun/fast)|
 |[on symbol error probability-based beamforming in mimo gaussian wiretap channels](https://arxiv.org/abs/2504.03960)|[SEP_Beamforming_GaussianWritapChannel](https://github.com/NamNguyenResearch/SEP_Beamforming_GaussianWritapChannel)|
 |[sok: decoding the enigma of encrypted network traffic classifiers](https://arxiv.org/abs/2503.20093)|[ntc-enigma](https://github.com/nime-sha256/ntc-enigma)|
 |[efficient rejection sampling in the entropy-optimal range](https://arxiv.org/abs/2504.04267)|[amplified-loaded-dice-roller](https://github.com/probsys/amplified-loaded-dice-roller)|
 |[federated learning over 5g, wifi, and ethernet: measurements and evaluation](https://arxiv.org/abs/2504.04678)|[federated_learning_testbed](https://github.com/Net-X-Research-Group/federated_learning_testbed)|
+|[feature importance-aware deep joint source-channel coding for computationally efficient and adjustable image transmission](https://arxiv.org/abs/2504.04758)|[fajscc](https://github.com/hansung-choi/fajscc)|
 ## 2025-04-07
 |paper|code|
 |---|---|
@@ -57,6 +64,8 @@
 |[taming high-dimensional dynamics: learning optimal projections onto spectral submanifolds](https://arxiv.org/abs/2504.03157)|[opt-ssm](https://github.com/stanfordasl/opt-ssm)|
 |[dynamic objective mpc for motion planning of seamless docking maneuvers](https://arxiv.org/abs/2504.03280)|[dynamic_objective_mpc](https://github.com/uulm-mrm/dynamic_objective_mpc)|
 |[learning-based conformal tube mpc for safe control in interactive multi-agent systems](https://arxiv.org/abs/2504.03293)|[conformal_tube_mpc](https://github.com/yangming911/conformal_tube_mpc)|
+|[leveraging network topology in a two-way competition for influence in the friedkin-johnsen model](https://arxiv.org/abs/2504.03397)|[net_topology_influence](https://github.com/aravinds1506/net_topology_influence)|
+|[scalable hypergraph structure learning with diverse smoothness priors](https://arxiv.org/abs/2504.03583)|[Scalable-Hypergraph-Structure-Learning-with-Diverse-Smoothness-Priors](https://github.com/Ben-Brown-Code/Scalable-Hypergraph-Structure-Learning-with-Diverse-Smoothness-Priors)|
 |[orthogonal nonnegative matrix factorization with sparsity constraints](https://arxiv.org/abs/2210.02672)|[mep-orthogonal-nmf](https://github.com/salar96/mep-orthogonal-nmf)|
 |[an algorithm for computing generalized hamming weights and the sage package ghws](https://arxiv.org/abs/2503.17764)|[ghws](https://github.com/rodrigosanjose/ghws)|
 |[leggiero: analog wifi backscatter with payload transparency](https://arxiv.org/abs/2504.03355)|[leggiero](https://github.com/wonderfulnx/leggiero)|
