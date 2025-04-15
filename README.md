@@ -1,3 +1,11 @@
+## 2025-04-14
+|paper|code|
+|---|---|
+|[linear quadratic control of nonlinear systems with koopman operator learning and the nystr\"om method](https://arxiv.org/abs/2403.02811)|[nys-koop-lqr](https://github.com/lcsl/nys-koop-lqr)|
+|[insights into the explainability of lasso-based deepc for nonlinear systems](https://arxiv.org/abs/2503.19163)|[Explainability_Lasso_DeePC](https://github.com/GiacomelliGianluca/Explainability_Lasso_DeePC)|
+|[mixeeg: enhancing eeg federated learning for cross-subject eeg classification with tailored mixup](https://arxiv.org/abs/2504.07987)|[mixEEG](https://github.com/XuanhaoLiu/mixEEG)|
+|[fast reconfiguration of lc-riss: modeling and algorithm design](https://arxiv.org/abs/2504.08352)|[LC-RIS-TDMA-Journal](https://github.com/MohamadrezaDelbari/LC-RIS-TDMA-Journal)|
+|[torchfx: a modern approach to audio dsp with pytorch and gpu acceleration](https://arxiv.org/abs/2504.08624)|[torchfx](https://github.com/matteospanio/torchfx)|
 ## 2025-04-11
 |paper|code|
 |---|---|
