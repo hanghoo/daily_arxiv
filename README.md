@@ -1,11 +1,29 @@
+## 2025-04-15
+|paper|code|
+|---|---|
+|[stlccp: efficient convex optimization-based framework for signal temporal logic specifications](https://arxiv.org/abs/2305.09441)|[stlccp](https://github.com/yotakayama/stlccp)|
+|[learning-based observer for coupled disturbance](https://arxiv.org/abs/2407.13229)|[Coupled_disturbance](https://github.com/JIAjindou/Coupled_disturbance)|
+|[towards safe bayesian optimization with wiener kernel regression](https://arxiv.org/abs/2411.02253)|[SafeBO_WKR](https://github.com/OptCon/SafeBO_WKR)|
+|[cbramod: a criss-cross brain foundation model for eeg decoding](https://arxiv.org/abs/2412.07236)|[cbramod](https://github.com/wjq-learning/cbramod)|
+|[bright: a globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response](https://arxiv.org/abs/2501.06019)|[bright](https://github.com/chenhongruixuan/bright)|
+|[opportunistic routing in wireless communications via learnable state-augmented policies](https://arxiv.org/abs/2503.03736)|[State-Augmented-Routing-Wireless-Communication](https://github.com/sourajitdas/State-Augmented-Routing-Wireless-Communication)|
+|[online convex optimization and integral quadratic constraints: a new approach to regret analysis](https://arxiv.org/abs/2503.23600)|[oco-with-iqcs](https://github.com/col-tasas/oco-with-iqcs)|
+|[data-driven safety verification using barrier certificates and matrix zonotopes](https://arxiv.org/abs/2504.01007)|[Data-Driven-Safety-Verification-using-Barrier-Certificates-and-Matrix-Zonotopes](https://github.com/maoumer/Data-Driven-Safety-Verification-using-Barrier-Certificates-and-Matrix-Zonotopes)|
+|[probabilistic reachable set estimation for saturated systems with unbounded additive disturbances](https://arxiv.org/abs/2504.03443)|[prs-sat-sys](https://github.com/carlokaram/prs-sat-sys)|
+|[sok: decoding the enigma of encrypted network traffic classifiers](https://arxiv.org/abs/2503.20093)|[ntc-enigma](https://github.com/nime-sha256/ntc-enigma)|
 ## 2025-04-14
 |paper|code|
 |---|---|
 |[linear quadratic control of nonlinear systems with koopman operator learning and the nystr\"om method](https://arxiv.org/abs/2403.02811)|[nys-koop-lqr](https://github.com/lcsl/nys-koop-lqr)|
+|[relcon: relative contrastive learning for a motion foundation model for wearable data](https://arxiv.org/abs/2411.18822)|[relcon](https://github.com/maxxu05/relcon)|
 |[insights into the explainability of lasso-based deepc for nonlinear systems](https://arxiv.org/abs/2503.19163)|[Explainability_Lasso_DeePC](https://github.com/GiacomelliGianluca/Explainability_Lasso_DeePC)|
+|[robustness of online identification-based policy iteration to noisy data](https://arxiv.org/abs/2504.07627)|[2024-SysIDbasedPIwithNoisyData](https://github.com/col-tasas/2024-SysIDbasedPIwithNoisyData)|
 |[mixeeg: enhancing eeg federated learning for cross-subject eeg classification with tailored mixup](https://arxiv.org/abs/2504.07987)|[mixEEG](https://github.com/XuanhaoLiu/mixEEG)|
+|[optimizing power grid topologies with reinforcement learning: a survey of methods and challenges](https://arxiv.org/abs/2504.08210)|[rl4pnc-survey](https://github.com/ericavandersar/rl4pnc-survey)|
 |[fast reconfiguration of lc-riss: modeling and algorithm design](https://arxiv.org/abs/2504.08352)|[LC-RIS-TDMA-Journal](https://github.com/MohamadrezaDelbari/LC-RIS-TDMA-Journal)|
 |[torchfx: a modern approach to audio dsp with pytorch and gpu acceleration](https://arxiv.org/abs/2504.08624)|[torchfx](https://github.com/matteospanio/torchfx)|
+|[reverberation-based features for sound event localization and detection with distance estimation](https://arxiv.org/abs/2504.08644)|[seld-distance-features](https://github.com/dberghi/seld-distance-features)|
+|[certainsync: rateless set reconciliation with certainty](https://arxiv.org/abs/2504.08314)|[rateless-set-reconciliation-with-listing-guarantees](https://github.com/toto9820/rateless-set-reconciliation-with-listing-guarantees)|
 ## 2025-04-11
 |paper|code|
 |---|---|
@@ -25,9 +43,15 @@
 |[distribution grids may be a barrier to residential electrification](https://arxiv.org/abs/2410.04540)|[edgie](https://github.com/priyada7/edgie)|
 |[zero-order control barrier functions for sampled-data systems with state and input dependent safety constraints](https://arxiv.org/abs/2411.17079)|[Zero-order-CBFs](https://github.com/ersindas/Zero-order-CBFs)|
 |[digital twin aided channel estimation: zone-specific subspace prediction and calibration](https://arxiv.org/abs/2501.02758)|[Digital-twin-aided-channel-estimation](https://github.com/sadjadalikhani/Digital-twin-aided-channel-estimation)|
+|[learning flatness-preserving residuals for pure-feedback systems](https://arxiv.org/abs/2504.04324)|[flat-residual](https://github.com/fjyang96/flat-residual)|
 |[robo-taxi fleet coordination at scale via reinforcement learning](https://arxiv.org/abs/2504.06125)|[rl4amod](https://github.com/stanfordasl/rl4amod)|
 |[physical spline for denoising object trajectory data by combining splines, ml feature regression and model knowledge](https://arxiv.org/abs/2504.06404)|[physical_spline](https://github.com/jonastorz/physical_spline)|
+|[zeta: a library for zonotope-based estimation and fault diagnosis of discrete-time systems](https://arxiv.org/abs/2504.06467)|[ZETA-releases](https://github.com/Guiraffo/ZETA-releases)|
+|[holistic fusion: task- and setup-agnostic robot localization and state estimation with factor graphs](https://arxiv.org/abs/2504.06479)|[holistic_fusion](https://github.com/leggedrobotics/holistic_fusion)|
 |[setup-invariant augmented reality for teaching by demonstration with surgical robots](https://arxiv.org/abs/2504.06677)|[dv-stear_public](https://github.com/alexandrebanks6/dv-stear_public)|
+|[robust capacity expansion modelling for renewable energy systems under weather and demand uncertainty](https://arxiv.org/abs/2504.06750)|[robust-capacity-expansion](https://github.com/fzj-iek3-vsa/robust-capacity-expansion)|
+|[parametric reachable sets via controlled dynamical embeddings](https://arxiv.org/abs/2504.06955)|[Harapanahalli_CDC2025](https://github.com/gtfactslab/Harapanahalli_CDC2025)|
+|[optimality of gradient-music for spectral estimation](https://arxiv.org/abs/2504.06842)|[gradientMUSIC](https://github.com/weilinlimath/gradientMUSIC)|
 ## 2025-04-09
 |paper|code|
 |---|---|
