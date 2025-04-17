@@ -1,3 +1,14 @@
+## 2025-04-16
+|paper|code|
+|---|---|
+|[the analytic stockwell transform and its zeros](https://arxiv.org/abs/2407.17076)|[ast](https://github.com/courbot/ast)|
+|[optimal operation of a building with electricity-heat networks and seasonal storage](https://arxiv.org/abs/2409.08721)|[residential-SG](https://github.com/eleaprat/residential-SG)|
+|[curricullm: automatic task curricula design for learning complex robot skills using large language models](https://arxiv.org/abs/2409.18382)|[curricullm](https://github.com/labicon/curricullm)|
+|[large problems are not necessarily hard: a case study on distributed nmpc paying off](https://arxiv.org/abs/2411.05627)|[dmpc_scalability](https://github.com/optcon/dmpc_scalability)|
+|[racnn: residual attention convolutional neural network for near-field channel estimation in 6g wireless communications](https://arxiv.org/abs/2503.02299)|[RACNN](https://github.com/DoHaiSon/RACNN)|
+|[generative and explainable ai for high-dimensional channel estimation](https://arxiv.org/abs/2504.10775)|[Generative-and-Explainable-AI-for-High-Dimensional-Channel-Estimation](https://github.com/tnd-lab/Generative-and-Explainable-AI-for-High-Dimensional-Channel-Estimation)|
+|[toward intelligent and secure cloud: large language model empowered proactive defense](https://arxiv.org/abs/2412.21051)|[LLM-PD](https://github.com/SEU-ProactiveSecurity-Group/LLM-PD)|
+|[introducing large language models as the next challenging internet traffic source](https://arxiv.org/abs/2504.10688)|[llmtrafficmonitor](https://github.com/alexgaarciia/llmtrafficmonitor)|
 ## 2025-04-15
 |paper|code|
 |---|---|
