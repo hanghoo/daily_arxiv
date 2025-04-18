@@ -1,3 +1,17 @@
+## 2025-04-17
+|paper|code|
+|---|---|
+|[block majorization minimization with extrapolation and application to $\beta$-nmf](https://arxiv.org/abs/2401.06646)|[bmme](https://github.com/vleplat/bmme)|
+|[ecg-chat: a large ecg-language model for cardiac disease diagnosis](https://arxiv.org/abs/2408.08849)|[ECG-Chat](https://github.com/YubaoZhao/ECG-Chat)|
+|[rise-ieeg: robust to inter-subject electrodes implantation variability ieeg classifier](https://arxiv.org/abs/2408.14477)|[RISE-iEEG](https://github.com/MaryamOstadsharif/RISE-iEEG)|
+|[sig2text, a vision-language model for non-cooperative radar signal parsing](https://arxiv.org/abs/2503.15213)|[sig2text](https://github.com/na-choneko/sig2text)|
+|[data driven approach towards more efficient newton-raphson power flow calculation for distribution grids](https://arxiv.org/abs/2504.11650)|[Data-driven-approach-towards-more-efficient-Newton-Raphson-power-flow-calculation](https://github.com/yanshengyuan/Data-driven-approach-towards-more-efficient-Newton-Raphson-power-flow-calculation)|
+|[structured gradient descent for fast robust low-rank hankel matrix completion](https://arxiv.org/abs/2204.03316)|[hsgd](https://github.com/caesarcai/hsgd)|
+|[an overview and solution for democratizing ai workflows at the network edge](https://arxiv.org/abs/2407.11905)|[NAOMI](https://github.com/copandrej/NAOMI)|
+|[local clustering and global spreading of receptors for optimal spatial gradient sensing](https://arxiv.org/abs/2410.03395)|[recloc](https://github.com/kirkegaardlab/recloc)|
+|[chaoseater: fully automating chaos engineering with large language models](https://arxiv.org/abs/2501.11107)|[chaos-eater](https://github.com/ntt-dkiku/chaos-eater)|
+|[an attentive graph agent for topology-adaptive cyber defence](https://arxiv.org/abs/2501.14700)|[cyberdreamcatcher](https://github.com/ilyaorson/cyberdreamcatcher)|
+|[superarc: an agnostic test for narrow, general, and super intelligence based on the principles of recursive compression and algorithmic probability](https://arxiv.org/abs/2503.16743)|[SuperintelligenceTest](https://github.com/AlgoDynLab/SuperintelligenceTest)|
 ## 2025-04-16
 |paper|code|
 |---|---|
