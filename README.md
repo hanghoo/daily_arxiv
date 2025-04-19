@@ -1,3 +1,8 @@
+## 2025-04-18
+|paper|code|
+|---|---|
+|[a coding-theoretic analysis of hyperspherical prototypical learning geometry](https://arxiv.org/abs/2407.07664)|[coding_theoretic_hpl](https://github.com/martinlindstrom/coding_theoretic_hpl)|
+|[robust data-driven tube-based zonotopic predictive control with closed-loop guarantees](https://arxiv.org/abs/2409.14366)|[TZPC](https://github.com/MahsaFarjadnia/TZPC)|
 ## 2025-04-17
 |paper|code|
 |---|---|
