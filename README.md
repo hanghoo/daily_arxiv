@@ -10,7 +10,10 @@
 |[ecg-chat: a large ecg-language model for cardiac disease diagnosis](https://arxiv.org/abs/2408.08849)|[ECG-Chat](https://github.com/YubaoZhao/ECG-Chat)|
 |[rise-ieeg: robust to inter-subject electrodes implantation variability ieeg classifier](https://arxiv.org/abs/2408.14477)|[RISE-iEEG](https://github.com/MaryamOstadsharif/RISE-iEEG)|
 |[sig2text, a vision-language model for non-cooperative radar signal parsing](https://arxiv.org/abs/2503.15213)|[sig2text](https://github.com/na-choneko/sig2text)|
+|[robust mpc for uncertain linear systems -- combining model adaptation and iterative learning](https://arxiv.org/abs/2504.11261)|[ralmpc_linear_uncertain_systems](https://github.com/hannespetrenz/ralmpc_linear_uncertain_systems)|
 |[data driven approach towards more efficient newton-raphson power flow calculation for distribution grids](https://arxiv.org/abs/2504.11650)|[Data-driven-approach-towards-more-efficient-Newton-Raphson-power-flow-calculation](https://github.com/yanshengyuan/Data-driven-approach-towards-more-efficient-Newton-Raphson-power-flow-calculation)|
+|[mind2matter: creating 3d models from eeg signals](https://arxiv.org/abs/2504.11936)|[mind2matter](https://github.com/sddwwww/mind2matter)|
+|[seroaise: advancing roa estimation for relu and pwa dynamics through estimating certified invariant sets](https://arxiv.org/abs/2504.12269)|[seroaise](https://github.com/pouyasamanipour/seroaise)|
 |[structured gradient descent for fast robust low-rank hankel matrix completion](https://arxiv.org/abs/2204.03316)|[hsgd](https://github.com/caesarcai/hsgd)|
 |[an overview and solution for democratizing ai workflows at the network edge](https://arxiv.org/abs/2407.11905)|[NAOMI](https://github.com/copandrej/NAOMI)|
 |[local clustering and global spreading of receptors for optimal spatial gradient sensing](https://arxiv.org/abs/2410.03395)|[recloc](https://github.com/kirkegaardlab/recloc)|
@@ -26,6 +29,7 @@
 |[large problems are not necessarily hard: a case study on distributed nmpc paying off](https://arxiv.org/abs/2411.05627)|[dmpc_scalability](https://github.com/optcon/dmpc_scalability)|
 |[racnn: residual attention convolutional neural network for near-field channel estimation in 6g wireless communications](https://arxiv.org/abs/2503.02299)|[RACNN](https://github.com/DoHaiSon/RACNN)|
 |[generative and explainable ai for high-dimensional channel estimation](https://arxiv.org/abs/2504.10775)|[Generative-and-Explainable-AI-for-High-Dimensional-Channel-Estimation](https://github.com/tnd-lab/Generative-and-Explainable-AI-for-High-Dimensional-Channel-Estimation)|
+|[scalable transceiver design for multi-user communication in fdd massive mimo systems via deep learning](https://arxiv.org/abs/2504.11162)|[scalable-precoding-mu-mimo](https://github.com/linzhu-polyu/scalable-precoding-mu-mimo)|
 |[toward intelligent and secure cloud: large language model empowered proactive defense](https://arxiv.org/abs/2412.21051)|[LLM-PD](https://github.com/SEU-ProactiveSecurity-Group/LLM-PD)|
 |[introducing large language models as the next challenging internet traffic source](https://arxiv.org/abs/2504.10688)|[llmtrafficmonitor](https://github.com/alexgaarciia/llmtrafficmonitor)|
 ## 2025-04-15
@@ -40,6 +44,11 @@
 |[online convex optimization and integral quadratic constraints: a new approach to regret analysis](https://arxiv.org/abs/2503.23600)|[oco-with-iqcs](https://github.com/col-tasas/oco-with-iqcs)|
 |[data-driven safety verification using barrier certificates and matrix zonotopes](https://arxiv.org/abs/2504.01007)|[Data-Driven-Safety-Verification-using-Barrier-Certificates-and-Matrix-Zonotopes](https://github.com/maoumer/Data-Driven-Safety-Verification-using-Barrier-Certificates-and-Matrix-Zonotopes)|
 |[probabilistic reachable set estimation for saturated systems with unbounded additive disturbances](https://arxiv.org/abs/2504.03443)|[prs-sat-sys](https://github.com/carlokaram/prs-sat-sys)|
+|[analogical learning for cross-scenario generalization: framework and application to intelligent localization](https://arxiv.org/abs/2504.08811)|[alloc](https://github.com/ziruichen-research/alloc)|
+|[interq: a dqn framework for optimal intermittent control](https://arxiv.org/abs/2504.09035)|[interq](https://github.com/ac-sh/interq)|
+|[self-supervised autoencoder network for robust heart rate extraction from noisy photoplethysmogram: applying blind source separation to biosignal analysis](https://arxiv.org/abs/2504.09132)|[meae-heart-rate-extraction-from-noisy-ppg](https://github.com/webstah/meae-heart-rate-extraction-from-noisy-ppg)|
+|[graph-based prediction models for data debiasing](https://arxiv.org/abs/2504.09348)|[graph-debiasing](https://github.com/statfusion/graph-debiasing)|
+|[passive channel charting: locating passive targets using wi-fi channel state information](https://arxiv.org/abs/2504.09924)|[espargos-passive-channelcharting](https://github.com/jeija/espargos-passive-channelcharting)|
 |[sok: decoding the enigma of encrypted network traffic classifiers](https://arxiv.org/abs/2503.20093)|[ntc-enigma](https://github.com/nime-sha256/ntc-enigma)|
 ## 2025-04-14
 |paper|code|
