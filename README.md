@@ -12,8 +12,9 @@
 |[sig2text, a vision-language model for non-cooperative radar signal parsing](https://arxiv.org/abs/2503.15213)|[sig2text](https://github.com/na-choneko/sig2text)|
 |[robust mpc for uncertain linear systems -- combining model adaptation and iterative learning](https://arxiv.org/abs/2504.11261)|[ralmpc_linear_uncertain_systems](https://github.com/hannespetrenz/ralmpc_linear_uncertain_systems)|
 |[data driven approach towards more efficient newton-raphson power flow calculation for distribution grids](https://arxiv.org/abs/2504.11650)|[Data-driven-approach-towards-more-efficient-Newton-Raphson-power-flow-calculation](https://github.com/yanshengyuan/Data-driven-approach-towards-more-efficient-Newton-Raphson-power-flow-calculation)|
-|[mind2matter: creating 3d models from eeg signals](https://arxiv.org/abs/2504.11936)|[mind2matter](https://github.com/sddwwww/mind2matter)|
+|[manifold meta-learning for reduced-complexity neural system identification](https://arxiv.org/abs/2504.11811)|[sysid-neural-manifold](https://github.com/forgi86/sysid-neural-manifold)|
 |[seroaise: advancing roa estimation for relu and pwa dynamics through estimating certified invariant sets](https://arxiv.org/abs/2504.12269)|[seroaise](https://github.com/pouyasamanipour/seroaise)|
+|[optimal flock formation induced by agent heterogeneity](https://arxiv.org/abs/2504.12297)|[optflock](https://github.com/montanariarthur/optflock)|
 |[structured gradient descent for fast robust low-rank hankel matrix completion](https://arxiv.org/abs/2204.03316)|[hsgd](https://github.com/caesarcai/hsgd)|
 |[an overview and solution for democratizing ai workflows at the network edge](https://arxiv.org/abs/2407.11905)|[NAOMI](https://github.com/copandrej/NAOMI)|
 |[local clustering and global spreading of receptors for optimal spatial gradient sensing](https://arxiv.org/abs/2410.03395)|[recloc](https://github.com/kirkegaardlab/recloc)|
@@ -39,7 +40,6 @@
 |[learning-based observer for coupled disturbance](https://arxiv.org/abs/2407.13229)|[Coupled_disturbance](https://github.com/JIAjindou/Coupled_disturbance)|
 |[towards safe bayesian optimization with wiener kernel regression](https://arxiv.org/abs/2411.02253)|[SafeBO_WKR](https://github.com/OptCon/SafeBO_WKR)|
 |[cbramod: a criss-cross brain foundation model for eeg decoding](https://arxiv.org/abs/2412.07236)|[cbramod](https://github.com/wjq-learning/cbramod)|
-|[bright: a globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response](https://arxiv.org/abs/2501.06019)|[bright](https://github.com/chenhongruixuan/bright)|
 |[opportunistic routing in wireless communications via learnable state-augmented policies](https://arxiv.org/abs/2503.03736)|[State-Augmented-Routing-Wireless-Communication](https://github.com/sourajitdas/State-Augmented-Routing-Wireless-Communication)|
 |[online convex optimization and integral quadratic constraints: a new approach to regret analysis](https://arxiv.org/abs/2503.23600)|[oco-with-iqcs](https://github.com/col-tasas/oco-with-iqcs)|
 |[data-driven safety verification using barrier certificates and matrix zonotopes](https://arxiv.org/abs/2504.01007)|[Data-Driven-Safety-Verification-using-Barrier-Certificates-and-Matrix-Zonotopes](https://github.com/maoumer/Data-Driven-Safety-Verification-using-Barrier-Certificates-and-Matrix-Zonotopes)|
@@ -48,6 +48,7 @@
 |[interq: a dqn framework for optimal intermittent control](https://arxiv.org/abs/2504.09035)|[interq](https://github.com/ac-sh/interq)|
 |[self-supervised autoencoder network for robust heart rate extraction from noisy photoplethysmogram: applying blind source separation to biosignal analysis](https://arxiv.org/abs/2504.09132)|[meae-heart-rate-extraction-from-noisy-ppg](https://github.com/webstah/meae-heart-rate-extraction-from-noisy-ppg)|
 |[graph-based prediction models for data debiasing](https://arxiv.org/abs/2504.09348)|[graph-debiasing](https://github.com/statfusion/graph-debiasing)|
+|[hbs -- hardware build system: a tcl-based, minimal common abstraction approach for build system for hardware designs](https://arxiv.org/abs/2504.09642)|[hbs](https://github.com/m-kru/hbs)|
 |[passive channel charting: locating passive targets using wi-fi channel state information](https://arxiv.org/abs/2504.09924)|[espargos-passive-channelcharting](https://github.com/jeija/espargos-passive-channelcharting)|
 |[sok: decoding the enigma of encrypted network traffic classifiers](https://arxiv.org/abs/2503.20093)|[ntc-enigma](https://github.com/nime-sha256/ntc-enigma)|
 ## 2025-04-14
