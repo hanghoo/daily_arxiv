@@ -1,3 +1,10 @@
+## 2025-04-21
+|paper|code|
+|---|---|
+|[automated security response through online learning with adaptive conjectures](https://arxiv.org/abs/2402.12499)|[csle](https://github.com/limmen/csle)|
+|[bright: a globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response](https://arxiv.org/abs/2501.06019)|[bright](https://github.com/chenhongruixuan/bright)|
+|[mind2matter: creating 3d models from eeg signals](https://arxiv.org/abs/2504.11936)|[mind2matter](https://github.com/sddwwww/mind2matter)|
+|[efficient algorithms for the hadamard decomposition](https://arxiv.org/abs/2504.13633)|[hadamarddecompositions](https://github.com/wertzsamuel/hadamarddecompositions)|
 ## 2025-04-18
 |paper|code|
 |---|---|
