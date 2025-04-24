@@ -1,10 +1,33 @@
+## 2025-04-23
+|paper|code|
+|---|---|
+|[onboard satellite image classification for earth observation: a comparative study of vit models](https://arxiv.org/abs/2409.03901)|[snt-sentry](https://github.com/ltdung/snt-sentry)|
+|[orthogonal projection-based regularization for efficient model augmentation](https://arxiv.org/abs/2501.05842)|[orthogonal-augmentation](https://github.com/aimotionlab-sztaki/orthogonal-augmentation)|
+|[mitigating traffic oscillations in mixed traffic flow with scalable deep koopman predictive control](https://arxiv.org/abs/2502.00043)|[AdapKoopPC](https://github.com/SpaceTrafficSafetyTeam/AdapKoopPC)|
+|[reinforcement learning for dynamic resource allocation in optical networks: hype or hope?](https://arxiv.org/abs/2502.12804)|[XLRON](https://github.com/micdoh/XLRON)|
+|[optimal bayesian affine estimator and active learning for the wiener model](https://arxiv.org/abs/2504.05490)|[Bayesian4Wiener](https://github.com/sasanvakili/Bayesian4Wiener)|
+|[efficient algorithms for the hadamard decomposition](https://arxiv.org/abs/2504.13633)|[hadamarddecompositions](https://github.com/wertzsamuel/hadamarddecompositions)|
+|[effective application of normalized min-sum decoding for short bch codes](https://arxiv.org/abs/2412.20828)|[Short_BCH_Decoding_OSD](https://github.com/lgw-frank/Short_BCH_Decoding_OSD)|
+|[dress: diffusion reasoning-based reward shaping scheme for intelligent networks](https://arxiv.org/abs/2503.07433)|[dress](https://github.com/nice-hku/dress)|
+## 2025-04-22
+|paper|code|
+|---|---|
+|[bio-eng-lmm ai assist chatbot: a comprehensive tool for research and education](https://arxiv.org/abs/2409.07110)|[multi_llm](https://github.com/Ali-Forootani/multi_llm)|
+|[preserving privacy in cloud-based data-driven stabilization](https://arxiv.org/abs/2410.17353)|[privacy_data_driven_control](https://github.com/teimour-halizadeh/privacy_data_driven_control)|
+|[pk-yolo: pretrained knowledge guided yolo for brain tumor detection in multiplanar mri slices](https://arxiv.org/abs/2410.21822)|[pk-yolo](https://github.com/mkang315/pk-yolo)|
+|[replacing k-infinity function with leaky relu in barrier function design: a union of invariant sets approach for relu-based dynamical systems](https://arxiv.org/abs/2502.03765)|[uis](https://github.com/pouyasamanipour/uis)|
+|[graph-based prediction models for data debiasing](https://arxiv.org/abs/2504.09348)|[graph-debiasing](https://github.com/statfusion/graph-debiasing)|
+|[interior point methods for structured quantum relative entropy optimization problems](https://arxiv.org/abs/2407.00241)|[qrep-structure](https://github.com/kerry-he/qrep-structure)|
+|[tinyml nlp scheme for semantic wireless sentiment classification with privacy preservation](https://arxiv.org/abs/2411.06291)|[tinyeco2ai-nlp](https://github.com/ahmedradwan02/tinyeco2ai-nlp)|
+|[run-length-limited isi-mitigation (rlim) coding for molecular communication](https://arxiv.org/abs/2411.15955)|[mcchannelcoding](https://github.com/melihsahinedu/mcchannelcoding)|
+|[efficient algorithm for sparse fourier transform of generalized $q$-ary functions](https://arxiv.org/abs/2501.12365)|[gfast](https://github.com/amirgroup-codes/gfast)|
+|[introducing large language models as the next challenging internet traffic source](https://arxiv.org/abs/2504.10688)|[llmtrafficmonitor](https://github.com/alexgaarciia/llmtrafficmonitor)|
 ## 2025-04-21
 |paper|code|
 |---|---|
 |[automated security response through online learning with adaptive conjectures](https://arxiv.org/abs/2402.12499)|[csle](https://github.com/limmen/csle)|
 |[bright: a globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response](https://arxiv.org/abs/2501.06019)|[bright](https://github.com/chenhongruixuan/bright)|
 |[mind2matter: creating 3d models from eeg signals](https://arxiv.org/abs/2504.11936)|[mind2matter](https://github.com/sddwwww/mind2matter)|
-|[efficient algorithms for the hadamard decomposition](https://arxiv.org/abs/2504.13633)|[hadamarddecompositions](https://github.com/wertzsamuel/hadamarddecompositions)|
 ## 2025-04-18
 |paper|code|
 |---|---|
