@@ -1,3 +1,13 @@
+## 2025-04-24
+|paper|code|
+|---|---|
+|[terime: an improved rime algorithm with enhanced exploration and exploitation for robust parameter extraction of photovoltaic models](https://arxiv.org/abs/2407.18986)|[terime](https://github.com/dirge1/terime)|
+|[physics-based battery model parametrisation from impedance data](https://arxiv.org/abs/2412.10896)|[pybop](https://github.com/pybop-team/pybop)|
+|[towards routing and edge computing in satellite-terrestrial networks: a column generation approach](https://arxiv.org/abs/2502.14422)|[CG_satellite](https://github.com/Yuanliaoo/CG_satellite)|
+|[distributed model predictive control for dynamic cooperation of multi-agent systems](https://arxiv.org/abs/2504.00225)|[DMPC_for_dynamic_cooperation](https://github.com/MatthiasKoehler/DMPC_for_dynamic_cooperation)|
+|[traffic centralization and digital sovereignty: an analysis under the lens of dns servers](https://arxiv.org/abs/2307.01300)|[dns-sovereignty](https://github.com/computernetworks-ufrgs/dns-sovereignty)|
+|[random number generation from pulsars](https://arxiv.org/abs/2502.18430)|[pulsar_rng](https://github.com/jadidbourbaki/pulsar_rng)|
+|[superarc: an agnostic test for narrow, general, and super intelligence based on the principles of recursive compression and algorithmic probability](https://arxiv.org/abs/2503.16743)|[SuperintelligenceTest](https://github.com/AlgoDynLab/SuperintelligenceTest)|
 ## 2025-04-23
 |paper|code|
 |---|---|
