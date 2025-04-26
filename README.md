@@ -1,3 +1,10 @@
+## 2025-04-25
+|paper|code|
+|---|---|
+|[high-resolution agent-based modeling of covid-19 spreading in a small town](https://arxiv.org/abs/2101.05171)|[ABM-COVID-DSL](https://github.com/Dynamical-Systems-Laboratory/ABM-COVID-DSL)|
+|[robust model predictive control exploiting monotonicity properties](https://arxiv.org/abs/2408.17348)|[robmpcexploitmon](https://github.com/moritzhein/robmpcexploitmon)|
+|[passive channel charting: locating passive targets using wi-fi channel state information](https://arxiv.org/abs/2504.09924)|[espargos-passive-channelcharting](https://github.com/jeija/espargos-passive-channelcharting)|
+|[fast online adaptive neural mpc via meta-learning](https://arxiv.org/abs/2504.16369)|[MetaResidual-MPC](https://github.com/yu-mei/MetaResidual-MPC)|
 ## 2025-04-24
 |paper|code|
 |---|---|
