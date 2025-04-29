@@ -1,10 +1,18 @@
+## 2025-04-28
+|paper|code|
+|---|---|
+|[deep optimal transport for domain adaptation on spd manifolds](https://arxiv.org/abs/2201.05745)|[deep-optimal-transport-for-domain-adaptation-on-spd-manifolds](https://github.com/geometricbci/deep-optimal-transport-for-domain-adaptation-on-spd-manifolds)|
+|[generative ai-powered plugin for robust federated learning in heterogeneous iot networks](https://arxiv.org/abs/2410.23824)|[gaudi-fl](https://github.com/NAVER-INTEL-Co-Lab/gaudi-fl)|
+|[synthsom: a synthetic intelligent multi-modal sensing-communication dataset for synesthesia of machines (som)](https://arxiv.org/abs/2501.07459)|[synthsom](https://github.com/ziweihuang96/synthsom)|
+|[can kernel methods explain how the data affects neural collapse?](https://arxiv.org/abs/2406.02105)|[shallow_nc1](https://github.com/kvignesh1420/shallow_nc1)|
+|[contrastive learning and adversarial disentanglement for task-oriented semantic communications](https://arxiv.org/abs/2410.22784)|[clad](https://github.com/omarerak/clad)|
+|[neuromorphic wireless split computing with multi-level spikes](https://arxiv.org/abs/2411.04728)|[neurocomm-msnn](https://github.com/kclip/neurocomm-msnn)|
 ## 2025-04-25
 |paper|code|
 |---|---|
 |[high-resolution agent-based modeling of covid-19 spreading in a small town](https://arxiv.org/abs/2101.05171)|[ABM-COVID-DSL](https://github.com/Dynamical-Systems-Laboratory/ABM-COVID-DSL)|
 |[robust model predictive control exploiting monotonicity properties](https://arxiv.org/abs/2408.17348)|[robmpcexploitmon](https://github.com/moritzhein/robmpcexploitmon)|
 |[passive channel charting: locating passive targets using wi-fi channel state information](https://arxiv.org/abs/2504.09924)|[espargos-passive-channelcharting](https://github.com/jeija/espargos-passive-channelcharting)|
-|[fast online adaptive neural mpc via meta-learning](https://arxiv.org/abs/2504.16369)|[MetaResidual-MPC](https://github.com/yu-mei/MetaResidual-MPC)|
 ## 2025-04-24
 |paper|code|
 |---|---|
