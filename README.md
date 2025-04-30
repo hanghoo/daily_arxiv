@@ -1,3 +1,18 @@
+## 2025-04-29
+|paper|code|
+|---|---|
+|[a weight-aware-based multi-source unsupervised domain adaptation method for human motion intention recognition](https://arxiv.org/abs/2404.15366)|[WMDD](https://github.com/xiaoyinliu0714/WMDD)|
+|[leader-follower density control of spatial dynamics in large-scale multi-agent systems](https://arxiv.org/abs/2406.01804)|[leader_follower_density_control](https://github.com/sincrogroup/leader_follower_density_control)|
+|[radarode-mtl: a multi-task learning framework with eccentric gradient alignment for robust radar-based ecg reconstruction](https://arxiv.org/abs/2410.08656)|[radarODE-MTL](https://github.com/ZYY0844/radarODE-MTL)|
+|[uncovering process noise in ltv systems via kernel deconvolution](https://arxiv.org/abs/2412.01424)|[StateNoisePDFIdentification](https://github.com/IDM-UWB/StateNoisePDFIdentification)|
+|[asap: aligning simulation and real-world physics for learning agile humanoid whole-body skills](https://arxiv.org/abs/2502.01143)|[asap](https://github.com/lecar-lab/asap)|
+|[mvcnet: multi-view contrastive network for motor imagery classification](https://arxiv.org/abs/2502.17482)|[MCNet](https://github.com/wzwvv/MCNet)|
+|[survival analysis with machine learning for predicting li-ion battery remaining useful life](https://arxiv.org/abs/2503.13558)|[RUL](https://github.com/thinkxca/RUL)|
+|[fast online adaptive neural mpc via meta-learning](https://arxiv.org/abs/2504.16369)|[MetaResidual-MPC](https://github.com/yu-mei/MetaResidual-MPC)|
+|[unifying summary statistic selection for approximate bayesian computation](https://arxiv.org/abs/2206.02340)|[summaries](https://github.com/tillahoffmann/summaries)|
+|[estimating the number of http/3 responses in quic using deep learning](https://arxiv.org/abs/2410.06140)|[VisQUIC](https://github.com/robshahla/VisQUIC)|
+|[blank space: adaptive causal coding for streaming communications over multi-hop networks](https://arxiv.org/abs/2502.11984)|[MH_NC](https://github.com/Adinawx/MH_NC)|
+|[performance analysis of openvpn on a consumer grade router](https://arxiv.org/abs/2504.19069)|[openvpn_casestudy_data](https://github.com/mhall24/openvpn_casestudy_data)|
 ## 2025-04-28
 |paper|code|
 |---|---|
@@ -6,7 +21,6 @@
 |[synthsom: a synthetic intelligent multi-modal sensing-communication dataset for synesthesia of machines (som)](https://arxiv.org/abs/2501.07459)|[synthsom](https://github.com/ziweihuang96/synthsom)|
 |[can kernel methods explain how the data affects neural collapse?](https://arxiv.org/abs/2406.02105)|[shallow_nc1](https://github.com/kvignesh1420/shallow_nc1)|
 |[contrastive learning and adversarial disentanglement for task-oriented semantic communications](https://arxiv.org/abs/2410.22784)|[clad](https://github.com/omarerak/clad)|
-|[neuromorphic wireless split computing with multi-level spikes](https://arxiv.org/abs/2411.04728)|[neurocomm-msnn](https://github.com/kclip/neurocomm-msnn)|
 ## 2025-04-25
 |paper|code|
 |---|---|
