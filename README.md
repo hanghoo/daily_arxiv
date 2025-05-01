@@ -1,3 +1,12 @@
+## 2025-04-30
+|paper|code|
+|---|---|
+|[trading off regional and overall energy system design flexibility in the net-zero transition](https://arxiv.org/abs/2312.11264)|[enabling-agency](https://github.com/koen-vg/enabling-agency)|
+|[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
+|[radarode: an ode-embedded deep learning model for contactless ecg reconstruction from millimeter-wave radar](https://arxiv.org/abs/2408.01672)|[radarODE-MTL](https://github.com/ZYY0844/radarODE-MTL)|
+|[statistical channel based low-complexity rotation and position optimization for 6d movable antennas enabled wireless communication](https://arxiv.org/abs/2504.20618)|[6DMA-SCI](https://github.com/Jiang-Qijun/6DMA-SCI)|
+|[neuromorphic wireless split computing with multi-level spikes](https://arxiv.org/abs/2411.04728)|[neurocomm-msnn](https://github.com/kclip/neurocomm-msnn)|
+|[task-oriented communications for visual navigation with edge-aerial collaboration in low altitude economy](https://arxiv.org/abs/2504.18317)|[TOC-Edge-Aerial](https://github.com/fangzr/TOC-Edge-Aerial)|
 ## 2025-04-29
 |paper|code|
 |---|---|
@@ -8,7 +17,6 @@
 |[asap: aligning simulation and real-world physics for learning agile humanoid whole-body skills](https://arxiv.org/abs/2502.01143)|[asap](https://github.com/lecar-lab/asap)|
 |[mvcnet: multi-view contrastive network for motor imagery classification](https://arxiv.org/abs/2502.17482)|[MCNet](https://github.com/wzwvv/MCNet)|
 |[survival analysis with machine learning for predicting li-ion battery remaining useful life](https://arxiv.org/abs/2503.13558)|[RUL](https://github.com/thinkxca/RUL)|
-|[fast online adaptive neural mpc via meta-learning](https://arxiv.org/abs/2504.16369)|[MetaResidual-MPC](https://github.com/yu-mei/MetaResidual-MPC)|
 |[unifying summary statistic selection for approximate bayesian computation](https://arxiv.org/abs/2206.02340)|[summaries](https://github.com/tillahoffmann/summaries)|
 |[estimating the number of http/3 responses in quic using deep learning](https://arxiv.org/abs/2410.06140)|[VisQUIC](https://github.com/robshahla/VisQUIC)|
 |[blank space: adaptive causal coding for streaming communications over multi-hop networks](https://arxiv.org/abs/2502.11984)|[MH_NC](https://github.com/Adinawx/MH_NC)|
@@ -27,6 +35,7 @@
 |[high-resolution agent-based modeling of covid-19 spreading in a small town](https://arxiv.org/abs/2101.05171)|[ABM-COVID-DSL](https://github.com/Dynamical-Systems-Laboratory/ABM-COVID-DSL)|
 |[robust model predictive control exploiting monotonicity properties](https://arxiv.org/abs/2408.17348)|[robmpcexploitmon](https://github.com/moritzhein/robmpcexploitmon)|
 |[passive channel charting: locating passive targets using wi-fi channel state information](https://arxiv.org/abs/2504.09924)|[espargos-passive-channelcharting](https://github.com/jeija/espargos-passive-channelcharting)|
+|[a statistical evaluation of indoor lorawan environment-aware propagation for 6g: mlr, anova, and residual distribution analysis](https://arxiv.org/abs/2504.16688)|[EnviKal-Loc](https://github.com/nahshonmokua/EnviKal-Loc)|
 ## 2025-04-24
 |paper|code|
 |---|---|
