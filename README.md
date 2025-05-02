@@ -1,3 +1,11 @@
+## 2025-05-01
+|paper|code|
+|---|---|
+|[sustaindc: benchmarking for sustainable data center control](https://arxiv.org/abs/2408.07841)|[dc-rl](https://github.com/hewlettpackard/dc-rl)|
+|[estimation-aware trajectory optimization with set-valued measurement uncertainties](https://arxiv.org/abs/2501.09192)|[obs_aware_opt](https://github.com/rainlabuw/obs_aware_opt)|
+|[fast online adaptive neural mpc via meta-learning](https://arxiv.org/abs/2504.16369)|[MetaResidual-MPC](https://github.com/yu-mei/MetaResidual-MPC)|
+|[lossless data compression by large models](https://arxiv.org/abs/2407.07723)|[medal](https://github.com/mcGill-NLP/medal)|
+|[r-acp: real-time adaptive collaborative perception leveraging robust task-oriented communications](https://arxiv.org/abs/2410.04168)|[R-ACP](https://github.com/fangzr/R-ACP)|
 ## 2025-04-30
 |paper|code|
 |---|---|
