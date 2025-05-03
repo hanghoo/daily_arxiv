@@ -1,3 +1,12 @@
+## 2025-05-02
+|paper|code|
+|---|---|
+|[enhancing clinical decision support with physiological waveforms -- a multimodal benchmark in emergency care](https://arxiv.org/abs/2407.17856)|[mds-ed](https://github.com/ai4healthuol/mds-ed)|
+|[multi-objective reinforcement learning for power grid topology control](https://arxiv.org/abs/2502.00040)|[topgrid_morl](https://github.com/tu-delft-ai-energy-lab/topgrid_morl)|
+|[rejuvenating irs: aoi-based low overhead reconfiguration design](https://arxiv.org/abs/2503.18019)|[irs_rejuvenation](https://github.com/tkn-tub/irs_rejuvenation)|
+|[conformal changepoint localization](https://arxiv.org/abs/2505.00292)|[conformal-change-localization](https://github.com/sanjitdp/conformal-change-localization)|
+|[fool: addressing the downlink bottleneck in satellite computing with neural feature compression](https://arxiv.org/abs/2403.16677)|[the-fool](https://github.com/rezafuru/the-fool)|
+|[recursive kl divergence optimization: a dynamic framework for representation learning](https://arxiv.org/abs/2504.21707)|[RKDO-recursive-kl-divergence-optimization](https://github.com/anthonymartin/RKDO-recursive-kl-divergence-optimization)|
 ## 2025-05-01
 |paper|code|
 |---|---|
