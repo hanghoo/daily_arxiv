@@ -23,7 +23,6 @@
 |[radarode: an ode-embedded deep learning model for contactless ecg reconstruction from millimeter-wave radar](https://arxiv.org/abs/2408.01672)|[radarODE-MTL](https://github.com/ZYY0844/radarODE-MTL)|
 |[statistical channel based low-complexity rotation and position optimization for 6d movable antennas enabled wireless communication](https://arxiv.org/abs/2504.20618)|[6DMA-SCI](https://github.com/Jiang-Qijun/6DMA-SCI)|
 |[neuromorphic wireless split computing with multi-level spikes](https://arxiv.org/abs/2411.04728)|[neurocomm-msnn](https://github.com/kclip/neurocomm-msnn)|
-|[task-oriented communications for visual navigation with edge-aerial collaboration in low altitude economy](https://arxiv.org/abs/2504.18317)|[TOC-Edge-Aerial](https://github.com/fangzr/TOC-Edge-Aerial)|
 ## 2025-04-29
 |paper|code|
 |---|---|
