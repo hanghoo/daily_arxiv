@@ -1,3 +1,11 @@
+## 2025-05-05
+|paper|code|
+|---|---|
+|[uncertainty-aware bayes' rule and its applications](https://arxiv.org/abs/2311.05532)|[bayes-rule](https://github.com/spratm-asleaf/bayes-rule)|
+|[leveraging symmetry to accelerate learning of trajectory tracking controllers for free-flying robotic systems](https://arxiv.org/abs/2409.11238)|[eqtrackingcontrol](https://github.com/pratikkunapuli/eqtrackingcontrol)|
+|[learning-based mpc for fuel efficient control of autonomous vehicles with discrete gear selection](https://arxiv.org/abs/2503.11359)|[mpcrl-vehicle-gears](https://github.com/samuelmallick/mpcrl-vehicle-gears)|
+|[model tensor planning](https://arxiv.org/abs/2505.01059)|[mtp](https://github.com/anindex/mtp)|
+|[task-oriented communications for visual navigation with edge-aerial collaboration in low altitude economy](https://arxiv.org/abs/2504.18317)|[TOC-Edge-Aerial](https://github.com/fangzr/TOC-Edge-Aerial)|
 ## 2025-05-02
 |paper|code|
 |---|---|
