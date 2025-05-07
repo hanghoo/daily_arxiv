@@ -1,3 +1,16 @@
+## 2025-05-06
+|paper|code|
+|---|---|
+|[exploring challenges in deep learning of single-station ground motion records](https://arxiv.org/abs/2403.07569)|[mage](https://github.com/caglarmert/mage)|
+|[adaptive anomaly detection in network flows with low-rank tensor decompositions and deep unrolling](https://arxiv.org/abs/2409.11529)|[unrolled-tbsca-ad](https://github.com/lsky96/unrolled-tbsca-ad)|
+|[freezing of gait detection using gramian angular fields and federated learning from wearable sensors](https://arxiv.org/abs/2411.11764)|[fogsense](https://github.com/shovito66/fogsense)|
+|[data-driven reachability analysis for piecewise affine systems](https://arxiv.org/abs/2504.04362)|[reachability-analysis-of-PWA-systems](https://github.com/PX-CPS/reachability-analysis-of-PWA-systems)|
+|[mind2matter: creating 3d models from eeg signals](https://arxiv.org/abs/2504.11936)|[mind2matter](https://github.com/sddwwww/mind2matter)|
+|[inverse modeling of dielectric response in time domain using physics-informed neural networks](https://arxiv.org/abs/2505.02258)|[inverse-DR](https://github.com/emiresenov/inverse-DR)|
+|[minimal algorithmic information loss methods for dimension reduction, feature selection and network sparsification](https://arxiv.org/abs/1802.05843)|[Network-Robustness-by-Kolmogorov-Complexity](https://github.com/andandandand/Network-Robustness-by-Kolmogorov-Complexity)|
+|[workflow optimization for parallel split learning](https://arxiv.org/abs/2402.10092)|[sfl-workflow-optimization](https://github.com/jtirana98/sfl-workflow-optimization)|
+|[tele-llms: a series of specialized large language models for telecommunications](https://arxiv.org/abs/2409.05314)|[tele-llms](https://github.com/ali-maatouk/tele-llms)|
+|[gdsg: graph diffusion-based solution generator for optimization problems in mec networks](https://arxiv.org/abs/2412.08296)|[gdsg](https://github.com/qiyu3816/gdsg)|
 ## 2025-05-05
 |paper|code|
 |---|---|
