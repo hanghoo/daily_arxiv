@@ -1,9 +1,21 @@
+## 2025-05-07
+|paper|code|
+|---|---|
+|[sensor-based distributionally robust control for safe robot navigation in dynamic environments](https://arxiv.org/abs/2405.18251)|[DR_Safe_Navigation](https://github.com/ExistentialRobotics/DR_Safe_Navigation)|
+|[ttt: a temporal refinement heuristic for tenuously tractable discrete time reachability problems](https://arxiv.org/abs/2407.14394)|[OVERTVerify.jl](https://github.com/sisl/OVERTVerify.jl)|
+|[radarode: an ode-embedded deep learning model for contactless ecg reconstruction from millimeter-wave radar](https://arxiv.org/abs/2408.01672)|[radarODE-MTL](https://github.com/ZYY0844/radarODE-MTL)|
+|[radarode-mtl: a multi-task learning framework with eccentric gradient alignment for robust radar-based ecg reconstruction](https://arxiv.org/abs/2410.08656)|[radarODE-MTL](https://github.com/ZYY0844/radarODE-MTL)|
+|[ai-aided kalman filters](https://arxiv.org/abs/2410.12289)|[ai_aided_kfs](https://github.com/shlezingerlab/ai_aided_kfs)|
+|[calibrefine: deep learning-based online automatic targetless lidar-camera calibration with iterative and attention-driven post-refinement](https://arxiv.org/abs/2502.17648)|[Lidar_Camera_Automatic_Calibration](https://github.com/radar-lab/Lidar_Camera_Automatic_Calibration)|
+|[survival analysis with machine learning for predicting li-ion battery remaining useful life](https://arxiv.org/abs/2503.13558)|[RUL](https://github.com/thinkxca/RUL)|
 ## 2025-05-06
 |paper|code|
 |---|---|
 |[exploring challenges in deep learning of single-station ground motion records](https://arxiv.org/abs/2403.07569)|[mage](https://github.com/caglarmert/mage)|
+|[backpropagation through space, time, and the brain](https://arxiv.org/abs/2403.16933)|[gle-code](https://github.com/unibe-cns/gle-code)|
 |[adaptive anomaly detection in network flows with low-rank tensor decompositions and deep unrolling](https://arxiv.org/abs/2409.11529)|[unrolled-tbsca-ad](https://github.com/lsky96/unrolled-tbsca-ad)|
 |[freezing of gait detection using gramian angular fields and federated learning from wearable sensors](https://arxiv.org/abs/2411.11764)|[fogsense](https://github.com/shovito66/fogsense)|
+|[an analysis of safety guarantees in multi-task bayesian optimization](https://arxiv.org/abs/2503.08555)|[2025-code-an-analysis-of-safety-guarantees-in-multi-task-bayesian-optimization](https://github.com/tuhh-ics/2025-code-an-analysis-of-safety-guarantees-in-multi-task-bayesian-optimization)|
 |[data-driven reachability analysis for piecewise affine systems](https://arxiv.org/abs/2504.04362)|[reachability-analysis-of-PWA-systems](https://github.com/PX-CPS/reachability-analysis-of-PWA-systems)|
 |[mind2matter: creating 3d models from eeg signals](https://arxiv.org/abs/2504.11936)|[mind2matter](https://github.com/sddwwww/mind2matter)|
 |[inverse modeling of dielectric response in time domain using physics-informed neural networks](https://arxiv.org/abs/2505.02258)|[inverse-DR](https://github.com/emiresenov/inverse-DR)|
