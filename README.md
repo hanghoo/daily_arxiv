@@ -1,3 +1,8 @@
+## 2025-05-08
+|paper|code|
+|---|---|
+|[leader-follower density control of spatial dynamics in large-scale multi-agent systems](https://arxiv.org/abs/2406.01804)|[leader_follower_density_control](https://github.com/sincrogroup/leader_follower_density_control)|
+|[consensus-aware av behavior: trade-offs between safety, interaction, and performance in mixed urban traffic](https://arxiv.org/abs/2505.04379)|[consensus-av-analysis](https://github.com/wissamkontar/consensus-av-analysis)|
 ## 2025-05-07
 |paper|code|
 |---|---|
@@ -8,6 +13,10 @@
 |[ai-aided kalman filters](https://arxiv.org/abs/2410.12289)|[ai_aided_kfs](https://github.com/shlezingerlab/ai_aided_kfs)|
 |[calibrefine: deep learning-based online automatic targetless lidar-camera calibration with iterative and attention-driven post-refinement](https://arxiv.org/abs/2502.17648)|[Lidar_Camera_Automatic_Calibration](https://github.com/radar-lab/Lidar_Camera_Automatic_Calibration)|
 |[survival analysis with machine learning for predicting li-ion battery remaining useful life](https://arxiv.org/abs/2503.13558)|[RUL](https://github.com/thinkxca/RUL)|
+|[learning-based homothetic tube mpc](https://arxiv.org/abs/2505.03482)|[learning-based-homothetic-tube-mpc](https://github.com/jianzhou1212/learning-based-homothetic-tube-mpc)|
+|[physics-informed sylvester normalizing flows for bayesian inference in magnetic resonance spectroscopy](https://arxiv.org/abs/2505.03590)|[snfs-for-bayesian-inference-in-mrs](https://github.com/julianmer/snfs-for-bayesian-inference-in-mrs)|
+|[optimal droop control strategy for coordinated voltage regulation and power sharing in hybrid ac-mtdc systems](https://arxiv.org/abs/2505.03651)|[pmacdc-hd](https://github.com/hongjin7/pmacdc-hd)|
+|[a comprehensive survey of large ai models for future communications: foundations, applications and challenges](https://arxiv.org/abs/2505.03556)|[comlam](https://github.com/jiangfeibo/comlam)|
 ## 2025-05-06
 |paper|code|
 |---|---|
@@ -18,7 +27,10 @@
 |[an analysis of safety guarantees in multi-task bayesian optimization](https://arxiv.org/abs/2503.08555)|[2025-code-an-analysis-of-safety-guarantees-in-multi-task-bayesian-optimization](https://github.com/tuhh-ics/2025-code-an-analysis-of-safety-guarantees-in-multi-task-bayesian-optimization)|
 |[data-driven reachability analysis for piecewise affine systems](https://arxiv.org/abs/2504.04362)|[reachability-analysis-of-PWA-systems](https://github.com/PX-CPS/reachability-analysis-of-PWA-systems)|
 |[mind2matter: creating 3d models from eeg signals](https://arxiv.org/abs/2504.11936)|[mind2matter](https://github.com/sddwwww/mind2matter)|
+|[real-time, single-ear, wearable ecg reconstruction, r-peak detection, and hr/hrv monitoring](https://arxiv.org/abs/2505.01738)|[deepmf-mini](https://github.com/pulp-bio/deepmf-mini)|
 |[inverse modeling of dielectric response in time domain using physics-informed neural networks](https://arxiv.org/abs/2505.02258)|[inverse-DR](https://github.com/emiresenov/inverse-DR)|
+|[a real-time control barrier function-based safety filter for motion planning with arbitrary road boundary constraints](https://arxiv.org/abs/2505.02395)|[sigmarl](https://github.com/bassamlab/sigmarl)|
+|[quadrupedal spine control strategies: exploring correlations between system dynamic responses and human perspectives](https://arxiv.org/abs/2505.02414)|[ester](https://github.com/nickick-icrs/ester)|
 |[minimal algorithmic information loss methods for dimension reduction, feature selection and network sparsification](https://arxiv.org/abs/1802.05843)|[Network-Robustness-by-Kolmogorov-Complexity](https://github.com/andandandand/Network-Robustness-by-Kolmogorov-Complexity)|
 |[workflow optimization for parallel split learning](https://arxiv.org/abs/2402.10092)|[sfl-workflow-optimization](https://github.com/jtirana98/sfl-workflow-optimization)|
 |[tele-llms: a series of specialized large language models for telecommunications](https://arxiv.org/abs/2409.05314)|[tele-llms](https://github.com/ali-maatouk/tele-llms)|
@@ -30,6 +42,7 @@
 |[leveraging symmetry to accelerate learning of trajectory tracking controllers for free-flying robotic systems](https://arxiv.org/abs/2409.11238)|[eqtrackingcontrol](https://github.com/pratikkunapuli/eqtrackingcontrol)|
 |[learning-based mpc for fuel efficient control of autonomous vehicles with discrete gear selection](https://arxiv.org/abs/2503.11359)|[mpcrl-vehicle-gears](https://github.com/samuelmallick/mpcrl-vehicle-gears)|
 |[model tensor planning](https://arxiv.org/abs/2505.01059)|[mtp](https://github.com/anindex/mtp)|
+|[wirelessagent: large language model agents for intelligent wireless networks](https://arxiv.org/abs/2505.01074)|[wirelessagent_r1](https://github.com/jwentong/wirelessagent_r1)|
 |[task-oriented communications for visual navigation with edge-aerial collaboration in low altitude economy](https://arxiv.org/abs/2504.18317)|[TOC-Edge-Aerial](https://github.com/fangzr/TOC-Edge-Aerial)|
 ## 2025-05-02
 |paper|code|
