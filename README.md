@@ -1,3 +1,13 @@
+## 2025-05-09
+|paper|code|
+|---|---|
+|[deep optimal transport for domain adaptation on spd manifolds](https://arxiv.org/abs/2201.05745)|[deep-optimal-transport-for-domain-adaptation-on-spd-manifolds](https://github.com/geometricbci/deep-optimal-transport-for-domain-adaptation-on-spd-manifolds)|
+|[fast whole-body strain regulation in continuum robots](https://arxiv.org/abs/2312.06039)|[dcm](https://github.com/robotsorcerer/dcm)|
+|[symbolic and user-friendly geometric algebra routines (sugar) for computations in matlab](https://arxiv.org/abs/2403.16634)|[sugar](https://github.com/distributed-control-systems/sugar)|
+|[c-morl: multi-objective reinforcement learning through efficient discovery of pareto front](https://arxiv.org/abs/2410.02236)|[c-morl](https://github.com/ruohliuq/c-morl)|
+|[efficient estimation of relaxed model parameters for robust uav trajectory optimization](https://arxiv.org/abs/2411.10941)|[parameter-affine-relaxation](https://github.com/Herpderk/parameter-affine-relaxation)|
+|[physics-informed sylvester normalizing flows for bayesian inference in magnetic resonance spectroscopy](https://arxiv.org/abs/2505.03590)|[snfs-for-bayesian-inference-in-mrs](https://github.com/julianmer/snfs-for-bayesian-inference-in-mrs)|
+|[lapso: a unified optimization view for learning-augmented power system operations](https://arxiv.org/abs/2505.05203)|[lapso_exp](https://github.com/xuwkk/lapso_exp)|
 ## 2025-05-08
 |paper|code|
 |---|---|
@@ -14,7 +24,6 @@
 |[calibrefine: deep learning-based online automatic targetless lidar-camera calibration with iterative and attention-driven post-refinement](https://arxiv.org/abs/2502.17648)|[Lidar_Camera_Automatic_Calibration](https://github.com/radar-lab/Lidar_Camera_Automatic_Calibration)|
 |[survival analysis with machine learning for predicting li-ion battery remaining useful life](https://arxiv.org/abs/2503.13558)|[RUL](https://github.com/thinkxca/RUL)|
 |[learning-based homothetic tube mpc](https://arxiv.org/abs/2505.03482)|[learning-based-homothetic-tube-mpc](https://github.com/jianzhou1212/learning-based-homothetic-tube-mpc)|
-|[physics-informed sylvester normalizing flows for bayesian inference in magnetic resonance spectroscopy](https://arxiv.org/abs/2505.03590)|[snfs-for-bayesian-inference-in-mrs](https://github.com/julianmer/snfs-for-bayesian-inference-in-mrs)|
 |[optimal droop control strategy for coordinated voltage regulation and power sharing in hybrid ac-mtdc systems](https://arxiv.org/abs/2505.03651)|[pmacdc-hd](https://github.com/hongjin7/pmacdc-hd)|
 |[a comprehensive survey of large ai models for future communications: foundations, applications and challenges](https://arxiv.org/abs/2505.03556)|[comlam](https://github.com/jiangfeibo/comlam)|
 ## 2025-05-06
