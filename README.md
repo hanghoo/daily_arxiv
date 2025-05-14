@@ -1,3 +1,15 @@
+## 2025-05-13
+|paper|code|
+|---|---|
+|[automated fuzzing of automotive control units](https://arxiv.org/abs/2102.12345)|[caringcaribou](https://github.com/timower/caringcaribou)|
+|[the pump scheduling problem: a real-world scenario for reinforcement learning](https://arxiv.org/abs/2210.11111)|[pumpscheduling](https://gitlab.com/hdonancio/pumpscheduling)|
+|[optimization-based outlier accommodation for tightly coupled rtk-aided inertial navigation systems in urban environments](https://arxiv.org/abs/2407.13912)|[UrbanRTK-INS-OutlierOpt](https://github.com/Azurehappen/UrbanRTK-INS-OutlierOpt)|
+|[dc is all you need: describing relu from a signal processing standpoint](https://arxiv.org/abs/2407.16556)|[relu_dc_is_all_you_need](https://github.com/esl-epfl/relu_dc_is_all_you_need)|
+|[crossfi: a cross domain wi-fi sensing framework based on siamese network](https://arxiv.org/abs/2408.10919)|[CrossFi](https://github.com/RS2002/CrossFi)|
+|[neural predictor for flight control with payload](https://arxiv.org/abs/2410.15946)|[neural-predictor](https://github.com/npu-rcir/neural-predictor)|
+|[estimation-aware trajectory optimization with set-valued measurement uncertainties](https://arxiv.org/abs/2501.09192)|[obs_aware_opt](https://github.com/rainlabuw/obs_aware_opt)|
+|[lightsnn: lightweight architecture search for sparse and accurate spiking neural networks](https://arxiv.org/abs/2503.21846)|[LightSNN](https://github.com/YesmineAbdennadher/LightSNN)|
+|[alpcah: subspace learning for sample-wise heteroscedastic data](https://arxiv.org/abs/2505.07272)|[alpcah](https://github.com/javiersc1/alpcah)|
 ## 2025-05-12
 |paper|code|
 |---|---|
@@ -15,12 +27,21 @@
 |[symbolic and user-friendly geometric algebra routines (sugar) for computations in matlab](https://arxiv.org/abs/2403.16634)|[sugar](https://github.com/distributed-control-systems/sugar)|
 |[c-morl: multi-objective reinforcement learning through efficient discovery of pareto front](https://arxiv.org/abs/2410.02236)|[c-morl](https://github.com/ruohliuq/c-morl)|
 |[efficient estimation of relaxed model parameters for robust uav trajectory optimization](https://arxiv.org/abs/2411.10941)|[parameter-affine-relaxation](https://github.com/Herpderk/parameter-affine-relaxation)|
+|[embedded system for recording and controlling hand hygiene in healthcare environments](https://arxiv.org/abs/2505.01576)|[torneiraiot](https://github.com/zavalik1986/torneiraiot)|
 |[physics-informed sylvester normalizing flows for bayesian inference in magnetic resonance spectroscopy](https://arxiv.org/abs/2505.03590)|[snfs-for-bayesian-inference-in-mrs](https://github.com/julianmer/snfs-for-bayesian-inference-in-mrs)|
+|[comparative study of generative models for early detection of failures in medical devices](https://arxiv.org/abs/2505.04845)|[Fault-Detection-on-Surgical-Stapler-](https://github.com/UNHSAILLab/Fault-Detection-on-Surgical-Stapler-)|
+|[enhanced robust tracking control: an online learning approach](https://arxiv.org/abs/2505.05036)|[online_ccm](https://github.com/npu-rcir/online_ccm)|
 |[lapso: a unified optimization view for learning-augmented power system operations](https://arxiv.org/abs/2505.05203)|[lapso_exp](https://github.com/xuwkk/lapso_exp)|
+|[approximation-free control for signal temporal logic specifications using spatiotemporal tubes](https://arxiv.org/abs/2505.05323)|[stl_stt](https://github.com/focaslab/stl_stt)|
+|[from sleep staging to spindle detection: evaluating end-to-end automated sleep analysis](https://arxiv.org/abs/2505.05371)|[sumov2](https://github.com/dslaborg/sumov2)|
+|[guaranteed recovery of unambiguous clusters](https://arxiv.org/abs/2501.13093)|[Minimal-Seed-Expansion](https://github.com/kmazooji/Minimal-Seed-Expansion)|
+|[reinforcement learning-aided design of efficient polarization kernels](https://arxiv.org/abs/2505.04127)|[alphapolar](https://github.com/jaco267/alphapolar)|
+|[cross-problem solving for network optimization: is problem-aware learning the key?](https://arxiv.org/abs/2505.05067)|[pad](https://github.com/qiyu3816/pad)|
 ## 2025-05-08
 |paper|code|
 |---|---|
 |[leader-follower density control of spatial dynamics in large-scale multi-agent systems](https://arxiv.org/abs/2406.01804)|[leader_follower_density_control](https://github.com/sincrogroup/leader_follower_density_control)|
+|[on-device llm for context-aware wi-fi roaming](https://arxiv.org/abs/2505.04174)|[on-device-llm-wifi-roaming](https://github.com/abman23/on-device-llm-wifi-roaming)|
 |[consensus-aware av behavior: trade-offs between safety, interaction, and performance in mixed urban traffic](https://arxiv.org/abs/2505.04379)|[consensus-av-analysis](https://github.com/wissamkontar/consensus-av-analysis)|
 ## 2025-05-07
 |paper|code|
