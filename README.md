@@ -1,3 +1,9 @@
+## 2025-05-14
+|paper|code|
+|---|---|
+|[signal temporal logic control synthesis among uncontrollable dynamic agents with conformal prediction](https://arxiv.org/abs/2312.04242)|[stl-synthesis-among-uncontrollable-agents](https://github.com/saids-lab/stl-synthesis-among-uncontrollable-agents)|
+|[governance of ledger-anchored decentralized identifiers](https://arxiv.org/abs/2503.16972)|[DID-IDM](https://github.com/TU-Berlin-SNET/DID-IDM)|
+|[token communication-driven multimodal large models in resource-constrained multiuser networks](https://arxiv.org/abs/2505.07841)|[TokCom-MLMs](https://github.com/FlyingHat404/TokCom-MLMs)|
 ## 2025-05-13
 |paper|code|
 |---|---|
