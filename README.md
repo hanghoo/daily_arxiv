@@ -1,9 +1,20 @@
+## 2025-05-15
+|paper|code|
+|---|---|
+|[rf challenge: the data-driven radio frequency signal separation challenge](https://arxiv.org/abs/2409.08839)|[rfchallenge_singlechannel_starter](https://github.com/rfchallenge/rfchallenge_singlechannel_starter)|
+|[adafortitran: an adaptive transformer model for robust ofdm channel estimation](https://arxiv.org/abs/2505.09076)|[adafortitran](https://github.com/berkiguler/adafortitran)|
+|[a quick primer on machine learning in wireless communications](https://arxiv.org/abs/2312.17713)|[eesc7v86-fall22](https://github.com/farismismar/eesc7v86-fall22)|
+|[treet: transfer entropy estimation via transformers](https://arxiv.org/abs/2402.06919)|[treet](https://github.com/omerlux/treet)|
+|[optimized couplings for watermarking large language models](https://arxiv.org/abs/2505.08878)|[cc_watermark](https://github.com/carol-long/cc_watermark)|
 ## 2025-05-14
 |paper|code|
 |---|---|
 |[signal temporal logic control synthesis among uncontrollable dynamic agents with conformal prediction](https://arxiv.org/abs/2312.04242)|[stl-synthesis-among-uncontrollable-agents](https://github.com/saids-lab/stl-synthesis-among-uncontrollable-agents)|
+|[constrained factor graph optimization for robust networked pedestrian inertial navigation](https://arxiv.org/abs/2505.08229)|[constrained-zupt-fgo](https://github.com/azurehappen/constrained-zupt-fgo)|
 |[governance of ledger-anchored decentralized identifiers](https://arxiv.org/abs/2503.16972)|[DID-IDM](https://github.com/TU-Berlin-SNET/DID-IDM)|
+|[coordinated spatial reuse scheduling with machine learning in ieee 802.11 mapc networks](https://arxiv.org/abs/2505.07278)|[csr](https://github.com/ml4wifi-devs/csr)|
 |[token communication-driven multimodal large models in resource-constrained multiuser networks](https://arxiv.org/abs/2505.07841)|[TokCom-MLMs](https://github.com/FlyingHat404/TokCom-MLMs)|
+|[closed-form information capacity of canonical signaling models](https://arxiv.org/abs/2505.08365)|[capacity-of-canonical-models](https://github.com/sysbiosig/capacity-of-canonical-models)|
 ## 2025-05-13
 |paper|code|
 |---|---|
@@ -15,7 +26,11 @@
 |[neural predictor for flight control with payload](https://arxiv.org/abs/2410.15946)|[neural-predictor](https://github.com/npu-rcir/neural-predictor)|
 |[estimation-aware trajectory optimization with set-valued measurement uncertainties](https://arxiv.org/abs/2501.09192)|[obs_aware_opt](https://github.com/rainlabuw/obs_aware_opt)|
 |[lightsnn: lightweight architecture search for sparse and accurate spiking neural networks](https://arxiv.org/abs/2503.21846)|[LightSNN](https://github.com/YesmineAbdennadher/LightSNN)|
+|[particle gibbs without the gibbs bit](https://arxiv.org/abs/2505.04611)|[m-pgibbs](https://github.com/adriencorenflos/m-pgibbs)|
+|[distributionally robust contract theory for edge aigc services in teleoperation](https://arxiv.org/abs/2505.06678)|[dro-contract-theory](https://github.com/zijun0819/dro-contract-theory)|
 |[alpcah: subspace learning for sample-wise heteroscedastic data](https://arxiv.org/abs/2505.07272)|[alpcah](https://github.com/javiersc1/alpcah)|
+|[learning quasi-lpv models and robust control invariant sets with reduced conservativeness](https://arxiv.org/abs/2505.07287)|[con-qlpv](https://github.com/samku/con-qlpv)|
+|[wireless link scheduling with state-augmented graph neural networks](https://arxiv.org/abs/2505.07598)|[sagnn](https://github.com/romm32/sagnn)|
 ## 2025-05-12
 |paper|code|
 |---|---|
