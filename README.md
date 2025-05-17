@@ -1,3 +1,18 @@
+## 2025-05-16
+|paper|code|
+|---|---|
+|[exploring best practices for ecg pre-processing in machine learning](https://arxiv.org/abs/2311.04229)|[ecg_augmentation](https://github.com/imilas/ecg_augmentation)|
+|[regression coefficient estimation from remote sensing maps](https://arxiv.org/abs/2407.13659)|[uncertainty-quantification](https://github.com/earth-intelligence-lab/uncertainty-quantification)|
+|[hierarchical learning and computing over space-ground integrated networks](https://arxiv.org/abs/2408.14116)|[hierlc](https://github.com/jingyang-zhu/hierlc)|
+|[interference prediction using gaussian process regression and management framework for critical services in local 6g networks](https://arxiv.org/abs/2501.13500)|[gpr-ieeewcnc2025](https://github.com/syed-luqman-shah-19/gpr-ieeewcnc2025)|
+|[certifying lyapunov stability of black-box nonlinear systems via counterexample guided synthesis (extended version)](https://arxiv.org/abs/2503.00431)|[pricely](https://github.com/CyPhAi-Project/pricely)|
+|[optimizing power grid topologies with reinforcement learning: a survey of methods and challenges](https://arxiv.org/abs/2504.08210)|[rl4pnc-survey](https://github.com/ericavandersar/rl4pnc-survey)|
+|[large wireless localization model (lwlm): a foundation model for positioning in 6g networks](https://arxiv.org/abs/2505.10134)|[lwlm](https://github.com/guangjinpan/lwlm)|
+|[a comparative study of smt and milp for the nurse rostering problem](https://arxiv.org/abs/2505.10328)|[nrp-genericconstraints](https://github.com/adcombrink/nrp-genericconstraints)|
+|[a hybrid strategy for aggregated probabilistic forecasting and energy trading in heftcom2024](https://arxiv.org/abs/2505.10367)|[heftcom24](https://github.com/bigdogmanluo/heftcom24)|
+|[a quantum of quic: dissecting cryptography with post-quantum insights](https://arxiv.org/abs/2405.09264)|[quic-crypto-paper](https://github.com/tumi8/quic-crypto-paper)|
+|[toward universal decoding of binary linear block codes via enhanced polar transformations](https://arxiv.org/abs/2501.07279)|[enhanced-polar-decoding](https://github.com/thisistt/enhanced-polar-decoding)|
+|[multi-objective hyperparameter selection via hypothesis testing on reliability graphs](https://arxiv.org/abs/2501.13018)|[rg-pt](https://github.com/kclip/rg-pt)|
 ## 2025-05-15
 |paper|code|
 |---|---|
