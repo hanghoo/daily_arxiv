@@ -4,9 +4,11 @@
 |[exploring best practices for ecg pre-processing in machine learning](https://arxiv.org/abs/2311.04229)|[ecg_augmentation](https://github.com/imilas/ecg_augmentation)|
 |[regression coefficient estimation from remote sensing maps](https://arxiv.org/abs/2407.13659)|[uncertainty-quantification](https://github.com/earth-intelligence-lab/uncertainty-quantification)|
 |[hierarchical learning and computing over space-ground integrated networks](https://arxiv.org/abs/2408.14116)|[hierlc](https://github.com/jingyang-zhu/hierlc)|
+|[an unsupervised method for mri recovery: deep image prior with structured sparsity](https://arxiv.org/abs/2501.01482)|[discus](https://github.com/osu-mr/discus)|
 |[interference prediction using gaussian process regression and management framework for critical services in local 6g networks](https://arxiv.org/abs/2501.13500)|[gpr-ieeewcnc2025](https://github.com/syed-luqman-shah-19/gpr-ieeewcnc2025)|
 |[certifying lyapunov stability of black-box nonlinear systems via counterexample guided synthesis (extended version)](https://arxiv.org/abs/2503.00431)|[pricely](https://github.com/CyPhAi-Project/pricely)|
 |[optimizing power grid topologies with reinforcement learning: a survey of methods and challenges](https://arxiv.org/abs/2504.08210)|[rl4pnc-survey](https://github.com/ericavandersar/rl4pnc-survey)|
+|[topology-driven identification of repetitions in multi-variate time series](https://arxiv.org/abs/2505.10004)|[paper-2025-idsc-topology-driven-identification-of-repetitions-in-multi-variate-time-series](https://github.com/JRC-ISIA/paper-2025-idsc-topology-driven-identification-of-repetitions-in-multi-variate-time-series)|
 |[large wireless localization model (lwlm): a foundation model for positioning in 6g networks](https://arxiv.org/abs/2505.10134)|[lwlm](https://github.com/guangjinpan/lwlm)|
 |[a comparative study of smt and milp for the nurse rostering problem](https://arxiv.org/abs/2505.10328)|[nrp-genericconstraints](https://github.com/adcombrink/nrp-genericconstraints)|
 |[a hybrid strategy for aggregated probabilistic forecasting and energy trading in heftcom2024](https://arxiv.org/abs/2505.10367)|[heftcom24](https://github.com/bigdogmanluo/heftcom24)|
@@ -17,6 +19,7 @@
 |paper|code|
 |---|---|
 |[rf challenge: the data-driven radio frequency signal separation challenge](https://arxiv.org/abs/2409.08839)|[rfchallenge_singlechannel_starter](https://github.com/rfchallenge/rfchallenge_singlechannel_starter)|
+|[aging-aware battery control via convex optimization](https://arxiv.org/abs/2505.09030)|[aging_aware_battery_control](https://github.com/cvxgrp/aging_aware_battery_control)|
 |[adafortitran: an adaptive transformer model for robust ofdm channel estimation](https://arxiv.org/abs/2505.09076)|[adafortitran](https://github.com/berkiguler/adafortitran)|
 |[a quick primer on machine learning in wireless communications](https://arxiv.org/abs/2312.17713)|[eesc7v86-fall22](https://github.com/farismismar/eesc7v86-fall22)|
 |[treet: transfer entropy estimation via transformers](https://arxiv.org/abs/2402.06919)|[treet](https://github.com/omerlux/treet)|
@@ -25,6 +28,7 @@
 |paper|code|
 |---|---|
 |[signal temporal logic control synthesis among uncontrollable dynamic agents with conformal prediction](https://arxiv.org/abs/2312.04242)|[stl-synthesis-among-uncontrollable-agents](https://github.com/saids-lab/stl-synthesis-among-uncontrollable-agents)|
+|[qubitlens: an interactive learning tool for quantum state tomography](https://arxiv.org/abs/2505.08056)|[qubitlens](https://github.com/mdaamirq/qubitlens)|
 |[constrained factor graph optimization for robust networked pedestrian inertial navigation](https://arxiv.org/abs/2505.08229)|[constrained-zupt-fgo](https://github.com/azurehappen/constrained-zupt-fgo)|
 |[governance of ledger-anchored decentralized identifiers](https://arxiv.org/abs/2503.16972)|[DID-IDM](https://github.com/TU-Berlin-SNET/DID-IDM)|
 |[coordinated spatial reuse scheduling with machine learning in ieee 802.11 mapc networks](https://arxiv.org/abs/2505.07278)|[csr](https://github.com/ml4wifi-devs/csr)|
@@ -42,7 +46,11 @@
 |[estimation-aware trajectory optimization with set-valued measurement uncertainties](https://arxiv.org/abs/2501.09192)|[obs_aware_opt](https://github.com/rainlabuw/obs_aware_opt)|
 |[lightsnn: lightweight architecture search for sparse and accurate spiking neural networks](https://arxiv.org/abs/2503.21846)|[LightSNN](https://github.com/YesmineAbdennadher/LightSNN)|
 |[particle gibbs without the gibbs bit](https://arxiv.org/abs/2505.04611)|[m-pgibbs](https://github.com/adriencorenflos/m-pgibbs)|
+|[spectrumfm: a foundation model for intelligent spectrum management](https://arxiv.org/abs/2505.06256)|[SpectrumFM](https://github.com/ChunyuLiu188/SpectrumFM)|
 |[distributionally robust contract theory for edge aigc services in teleoperation](https://arxiv.org/abs/2505.06678)|[dro-contract-theory](https://github.com/zijun0819/dro-contract-theory)|
+|[secure safety filter design for sampled-data nonlinear systems under sensor spoofing attacks](https://arxiv.org/abs/2505.06842)|[ssf_nonlinear_systems](https://github.com/xiaotan-git/ssf_nonlinear_systems)|
+|[secure safety filter: towards safe flight control under sensor attacks](https://arxiv.org/abs/2505.06845)|[px4-secure-state-reconstruction](https://github.com/tiiuae/px4-secure-state-reconstruction)|
+|[optiks: optimized gradient properties through timing in k-space](https://arxiv.org/abs/2505.07117)|[optiks](https://github.com/mattmc-stanford/optiks)|
 |[alpcah: subspace learning for sample-wise heteroscedastic data](https://arxiv.org/abs/2505.07272)|[alpcah](https://github.com/javiersc1/alpcah)|
 |[learning quasi-lpv models and robust control invariant sets with reduced conservativeness](https://arxiv.org/abs/2505.07287)|[con-qlpv](https://github.com/samku/con-qlpv)|
 |[wireless link scheduling with state-augmented graph neural networks](https://arxiv.org/abs/2505.07598)|[sagnn](https://github.com/romm32/sagnn)|
