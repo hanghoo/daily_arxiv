@@ -1,3 +1,10 @@
+## 2025-05-19
+|paper|code|
+|---|---|
+|[toward foundation model for multivariate wearable sensing of physiological signals](https://arxiv.org/abs/2412.09758)|[normwear](https://github.com/mobile-sensing-and-ubicomp-laboratory/normwear)|
+|[clustering rooftop pv systems via probabilistic embeddings](https://arxiv.org/abs/2505.10699)|[entity-clustering](https://github.com/kabolat/entity-clustering)|
+|[sok: decoding the enigma of encrypted network traffic classifiers](https://arxiv.org/abs/2503.20093)|[ntc-enigma](https://github.com/nime-sha256/ntc-enigma)|
+|[approximation-first timeseries monitoring query at scale](https://arxiv.org/abs/2505.10560)|[promsketch](https://github.com/froot-netsys/promsketch)|
 ## 2025-05-16
 |paper|code|
 |---|---|
@@ -8,8 +15,8 @@
 |[interference prediction using gaussian process regression and management framework for critical services in local 6g networks](https://arxiv.org/abs/2501.13500)|[gpr-ieeewcnc2025](https://github.com/syed-luqman-shah-19/gpr-ieeewcnc2025)|
 |[certifying lyapunov stability of black-box nonlinear systems via counterexample guided synthesis (extended version)](https://arxiv.org/abs/2503.00431)|[pricely](https://github.com/CyPhAi-Project/pricely)|
 |[optimizing power grid topologies with reinforcement learning: a survey of methods and challenges](https://arxiv.org/abs/2504.08210)|[rl4pnc-survey](https://github.com/ericavandersar/rl4pnc-survey)|
-|[topology-driven identification of repetitions in multi-variate time series](https://arxiv.org/abs/2505.10004)|[paper-2025-idsc-topology-driven-identification-of-repetitions-in-multi-variate-time-series](https://github.com/JRC-ISIA/paper-2025-idsc-topology-driven-identification-of-repetitions-in-multi-variate-time-series)|
 |[large wireless localization model (lwlm): a foundation model for positioning in 6g networks](https://arxiv.org/abs/2505.10134)|[lwlm](https://github.com/guangjinpan/lwlm)|
+|[quad-lcd: layered control decomposition enables actuator-feasible quadrotor trajectory planning](https://arxiv.org/abs/2505.10228)|[Quad-LCD](https://github.com/Nusha97/Quad-LCD)|
 |[a comparative study of smt and milp for the nurse rostering problem](https://arxiv.org/abs/2505.10328)|[nrp-genericconstraints](https://github.com/adcombrink/nrp-genericconstraints)|
 |[a hybrid strategy for aggregated probabilistic forecasting and energy trading in heftcom2024](https://arxiv.org/abs/2505.10367)|[heftcom24](https://github.com/bigdogmanluo/heftcom24)|
 |[a quantum of quic: dissecting cryptography with post-quantum insights](https://arxiv.org/abs/2405.09264)|[quic-crypto-paper](https://github.com/tumi8/quic-crypto-paper)|
@@ -20,10 +27,13 @@
 |---|---|
 |[rf challenge: the data-driven radio frequency signal separation challenge](https://arxiv.org/abs/2409.08839)|[rfchallenge_singlechannel_starter](https://github.com/rfchallenge/rfchallenge_singlechannel_starter)|
 |[aging-aware battery control via convex optimization](https://arxiv.org/abs/2505.09030)|[aging_aware_battery_control](https://github.com/cvxgrp/aging_aware_battery_control)|
+|[reach-avoid-stabilize using admissible control sets](https://arxiv.org/abs/2505.09058)|[CDC2025_RAS](https://github.com/ZG0327/CDC2025_RAS)|
 |[adafortitran: an adaptive transformer model for robust ofdm channel estimation](https://arxiv.org/abs/2505.09076)|[adafortitran](https://github.com/berkiguler/adafortitran)|
 |[a quick primer on machine learning in wireless communications](https://arxiv.org/abs/2312.17713)|[eesc7v86-fall22](https://github.com/farismismar/eesc7v86-fall22)|
 |[treet: transfer entropy estimation via transformers](https://arxiv.org/abs/2402.06919)|[treet](https://github.com/omerlux/treet)|
 |[optimized couplings for watermarking large language models](https://arxiv.org/abs/2505.08878)|[cc_watermark](https://github.com/carol-long/cc_watermark)|
+|[rag-enabled intent reasoning for application-network interaction](https://arxiv.org/abs/2505.09339)|[RAG-Enabled-Intent-Reasoning-for-Application-Network-Interaction](https://github.com/SalwaMostafa/RAG-Enabled-Intent-Reasoning-for-Application-Network-Interaction)|
+|[instant aoi optimization through relay location selection in disaster multi-hop communication](https://arxiv.org/abs/2505.09386)|[relaylocation](https://github.com/hbkhhh619315/relaylocation)|
 ## 2025-05-14
 |paper|code|
 |---|---|
