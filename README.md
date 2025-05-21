@@ -1,3 +1,19 @@
+## 2025-05-20
+|paper|code|
+|---|---|
+|[you can wash hands better: accurate daily handwashing assessment with a smartwatch](https://arxiv.org/abs/2112.06657)|[uwash](https://github.com/aiotgroup/uwash)|
+|[sensing-enhanced channel estimation for near-field xl-mimo systems](https://arxiv.org/abs/2403.11809)|[sensing-ce-xlmimo](https://github.com/scliubit/sensing-ce-xlmimo)|
+|[modeling nonlinear oscillator networks using physics-informed hybrid reservoir computing](https://arxiv.org/abs/2411.05867)|[hybrid_rc_for_nlons_paper_code](https://github.com/ajs50/hybrid_rc_for_nlons_paper_code)|
+|[on the surprising effectiveness of spectrum clipping in learning stable linear dynamics](https://arxiv.org/abs/2412.01168)|[spec_clip](https://github.com/gt-star-lab/spec_clip)|
+|[decoding human attentive states from spatial-temporal eeg patches using transformers](https://arxiv.org/abs/2502.03736)|[eeg-patchformer](https://github.com/yi-ding-cs/eeg-patchformer)|
+|[system identification under bounded noise: optimal rates beyond least squares](https://arxiv.org/abs/2503.16817)|[Bounded-Noise-SysID-Minimax-Lowerbound](https://github.com/jy-cds/Bounded-Noise-SysID-Minimax-Lowerbound)|
+|[arraydps: unsupervised blind speech separation with a diffusion prior](https://arxiv.org/abs/2505.05657)|[arraydps](https://github.com/arraydps/arraydps)|
+|[topology-driven identification of repetitions in multi-variate time series](https://arxiv.org/abs/2505.10004)|[paper-2025-idsc-topology-driven-identification-of-repetitions-in-multi-variate-time-series](https://github.com/JRC-ISIA/paper-2025-idsc-topology-driven-identification-of-repetitions-in-multi-variate-time-series)|
+|[adaptive mpc-based quadrupedal robot control under periodic disturbances](https://arxiv.org/abs/2505.12361)|[quad-periodic-mpc](https://github.com/aidagroup/quad-periodic-mpc)|
+|[the role of data partitioning on the performance of eeg-based deep learning models in supervised cross-subject analysis: a preliminary study](https://arxiv.org/abs/2505.13021)|[eegpartition](https://github.com/medmaxlab/eegpartition)|
+|[lightweight transformer via unrolling of mixed graph algorithms for traffic forecast](https://arxiv.org/abs/2505.13102)|[unrolling-gsp-stforecast](https://github.com/singularityundefined/unrolling-gsp-stforecast)|
+|[scalable exploration via ensemble++](https://arxiv.org/abs/2407.13195)|[ensemble_plus_plus](https://github.com/szrlee/ensemble_plus_plus)|
+|[autobs: autonomous base station deployment with reinforcement learning and digital network twins](https://arxiv.org/abs/2502.19647)|[autobs](https://github.com/abman23/autobs)|
 ## 2025-05-19
 |paper|code|
 |---|---|
@@ -29,7 +45,6 @@
 |[aging-aware battery control via convex optimization](https://arxiv.org/abs/2505.09030)|[aging_aware_battery_control](https://github.com/cvxgrp/aging_aware_battery_control)|
 |[reach-avoid-stabilize using admissible control sets](https://arxiv.org/abs/2505.09058)|[CDC2025_RAS](https://github.com/ZG0327/CDC2025_RAS)|
 |[adafortitran: an adaptive transformer model for robust ofdm channel estimation](https://arxiv.org/abs/2505.09076)|[adafortitran](https://github.com/berkiguler/adafortitran)|
-|[a quick primer on machine learning in wireless communications](https://arxiv.org/abs/2312.17713)|[eesc7v86-fall22](https://github.com/farismismar/eesc7v86-fall22)|
 |[treet: transfer entropy estimation via transformers](https://arxiv.org/abs/2402.06919)|[treet](https://github.com/omerlux/treet)|
 |[optimized couplings for watermarking large language models](https://arxiv.org/abs/2505.08878)|[cc_watermark](https://github.com/carol-long/cc_watermark)|
 |[rag-enabled intent reasoning for application-network interaction](https://arxiv.org/abs/2505.09339)|[RAG-Enabled-Intent-Reasoning-for-Application-Network-Interaction](https://github.com/SalwaMostafa/RAG-Enabled-Intent-Reasoning-for-Application-Network-Interaction)|
