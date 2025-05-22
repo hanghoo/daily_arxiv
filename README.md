@@ -1,3 +1,18 @@
+## 2025-05-21
+|paper|code|
+|---|---|
+|[diffusion-based failure sampling for evaluating safety-critical autonomous systems](https://arxiv.org/abs/2406.14761)|[difs](https://github.com/sisl/difs)|
+|[electrocardiogram-based diagnosis of liver diseases: an externally validated and explainable machine learning approach](https://arxiv.org/abs/2412.03717)|[cardiodiag](https://github.com/ai4healthuol/cardiodiag)|
+|[racnn: residual attention convolutional neural network for near-field channel estimation in 6g wireless communications](https://arxiv.org/abs/2503.02299)|[RACNN](https://github.com/DoHaiSon/RACNN)|
+|[on-device llm for context-aware wi-fi roaming](https://arxiv.org/abs/2505.04174)|[on-device-llm-wifi-roaming](https://github.com/abman23/on-device-llm-wifi-roaming)|
+|[whitened score diffusion: a structured prior for imaging inverse problems](https://arxiv.org/abs/2505.10311)|[wsdiffusion](https://github.com/jeffreyalido/wsdiffusion)|
+|[u-sam: an audio language model for unified speech, audio, and music understanding](https://arxiv.org/abs/2505.13880)|[u-sam](https://github.com/honee-w/u-sam)|
+|[efficient configuration-constrained tube mpc via variables restriction and template selection](https://arxiv.org/abs/2505.14440)|[efficientcctmpc](https://github.com/fil-bad/efficientcctmpc)|
+|[a quick primer on machine learning in wireless communications](https://arxiv.org/abs/2312.17713)|[eesc7v86-fall22](https://github.com/farismismar/eesc7v86-fall22)|
+|[an early warning system for emerging markets](https://arxiv.org/abs/2404.03319)|[ews_condent](https://github.com/kraevskiyaa/ews_condent)|
+|[open5gcube: a modular and usable framework for mobile network laboratories](https://arxiv.org/abs/2505.14501)|[open5gcube](https://github.com/open5gcube/open5gcube)|
+|[a5/1 is in the air: passive detection of 2g (gsm) ciphering algorithms](https://arxiv.org/abs/2505.14509)|[gsm-cipher-sensor](https://github.com/mclab-hbrs/gsm-cipher-sensor)|
+|[cryptocurrencies in the balance sheet: insights from (micro)strategy -- bitcoin interactions](https://arxiv.org/abs/2505.14655)|[crypto_balance_sheets](https://github.com/financialcomputingucl/crypto_balance_sheets)|
 ## 2025-05-20
 |paper|code|
 |---|---|
@@ -9,16 +24,25 @@
 |[system identification under bounded noise: optimal rates beyond least squares](https://arxiv.org/abs/2503.16817)|[Bounded-Noise-SysID-Minimax-Lowerbound](https://github.com/jy-cds/Bounded-Noise-SysID-Minimax-Lowerbound)|
 |[arraydps: unsupervised blind speech separation with a diffusion prior](https://arxiv.org/abs/2505.05657)|[arraydps](https://github.com/arraydps/arraydps)|
 |[topology-driven identification of repetitions in multi-variate time series](https://arxiv.org/abs/2505.10004)|[paper-2025-idsc-topology-driven-identification-of-repetitions-in-multi-variate-time-series](https://github.com/JRC-ISIA/paper-2025-idsc-topology-driven-identification-of-repetitions-in-multi-variate-time-series)|
+|[t-rex: fitting a robust factor model via expectation-maximization](https://arxiv.org/abs/2505.12117)|[T-Rex-EM](https://github.com/dance858/T-Rex-EM)|
+|[multi-calf: a policy combination approach with statistical guarantees](https://arxiv.org/abs/2505.12350)|[multi-calf](https://github.com/aidagroup/multi-calf)|
 |[adaptive mpc-based quadrupedal robot control under periodic disturbances](https://arxiv.org/abs/2505.12361)|[quad-periodic-mpc](https://github.com/aidagroup/quad-periodic-mpc)|
+|[exploring sparsity for parameter efficient fine tuning using wavelets](https://arxiv.org/abs/2505.12532)|[sparse_peft](https://github.com/bilican/sparse_peft)|
+|[robust reinforcement learning-based locomotion for resource-constrained quadrupeds with exteroceptive sensing](https://arxiv.org/abs/2505.12537)|[elmap-rl-controller](https://github.com/eth-pbl/elmap-rl-controller)|
 |[the role of data partitioning on the performance of eeg-based deep learning models in supervised cross-subject analysis: a preliminary study](https://arxiv.org/abs/2505.13021)|[eegpartition](https://github.com/medmaxlab/eegpartition)|
 |[lightweight transformer via unrolling of mixed graph algorithms for traffic forecast](https://arxiv.org/abs/2505.13102)|[unrolling-gsp-stforecast](https://github.com/singularityundefined/unrolling-gsp-stforecast)|
+|[output behavior equivalence and simultaneous subspace identification of systems and faults](https://arxiv.org/abs/2505.13294)|[fault_id](https://github.com/ggleizer/fault_id)|
 |[scalable exploration via ensemble++](https://arxiv.org/abs/2407.13195)|[ensemble_plus_plus](https://github.com/szrlee/ensemble_plus_plus)|
 |[autobs: autonomous base station deployment with reinforcement learning and digital network twins](https://arxiv.org/abs/2502.19647)|[autobs](https://github.com/abman23/autobs)|
+|[xisort: deterministic sorting via ieee-754 total ordering and entropy minimization](https://arxiv.org/abs/2505.11927)|[xisort](https://github.com/farukalpay/xisort)|
+|[behavior synthesis via contact-aware fisher information maximization](https://arxiv.org/abs/2505.12214)|[contact_aware_active_learning](https://github.com/ialab-yale/contact_aware_active_learning)|
 ## 2025-05-19
 |paper|code|
 |---|---|
 |[toward foundation model for multivariate wearable sensing of physiological signals](https://arxiv.org/abs/2412.09758)|[normwear](https://github.com/mobile-sensing-and-ubicomp-laboratory/normwear)|
 |[clustering rooftop pv systems via probabilistic embeddings](https://arxiv.org/abs/2505.10699)|[entity-clustering](https://github.com/kabolat/entity-clustering)|
+|[learning multimodal ai algorithms for amplifying limited user input into high-dimensional control space](https://arxiv.org/abs/2505.11366)|[aras](https://github.com/abirilab/aras)|
+|[zero-shot statistical tests for llm-generated text detection using finite sample concentration inequalities](https://arxiv.org/abs/2501.02406)|[llm-text-detection](https://github.com/tararadvand74/llm-text-detection)|
 |[sok: decoding the enigma of encrypted network traffic classifiers](https://arxiv.org/abs/2503.20093)|[ntc-enigma](https://github.com/nime-sha256/ntc-enigma)|
 |[approximation-first timeseries monitoring query at scale](https://arxiv.org/abs/2505.10560)|[promsketch](https://github.com/froot-netsys/promsketch)|
 ## 2025-05-16
