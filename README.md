@@ -1,3 +1,13 @@
+## 2025-05-22
+|paper|code|
+|---|---|
+|[deep policy gradient methods without batch updates, target networks, or replay buffers](https://arxiv.org/abs/2411.15370)|[avg](https://github.com/gauthamvasan/avg)|
+|[weakly supervised convolutional dictionary learning for multi-label classification](https://arxiv.org/abs/2503.08573)|[WSCDL](https://github.com/chenhao1umbc/WSCDL)|
+|[vanishing stacked-residual pinn for state reconstruction of hyperbolic systems](https://arxiv.org/abs/2503.14222)|[stackedresidualpinn](https://github.com/katayouneshkofti/stackedresidualpinn)|
+|[reliable vertical federated learning in 5g core network architecture](https://arxiv.org/abs/2505.15244)|[Reliable-VFL-in-5G-Core-NW-Arch](https://github.com/merce-fra/Reliable-VFL-in-5G-Core-NW-Arch)|
+|[certified neural approximations of nonlinear dynamics](https://arxiv.org/abs/2505.15497)|[certified-neural-approximations](https://github.com/Zinoex/certified-neural-approximations)|
+|[infomeasure: a comprehensive python package for information theory measures and estimators](https://arxiv.org/abs/2505.14696)|[infomeasure](https://github.com/cbueth/infomeasure)|
+|[laplace sample information: data informativeness through a bayesian lens](https://arxiv.org/abs/2505.15303)|[LSI](https://github.com/TUM-AIMED/LSI)|
 ## 2025-05-21
 |paper|code|
 |---|---|
@@ -35,6 +45,7 @@
 |[scalable exploration via ensemble++](https://arxiv.org/abs/2407.13195)|[ensemble_plus_plus](https://github.com/szrlee/ensemble_plus_plus)|
 |[autobs: autonomous base station deployment with reinforcement learning and digital network twins](https://arxiv.org/abs/2502.19647)|[autobs](https://github.com/abman23/autobs)|
 |[xisort: deterministic sorting via ieee-754 total ordering and entropy minimization](https://arxiv.org/abs/2505.11927)|[xisort](https://github.com/farukalpay/xisort)|
+|[cgreplay: capture and replay of cloud gaming traffic for qoe/qos assessment](https://arxiv.org/abs/2505.11973)|[cgreplay](https://github.com/dcomp-leris/cgreplay)|
 |[behavior synthesis via contact-aware fisher information maximization](https://arxiv.org/abs/2505.12214)|[contact_aware_active_learning](https://github.com/ialab-yale/contact_aware_active_learning)|
 ## 2025-05-19
 |paper|code|
