@@ -1,3 +1,11 @@
+## 2025-05-23
+|paper|code|
+|---|---|
+|[robo-platform: a robotic system for recording sensors and controlling robots](https://arxiv.org/abs/2409.16595)|[robo-platform](https://github.com/m-dayani/robo-platform)|
+|[choose wisely: data-driven predictive control for nonlinear systems using online data selection](https://arxiv.org/abs/2503.18845)|[choose-wisely-paper](https://github.com/naefjo/choose-wisely-paper)|
+|[reinwifi: application-layer qos optimization of wifi networks with reinforcement learning](https://arxiv.org/abs/2405.03526)|[ReinWiFi](https://github.com/QianrenLi/ReinWiFi)|
+|[network intrusion datasets: a survey, limitations, and recommendations](https://arxiv.org/abs/2502.06688)|[nid-datasets](https://github.com/xgoldy/nid-datasets)|
+|[blank space: adaptive causal coding for streaming communications over multi-hop networks](https://arxiv.org/abs/2502.11984)|[MH_NC](https://github.com/Adinawx/MH_NC)|
 ## 2025-05-22
 |paper|code|
 |---|---|
