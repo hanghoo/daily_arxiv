@@ -3,9 +3,13 @@
 |---|---|
 |[robo-platform: a robotic system for recording sensors and controlling robots](https://arxiv.org/abs/2409.16595)|[robo-platform](https://github.com/m-dayani/robo-platform)|
 |[choose wisely: data-driven predictive control for nonlinear systems using online data selection](https://arxiv.org/abs/2503.18845)|[choose-wisely-paper](https://github.com/naefjo/choose-wisely-paper)|
+|[beamforming-codebook-aware channel knowledge map construction for multi-antenna systems](https://arxiv.org/abs/2505.16132)|[transunet](https://github.com/github-whh/transunet)|
+|[unsupervised network anomaly detection with autoencoders and traffic images](https://arxiv.org/abs/2505.16650)|[image-based-network-traffic-anomaly-detection](https://github.com/michaelneri/image-based-network-traffic-anomaly-detection)|
+|[chirp delay-doppler domain modulation: a new paradigm of integrated sensing and communication for autonomous vehicles](https://arxiv.org/abs/2505.16807)|[2025-ieee-network-chirpdelaydopplermodulationisac](https://github.com/lizhuoran0/2025-ieee-network-chirpdelaydopplermodulationisac)|
 |[reinwifi: application-layer qos optimization of wifi networks with reinforcement learning](https://arxiv.org/abs/2405.03526)|[ReinWiFi](https://github.com/QianrenLi/ReinWiFi)|
 |[network intrusion datasets: a survey, limitations, and recommendations](https://arxiv.org/abs/2502.06688)|[nid-datasets](https://github.com/xgoldy/nid-datasets)|
 |[blank space: adaptive causal coding for streaming communications over multi-hop networks](https://arxiv.org/abs/2502.11984)|[MH_NC](https://github.com/Adinawx/MH_NC)|
+|[recursive offloading for llm serving in multi-tier networks](https://arxiv.org/abs/2505.16502)|[recserve](https://github.com/wuzhiyuan2000/recserve)|
 ## 2025-05-22
 |paper|code|
 |---|---|
@@ -24,7 +28,7 @@
 |[racnn: residual attention convolutional neural network for near-field channel estimation in 6g wireless communications](https://arxiv.org/abs/2503.02299)|[RACNN](https://github.com/DoHaiSon/RACNN)|
 |[on-device llm for context-aware wi-fi roaming](https://arxiv.org/abs/2505.04174)|[on-device-llm-wifi-roaming](https://github.com/abman23/on-device-llm-wifi-roaming)|
 |[whitened score diffusion: a structured prior for imaging inverse problems](https://arxiv.org/abs/2505.10311)|[wsdiffusion](https://github.com/jeffreyalido/wsdiffusion)|
-|[u-sam: an audio language model for unified speech, audio, and music understanding](https://arxiv.org/abs/2505.13880)|[u-sam](https://github.com/honee-w/u-sam)|
+|[incremental firmware update over-the-air for low-power iot devices over lorawan](https://arxiv.org/abs/2505.13764)|[bpatch](https://github.com/vlsi-nanocomputing/bpatch)|
 |[efficient configuration-constrained tube mpc via variables restriction and template selection](https://arxiv.org/abs/2505.14440)|[efficientcctmpc](https://github.com/fil-bad/efficientcctmpc)|
 |[a quick primer on machine learning in wireless communications](https://arxiv.org/abs/2312.17713)|[eesc7v86-fall22](https://github.com/farismismar/eesc7v86-fall22)|
 |[an early warning system for emerging markets](https://arxiv.org/abs/2404.03319)|[ews_condent](https://github.com/kraevskiyaa/ews_condent)|
@@ -41,7 +45,10 @@
 |[decoding human attentive states from spatial-temporal eeg patches using transformers](https://arxiv.org/abs/2502.03736)|[eeg-patchformer](https://github.com/yi-ding-cs/eeg-patchformer)|
 |[system identification under bounded noise: optimal rates beyond least squares](https://arxiv.org/abs/2503.16817)|[Bounded-Noise-SysID-Minimax-Lowerbound](https://github.com/jy-cds/Bounded-Noise-SysID-Minimax-Lowerbound)|
 |[arraydps: unsupervised blind speech separation with a diffusion prior](https://arxiv.org/abs/2505.05657)|[arraydps](https://github.com/arraydps/arraydps)|
+|[a comprehensive data description for lorawan path loss measurements in an indoor office setting: effects of environmental factors](https://arxiv.org/abs/2505.06375)|[LoRaWAN-Indoor-PathLoss-Dataset-IEEEACCESS](https://github.com/nahshonmokua/LoRaWAN-Indoor-PathLoss-Dataset-IEEEACCESS)|
 |[topology-driven identification of repetitions in multi-variate time series](https://arxiv.org/abs/2505.10004)|[paper-2025-idsc-topology-driven-identification-of-repetitions-in-multi-variate-time-series](https://github.com/JRC-ISIA/paper-2025-idsc-topology-driven-identification-of-repetitions-in-multi-variate-time-series)|
+|[data-driven model predictive control using matlab](https://arxiv.org/abs/2505.11524)|[d-mpc-matlab](https://github.com/midhunta30/d-mpc-matlab)|
+|[benchmarking spatiotemporal reasoning in llms and reasoning models: capabilities and challenges](https://arxiv.org/abs/2505.11618)|[stark_benchmark](https://github.com/nesl/stark_benchmark)|
 |[t-rex: fitting a robust factor model via expectation-maximization](https://arxiv.org/abs/2505.12117)|[T-Rex-EM](https://github.com/dance858/T-Rex-EM)|
 |[multi-calf: a policy combination approach with statistical guarantees](https://arxiv.org/abs/2505.12350)|[multi-calf](https://github.com/aidagroup/multi-calf)|
 |[adaptive mpc-based quadrupedal robot control under periodic disturbances](https://arxiv.org/abs/2505.12361)|[quad-periodic-mpc](https://github.com/aidagroup/quad-periodic-mpc)|
