@@ -1,15 +1,27 @@
+## 2025-05-26
+|paper|code|
+|---|---|
+|[concept-based explainability for an eeg transformer model](https://arxiv.org/abs/2307.12745)|[tcav-bendr](https://github.com/andersgmadsen/tcav-bendr)|
+|[conformal robust control of linear systems](https://arxiv.org/abs/2405.16250)|[crc](https://github.com/yashpatel5400/crc)|
+|[koopman operators in robot learning](https://arxiv.org/abs/2408.04200)|[koopmanOperatorsInRobotLearning](https://github.com/giorgosmamakoukas/koopmanOperatorsInRobotLearning)|
+|[speed: scalable preprocessing of eeg data for self-supervised learning](https://arxiv.org/abs/2408.08065)|[speed](https://github.com/andersgmadsen/speed)|
+|[sindyg: sparse identification of nonlinear dynamical systems from graph-structured data](https://arxiv.org/abs/2409.04463)|[SINDyG](https://github.com/3sigmalab/SINDyG)|
+|[comparing differentiable and dynamic ray tracing: introducing the multipath lifetime map](https://arxiv.org/abs/2410.14535)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
+|[open-set gait recognition from sparse mmwave radar point clouds](https://arxiv.org/abs/2503.07435)|[OpenSetGaitRecognition_PCAA](https://github.com/rmazzier/OpenSetGaitRecognition_PCAA)|
+|[swapped logit distillation via bi-level teacher alignment](https://arxiv.org/abs/2504.20108)|[Swapped-Logit-Distillation](https://github.com/StephenEkaputra/Swapped-Logit-Distillation)|
+|[u-sam: an audio language model for unified speech, audio, and music understanding](https://arxiv.org/abs/2505.13880)|[u-sam](https://github.com/honee-w/u-sam)|
 ## 2025-05-23
 |paper|code|
 |---|---|
 |[robo-platform: a robotic system for recording sensors and controlling robots](https://arxiv.org/abs/2409.16595)|[robo-platform](https://github.com/m-dayani/robo-platform)|
 |[choose wisely: data-driven predictive control for nonlinear systems using online data selection](https://arxiv.org/abs/2503.18845)|[choose-wisely-paper](https://github.com/naefjo/choose-wisely-paper)|
+|[partition-wise graph filtering: a unified perspective through the lens of graph coarsening](https://arxiv.org/abs/2505.14033)|[cpf](https://github.com/vasile-paskardlgm/cpf)|
 |[beamforming-codebook-aware channel knowledge map construction for multi-antenna systems](https://arxiv.org/abs/2505.16132)|[transunet](https://github.com/github-whh/transunet)|
 |[unsupervised network anomaly detection with autoencoders and traffic images](https://arxiv.org/abs/2505.16650)|[image-based-network-traffic-anomaly-detection](https://github.com/michaelneri/image-based-network-traffic-anomaly-detection)|
 |[chirp delay-doppler domain modulation: a new paradigm of integrated sensing and communication for autonomous vehicles](https://arxiv.org/abs/2505.16807)|[2025-ieee-network-chirpdelaydopplermodulationisac](https://github.com/lizhuoran0/2025-ieee-network-chirpdelaydopplermodulationisac)|
 |[reinwifi: application-layer qos optimization of wifi networks with reinforcement learning](https://arxiv.org/abs/2405.03526)|[ReinWiFi](https://github.com/QianrenLi/ReinWiFi)|
 |[network intrusion datasets: a survey, limitations, and recommendations](https://arxiv.org/abs/2502.06688)|[nid-datasets](https://github.com/xgoldy/nid-datasets)|
 |[blank space: adaptive causal coding for streaming communications over multi-hop networks](https://arxiv.org/abs/2502.11984)|[MH_NC](https://github.com/Adinawx/MH_NC)|
-|[recursive offloading for llm serving in multi-tier networks](https://arxiv.org/abs/2505.16502)|[recserve](https://github.com/wuzhiyuan2000/recserve)|
 ## 2025-05-22
 |paper|code|
 |---|---|
