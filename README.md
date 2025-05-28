@@ -1,3 +1,20 @@
+## 2025-05-27
+|paper|code|
+|---|---|
+|[you can wash hands better: accurate daily handwashing assessment with a smartwatch](https://arxiv.org/abs/2112.06657)|[uwash](https://github.com/aiotgroup/uwash)|
+|[safety guarantees for neural network dynamic systems via stochastic barrier functions](https://arxiv.org/abs/2206.07811)|[neuralnetcontrolbarrier](https://github.com/aria-systems-group/neuralnetcontrolbarrier)|
+|[telecomtm: a fine-grained and ubiquitous traffic monitoring system using pre-existing telecommunication fiber-optic cables as sensors](https://arxiv.org/abs/2305.03172)|[TelecomTM](https://github.com/jingxiaoliu/TelecomTM)|
+|[distortion resilience for goal-oriented semantic communication](https://arxiv.org/abs/2309.14587)|[drgo-semcom](https://github.com/skyd-semantic/drgo-semcom)|
+|[comparison analysis between standard polysomnographic data and in-ear-eeg signals: a preliminary study](https://arxiv.org/abs/2401.10107)|[in_ear_eeg_vs_psg](https://github.com/gianpaolopalo13/in_ear_eeg_vs_psg)|
+|[traffic signal cycle control with centralized critic and decentralized actors under varying intervention frequencies](https://arxiv.org/abs/2406.08248)|[CCDA-Light](https://github.com/Traffic-Alpha/CCDA-Light)|
+|[modulated differentiable stft and balanced spectrum metric for freight train wheelset bearing cross-machine transfer monitoring under speed fluctuations](https://arxiv.org/abs/2406.11917)|[PyDSN](https://github.com/liguge/PyDSN)|
+|[semantic-aware resource management for c-v2x platooning via multi-agent reinforcement learning](https://arxiv.org/abs/2411.04672)|[semantic-aware-resource-management-for-c-v2x-platooning-via-multi-agent-reinforcement-learning](https://github.com/qiongwu86/semantic-aware-resource-management-for-c-v2x-platooning-via-multi-agent-reinforcement-learning)|
+|[a real-world energy management dataset from a smart company building for optimization and machine learning](https://arxiv.org/abs/2503.11469)|[MonitoringDatasetAnalysis](https://github.com/HRI-EU/MonitoringDatasetAnalysis)|
+|[adaptive sensor steering strategy using deep reinforcement learning for dynamic data acquisition in digital twins](https://arxiv.org/abs/2504.10248)|[DT-SS](https://github.com/Collins-Ogbodo/DT-SS)|
+|[exploring quic dynamics: a large-scale dataset for encrypted traffic analysis](https://arxiv.org/abs/2410.03728)|[VisQUIC](https://github.com/robshahla/VisQUIC)|
+|[pcodec: better compression for numerical sequences](https://arxiv.org/abs/2502.06112)|[pcodec](https://github.com/mwlon/pcodec)|
+|[task-oriented communications for visual navigation with edge-aerial collaboration in low altitude economy](https://arxiv.org/abs/2504.18317)|[TOC-Edge-Aerial](https://github.com/fangzr/TOC-Edge-Aerial)|
+|[recursive offloading for llm serving in multi-tier networks](https://arxiv.org/abs/2505.16502)|[recserve](https://github.com/wuzhiyuan2000/recserve)|
 ## 2025-05-26
 |paper|code|
 |---|---|
@@ -9,7 +26,6 @@
 |[comparing differentiable and dynamic ray tracing: introducing the multipath lifetime map](https://arxiv.org/abs/2410.14535)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
 |[open-set gait recognition from sparse mmwave radar point clouds](https://arxiv.org/abs/2503.07435)|[OpenSetGaitRecognition_PCAA](https://github.com/rmazzier/OpenSetGaitRecognition_PCAA)|
 |[swapped logit distillation via bi-level teacher alignment](https://arxiv.org/abs/2504.20108)|[Swapped-Logit-Distillation](https://github.com/StephenEkaputra/Swapped-Logit-Distillation)|
-|[u-sam: an audio language model for unified speech, audio, and music understanding](https://arxiv.org/abs/2505.13880)|[u-sam](https://github.com/honee-w/u-sam)|
 ## 2025-05-23
 |paper|code|
 |---|---|
