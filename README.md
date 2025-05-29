@@ -1,3 +1,17 @@
+## 2025-05-28
+|paper|code|
+|---|---|
+|[advanced signal analysis in detecting replay attacks for automatic speaker verification systems](https://arxiv.org/abs/2403.01130)|[adfa](https://github.com/shihkuanglee/adfa)|
+|[es-ptam: event-based stereo parallel tracking and mapping](https://arxiv.org/abs/2408.15605)|[es-ptam](https://github.com/tub-rip/es-ptam)|
+|[flexible multi-beam synthesis and directional suppression through transmissive ris](https://arxiv.org/abs/2411.02008)|[RIS_BeamAllocation](https://github.com/RujingXiong/RIS_BeamAllocation)|
+|[diffusion predictive control with constraints](https://arxiv.org/abs/2412.09342)|[dpcc](https://github.com/ralfroemer99/dpcc)|
+|[resampling filter design for multirate neural audio effect processing](https://arxiv.org/abs/2501.18470)|[resampling_neural_afx](https://github.com/a-carson/resampling_neural_afx)|
+|[benchmarking spatiotemporal reasoning in llms and reasoning models: capabilities and challenges](https://arxiv.org/abs/2505.11618)|[stark_benchmark](https://github.com/nesl/stark_benchmark)|
+|[u-sam: an audio language model for unified speech, audio, and music understanding](https://arxiv.org/abs/2505.13880)|[u-sam](https://github.com/honee-w/u-sam)|
+|[joint magnetometer-imu calibration via maximum a posteriori estimation](https://arxiv.org/abs/2505.16662)|[mag-imu-jointcalibration](https://github.com/huang-chuan/mag-imu-jointcalibration)|
+|[improving generative inverse design of rectangular patch antennas with test time optimization](https://arxiv.org/abs/2505.18188)|[patch-antenna-tto](https://github.com/becklabs/patch-antenna-tto)|
+|[dual-polarization stacked intelligent metasurfaces for holographic mimo](https://arxiv.org/abs/2505.20805)|[dual_polarization_stacked_intelligent_metasurfaces_for_holographic_mimo](https://github.com/zhangyida02/dual_polarization_stacked_intelligent_metasurfaces_for_holographic_mimo)|
+|[a domain adaptation neural network for digital twin-supported fault diagnosis](https://arxiv.org/abs/2505.21046)|[Digital-Twin-Fault-Diagnosis](https://github.com/JialingRichard/Digital-Twin-Fault-Diagnosis)|
 ## 2025-05-27
 |paper|code|
 |---|---|
@@ -11,10 +25,19 @@
 |[semantic-aware resource management for c-v2x platooning via multi-agent reinforcement learning](https://arxiv.org/abs/2411.04672)|[semantic-aware-resource-management-for-c-v2x-platooning-via-multi-agent-reinforcement-learning](https://github.com/qiongwu86/semantic-aware-resource-management-for-c-v2x-platooning-via-multi-agent-reinforcement-learning)|
 |[a real-world energy management dataset from a smart company building for optimization and machine learning](https://arxiv.org/abs/2503.11469)|[MonitoringDatasetAnalysis](https://github.com/HRI-EU/MonitoringDatasetAnalysis)|
 |[adaptive sensor steering strategy using deep reinforcement learning for dynamic data acquisition in digital twins](https://arxiv.org/abs/2504.10248)|[DT-SS](https://github.com/Collins-Ogbodo/DT-SS)|
+|[evaluation in eeg emotion recognition: state-of-the-art review and unified framework](https://arxiv.org/abs/2505.18175)|[eegain](https://github.com/emotionlab/eegain)|
+|[discrete gradient methods for port-hamiltonian differential-algebraic equations](https://arxiv.org/abs/2505.18810)|[phdae_discrete_gradients](https://github.com/plkinon/phdae_discrete_gradients)|
+|[supermartingale certificates for quantitative omega-regular verification and control](https://arxiv.org/abs/2505.18833)|[omega-regular-stoch-cert](https://github.com/ipouyall/omega-regular-stoch-cert)|
+|[alpcahus: subspace clustering for heteroscedastic data](https://arxiv.org/abs/2505.18918)|[alpcahus](https://github.com/javiersc1/alpcahus)|
+|[towards a spatiotemporal fusion approach to precipitation nowcasting](https://arxiv.org/abs/2505.19258)|[fusion2025](https://github.com/ailab-cefet-rj/fusion2025)|
+|[lla-mpc: fast adaptive control for autonomous racing](https://arxiv.org/abs/2505.19512)|[lla-mpc](https://github.com/drive-lab-cmu/lla-mpc)|
+|[synchronous models and fundamental systems in observer design](https://arxiv.org/abs/2505.19517)|[synchronous_vaa](https://github.com/pvangoor/synchronous_vaa)|
+|[mel-mcnet: a mel-scale framework for online multichannel speech enhancement](https://arxiv.org/abs/2505.19576)|[mel-mcnet](https://github.com/audio-westlakeu/mel-mcnet)|
 |[exploring quic dynamics: a large-scale dataset for encrypted traffic analysis](https://arxiv.org/abs/2410.03728)|[VisQUIC](https://github.com/robshahla/VisQUIC)|
 |[pcodec: better compression for numerical sequences](https://arxiv.org/abs/2502.06112)|[pcodec](https://github.com/mwlon/pcodec)|
 |[task-oriented communications for visual navigation with edge-aerial collaboration in low altitude economy](https://arxiv.org/abs/2504.18317)|[TOC-Edge-Aerial](https://github.com/fangzr/TOC-Edge-Aerial)|
 |[recursive offloading for llm serving in multi-tier networks](https://arxiv.org/abs/2505.16502)|[recserve](https://github.com/wuzhiyuan2000/recserve)|
+|[efficient online random sampling via randomness recycling](https://arxiv.org/abs/2505.18879)|[randomness-recycling](https://github.com/probsys/randomness-recycling)|
 ## 2025-05-26
 |paper|code|
 |---|---|
@@ -24,8 +47,11 @@
 |[speed: scalable preprocessing of eeg data for self-supervised learning](https://arxiv.org/abs/2408.08065)|[speed](https://github.com/andersgmadsen/speed)|
 |[sindyg: sparse identification of nonlinear dynamical systems from graph-structured data](https://arxiv.org/abs/2409.04463)|[SINDyG](https://github.com/3sigmalab/SINDyG)|
 |[comparing differentiable and dynamic ray tracing: introducing the multipath lifetime map](https://arxiv.org/abs/2410.14535)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
+|[safe pde boundary control with neural operators](https://arxiv.org/abs/2411.15643)|[safe-pde-control](https://github.com/intelligent-control-lab/safe-pde-control)|
 |[open-set gait recognition from sparse mmwave radar point clouds](https://arxiv.org/abs/2503.07435)|[OpenSetGaitRecognition_PCAA](https://github.com/rmazzier/OpenSetGaitRecognition_PCAA)|
 |[swapped logit distillation via bi-level teacher alignment](https://arxiv.org/abs/2504.20108)|[Swapped-Logit-Distillation](https://github.com/StephenEkaputra/Swapped-Logit-Distillation)|
+|[gps-aided deep learning for beam prediction and tracking in uav mmwave communication](https://arxiv.org/abs/2505.17530)|[gpsbeam](https://github.com/ardiantovn/gpsbeam)|
+|[efficient compression of neural networks and datasets](https://arxiv.org/abs/2505.17469)|[efficient-compression](https://github.com/luk4s-b/efficient-compression)|
 ## 2025-05-23
 |paper|code|
 |---|---|
