@@ -1,3 +1,11 @@
+## 2025-05-29
+|paper|code|
+|---|---|
+|[communication- and computation-efficient distributed submodular optimization in robot mesh networks](https://arxiv.org/abs/2407.10382)|[resource-aware-coordination-airsim](https://github.com/um-iral/resource-aware-coordination-airsim)|
+|[boxr: body and head motion optimization framework for extended reality](https://arxiv.org/abs/2410.13084)|[boxr](https://github.com/rtenlab/boxr)|
+|[multi-task deep-learning for sleep event detection and stage classification](https://arxiv.org/abs/2501.09519)|[sleep-events-detection](https://github.com/adrania/sleep-events-detection)|
+|[unidb: a unified diffusion bridge framework via stochastic optimal control](https://arxiv.org/abs/2502.05749)|[unidb](https://github.com/unidb-soc/unidb)|
+|[learning-based mpc for fuel efficient control of autonomous vehicles with discrete gear selection](https://arxiv.org/abs/2503.11359)|[mpcrl-vehicle-gears](https://github.com/samuelmallick/mpcrl-vehicle-gears)|
 ## 2025-05-28
 |paper|code|
 |---|---|
