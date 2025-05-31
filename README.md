@@ -1,3 +1,12 @@
+## 2025-05-30
+|paper|code|
+|---|---|
+|[global tensor motion planning](https://arxiv.org/abs/2411.19393)|[gtmp](https://github.com/anindex/gtmp)|
+|[robustness-enhanced myoelectric control with gan-based open-set recognition](https://arxiv.org/abs/2412.15819)|[paper_code_robustness_enhanced_myoelectric_control](https://github.com/cwdao/paper_code_robustness_enhanced_myoelectric_control)|
+|[an unsupervised method for mri recovery: deep image prior with structured sparsity](https://arxiv.org/abs/2501.01482)|[discus](https://github.com/osu-mr/discus)|
+|[concurrent composition for interactive differential privacy with adaptive privacy-loss parameters](https://arxiv.org/abs/2309.05901)|[concurrent-composition](https://github.com/concurrent-composition/concurrent-composition)|
+|[promptus: can prompts streaming replace video streaming with stable diffusion](https://arxiv.org/abs/2405.20032)|[Promptus](https://github.com/JiangkaiWu/Promptus)|
+|[surveying the space of descriptions of a composite system with machine learning](https://arxiv.org/abs/2411.18579)|[description_space](https://github.com/murphyka/description_space)|
 ## 2025-05-29
 |paper|code|
 |---|---|
