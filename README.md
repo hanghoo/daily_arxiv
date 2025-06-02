@@ -15,20 +15,31 @@
 |[multi-task deep-learning for sleep event detection and stage classification](https://arxiv.org/abs/2501.09519)|[sleep-events-detection](https://github.com/adrania/sleep-events-detection)|
 |[unidb: a unified diffusion bridge framework via stochastic optimal control](https://arxiv.org/abs/2502.05749)|[unidb](https://github.com/unidb-soc/unidb)|
 |[learning-based mpc for fuel efficient control of autonomous vehicles with discrete gear selection](https://arxiv.org/abs/2503.11359)|[mpcrl-vehicle-gears](https://github.com/samuelmallick/mpcrl-vehicle-gears)|
+|[on data usage and predictive behavior of data-driven predictive control with 1-norm regularization](https://arxiv.org/abs/2505.22307)|[data-usage-dpc-1-norm](https://github.com/Control-and-Cyberphysical-Systems/data-usage-dpc-1-norm)|
+|[hybrid learning for cold-start-aware microservice scheduling in dynamic edge environments](https://arxiv.org/abs/2505.22424)|[CSDCRMDE](https://github.com/Blacktower27/CSDCRMDE)|
+|[data-driven control of continuous-time lti systems via non-minimal realizations](https://arxiv.org/abs/2505.22505)|[continuous-time_data-driven_control](https://github.com/impact4mech/continuous-time_data-driven_control)|
+|[synonymous variational inference for perceptual image compression](https://arxiv.org/abs/2505.22438)|[SynonymousImageCompression](https://github.com/ZJLiang6412/SynonymousImageCompression)|
 ## 2025-05-28
 |paper|code|
 |---|---|
+|[dymag: rethinking message passing using dynamical-systems-based waveforms](https://arxiv.org/abs/2309.09924)|[dymag](https://github.com/krishnaswamylab/dymag)|
 |[advanced signal analysis in detecting replay attacks for automatic speaker verification systems](https://arxiv.org/abs/2403.01130)|[adfa](https://github.com/shihkuanglee/adfa)|
 |[es-ptam: event-based stereo parallel tracking and mapping](https://arxiv.org/abs/2408.15605)|[es-ptam](https://github.com/tub-rip/es-ptam)|
 |[flexible multi-beam synthesis and directional suppression through transmissive ris](https://arxiv.org/abs/2411.02008)|[RIS_BeamAllocation](https://github.com/RujingXiong/RIS_BeamAllocation)|
 |[diffusion predictive control with constraints](https://arxiv.org/abs/2412.09342)|[dpcc](https://github.com/ralfroemer99/dpcc)|
 |[resampling filter design for multirate neural audio effect processing](https://arxiv.org/abs/2501.18470)|[resampling_neural_afx](https://github.com/a-carson/resampling_neural_afx)|
+|[policy design for two-sided platforms with participation dynamics](https://arxiv.org/abs/2502.01792)|[dynamics-two-sided-market](https://github.com/sdean-group/dynamics-two-sided-market)|
 |[benchmarking spatiotemporal reasoning in llms and reasoning models: capabilities and challenges](https://arxiv.org/abs/2505.11618)|[stark_benchmark](https://github.com/nesl/stark_benchmark)|
 |[u-sam: an audio language model for unified speech, audio, and music understanding](https://arxiv.org/abs/2505.13880)|[u-sam](https://github.com/honee-w/u-sam)|
 |[joint magnetometer-imu calibration via maximum a posteriori estimation](https://arxiv.org/abs/2505.16662)|[mag-imu-jointcalibration](https://github.com/huang-chuan/mag-imu-jointcalibration)|
 |[improving generative inverse design of rectangular patch antennas with test time optimization](https://arxiv.org/abs/2505.18188)|[patch-antenna-tto](https://github.com/becklabs/patch-antenna-tto)|
+|[flowse: efficient and high-quality speech enhancement via flow matching](https://arxiv.org/abs/2505.19476)|[flowse](https://github.com/honee-w/flowse)|
+|[zv-sim: probabilistic simulation framework for pre-emergent novel zoonose tracking](https://arxiv.org/abs/2505.20319)|[zv-sim](https://github.com/jmaff/zv-sim)|
+|[opennirscap: an open-source, low-cost wearable near-infrared spectroscopy-based brain interfacing cap](https://arxiv.org/abs/2505.20509)|[fnirs](https://github.com/tonykim07/fnirs)|
 |[dual-polarization stacked intelligent metasurfaces for holographic mimo](https://arxiv.org/abs/2505.20805)|[dual_polarization_stacked_intelligent_metasurfaces_for_holographic_mimo](https://github.com/zhangyida02/dual_polarization_stacked_intelligent_metasurfaces_for_holographic_mimo)|
+|[uncertainty partitioning with probabilistic feasibility and performance guarantees for chance-constrained optimization](https://arxiv.org/abs/2505.20927)|[partition-control-pwa](https://github.com/fracordi/partition-control-pwa)|
 |[a domain adaptation neural network for digital twin-supported fault diagnosis](https://arxiv.org/abs/2505.21046)|[Digital-Twin-Fault-Diagnosis](https://github.com/JialingRichard/Digital-Twin-Fault-Diagnosis)|
+|[wideband rf radiance field modeling using frequency-embedded 3d gaussian splatting](https://arxiv.org/abs/2505.20714)|[wideband3dgs](https://github.com/sim-2-real/wideband3dgs)|
 ## 2025-05-27
 |paper|code|
 |---|---|
@@ -43,6 +54,7 @@
 |[a real-world energy management dataset from a smart company building for optimization and machine learning](https://arxiv.org/abs/2503.11469)|[MonitoringDatasetAnalysis](https://github.com/HRI-EU/MonitoringDatasetAnalysis)|
 |[adaptive sensor steering strategy using deep reinforcement learning for dynamic data acquisition in digital twins](https://arxiv.org/abs/2504.10248)|[DT-SS](https://github.com/Collins-Ogbodo/DT-SS)|
 |[evaluation in eeg emotion recognition: state-of-the-art review and unified framework](https://arxiv.org/abs/2505.18175)|[eegain](https://github.com/emotionlab/eegain)|
+|[eotnet: deep memory aided bayesian filter for extended object tracking](https://arxiv.org/abs/2505.18684)|[eotnet](https://github.com/austin2wwzx/eotnet)|
 |[discrete gradient methods for port-hamiltonian differential-algebraic equations](https://arxiv.org/abs/2505.18810)|[phdae_discrete_gradients](https://github.com/plkinon/phdae_discrete_gradients)|
 |[supermartingale certificates for quantitative omega-regular verification and control](https://arxiv.org/abs/2505.18833)|[omega-regular-stoch-cert](https://github.com/ipouyall/omega-regular-stoch-cert)|
 |[alpcahus: subspace clustering for heteroscedastic data](https://arxiv.org/abs/2505.18918)|[alpcahus](https://github.com/javiersc1/alpcahus)|
@@ -50,10 +62,12 @@
 |[lla-mpc: fast adaptive control for autonomous racing](https://arxiv.org/abs/2505.19512)|[lla-mpc](https://github.com/drive-lab-cmu/lla-mpc)|
 |[synchronous models and fundamental systems in observer design](https://arxiv.org/abs/2505.19517)|[synchronous_vaa](https://github.com/pvangoor/synchronous_vaa)|
 |[mel-mcnet: a mel-scale framework for online multichannel speech enhancement](https://arxiv.org/abs/2505.19576)|[mel-mcnet](https://github.com/audio-westlakeu/mel-mcnet)|
+|[synthetic time series forecasting with transformer architectures: extensive simulation benchmarks](https://arxiv.org/abs/2505.20048)|[compactformer](https://github.com/ali-forootani/compactformer)|
 |[exploring quic dynamics: a large-scale dataset for encrypted traffic analysis](https://arxiv.org/abs/2410.03728)|[VisQUIC](https://github.com/robshahla/VisQUIC)|
 |[pcodec: better compression for numerical sequences](https://arxiv.org/abs/2502.06112)|[pcodec](https://github.com/mwlon/pcodec)|
 |[task-oriented communications for visual navigation with edge-aerial collaboration in low altitude economy](https://arxiv.org/abs/2504.18317)|[TOC-Edge-Aerial](https://github.com/fangzr/TOC-Edge-Aerial)|
 |[recursive offloading for llm serving in multi-tier networks](https://arxiv.org/abs/2505.16502)|[recserve](https://github.com/wuzhiyuan2000/recserve)|
+|[think or not? exploring thinking efficiency in large reasoning models via an information-theoretic lens](https://arxiv.org/abs/2505.18237)|[think-or-not](https://github.com/chicosirius/think-or-not)|
 |[efficient online random sampling via randomness recycling](https://arxiv.org/abs/2505.18879)|[randomness-recycling](https://github.com/probsys/randomness-recycling)|
 ## 2025-05-26
 |paper|code|
