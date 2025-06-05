@@ -1,3 +1,22 @@
+## 2025-06-04
+|paper|code|
+|---|---|
+|[predictable reinforcement learning dynamics through entropy rate minimization](https://arxiv.org/abs/2311.18703)|[parl](https://github.com/tud-amr/parl)|
+|[singing voice graph modeling for singfake detection](https://arxiv.org/abs/2406.03111)|[singgraph](https://github.com/xjchengit/singgraph)|
+|[hbs -- hardware build system: a tcl-based, minimal common abstraction approach for build system for hardware designs](https://arxiv.org/abs/2504.09642)|[hbs](https://github.com/m-kru/hbs)|
+|[online learning for function placement in serverless computing](https://arxiv.org/abs/2410.13696)|[dynamic_virtual_network_placement](https://github.com/free-wei/dynamic_virtual_network_placement)|
+## 2025-06-03
+|paper|code|
+|---|---|
+|[eispy2d: an open-source python library for the development and comparison of algorithms in two-dimensional electromagnetic inverse scattering problems](https://arxiv.org/abs/2111.02185)|[eispy2d](https://github.com/andre-batista/eispy2d)|
+|[improving galileo osnma time to first authenticated fix](https://arxiv.org/abs/2403.14739)|[osnma](https://github.com/algafix/osnma)|
+|[on zero-shot learning in neural state estimation of power distribution systems](https://arxiv.org/abs/2408.05787)|[nse-tl-paper](https://gitlab.com/transense/nse-tl-paper)|
+|[end-to-end guarantees for indirect data-driven control of bilinear systems with finite stochastic data](https://arxiv.org/abs/2409.18010)|[2024-bilinear-end-to-end](https://github.com/col-tasas/2024-bilinear-end-to-end)|
+|[koopman-based control of nonlinear systems with closed-loop guarantees](https://arxiv.org/abs/2411.10359)|[safedmd-sos](https://github.com/rstraesser/safedmd-sos)|
+|[the value of hedging against energy storage uncertainties when designing energy parks](https://arxiv.org/abs/2503.15416)|[Energy-Park-Design](https://github.com/mal84emma/Energy-Park-Design)|
+|[particle gibbs without the gibbs bit](https://arxiv.org/abs/2505.04611)|[m-pgibbs](https://github.com/adriencorenflos/m-pgibbs)|
+|[a comparative study of smt and milp for the nurse rostering problem](https://arxiv.org/abs/2505.10328)|[nrp-genericconstraints](https://github.com/adcombrink/nrp-genericconstraints)|
+|[alpcahus: subspace clustering for heteroscedastic data](https://arxiv.org/abs/2505.18918)|[alpcahus](https://github.com/javiersc1/alpcahus)|
 ## 2025-05-30
 |paper|code|
 |---|---|
