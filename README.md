@@ -1,3 +1,12 @@
+## 2025-06-05
+|paper|code|
+|---|---|
+|[learning tube-certified control using robust contraction metrics](https://arxiv.org/abs/2309.07443)|[nnrccm](https://github.com/viveksharmaaa/nnrccm)|
+|[anoca: ac network-aware optimal curtailment approach for dynamic hosting capacity](https://arxiv.org/abs/2403.18085)|[anoca](https://github.com/emmanuelbadmus/anoca)|
+|[self-supervised autoencoder network for robust heart rate extraction from noisy photoplethysmogram: applying blind source separation to biosignal analysis](https://arxiv.org/abs/2504.09132)|[meae-heart-rate-extraction-from-noisy-ppg](https://github.com/webstah/meae-heart-rate-extraction-from-noisy-ppg)|
+|[exploring sparsity for parameter efficient fine tuning using wavelets](https://arxiv.org/abs/2505.12532)|[sparse_peft](https://github.com/bilican/sparse_peft)|
+|[occlusion-aware ground target tracking by a dubins vehicle using visibility volumes](https://arxiv.org/abs/2506.03400)|[DubinsVisibilityTracking](https://github.com/robotics-uncc/DubinsVisibilityTracking)|
+|[zipnn: lossless compression for ai models](https://arxiv.org/abs/2411.05239)|[zipnn](https://github.com/zipnn/zipnn)|
 ## 2025-06-04
 |paper|code|
 |---|---|
