@@ -1,3 +1,13 @@
+## 2025-06-06
+|paper|code|
+|---|---|
+|[remote tube-based mpc for tracking over lossy networks](https://arxiv.org/abs/2408.07553)|[robust-tracking-mpc-over-lossy-networks](https://github.com/ericssonresearch/robust-tracking-mpc-over-lossy-networks)|
+|[ledro: llm-enhanced design space reduction and optimization for analog circuits](https://arxiv.org/abs/2411.12930)|[LEDRO](https://github.com/dimplekochar/LEDRO)|
+|[learning two-agent motion planning strategies from generalized nash equilibrium for model predictive control](https://arxiv.org/abs/2411.13983)|[Implicit-Game-Theoretic-MPC](https://github.com/MPC-Berkeley/Implicit-Game-Theoretic-MPC)|
+|[an open source validation system for continuous arterial blood pressure measuring sensors](https://arxiv.org/abs/2501.07973)|[cam-bpw-sim](https://github.com/repat8/cam-bpw-sim)|
+|[control pneumatic soft bending actuator with online learning pneumatic physical reservoir computing](https://arxiv.org/abs/2503.15819)|[Online-Learning-RC-Control-RoboSoft2025](https://github.com/JonyeeShen/Online-Learning-RC-Control-RoboSoft2025)|
+|[robust outlier detection method based on local entropy and global density](https://arxiv.org/abs/2310.14960)|[edrod](https://github.com/philip0512/edrod)|
+|[unveiling voices: a co-hashtag analysis of tiktok discourse on the 2023 israel-palestine crisis](https://arxiv.org/abs/2501.07182)|[gaza-tiktok](https://github.com/rozinhasin/gaza-tiktok)|
 ## 2025-06-05
 |paper|code|
 |---|---|
