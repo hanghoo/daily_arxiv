@@ -1,22 +1,34 @@
+## 2025-06-09
+|paper|code|
+|---|---|
+|[design tasks and their complexity for the european train control system with hybrid train detection](https://arxiv.org/abs/2308.02572)|[mtct](https://github.com/cda-tum/mtct)|
+|[unidb: a unified diffusion bridge framework via stochastic optimal control](https://arxiv.org/abs/2502.05749)|[unidb](https://github.com/unidb-soc/unidb)|
 ## 2025-06-06
 |paper|code|
 |---|---|
 |[remote tube-based mpc for tracking over lossy networks](https://arxiv.org/abs/2408.07553)|[robust-tracking-mpc-over-lossy-networks](https://github.com/ericssonresearch/robust-tracking-mpc-over-lossy-networks)|
+|[self-tuning spectral clustering for speaker diarization](https://arxiv.org/abs/2410.00023)|[sc-pna](https://github.com/nikhilraghav29/sc-pna)|
 |[ledro: llm-enhanced design space reduction and optimization for analog circuits](https://arxiv.org/abs/2411.12930)|[LEDRO](https://github.com/dimplekochar/LEDRO)|
 |[learning two-agent motion planning strategies from generalized nash equilibrium for model predictive control](https://arxiv.org/abs/2411.13983)|[Implicit-Game-Theoretic-MPC](https://github.com/MPC-Berkeley/Implicit-Game-Theoretic-MPC)|
-|[an open source validation system for continuous arterial blood pressure measuring sensors](https://arxiv.org/abs/2501.07973)|[cam-bpw-sim](https://github.com/repat8/cam-bpw-sim)|
+|[an open source validation system for continuous arterial blood pressure measuring sensors](https://arxiv.org/abs/2501.07973)|[cam-bpw-sim-hardware](https://github.com/repat8/cam-bpw-sim-hardware)|
+|[analytical lyapunov function discovery: an rl-based generative approach](https://arxiv.org/abs/2502.02014)|[analytical-lyapunov-function-discovery](https://github.com/jiefeng-cse/analytical-lyapunov-function-discovery)|
 |[control pneumatic soft bending actuator with online learning pneumatic physical reservoir computing](https://arxiv.org/abs/2503.15819)|[Online-Learning-RC-Control-RoboSoft2025](https://github.com/JonyeeShen/Online-Learning-RC-Control-RoboSoft2025)|
+|[federated learning assisted edge caching scheme based on lightweight architecture ddpm](https://arxiv.org/abs/2506.04593)|[federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm](https://github.com/qiongwu86/federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm)|
+|[intelligent channel allocation for ieee 802.11be multi-link operation: when mab meets llm](https://arxiv.org/abs/2506.04594)|[mloandmcts](https://github.com/lianshumin576/mloandmcts)|
+|[agentic ai for intent-based industrial automation](https://arxiv.org/abs/2506.04980)|[talk-to-your-factory](https://github.com/romerocode/talk-to-your-factory)|
 |[robust outlier detection method based on local entropy and global density](https://arxiv.org/abs/2310.14960)|[edrod](https://github.com/philip0512/edrod)|
 |[unveiling voices: a co-hashtag analysis of tiktok discourse on the 2023 israel-palestine crisis](https://arxiv.org/abs/2501.07182)|[gaza-tiktok](https://github.com/rozinhasin/gaza-tiktok)|
+|[bear: bgp event analysis and reporting](https://arxiv.org/abs/2506.04514)|[bear_bgp_event_analysis](https://github.com/hanklee97121/bear_bgp_event_analysis)|
 ## 2025-06-05
 |paper|code|
 |---|---|
 |[learning tube-certified control using robust contraction metrics](https://arxiv.org/abs/2309.07443)|[nnrccm](https://github.com/viveksharmaaa/nnrccm)|
-|[anoca: ac network-aware optimal curtailment approach for dynamic hosting capacity](https://arxiv.org/abs/2403.18085)|[anoca](https://github.com/emmanuelbadmus/anoca)|
 |[self-supervised autoencoder network for robust heart rate extraction from noisy photoplethysmogram: applying blind source separation to biosignal analysis](https://arxiv.org/abs/2504.09132)|[meae-heart-rate-extraction-from-noisy-ppg](https://github.com/webstah/meae-heart-rate-extraction-from-noisy-ppg)|
 |[exploring sparsity for parameter efficient fine tuning using wavelets](https://arxiv.org/abs/2505.12532)|[sparse_peft](https://github.com/bilican/sparse_peft)|
+|[graph neural networks for jamming source localization](https://arxiv.org/abs/2506.03196)|[gnn-jamming-source-localization](https://github.com/daniaherzalla/gnn-jamming-source-localization)|
 |[occlusion-aware ground target tracking by a dubins vehicle using visibility volumes](https://arxiv.org/abs/2506.03400)|[DubinsVisibilityTracking](https://github.com/robotics-uncc/DubinsVisibilityTracking)|
 |[zipnn: lossless compression for ai models](https://arxiv.org/abs/2411.05239)|[zipnn](https://github.com/zipnn/zipnn)|
+|[netpress: dynamically generated llm benchmarks for network applications](https://arxiv.org/abs/2506.03231)|[netpress](https://github.com/froot-netsys/netpress)|
 ## 2025-06-04
 |paper|code|
 |---|---|
