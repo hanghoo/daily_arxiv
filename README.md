@@ -1,3 +1,14 @@
+## 2025-06-10
+|paper|code|
+|---|---|
+|[decoupled data consistency with diffusion purification for image restoration](https://arxiv.org/abs/2403.06054)|[decoupled-data-consistency-with-diffusion-purification-for-image-restoration](https://github.com/morefre/decoupled-data-consistency-with-diffusion-purification-for-image-restoration)|
+|[a structurally coherent spatial phase estimate](https://arxiv.org/abs/2412.08070)|[ssvm2025](https://gitlab.com/briancknight/ssvm2025)|
+|[flp-xr: future location prediction on extreme scale maritime data in real-time](https://arxiv.org/abs/2503.13491)|[FLP-XR](https://github.com/DataStories-UniPi/FLP-XR)|
+|[enhancing contrastive learning-based electrocardiogram pretrained model with patient memory queue](https://arxiv.org/abs/2506.06310)|[PMQ](https://github.com/3hiuwoo/PMQ)|
+|[composite reward design in ppo-driven adaptive filtering](https://arxiv.org/abs/2506.06323)|[rl_signal_filtering](https://github.com/Bradshard/Reinforcement_Learning/tree/main/rl_signal_filtering)|
+|[lower bounds on information requirements for causal network inference](https://arxiv.org/abs/2102.00055)|[net-inf-eval](https://github.com/Veggente/net-inf-eval)|
+|[maximum likelihood estimation of optimal receiver operating characteristic curves from likelihood ratio observations](https://arxiv.org/abs/2202.01956)|[mleroc](https://github.com/veggente/mleroc)|
+|[learned off-grid imager for low-altitude economy with cooperative isac network](https://arxiv.org/abs/2506.07799)|[LAEImager](https://github.com/kiwi1944/LAEImager)|
 ## 2025-06-09
 |paper|code|
 |---|---|
