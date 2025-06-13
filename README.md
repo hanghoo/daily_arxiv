@@ -1,3 +1,22 @@
+## 2025-06-12
+|paper|code|
+|---|---|
+|[protect: parallelized construction of safety barrier certificates for nonlinear polynomial systems](https://arxiv.org/abs/2404.14804)|[protect](https://github.com/kiguli/protect)|
+|[terime: an improved rime algorithm with enhanced exploration and exploitation for robust parameter extraction of photovoltaic models](https://arxiv.org/abs/2407.18986)|[terime](https://github.com/dirge1/terime)|
+|[system identification under bounded noise: optimal rates beyond least squares](https://arxiv.org/abs/2503.16817)|[Bounded-Noise-SysID-Minimax-Lowerbound](https://github.com/jy-cds/Bounded-Noise-SysID-Minimax-Lowerbound)|
+|[occlusion-aware ground target tracking by a dubins vehicle using visibility volumes](https://arxiv.org/abs/2506.03400)|[DubinsVisibilityTracking](https://github.com/robotics-uncc/DubinsVisibilityTracking)|
+|[federated learning assisted edge caching scheme based on lightweight architecture ddpm](https://arxiv.org/abs/2506.04593)|[federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm](https://github.com/qiongwu86/federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm)|
+|[the causal information bottleneck and optimal causal variable abstractions](https://arxiv.org/abs/2410.00535)|[cib-optimization-psagd](https://github.com/francisco-simoes/cib-optimization-psagd)|
+## 2025-06-11
+|paper|code|
+|---|---|
+|[over-the-air learning-based geometry point cloud transmission](https://arxiv.org/abs/2306.08730)|[SEPT](https://github.com/aprilbian/SEPT)|
+|[identifiable specializations for ode models](https://arxiv.org/abs/2308.16273)|[identifiable-specializations-for-ode-models](https://github.com/alexeyovchinnikov/identifiable-specializations-for-ode-models)|
+|[building resilience in wireless communication systems with a secret-key budget](https://arxiv.org/abs/2407.11604)|[power-control-resilience-secret-key-budget](https://github.com/klb2/power-control-resilience-secret-key-budget)|
+|[little to lose: the case for a robust european green hydrogen strategy](https://arxiv.org/abs/2412.07464)|[eu-hydrogen](https://github.com/koen-vg/eu-hydrogen)|
+|[physics-based battery model parametrisation from impedance data](https://arxiv.org/abs/2412.10896)|[pybop](https://github.com/pybop-team/pybop)|
+|[lessons learned from field demonstrations of model predictive control and reinforcement learning for residential and commercial hvac: a review](https://arxiv.org/abs/2503.05022)|[field-demonstrations-of-mpc-and-rl-for-residential-and-commecial-hvac](https://github.com/arashjkh/field-demonstrations-of-mpc-and-rl-for-residential-and-commecial-hvac)|
+|[interior point differential dynamic programming, redux](https://arxiv.org/abs/2504.08278)|[interiorpointddp.jl](https://github.com/mingu6/interiorpointddp.jl)|
 ## 2025-06-10
 |paper|code|
 |---|---|
@@ -8,6 +27,7 @@
 |[composite reward design in ppo-driven adaptive filtering](https://arxiv.org/abs/2506.06323)|[rl_signal_filtering](https://github.com/Bradshard/Reinforcement_Learning/tree/main/rl_signal_filtering)|
 |[lower bounds on information requirements for causal network inference](https://arxiv.org/abs/2102.00055)|[net-inf-eval](https://github.com/Veggente/net-inf-eval)|
 |[maximum likelihood estimation of optimal receiver operating characteristic curves from likelihood ratio observations](https://arxiv.org/abs/2202.01956)|[mleroc](https://github.com/veggente/mleroc)|
+|[edge-enabled collaborative object detection for real-time multi-vehicle perception](https://arxiv.org/abs/2506.06474)|[Edge-CAV](https://github.com/EverettRichards/Edge-CAV)|
 |[learned off-grid imager for low-altitude economy with cooperative isac network](https://arxiv.org/abs/2506.07799)|[LAEImager](https://github.com/kiwi1944/LAEImager)|
 ## 2025-06-09
 |paper|code|
