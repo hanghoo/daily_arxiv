@@ -1,3 +1,9 @@
+## 2025-06-13
+|paper|code|
+|---|---|
+|[east: environment aware safe tracking using planning and control co-design](https://arxiv.org/abs/2310.01363)|[erl_east](https://github.com/zhl355/erl_east)|
+|[beamforming optimization for continuous aperture array (capa)-based communications](https://arxiv.org/abs/2410.13677)|[beamforming-optimization-for-continuous-aperture-array-based-communications](https://github.com/zhaolin820/beamforming-optimization-for-continuous-aperture-array-based-communications)|
+|[iotgem: generalizable models for behaviour-based iot attack detection](https://arxiv.org/abs/2401.01343)|[IoTGeM](https://github.com/kahramankostas/IoTGeM)|
 ## 2025-06-12
 |paper|code|
 |---|---|
@@ -6,6 +12,7 @@
 |[system identification under bounded noise: optimal rates beyond least squares](https://arxiv.org/abs/2503.16817)|[Bounded-Noise-SysID-Minimax-Lowerbound](https://github.com/jy-cds/Bounded-Noise-SysID-Minimax-Lowerbound)|
 |[occlusion-aware ground target tracking by a dubins vehicle using visibility volumes](https://arxiv.org/abs/2506.03400)|[DubinsVisibilityTracking](https://github.com/robotics-uncc/DubinsVisibilityTracking)|
 |[federated learning assisted edge caching scheme based on lightweight architecture ddpm](https://arxiv.org/abs/2506.04593)|[federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm](https://github.com/qiongwu86/federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm)|
+|[a saddle point algorithm for robust data-driven factor model problems](https://arxiv.org/abs/2506.09776)|[factor_model](https://github.com/skhodakaram/factor_model)|
 |[the causal information bottleneck and optimal causal variable abstractions](https://arxiv.org/abs/2410.00535)|[cib-optimization-psagd](https://github.com/francisco-simoes/cib-optimization-psagd)|
 ## 2025-06-11
 |paper|code|
@@ -17,6 +24,7 @@
 |[physics-based battery model parametrisation from impedance data](https://arxiv.org/abs/2412.10896)|[pybop](https://github.com/pybop-team/pybop)|
 |[lessons learned from field demonstrations of model predictive control and reinforcement learning for residential and commercial hvac: a review](https://arxiv.org/abs/2503.05022)|[field-demonstrations-of-mpc-and-rl-for-residential-and-commecial-hvac](https://github.com/arashjkh/field-demonstrations-of-mpc-and-rl-for-residential-and-commecial-hvac)|
 |[interior point differential dynamic programming, redux](https://arxiv.org/abs/2504.08278)|[interiorpointddp.jl](https://github.com/mingu6/interiorpointddp.jl)|
+|[normalized radon cumulative distribution transforms for invariance and robustness in optimal transport based image classification](https://arxiv.org/abs/2506.08761)|[nr-cdt](https://github.com/drbeckmann/nr-cdt)|
 ## 2025-06-10
 |paper|code|
 |---|---|
