@@ -1,3 +1,7 @@
+## 2025-06-14
+|paper|code|
+|---|---|
+|[the icassp sp cadenza challenge: music demixing/remixing for hearing aids](https://arxiv.org/abs/2310.03480)|[clarity](https://github.com/claritychallenge/clarity)|
 ## 2025-06-13
 |paper|code|
 |---|---|
