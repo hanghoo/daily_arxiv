@@ -1,7 +1,3 @@
-## 2025-06-14
-|paper|code|
-|---|---|
-|[the icassp sp cadenza challenge: music demixing/remixing for hearing aids](https://arxiv.org/abs/2310.03480)|[clarity](https://github.com/claritychallenge/clarity)|
 ## 2025-06-13
 |paper|code|
 |---|---|
@@ -26,8 +22,6 @@
 |[building resilience in wireless communication systems with a secret-key budget](https://arxiv.org/abs/2407.11604)|[power-control-resilience-secret-key-budget](https://github.com/klb2/power-control-resilience-secret-key-budget)|
 |[little to lose: the case for a robust european green hydrogen strategy](https://arxiv.org/abs/2412.07464)|[eu-hydrogen](https://github.com/koen-vg/eu-hydrogen)|
 |[physics-based battery model parametrisation from impedance data](https://arxiv.org/abs/2412.10896)|[pybop](https://github.com/pybop-team/pybop)|
-|[lessons learned from field demonstrations of model predictive control and reinforcement learning for residential and commercial hvac: a review](https://arxiv.org/abs/2503.05022)|[field-demonstrations-of-mpc-and-rl-for-residential-and-commecial-hvac](https://github.com/arashjkh/field-demonstrations-of-mpc-and-rl-for-residential-and-commecial-hvac)|
-|[interior point differential dynamic programming, redux](https://arxiv.org/abs/2504.08278)|[interiorpointddp.jl](https://github.com/mingu6/interiorpointddp.jl)|
 |[normalized radon cumulative distribution transforms for invariance and robustness in optimal transport based image classification](https://arxiv.org/abs/2506.08761)|[nr-cdt](https://github.com/drbeckmann/nr-cdt)|
 ## 2025-06-10
 |paper|code|
