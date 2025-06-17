@@ -1,8 +1,24 @@
+## 2025-06-16
+|paper|code|
+|---|---|
+|[the icassp sp cadenza challenge: music demixing/remixing for hearing aids](https://arxiv.org/abs/2310.03480)|[clarity](https://github.com/claritychallenge/clarity)|
+|[control industrial automation system with large language model agents](https://arxiv.org/abs/2409.18009)|[llm4ias](https://github.com/yuchenxia/llm4ias)|
+|[assessing the optimistic bias in the natural inflow forecasts: a call for model monitoring in brazil](https://arxiv.org/abs/2410.13763)|[inflowforecastbias_data](https://github.com/arthur-brigatto/inflowforecastbias_data)|
+|[real-time aiot for uav antenna interference detection via edge-cloud collaboration](https://arxiv.org/abs/2412.03055)|[edgeant](https://github.com/scnu-rislab/edgeant)|
+|[parametrizations of all stable closed-loop responses: from theory to neural network control design](https://arxiv.org/abs/2412.19280)|[outputSLS](https://github.com/DecodEPFL/outputSLS)|
+|[lessons learned from field demonstrations of model predictive control and reinforcement learning for residential and commercial hvac: a review](https://arxiv.org/abs/2503.05022)|[field-demonstrations-of-mpc-and-rl-for-residential-and-commecial-hvac](https://github.com/arashjkh/field-demonstrations-of-mpc-and-rl-for-residential-and-commecial-hvac)|
+|[interior point differential dynamic programming, redux](https://arxiv.org/abs/2504.08278)|[interiorpointddp.jl](https://github.com/mingu6/interiorpointddp.jl)|
+|[policy gradient adaptive control for the lqr: indirect and direct approaches](https://arxiv.org/abs/2505.03706)|[policy-gradient-adaptive-control](https://github.com/feiran-zhao-eth/policy-gradient-adaptive-control)|
+|[vectorized sparse second-order forward automatic differentiation for optimal control direct methods](https://arxiv.org/abs/2506.11537)|[pockit](https://github.com/zouyilin2000/pockit)|
+|[recursive kalmannet: deep learning-augmented kalman filtering for state estimation with consistent uncertainty quantification](https://arxiv.org/abs/2506.11639)|[RecursiveKalmanNet](https://github.com/ixblue/RecursiveKalmanNet)|
+|[development of a smart autonomous irrigation system using iot and ai](https://arxiv.org/abs/2506.11835)|[Graduation-Project](https://github.com/yunusemrekunt55/Graduation-Project)|
 ## 2025-06-13
 |paper|code|
 |---|---|
 |[east: environment aware safe tracking using planning and control co-design](https://arxiv.org/abs/2310.01363)|[erl_east](https://github.com/zhl355/erl_east)|
 |[beamforming optimization for continuous aperture array (capa)-based communications](https://arxiv.org/abs/2410.13677)|[beamforming-optimization-for-continuous-aperture-array-based-communications](https://github.com/zhaolin820/beamforming-optimization-for-continuous-aperture-array-based-communications)|
+|[learning-based stable optimal control for infinite-time nonlinear regulation problems](https://arxiv.org/abs/2506.10291)|[papernorc](https://github.com/wong-han/papernorc)|
+|[automated validation of textual constraints against automationml via llms and shacl](https://arxiv.org/abs/2506.10678)|[aml-shacl](https://github.com/hsu-aut/aml-shacl)|
 |[iotgem: generalizable models for behaviour-based iot attack detection](https://arxiv.org/abs/2401.01343)|[IoTGeM](https://github.com/kahramankostas/IoTGeM)|
 ## 2025-06-12
 |paper|code|
@@ -11,7 +27,7 @@
 |[terime: an improved rime algorithm with enhanced exploration and exploitation for robust parameter extraction of photovoltaic models](https://arxiv.org/abs/2407.18986)|[terime](https://github.com/dirge1/terime)|
 |[system identification under bounded noise: optimal rates beyond least squares](https://arxiv.org/abs/2503.16817)|[Bounded-Noise-SysID-Minimax-Lowerbound](https://github.com/jy-cds/Bounded-Noise-SysID-Minimax-Lowerbound)|
 |[occlusion-aware ground target tracking by a dubins vehicle using visibility volumes](https://arxiv.org/abs/2506.03400)|[DubinsVisibilityTracking](https://github.com/robotics-uncc/DubinsVisibilityTracking)|
-|[federated learning assisted edge caching scheme based on lightweight architecture ddpm](https://arxiv.org/abs/2506.04593)|[federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm](https://github.com/qiongwu86/federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm)|
+|[integration of contrastive predictive coding and spiking neural networks](https://arxiv.org/abs/2506.09194)|[ongorusel-kodlama](https://github.com/vnd-ogrenme/ongorusel-kodlama)|
 |[a saddle point algorithm for robust data-driven factor model problems](https://arxiv.org/abs/2506.09776)|[factor_model](https://github.com/skhodakaram/factor_model)|
 |[the causal information bottleneck and optimal causal variable abstractions](https://arxiv.org/abs/2410.00535)|[cib-optimization-psagd](https://github.com/francisco-simoes/cib-optimization-psagd)|
 ## 2025-06-11
@@ -22,7 +38,11 @@
 |[building resilience in wireless communication systems with a secret-key budget](https://arxiv.org/abs/2407.11604)|[power-control-resilience-secret-key-budget](https://github.com/klb2/power-control-resilience-secret-key-budget)|
 |[little to lose: the case for a robust european green hydrogen strategy](https://arxiv.org/abs/2412.07464)|[eu-hydrogen](https://github.com/koen-vg/eu-hydrogen)|
 |[physics-based battery model parametrisation from impedance data](https://arxiv.org/abs/2412.10896)|[pybop](https://github.com/pybop-team/pybop)|
+|[lite-rvfl: a lightweight random vector functional-link neural network for learning under concept drift](https://arxiv.org/abs/2506.08063)|[lite-rvfl](https://github.com/songqiaohu/lite-rvfl)|
+|[dekc: data-enable control for tethered space robot deployment in the presence of uncertainty via koopman operator theory](https://arxiv.org/abs/2506.08319)|[dekc](https://github.com/npu-rcir/dekc)|
+|[time-aware world model for adaptive prediction and control](https://arxiv.org/abs/2506.08441)|[time-aware-world-model](https://github.com/anh-nn01/time-aware-world-model)|
 |[normalized radon cumulative distribution transforms for invariance and robustness in optimal transport based image classification](https://arxiv.org/abs/2506.08761)|[nr-cdt](https://github.com/drbeckmann/nr-cdt)|
+|[infodpcca: information-theoretic dynamic probabilistic canonical correlation analysis](https://arxiv.org/abs/2506.08884)|[infodpcca](https://github.com/marcusstang/infodpcca)|
 ## 2025-06-10
 |paper|code|
 |---|---|
