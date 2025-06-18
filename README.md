@@ -1,3 +1,17 @@
+## 2025-06-17
+|paper|code|
+|---|---|
+|[dynamic structured illumination microscopy with a neural space-time model](https://arxiv.org/abs/2206.01397)|[SpeckleFlowSIM](https://github.com/Waller-Lab/SpeckleFlowSIM)|
+|[forming and controlling hitches in midair using aerial robots](https://arxiv.org/abs/2303.07427)|[forming-hitches](https://github.com/swarmslab/forming-hitches)|
+|[spatio-spectral structure tensor total variation for hyperspectral image denoising and destriping](https://arxiv.org/abs/2404.03313)|[spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping](https://github.com/mdi-tokyotech/spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping)|
+|[efficient estimation of relaxed model parameters for robust uav trajectory optimization](https://arxiv.org/abs/2411.10941)|[parameter-affine-relaxation](https://github.com/Herpderk/parameter-affine-relaxation)|
+|[vanishing stacked-residual pinn for state reconstruction of hyperbolic systems](https://arxiv.org/abs/2503.14222)|[stackedresidualpinn](https://github.com/katayouneshkofti/stackedresidualpinn)|
+|[reliable vertical federated learning in 5g core network architecture](https://arxiv.org/abs/2505.15244)|[Reliable-VFL-in-5G-Core-NW-Arch](https://github.com/merce-fra/Reliable-VFL-in-5G-Core-NW-Arch)|
+|[federated learning assisted edge caching scheme based on lightweight architecture ddpm](https://arxiv.org/abs/2506.04593)|[federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm](https://github.com/qiongwu86/federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm)|
+|[infrastructure-free, deep learned urban noise monitoring at $\sim$100mw](https://arxiv.org/abs/2203.06220)|[sonyc-mkii](https://github.com/sonyc-project/sonyc-mkii)|
+|[graph neural networks and deep reinforcement learning based resource allocation for v2x communications](https://arxiv.org/abs/2407.06518)|[gnn-and-drl-based-resource-allocation-for-v2x-communications](https://github.com/qiongwu86/gnn-and-drl-based-resource-allocation-for-v2x-communications)|
+|[enhanced sps velocity-adaptive scheme: access fairness in 5g nr v2i networks](https://arxiv.org/abs/2501.08037)|[enhanced-sps-velocity-adaptivescheme-access-fariness-in-5g-nr-v2i-networks](https://github.com/qiongwu86/enhanced-sps-velocity-adaptivescheme-access-fariness-in-5g-nr-v2i-networks)|
+|[ppo-based vehicle control for ramp merging scheme assisted by enhanced c-v2x](https://arxiv.org/abs/2501.12656)|[ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x](https://github.com/qiongwu86/ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x)|
 ## 2025-06-16
 |paper|code|
 |---|---|
@@ -11,6 +25,7 @@
 |[policy gradient adaptive control for the lqr: indirect and direct approaches](https://arxiv.org/abs/2505.03706)|[policy-gradient-adaptive-control](https://github.com/feiran-zhao-eth/policy-gradient-adaptive-control)|
 |[vectorized sparse second-order forward automatic differentiation for optimal control direct methods](https://arxiv.org/abs/2506.11537)|[pockit](https://github.com/zouyilin2000/pockit)|
 |[recursive kalmannet: deep learning-augmented kalman filtering for state estimation with consistent uncertainty quantification](https://arxiv.org/abs/2506.11639)|[RecursiveKalmanNet](https://github.com/ixblue/RecursiveKalmanNet)|
+|[diffusion-based electrocardiography noise quantification via anomaly detection](https://arxiv.org/abs/2506.11815)|[ECGNoiseQuantification](https://github.com/Taeseong-Han/ECGNoiseQuantification)|
 |[development of a smart autonomous irrigation system using iot and ai](https://arxiv.org/abs/2506.11835)|[Graduation-Project](https://github.com/yunusemrekunt55/Graduation-Project)|
 ## 2025-06-13
 |paper|code|
