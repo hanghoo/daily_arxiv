@@ -1,3 +1,27 @@
+## 2025-06-19
+|paper|code|
+|---|---|
+|[bayesian kalmannet: quantifying uncertainty in deep learning augmented kalman filter](https://arxiv.org/abs/2309.03058)|[Uncertainty-extraction-in-Model-Based-DL](https://github.com/yonatandn/Uncertainty-extraction-in-Model-Based-DL)|
+|[enforcing contraction via data](https://arxiv.org/abs/2401.07819)|[codes-for-contraction-paper](https://github.com/zjhurug/codes-for-contraction-paper)|
+|[distributionally robust receive combining](https://arxiv.org/abs/2401.12345)|[beamforming](https://github.com/spratm-asleaf/beamforming)|
+|[large language model-informed ecg dual attention network for heart failure risk prediction](https://arxiv.org/abs/2403.10581)|[LLM-ECG-Dual-Attention](https://github.com/cherise215/LLM-ECG-Dual-Attention)|
+|[reconfigurable intelligent surface aided vehicular edge computing: joint phase-shift optimization and multi-user power allocation](https://arxiv.org/abs/2407.13123)|[DDPG-RIS-MADDPG-POWER](https://github.com/qiongwu86/DDPG-RIS-MADDPG-POWER)|
+|[energydiff: universal time-series energy data generation using diffusion models](https://arxiv.org/abs/2407.13538)|[energydiff-pub](https://github.com/distributionnetworkstudelft/energydiff-pub)|
+|[cissir: beam codebooks with self-interference reduction guarantees for integrated sensing and communication beyond 5g](https://arxiv.org/abs/2502.10371)|[cissir](https://github.com/rodrihgh/cissir)|
+|[graph neural networks for jamming source localization](https://arxiv.org/abs/2506.03196)|[gnn-jamming-source-localization](https://github.com/daniaherzalla/gnn-jamming-source-localization)|
+|[digital twin vehicular edge computing network: task offloading and resource allocation](https://arxiv.org/abs/2407.11310)|[digital-twin-vehicular-edge-computing-network_task-offloading-and-resource-allocation](https://github.com/qiongwu86/digital-twin-vehicular-edge-computing-network_task-offloading-and-resource-allocation)|
+|[drl-based resource allocation for motion blur resistant federated self-supervised learning in iov](https://arxiv.org/abs/2408.09194)|[drl-bfssl](https://github.com/qiongwu86/drl-bfssl)|
+|[drl-based optimization for aoi and energy consumption in c-v2x enabled iov](https://arxiv.org/abs/2411.13104)|[drl-based-optimization-for-information-of-age-and-energy-consumption-in-c-v2x-enabled-iov](https://github.com/qiongwu86/drl-based-optimization-for-information-of-age-and-energy-consumption-in-c-v2x-enabled-iov)|
+## 2025-06-18
+|paper|code|
+|---|---|
+|[a domain-knowledge-inspired music embedding space and a novel attention mechanism for symbolic music modeling](https://arxiv.org/abs/2212.00973)|[fundamentalmusicembedding](https://github.com/guozixunnicolas/fundamentalmusicembedding)|
+|[arraydps: unsupervised blind speech separation with a diffusion prior](https://arxiv.org/abs/2505.05657)|[arraydps](https://github.com/arraydps/arraydps)|
+|[spectral derivatives](https://arxiv.org/abs/2506.06210)|[spectral-derivatives](https://github.com/pavelkomarov/spectral-derivatives)|
+|[hybrid meta-learning framework for anomaly forecasting in nonlinear dynamical systems via physics-inspired simulation and deep ensembles](https://arxiv.org/abs/2506.13828)|[AFoA](https://github.com/Bradshard/AFoA)|
+|[barrier method for inequality constrained factor graph optimization with application to model predictive control](https://arxiv.org/abs/2506.14341)|[bipm_g2o](https://github.com/snt-arg/bipm_g2o)|
+|[opseval: a comprehensive it operations benchmark suite for large language models](https://arxiv.org/abs/2310.07637)|[opseval-datasets](https://github.com/netmanaiops/opseval-datasets)|
+|[sok: advances and open problems in web tracking](https://arxiv.org/abs/2506.14057)|[sok-advances-open-problems-web-tracking](https://github.com/privacysandstorm/sok-advances-open-problems-web-tracking)|
 ## 2025-06-17
 |paper|code|
 |---|---|
@@ -8,10 +32,15 @@
 |[vanishing stacked-residual pinn for state reconstruction of hyperbolic systems](https://arxiv.org/abs/2503.14222)|[stackedresidualpinn](https://github.com/katayouneshkofti/stackedresidualpinn)|
 |[reliable vertical federated learning in 5g core network architecture](https://arxiv.org/abs/2505.15244)|[Reliable-VFL-in-5G-Core-NW-Arch](https://github.com/merce-fra/Reliable-VFL-in-5G-Core-NW-Arch)|
 |[federated learning assisted edge caching scheme based on lightweight architecture ddpm](https://arxiv.org/abs/2506.04593)|[federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm](https://github.com/qiongwu86/federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm)|
+|[functional multi-reference alignment via deconvolution](https://arxiv.org/abs/2506.12201)|[fmra](https://github.com/msween11/fmra)|
+|[anira: an architecture for neural network inference in real-time audio applications](https://arxiv.org/abs/2506.12665)|[anira](https://github.com/anira-project/anira)|
+|[helena: high-efficiency learning-based channel estimation using dual neural attention](https://arxiv.org/abs/2506.13408)|[helena_channel_estimation](https://github.com/miguelhdo/helena_channel_estimation)|
 |[infrastructure-free, deep learned urban noise monitoring at $\sim$100mw](https://arxiv.org/abs/2203.06220)|[sonyc-mkii](https://github.com/sonyc-project/sonyc-mkii)|
 |[graph neural networks and deep reinforcement learning based resource allocation for v2x communications](https://arxiv.org/abs/2407.06518)|[gnn-and-drl-based-resource-allocation-for-v2x-communications](https://github.com/qiongwu86/gnn-and-drl-based-resource-allocation-for-v2x-communications)|
 |[enhanced sps velocity-adaptive scheme: access fairness in 5g nr v2i networks](https://arxiv.org/abs/2501.08037)|[enhanced-sps-velocity-adaptivescheme-access-fariness-in-5g-nr-v2i-networks](https://github.com/qiongwu86/enhanced-sps-velocity-adaptivescheme-access-fariness-in-5g-nr-v2i-networks)|
 |[ppo-based vehicle control for ramp merging scheme assisted by enhanced c-v2x](https://arxiv.org/abs/2501.12656)|[ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x](https://github.com/qiongwu86/ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x)|
+|[latency optimization for wireless federated learning in multihop networks](https://arxiv.org/abs/2506.12081)|[multihop_fl](https://github.com/shabagit/multihop_fl)|
+|[zero-shot denoising via neural compression: theoretical and algorithmic framework](https://arxiv.org/abs/2506.12693)|[zs-ncdenoiser](https://github.com/computational-imaging-ru/zs-ncdenoiser)|
 ## 2025-06-16
 |paper|code|
 |---|---|
