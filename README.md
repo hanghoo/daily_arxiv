@@ -8,10 +8,12 @@
 |[reconfigurable intelligent surface aided vehicular edge computing: joint phase-shift optimization and multi-user power allocation](https://arxiv.org/abs/2407.13123)|[DDPG-RIS-MADDPG-POWER](https://github.com/qiongwu86/DDPG-RIS-MADDPG-POWER)|
 |[energydiff: universal time-series energy data generation using diffusion models](https://arxiv.org/abs/2407.13538)|[energydiff-pub](https://github.com/distributionnetworkstudelft/energydiff-pub)|
 |[cissir: beam codebooks with self-interference reduction guarantees for integrated sensing and communication beyond 5g](https://arxiv.org/abs/2502.10371)|[cissir](https://github.com/rodrihgh/cissir)|
-|[graph neural networks for jamming source localization](https://arxiv.org/abs/2506.03196)|[gnn-jamming-source-localization](https://github.com/daniaherzalla/gnn-jamming-source-localization)|
+|[graph neural networks for jamming source localization](https://arxiv.org/abs/2506.03196)|[gnn-jamming-source-localization](https://github.com/tiiuae/gnn-jamming-source-localization)|
+|[secure time-modulated intelligent reflecting surface via generative flow networks](https://arxiv.org/abs/2506.14992)|[gfn4tm-ris](https://github.com/zhihaotao/gfn4tm-ris)|
 |[digital twin vehicular edge computing network: task offloading and resource allocation](https://arxiv.org/abs/2407.11310)|[digital-twin-vehicular-edge-computing-network_task-offloading-and-resource-allocation](https://github.com/qiongwu86/digital-twin-vehicular-edge-computing-network_task-offloading-and-resource-allocation)|
 |[drl-based resource allocation for motion blur resistant federated self-supervised learning in iov](https://arxiv.org/abs/2408.09194)|[drl-bfssl](https://github.com/qiongwu86/drl-bfssl)|
 |[drl-based optimization for aoi and energy consumption in c-v2x enabled iov](https://arxiv.org/abs/2411.13104)|[drl-based-optimization-for-information-of-age-and-energy-consumption-in-c-v2x-enabled-iov](https://github.com/qiongwu86/drl-based-optimization-for-information-of-age-and-energy-consumption-in-c-v2x-enabled-iov)|
+|[the maximum-average subtensor problem: equilibrium and out-of-equilibrium properties](https://arxiv.org/abs/2506.15400)|[maximum-avg-subtensors](https://github.com/spoc-group/maximum-avg-subtensors)|
 ## 2025-06-18
 |paper|code|
 |---|---|
@@ -19,6 +21,8 @@
 |[arraydps: unsupervised blind speech separation with a diffusion prior](https://arxiv.org/abs/2505.05657)|[arraydps](https://github.com/arraydps/arraydps)|
 |[spectral derivatives](https://arxiv.org/abs/2506.06210)|[spectral-derivatives](https://github.com/pavelkomarov/spectral-derivatives)|
 |[hybrid meta-learning framework for anomaly forecasting in nonlinear dynamical systems via physics-inspired simulation and deep ensembles](https://arxiv.org/abs/2506.13828)|[AFoA](https://github.com/Bradshard/AFoA)|
+|[quadrotor morpho-transition: learning vs model-based control strategies](https://arxiv.org/abs/2506.14039)|[isaaclab](https://github.com/mandralis/isaaclab)|
+|[extracting transient koopman modes from short-term weather simulations with sparsity-promoting dynamic mode decomposition](https://arxiv.org/abs/2506.14083)|[transient-weather-modes-spdmd](https://github.com/zc-zhang/transient-weather-modes-spdmd)|
 |[barrier method for inequality constrained factor graph optimization with application to model predictive control](https://arxiv.org/abs/2506.14341)|[bipm_g2o](https://github.com/snt-arg/bipm_g2o)|
 |[opseval: a comprehensive it operations benchmark suite for large language models](https://arxiv.org/abs/2310.07637)|[opseval-datasets](https://github.com/netmanaiops/opseval-datasets)|
 |[sok: advances and open problems in web tracking](https://arxiv.org/abs/2506.14057)|[sok-advances-open-problems-web-tracking](https://github.com/privacysandstorm/sok-advances-open-problems-web-tracking)|
@@ -29,6 +33,7 @@
 |[forming and controlling hitches in midair using aerial robots](https://arxiv.org/abs/2303.07427)|[forming-hitches](https://github.com/swarmslab/forming-hitches)|
 |[spatio-spectral structure tensor total variation for hyperspectral image denoising and destriping](https://arxiv.org/abs/2404.03313)|[spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping](https://github.com/mdi-tokyotech/spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping)|
 |[efficient estimation of relaxed model parameters for robust uav trajectory optimization](https://arxiv.org/abs/2411.10941)|[parameter-affine-relaxation](https://github.com/Herpderk/parameter-affine-relaxation)|
+|[probabilistic gospa: a metric for performance evaluation of multi-object filters with uncertainties](https://arxiv.org/abs/2412.11482)|[probabilistic-gospa](https://github.com/yuhsuansia/probabilistic-gospa)|
 |[vanishing stacked-residual pinn for state reconstruction of hyperbolic systems](https://arxiv.org/abs/2503.14222)|[stackedresidualpinn](https://github.com/katayouneshkofti/stackedresidualpinn)|
 |[reliable vertical federated learning in 5g core network architecture](https://arxiv.org/abs/2505.15244)|[Reliable-VFL-in-5G-Core-NW-Arch](https://github.com/merce-fra/Reliable-VFL-in-5G-Core-NW-Arch)|
 |[federated learning assisted edge caching scheme based on lightweight architecture ddpm](https://arxiv.org/abs/2506.04593)|[federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm](https://github.com/qiongwu86/federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm)|
