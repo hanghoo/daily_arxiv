@@ -13,7 +13,6 @@
 |[digital twin vehicular edge computing network: task offloading and resource allocation](https://arxiv.org/abs/2407.11310)|[digital-twin-vehicular-edge-computing-network_task-offloading-and-resource-allocation](https://github.com/qiongwu86/digital-twin-vehicular-edge-computing-network_task-offloading-and-resource-allocation)|
 |[drl-based resource allocation for motion blur resistant federated self-supervised learning in iov](https://arxiv.org/abs/2408.09194)|[drl-bfssl](https://github.com/qiongwu86/drl-bfssl)|
 |[drl-based optimization for aoi and energy consumption in c-v2x enabled iov](https://arxiv.org/abs/2411.13104)|[drl-based-optimization-for-information-of-age-and-energy-consumption-in-c-v2x-enabled-iov](https://github.com/qiongwu86/drl-based-optimization-for-information-of-age-and-energy-consumption-in-c-v2x-enabled-iov)|
-|[the maximum-average subtensor problem: equilibrium and out-of-equilibrium properties](https://arxiv.org/abs/2506.15400)|[maximum-avg-subtensors](https://github.com/spoc-group/maximum-avg-subtensors)|
 ## 2025-06-18
 |paper|code|
 |---|---|
