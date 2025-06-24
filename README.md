@@ -1,3 +1,29 @@
+## 2025-06-23
+|paper|code|
+|---|---|
+|[koopman-hopf hamilton-jacobi reachability and control](https://arxiv.org/abs/2303.11590)|[hopfreachability](https://github.com/ucsd-saslab/hopfreachability)|
+|[modeling epidemic spread: a gaussian process regression approach](https://arxiv.org/abs/2312.09384)|[gpr_epi_modeling](https://github.com/baikeshe/gpr_epi_modeling)|
+|[safe guaranteed exploration for non-linear systems](https://arxiv.org/abs/2402.06562)|[sagempc](https://github.com/manish-pra/sagempc)|
+|[state-augmented linear games with antagonistic error for high-dimensional, nonlinear hamilton-jacobi reachability](https://arxiv.org/abs/2403.16982)|[hopfreachability](https://github.com/ucsd-saslab/hopfreachability)|
+|[semantic-aware resource allocation based on deep reinforcement learning for 5g-v2x hetnets](https://arxiv.org/abs/2406.07996)|[semantic-aware-resource-allocation-based-on-deep-reinforcement-learning-for-5g-v2x-hetnets](https://github.com/qiongwu86/semantic-aware-resource-allocation-based-on-deep-reinforcement-learning-for-5g-v2x-hetnets)|
+|[deep-reinforcement-learning-based aoi-aware resource allocation for ris-aided iov networks](https://arxiv.org/abs/2406.11245)|[ris-rb-aoi-v2x-drl](https://github.com/qiongwu86/ris-rb-aoi-v2x-drl)|
+|[reconfigurable intelligent surface assisted vec based on multi-agent reinforcement learning](https://arxiv.org/abs/2406.11318)|[ris-vec-marl](https://github.com/qiongwu86/ris-vec-marl)|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[joint optimization of age of information and energy consumption in nr-v2x system based on deep reinforcement learning](https://arxiv.org/abs/2407.08458)|[joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl](https://github.com/qiongwu86/joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl)|
+|[dsp-mlir: a mlir dialect for digital signal processing](https://arxiv.org/abs/2408.11205)|[DSP_MLIR](https://github.com/MPSLab-ASU/DSP_MLIR)|
+|[response surface methodology coupled with desirability functions for multi-objective optimization: minimizing indoor overheating hours and maximizing useful daylight illuminance](https://arxiv.org/abs/2409.09093)|[rsm-thermal-daylight-optimization](https://github.com/juan-gamero-salinas/rsm-thermal-daylight-optimization)|
+|[little to lose: the case for a robust european green hydrogen strategy](https://arxiv.org/abs/2412.07464)|[eu-hydrogen](https://github.com/koen-vg/eu-hydrogen)|
+|[multi-agent multi-armed bandits with minimum reward guarantee fairness](https://arxiv.org/abs/2502.15240)|[Fair-MAMAB](https://github.com/Piyushi-0/Fair-MAMAB)|
+|[autobargesim: matlab(r) toolbox for the design and analysis of the guidance and control system for autonomous inland vessels](https://arxiv.org/abs/2503.21594)|[autobargesim](https://github.com/AUTOBarge/autobargesim)|
+|[a statistical evaluation of indoor lorawan environment-aware propagation for 6g: mlr, anova, and residual distribution analysis](https://arxiv.org/abs/2504.16688)|[EnviKal-Loc](https://github.com/nahshonmokua/EnviKal-Loc)|
+|[enhanced trust region sequential convex optimization for multi-drone thermal screening trajectory planning in urban environments](https://arxiv.org/abs/2506.06012)|[enhanced-tr-sco](https://github.com/cherry0302/enhanced-tr-sco)|
+|[evaluating the impact of model accuracy for optimizing battery energy storage systems](https://arxiv.org/abs/2506.17059)|[bess-opt-benchmark](https://github.com/martincornejo/bess-opt-benchmark)|
+|[resource allocation for twin maintenance and computing task processing in digital twin vehicular edge computing network](https://arxiv.org/abs/2407.07575)|[resource-allocation-for-twin-maintenance-and-computing-tasks-in-digital-twin-mobile-edge-network](https://github.com/qiongwu86/resource-allocation-for-twin-maintenance-and-computing-tasks-in-digital-twin-mobile-edge-network)|
+|[drl-based federated self-supervised learning for task offloading and resource allocation in isac-enabled vehicle edge computing](https://arxiv.org/abs/2408.14831)|[federated-ssl-task-offloading-and-resource-allocation](https://github.com/qiongwu86/federated-ssl-task-offloading-and-resource-allocation)|
+|[optimizing age of information in internet of vehicles over error-prone channels](https://arxiv.org/abs/2412.13204)|[blockchain-enabled-variational-information-bottleneck-for-minimizing-aoi-in-iov](https://github.com/qiongwu86/blockchain-enabled-variational-information-bottleneck-for-minimizing-aoi-in-iov)|
+|[effective application of normalized min-sum decoding for short bch codes](https://arxiv.org/abs/2412.20828)|[Short_BCH_Decoding_OSD](https://github.com/lgw-frank/Short_BCH_Decoding_OSD)|
+|[how breakable is privacy: probing and resisting model inversion attacks in collaborative inference](https://arxiv.org/abs/2501.00824)|[SiftFunnel](https://github.com/SiftFunnel/SiftFunnel)|
+|[the maximum-average subtensor problem: equilibrium and out-of-equilibrium properties](https://arxiv.org/abs/2506.15400)|[maximum-avg-subtensors](https://github.com/spoc-group/maximum-avg-subtensors)|
 ## 2025-06-19
 |paper|code|
 |---|---|
