@@ -1,3 +1,18 @@
+## 2025-06-24
+|paper|code|
+|---|---|
+|[physics-informed multi-agent reinforcement learning for distributed multi-robot problems](https://arxiv.org/abs/2401.00212)|[phmarl](https://github.com/eduardosebastianrodriguez/phmarl)|
+|[multi-agent soft actor-critic with coordinated loss for autonomous mobility-on-demand fleet control](https://arxiv.org/abs/2404.06975)|[hybridmadrl-amod-relocation](https://github.com/tumbais/hybridmadrl-amod-relocation)|
+|[an unsupervised approach for periodic source detection in time series](https://arxiv.org/abs/2406.00566)|[unsupervised_periodicity_detection](https://github.com/eth-siplab/unsupervised_periodicity_detection)|
+|[enhancing glucose level prediction of icu patients through hierarchical modeling of irregular time-series](https://arxiv.org/abs/2411.01418)|[MITST](https://github.com/zavareh89/MITST)|
+|[recursive gaussian process state space model](https://arxiv.org/abs/2411.14679)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[automatic differentiation-based full waveform inversion with flexible workflows](https://arxiv.org/abs/2412.00486)|[ADFWI](https://github.com/liufeng2317/ADFWI)|
+|[a linear parameter-varying framework for the analysis of time-varying optimization algorithms](https://arxiv.org/abs/2501.07461)|[2024-tvopt-algorithm-analysis](https://github.com/col-tasas/2024-tvopt-algorithm-analysis)|
+|[informativity conditions for multiple signals: properties, experimental design, and applications](https://arxiv.org/abs/2501.10030)|[examples-for-cpe-conditions](https://github.com/aocao-1/examples-for-cpe-conditions)|
+|[the value of hedging against energy storage uncertainties when designing energy parks](https://arxiv.org/abs/2503.15416)|[Energy-Park-Design](https://github.com/mal84emma/Energy-Park-Design)|
+|[conformal changepoint localization](https://arxiv.org/abs/2505.00292)|[conformal-change-localization](https://github.com/sanjitdp/conformal-change-localization)|
+|[reliable vertical federated learning in 5g core network architecture](https://arxiv.org/abs/2505.15244)|[Reliable-VFL-in-5G-Core-NW-Arch](https://github.com/merce-fra/Reliable-VFL-in-5G-Core-NW-Arch)|
+|[quark: implementing convolutional neural networks entirely on programmable data plane](https://arxiv.org/abs/2501.15100)|[quark-cnn-p4](https://github.com/antlab-repo/quark-cnn-p4)|
 ## 2025-06-23
 |paper|code|
 |---|---|
@@ -17,19 +32,25 @@
 |[autobargesim: matlab(r) toolbox for the design and analysis of the guidance and control system for autonomous inland vessels](https://arxiv.org/abs/2503.21594)|[autobargesim](https://github.com/AUTOBarge/autobargesim)|
 |[a statistical evaluation of indoor lorawan environment-aware propagation for 6g: mlr, anova, and residual distribution analysis](https://arxiv.org/abs/2504.16688)|[EnviKal-Loc](https://github.com/nahshonmokua/EnviKal-Loc)|
 |[enhanced trust region sequential convex optimization for multi-drone thermal screening trajectory planning in urban environments](https://arxiv.org/abs/2506.06012)|[enhanced-tr-sco](https://github.com/cherry0302/enhanced-tr-sco)|
+|[a low-cost portable lidar-based mobile mapping system on an android smartphone](https://arxiv.org/abs/2506.15983)|[marslogger_android](https://github.com/osupcvlab/marslogger_android)|
+|[end-to-end learning of probabilistic constellation shaping through importance sampling](https://arxiv.org/abs/2506.16098)|[e2e-pcs-through-importance-sampling](https://github.com/kit-cel/e2e-pcs-through-importance-sampling)|
+|[sparsedpd: a sparse neural network-based digital predistortion fpga accelerator for rf power amplifier linearization](https://arxiv.org/abs/2506.16591)|[sparsedpd](https://github.com/mannoversluis/sparsedpd)|
 |[evaluating the impact of model accuracy for optimizing battery energy storage systems](https://arxiv.org/abs/2506.17059)|[bess-opt-benchmark](https://github.com/martincornejo/bess-opt-benchmark)|
+|[cross-modal epileptic signal harmonization: frequency domain mapping quantization for pre-training a unified neurophysiological transformer](https://arxiv.org/abs/2506.17068)|[epint](https://github.com/runkzhang/epint)|
+|[judo: a user-friendly open-source package for sampling-based model predictive control](https://arxiv.org/abs/2506.17184)|[judo](https://github.com/bdaiinstitute/judo)|
 |[resource allocation for twin maintenance and computing task processing in digital twin vehicular edge computing network](https://arxiv.org/abs/2407.07575)|[resource-allocation-for-twin-maintenance-and-computing-tasks-in-digital-twin-mobile-edge-network](https://github.com/qiongwu86/resource-allocation-for-twin-maintenance-and-computing-tasks-in-digital-twin-mobile-edge-network)|
 |[drl-based federated self-supervised learning for task offloading and resource allocation in isac-enabled vehicle edge computing](https://arxiv.org/abs/2408.14831)|[federated-ssl-task-offloading-and-resource-allocation](https://github.com/qiongwu86/federated-ssl-task-offloading-and-resource-allocation)|
 |[optimizing age of information in internet of vehicles over error-prone channels](https://arxiv.org/abs/2412.13204)|[blockchain-enabled-variational-information-bottleneck-for-minimizing-aoi-in-iov](https://github.com/qiongwu86/blockchain-enabled-variational-information-bottleneck-for-minimizing-aoi-in-iov)|
 |[effective application of normalized min-sum decoding for short bch codes](https://arxiv.org/abs/2412.20828)|[Short_BCH_Decoding_OSD](https://github.com/lgw-frank/Short_BCH_Decoding_OSD)|
 |[how breakable is privacy: probing and resisting model inversion attacks in collaborative inference](https://arxiv.org/abs/2501.00824)|[SiftFunnel](https://github.com/SiftFunnel/SiftFunnel)|
+|[benford's law from turing ensembles and integer partitions](https://arxiv.org/abs/2502.16314)|[benford-experiment](https://github.com/sashakolpakov/benford-experiment)|
 |[the maximum-average subtensor problem: equilibrium and out-of-equilibrium properties](https://arxiv.org/abs/2506.15400)|[maximum-avg-subtensors](https://github.com/spoc-group/maximum-avg-subtensors)|
+|[safer-d: a self-adaptive security framework for distributed computing architectures](https://arxiv.org/abs/2506.16545)|[ecsa25_safer-d_uc-1](https://github.com/jku-lit-scsl/ecsa25_safer-d_uc-1)|
 ## 2025-06-19
 |paper|code|
 |---|---|
 |[bayesian kalmannet: quantifying uncertainty in deep learning augmented kalman filter](https://arxiv.org/abs/2309.03058)|[Uncertainty-extraction-in-Model-Based-DL](https://github.com/yonatandn/Uncertainty-extraction-in-Model-Based-DL)|
 |[enforcing contraction via data](https://arxiv.org/abs/2401.07819)|[codes-for-contraction-paper](https://github.com/zjhurug/codes-for-contraction-paper)|
-|[distributionally robust receive combining](https://arxiv.org/abs/2401.12345)|[beamforming](https://github.com/spratm-asleaf/beamforming)|
 |[large language model-informed ecg dual attention network for heart failure risk prediction](https://arxiv.org/abs/2403.10581)|[LLM-ECG-Dual-Attention](https://github.com/cherise215/LLM-ECG-Dual-Attention)|
 |[reconfigurable intelligent surface aided vehicular edge computing: joint phase-shift optimization and multi-user power allocation](https://arxiv.org/abs/2407.13123)|[DDPG-RIS-MADDPG-POWER](https://github.com/qiongwu86/DDPG-RIS-MADDPG-POWER)|
 |[energydiff: universal time-series energy data generation using diffusion models](https://arxiv.org/abs/2407.13538)|[energydiff-pub](https://github.com/distributionnetworkstudelft/energydiff-pub)|
