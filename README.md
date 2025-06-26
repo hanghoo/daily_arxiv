@@ -1,3 +1,11 @@
+## 2025-06-25
+|paper|code|
+|---|---|
+|[distributionally robust receive combining](https://arxiv.org/abs/2401.12345)|[beamforming](https://github.com/spratm-asleaf/beamforming)|
+|[on counterfactual interventions in vector autoregressive models](https://arxiv.org/abs/2406.19573)|[counterfactual_interventions](https://github.com/kurtbutler/counterfactual_interventions)|
+|[fully distributed and resilient source seeking for robot swarms](https://arxiv.org/abs/2410.15921)|[source_seeking](https://github.com/swarm-systems-lab/source_seeking)|
+|[tangent space causal inference: leveraging vector fields for causal discovery in dynamical systems](https://arxiv.org/abs/2410.23499)|[tangentspaces](https://github.com/KurtButler/tangentspaces)|
+|[pglib-co2: a power grid library for computing and optimizing carbon emissions](https://arxiv.org/abs/2506.14662)|[pglib-co2](https://github.com/jacobcho0103/pglib-co2)|
 ## 2025-06-24
 |paper|code|
 |---|---|
