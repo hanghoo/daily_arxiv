@@ -1,3 +1,9 @@
+## 2025-06-26
+|paper|code|
+|---|---|
+|[design tasks and their complexity for the european train control system with hybrid train detection](https://arxiv.org/abs/2308.02572)|[mtct](https://github.com/cda-tum/mtct)|
+|[physics-informed neural networks: a plug and play integration into power system dynamic simulations](https://arxiv.org/abs/2404.13325)|[pinns-plug-n-play-integration](https://github.com/ignvenad/pinns-plug-n-play-integration)|
+|[a deep learning-based supervised transfer learning framework for doa estimation with array imperfections](https://arxiv.org/abs/2504.13394)|[doa_est_master](https://github.com/zzb-nice/doa_est_master)|
 ## 2025-06-25
 |paper|code|
 |---|---|
