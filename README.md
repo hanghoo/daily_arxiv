@@ -1,3 +1,8 @@
+## 2025-06-27
+|paper|code|
+|---|---|
+|[radio map estimation via latent domain plug-and-play denoising](https://arxiv.org/abs/2501.13472)|[LaPnP](https://github.com/xumaomao94/LaPnP)|
+|[one model to forecast them all and in entity distributions bind them](https://arxiv.org/abs/2501.15499)|[behavio-temporal-vae](https://github.com/kabolat/behavio-temporal-vae)|
 ## 2025-06-26
 |paper|code|
 |---|---|
