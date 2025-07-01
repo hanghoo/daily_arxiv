@@ -1,3 +1,10 @@
+## 2025-06-30
+|paper|code|
+|---|---|
+|[knn-mmd: cross domain wireless sensing via local distribution alignment](https://arxiv.org/abs/2412.04783)|[KNN-MMD](https://github.com/RS2002/KNN-MMD)|
+|[near field localization via ai-aided subspace methods](https://arxiv.org/abs/2504.00599)|[AI-Subspace-Methods](https://github.com/ShlezingerLab/AI-Subspace-Methods)|
+|[scalable hypergraph structure learning with diverse smoothness priors](https://arxiv.org/abs/2504.03583)|[Scalable-Hypergraph-Structure-Learning-with-Diverse-Smoothness-Priors](https://github.com/Ben-Brown-Code/Scalable-Hypergraph-Structure-Learning-with-Diverse-Smoothness-Priors)|
+|[benford's law from turing ensembles and integer partitions](https://arxiv.org/abs/2502.16314)|[benford-experiment](https://github.com/sashakolpakov/benford-experiment)|
 ## 2025-06-27
 |paper|code|
 |---|---|
@@ -8,7 +15,6 @@
 |---|---|
 |[design tasks and their complexity for the european train control system with hybrid train detection](https://arxiv.org/abs/2308.02572)|[mtct](https://github.com/cda-tum/mtct)|
 |[physics-informed neural networks: a plug and play integration into power system dynamic simulations](https://arxiv.org/abs/2404.13325)|[pinns-plug-n-play-integration](https://github.com/ignvenad/pinns-plug-n-play-integration)|
-|[a deep learning-based supervised transfer learning framework for doa estimation with array imperfections](https://arxiv.org/abs/2504.13394)|[doa_est_master](https://github.com/zzb-nice/doa_est_master)|
 ## 2025-06-25
 |paper|code|
 |---|---|
