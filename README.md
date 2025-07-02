@@ -1,3 +1,12 @@
+## 2025-07-01
+|paper|code|
+|---|---|
+|[deep multi-manifold transformation based multivariate time series fault detection](https://arxiv.org/abs/2405.16258)|[code_usd](https://github.com/zangzelin/code_usd)|
+|[cough-e: a multimodal, privacy-preserving cough detection algorithm for the edge](https://arxiv.org/abs/2410.24066)|[Cough-E](https://github.com/esl-epfl/Cough-E)|
+|[quantifying the benefit of load uncertainty reduction for the design of district energy systems under grid constraints using the value of information](https://arxiv.org/abs/2412.16105)|[Building-Design-VoI](https://github.com/mal84emma/Building-Design-VoI)|
+|[tensorconvolutionplus: a python package for distribution system flexibility area estimation](https://arxiv.org/abs/2501.06976)|[tensorconvolutionflexibility](https://github.com/demetris-ch/tensorconvolutionflexibility)|
+|[a comparative study of human motion models in reinforcement learning algorithms for social robot navigation](https://arxiv.org/abs/2503.15127)|[Social-Navigation-PyEnvs](https://github.com/TommasoVandermeer/Social-Navigation-PyEnvs)|
+|[a deep learning-based supervised transfer learning framework for doa estimation with array imperfections](https://arxiv.org/abs/2504.13394)|[doa_est_master](https://github.com/zzb-nice/doa_est_master)|
 ## 2025-06-30
 |paper|code|
 |---|---|
