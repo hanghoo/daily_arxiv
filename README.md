@@ -1,3 +1,9 @@
+## 2025-07-02
+|paper|code|
+|---|---|
+|[ecg-byte: a tokenizer for end-to-end generative electrocardiogram language modeling](https://arxiv.org/abs/2412.14373)|[ecg-byte](https://github.com/willxxy/ecg-byte)|
+|[analogical learning for cross-scenario generalization: framework and application to intelligent localization](https://arxiv.org/abs/2504.08811)|[alloc](https://github.com/ziruichen-research/alloc)|
+|[eclypse: a python framework for simulation and emulation of the cloud-edge continuum](https://arxiv.org/abs/2501.17126)|[eclypse](https://github.com/eclypse-org/eclypse)|
 ## 2025-07-01
 |paper|code|
 |---|---|
