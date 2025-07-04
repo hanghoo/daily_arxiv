@@ -1,3 +1,10 @@
+## 2025-07-03
+|paper|code|
+|---|---|
+|[design tasks and their complexity for the european train control system with hybrid train detection](https://arxiv.org/abs/2308.02572)|[mtct](https://github.com/cda-tum/mtct)|
+|[adaptive nad: online and self-adaptive unsupervised network anomaly detector](https://arxiv.org/abs/2410.22967)|[adaptive-nad](https://github.com/mylearncodespace/adaptive-nad)|
+|[real-time aiot for aav antenna interference detection via edge-cloud collaboration](https://arxiv.org/abs/2412.03055)|[edgeant](https://github.com/scnu-rislab/edgeant)|
+|[contrastive learning and adversarial disentanglement for privacy-aware task-oriented semantic communication](https://arxiv.org/abs/2410.22784)|[clad](https://github.com/omarerak/clad)|
 ## 2025-07-02
 |paper|code|
 |---|---|
