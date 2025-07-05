@@ -1,3 +1,9 @@
+## 2025-07-04
+|paper|code|
+|---|---|
+|[regression coefficient estimation from remote sensing maps](https://arxiv.org/abs/2407.13659)|[uncertainty-quantification](https://github.com/earth-intelligence-lab/uncertainty-quantification)|
+|[adaptive koopman model predictive control of simple serial robots](https://arxiv.org/abs/2503.17902)|[adaptive-koopman-mpc](https://github.com/adrianodelr/adaptive-koopman-mpc)|
+|[gemid: generalizable models for iot device identification](https://arxiv.org/abs/2411.14441)|[GeMID](https://github.com/kahramankostas/GeMID)|
 ## 2025-07-03
 |paper|code|
 |---|---|
