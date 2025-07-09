@@ -1,3 +1,22 @@
+## 2025-07-08
+|paper|code|
+|---|---|
+|[towards off-the-grid algorithms for total variation regularized inverse problems](https://arxiv.org/abs/2104.06706)|[tvsfw](https://github.com/rpetit/tvsfw)|
+|[iterative linear quadratic optimization for nonlinear control: differentiable programming algorithmic templates](https://arxiv.org/abs/2207.06362)|[ilqc](https://github.com/vroulet/ilqc)|
+|[exact recovery of the support of piecewise constant images via total variation regularization](https://arxiv.org/abs/2307.03709)|[2023-support-recovery-tv](https://github.com/rpetit/2023-support-recovery-tv)|
+|[spatio-spectral structure tensor total variation for hyperspectral image denoising and destriping](https://arxiv.org/abs/2404.03313)|[spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping](https://github.com/mdi-tokyotech/spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping)|
+|[a hybrid systems framework for data-based adaptive control of linear time-varying systems](https://arxiv.org/abs/2405.14426)|[data-adaptive-et-c](https://gitlab.com/col-tasas/data-adaptive-et-c)|
+|[accelerating ill-conditioned hankel matrix recovery via structured newton-like descent](https://arxiv.org/abs/2406.07409)|[HSNLD](https://github.com/caesarcai/HSNLD)|
+|[event-based photometric bundle adjustment](https://arxiv.org/abs/2412.14111)|[epba](https://github.com/tub-rip/epba)|
+|[open-set gait recognition from sparse mmwave radar point clouds](https://arxiv.org/abs/2503.07435)|[OpenSetGaitRecognition_PCAA](https://github.com/rmazzier/OpenSetGaitRecognition_PCAA)|
+|[a data-centric supervised transfer learning framework for doa estimation with array imperfections](https://arxiv.org/abs/2504.13394)|[doa_est_master](https://github.com/zzb-nice/doa_est_master)|
+|[a statistical approach for synthetic eeg data generation](https://arxiv.org/abs/2504.16143)|[syntheticeeg](https://github.com/xalentis/syntheticeeg)|
+|[incremental firmware update over-the-air for low-power iot devices over lorawan](https://arxiv.org/abs/2505.13764)|[bpatch](https://github.com/vlsi-nanocomputing/bpatch)|
+|[a taxonomy and comparative analysis of ipv4 identifier selection correctness, security, and performance](https://arxiv.org/abs/2406.06483)|[IPIDSurvey-Code](https://github.com/DaymudeLab/IPIDSurvey-Code)|
+|[data matters: the case of predicting mobile cellular traffic](https://arxiv.org/abs/2411.02418)|[datamatters](https://github.com/nvassileva/datamatters)|
+|[tinyml nlp scheme for semantic wireless sentiment classification with privacy preservation](https://arxiv.org/abs/2411.06291)|[tinyeco2ai-nlp](https://github.com/ahmedradwan02/tinyeco2ai-nlp)|
+|[rf-3dgs: wireless channel modeling with radio radiance field and 3d gaussian splatting](https://arxiv.org/abs/2411.19420)|[rf-3dgs](https://github.com/sunlab-uga/rf-3dgs)|
+|[coordinated spatial reuse scheduling with machine learning in ieee 802.11 mapc networks](https://arxiv.org/abs/2505.07278)|[csr](https://github.com/ml4wifi-devs/csr)|
 ## 2025-07-04
 |paper|code|
 |---|---|
