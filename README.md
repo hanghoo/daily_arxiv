@@ -1,3 +1,10 @@
+## 2025-07-09
+|paper|code|
+|---|---|
+|[copula density neural estimation](https://arxiv.org/abs/2211.15353)|[codine-copula-estimator](https://github.com/tonellolab/codine-copula-estimator)|
+|[a runtime-adaptive transformer neural network accelerator on fpgas](https://arxiv.org/abs/2411.18148)|[Transformer_on_FPGA](https://github.com/Kabir-Ehsan/Transformer_on_FPGA)|
+|[distributionally robust predictive runtime verification under spatio-temporal logic specifications](https://arxiv.org/abs/2504.02964)|[robust_spatio-temporal_predictive_runtime_verification](https://github.com/saids-lab/robust_spatio-temporal_predictive_runtime_verification)|
+|[on data usage and predictive behavior of data-driven predictive control with 1-norm regularization](https://arxiv.org/abs/2505.22307)|[data-usage-dpc-1-norm](https://github.com/Control-and-Cyberphysical-Systems/data-usage-dpc-1-norm)|
 ## 2025-07-08
 |paper|code|
 |---|---|
