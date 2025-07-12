@@ -1,3 +1,8 @@
+## 2025-07-11
+|paper|code|
+|---|---|
+|[learning-based two-way communications: algorithmic framework and comparative analysis](https://arxiv.org/abs/2504.15514)|[twoway_models](https://github.com/davidrnickel/twoway_models)|
+|[information-driven design of imaging systems](https://arxiv.org/abs/2405.20559)|[encodinginformation](https://github.com/waller-lab/encodinginformation)|
 ## 2025-07-09
 |paper|code|
 |---|---|
