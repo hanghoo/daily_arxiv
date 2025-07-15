@@ -1,3 +1,8 @@
+## 2025-07-14
+|paper|code|
+|---|---|
+|[qubitlens: an interactive learning tool for quantum state tomography](https://arxiv.org/abs/2505.08056)|[qubitlens](https://github.com/mdaamirq/qubitlens)|
+|[what should a neuron aim for? designing local objective functions based on information theory](https://arxiv.org/abs/2412.02482)|[infomorphic_networks](https://github.com/priesemann-group/infomorphic_networks)|
 ## 2025-07-11
 |paper|code|
 |---|---|
