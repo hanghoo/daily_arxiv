@@ -1,3 +1,11 @@
+## 2025-07-15
+|paper|code|
+|---|---|
+|[the bouc-wen model for binary direct collinear collisions of convex viscoplastic bodies](https://arxiv.org/abs/2410.08147)|[bwbcl](https://gitlab.com/user9716869/bwbcl)|
+|[orthogonal projection-based regularization for efficient model augmentation](https://arxiv.org/abs/2501.05842)|[orthogonal-augmentation](https://github.com/aimotionlab-sztaki/orthogonal-augmentation)|
+|[gps-aided deep learning for beam prediction and tracking in uav mmwave communication](https://arxiv.org/abs/2505.17530)|[gpsbeam](https://github.com/ardiantovn/gpsbeam)|
+|[enhancements to p4tg: protocols, performance, and automation](https://arxiv.org/abs/2501.17127)|[p4tg](https://github.com/uni-tue-kn/p4tg)|
+|[rust barefoot runtime (rbfrt): fast runtime control for the intel tofino](https://arxiv.org/abs/2501.17271)|[rbfrt](https://github.com/uni-tue-kn/rbfrt)|
 ## 2025-07-14
 |paper|code|
 |---|---|
