@@ -1,3 +1,9 @@
+## 2025-07-17
+|paper|code|
+|---|---|
+|[embracing fairness in consumer electricity markets using an automatic market maker](https://arxiv.org/abs/2407.20814)|[consumption-characteriser](https://github.com/sweeneys/consumption-characteriser)|
+|[spark: a modular benchmark for humanoid robot safety](https://arxiv.org/abs/2502.03132)|[spark](https://github.com/intelligent-control-lab/spark)|
+|[geometric formulation of unified force-impedance control on se(3) for robotic manipulators](https://arxiv.org/abs/2504.17080)|[gufic_mujoco](https://github.com/joohwan-seo/gufic_mujoco)|
 ## 2025-07-16
 |paper|code|
 |---|---|
