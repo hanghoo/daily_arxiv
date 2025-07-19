@@ -1,3 +1,8 @@
+## 2025-07-18
+|paper|code|
+|---|---|
+|[fast variational block-sparse bayesian learning](https://arxiv.org/abs/2306.00442)|[fast-variational-block-sparse-bayesian-learning](https://gitlab.com/jmoederl/fast-variational-block-sparse-bayesian-learning)|
+|[robo-platform: a robotic system for recording sensors and controlling robots](https://arxiv.org/abs/2409.16595)|[robo-platform](https://github.com/m-dayani/robo-platform)|
 ## 2025-07-17
 |paper|code|
 |---|---|
