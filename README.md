@@ -1,28 +1,3 @@
-## 2025-07-23
-|paper|code|
-|---|---|
-|[retrieving filter spectra in cnn for explainable sleep stage classification](https://arxiv.org/abs/2502.06478)|[msa-cnn](https://github.com/sgoerttler/msa-cnn)|
-|[diffusion-based electrocardiography noise quantification via anomaly detection](https://arxiv.org/abs/2506.11815)|[ECGNoiseQuantification](https://github.com/Taeseong-Han/ECGNoiseQuantification)|
-## 2025-07-22
-|paper|code|
-|---|---|
-|[linear-quadratic dynamic games as receding-horizon variational inequalities](https://arxiv.org/abs/2408.15703)|[Receding-Horizon-GNE](https://github.com/bemilio/Receding-Horizon-GNE)|
-|[assessing the optimistic bias in the natural inflow forecasts: a call for model monitoring in brazil](https://arxiv.org/abs/2410.13763)|[inflowforecastbias_data](https://github.com/arthur-brigatto/inflowforecastbias_data)|
-|[semantics-guided diffusion for deep joint source-channel coding in wireless image transmission](https://arxiv.org/abs/2501.01138)|[sgdjscc](https://github.com/maurozmj/sgdjscc)|
-|[smarter together: combining large language models and small models for physiological signals visual inspection](https://arxiv.org/abs/2501.16215)|[Conformalized-Multiple-Instance-Learning-For-MedTS](https://github.com/HuayuLiArizona/Conformalized-Multiple-Instance-Learning-For-MedTS)|
-|[lessons learned from field demonstrations of model predictive control and reinforcement learning for residential and commercial hvac: a review](https://arxiv.org/abs/2503.05022)|[field-demonstrations-of-mpc-and-rl-for-residential-and-commecial-hvac](https://github.com/arashjkh/field-demonstrations-of-mpc-and-rl-for-residential-and-commecial-hvac)|
-|[sampling decisions](https://arxiv.org/abs/2503.14549)|[DecisionFlow](https://github.com/hamidrezabehjoo/DecisionFlow)|
-|[attention with markov: a framework for principled analysis of transformers via markov chains](https://arxiv.org/abs/2402.04161)|[markov](https://github.com/bond1995/markov)|
-|[treet: transfer entropy estimation via transformers](https://arxiv.org/abs/2402.06919)|[treet](https://github.com/omerlux/treet)|
-## 2025-07-21
-|paper|code|
-|---|---|
-|[pegasus simulator: an isaac sim framework for multiple aerial vehicles simulation](https://arxiv.org/abs/2307.05263)|[PegasusSimulator](https://github.com/PegasusSimulator/PegasusSimulator)|
-|[signal temporal logic control synthesis among uncontrollable dynamic agents with conformal prediction](https://arxiv.org/abs/2312.04242)|[stl-synthesis-among-uncontrollable-agents](https://github.com/saids-lab/stl-synthesis-among-uncontrollable-agents)|
-|[stonefish: supporting machine learning research in marine robotics](https://arxiv.org/abs/2502.11887)|[stonefish](https://github.com/patrykcieslak/stonefish)|
-|[chance-constrained linear quadratic gaussian games for multi-robot interaction under uncertainty](https://arxiv.org/abs/2503.06776)|[safe-CCLQGGame](https://github.com/renkai99/safe-CCLQGGame)|
-|[entropy loss: an interpretability amplifier of 3d object detection network for intelligent driving](https://arxiv.org/abs/2409.00839)|[Eloss-Interpretability](https://github.com/yhbcode000/Eloss-Interpretability)|
-|[efficient online random sampling via randomness recycling](https://arxiv.org/abs/2505.18879)|[randomness-recycling](https://github.com/probsys/randomness-recycling)|
 ## 2025-07-18
 |paper|code|
 |---|---|
